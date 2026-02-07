@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+
+const posts = (await getCollection('blog'))
+	.filter((p) => !p.data.draft)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={`Textos — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+
+		<section class="hero">
+			<div class="container hero-inner">
+				<h1 style="font-size: clamp(34px, 4.5vw, 56px);">Textos</h1>
+				<p class="hero-kicker">
+					Memórias, causos e ensaios. Escolhe um e vai no passo.
+				</p>
+			</div>
+		</section>
+
+		<main class="section">
+			<div class="container">
+				<div class="grid">
+					{posts.map((post) => (
+						<a class="card" href={`/textos/${post.id}/`}>
+							<div class="tag-row">
+								{post.data.tags?.slice(0, 1).map((t) => (
+									<span class="tag">{t}</span>
+								))}
+								{post.data.placeLabel && <span class="tag">{post.data.placeLabel}</span>}
+							</div>
+							<h3 class="card-title">{post.data.title}</h3>
+							<p class="card-desc">{post.data.description}</p>
+							<p class="meta" style="margin:0;">
+								<FormattedDate date={post.data.pubDate} />
+							</p>
+						</a>
+					))}
+				</div>
+			</div>
+		</main>
+
+		<Footer />
+	</body>
+</html>

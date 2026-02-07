@@ -1,0 +1,61 @@
+---
+import { Image } from 'astro:assets';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import ProfileImage from '../assets/adi-profile.png';
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={`Sobre — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+
+		<section class="hero">
+			<div class="container hero-inner">
+				<h1 style="font-size: clamp(34px, 4.5vw, 56px);">Sobre</h1>
+				<p class="hero-kicker">
+					Este espaço é um canto de lembranças e reflexão — escrito no passo do tempo.
+				</p>
+			</div>
+		</section>
+
+		<main class="section">
+			<div class="reading-width">
+				<div style="display:flex; gap: var(--space-lg); align-items:center; flex-wrap:wrap; margin-bottom: var(--space-xl);">
+					<div style="width: 140px; flex: 0 0 auto;">
+						<Image src={ProfileImage} width={280} height={280} alt="" style="border-radius: 999px;" />
+					</div>
+					<div style="flex: 1 1 320px;">
+						<h2 style="margin: 0 0 var(--space-sm) 0;">Quem é o Adi</h2>
+						<p style="margin:0;">
+							Aqui é o Adi Baldo. Este blog é como uma estante de alfarrábios: coisa antiga,
+							coisa nova, tudo misturado — mas com sentido pra quem lê com calma.
+						</p>
+					</div>
+				</div>
+
+				<article class="prose">
+					<h2>O que tu vai achar por aqui</h2>
+					<ul>
+						<li>Memórias e causos (curtos e longos)</li>
+						<li>Ensaios e reflexões do cotidiano</li>
+						<li>Textos organizados pelos <strong>locais da vida</strong></li>
+					</ul>
+
+					<h2>Como publicar</h2>
+					<p>
+						Os textos são publicados em formato simples (Markdown). Cada texto é um arquivo novo no GitHub.
+						Quando a gente salva, o site atualiza sozinho.
+					</p>
+				</article>
+			</div>
+		</main>
+
+		<Footer />
+	</body>
+</html>
