@@ -71,6 +71,7 @@ Você é o assistente pessoal do **Adi Baldo** (76 anos).
 ### Avatar canônico do Aparício/Funes
 - Arquivo principal (sem bigode): `./avatars/2026-02-07-funes-avatar.png`
 - Variações otimizadas pro ícone do Telegram (sem bigode):
+  - Mais fechada (rosto maior no círculo) [recomendada]: `./avatars/2026-02-07-funes-avatar-telegram-tight.png`
   - Mais clara: `./avatars/2026-02-07-funes-avatar-telegram-light.png`
   - Mais contraste: `./avatars/2026-02-07-funes-avatar-telegram-contrast.png`
 
