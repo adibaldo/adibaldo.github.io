@@ -22,7 +22,7 @@ const showBrand = pathname !== '/';
 			</div>
 
 			<div class="nav-right">
-				<a class="icon-btn" href="/buscar" aria-label="Buscar">
+				<a class="icon-btn" href="/buscar" aria-label="Buscar" title="Buscar">
 					<svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
 						<path
 							fill="none"
@@ -33,10 +33,10 @@ const showBrand = pathname !== '/';
 							d="M21 21l-4.35-4.35m1.85-5.15a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z"
 						/>
 					</svg>
-					Buscar
+					<span>Buscar</span>
 				</a>
 
-				<button class="icon-btn" type="button" id="toggle-reading" aria-label="Modo leitura">
+				<button class="icon-btn" type="button" id="toggle-reading" aria-label="Modo leitura" title="Modo leitura">
 					<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" id="icon-sun">
 						<path
 							fill="none"
@@ -57,7 +57,7 @@ const showBrand = pathname !== '/';
 							d="M21 12.2A8.5 8.5 0 1 1 11.8 3a6.5 6.5 0 0 0 9.2 9.2Z"
 						/>
 					</svg>
-					Modo leitura
+					<span>Modo leitura</span>
 				</button>
 			</div>
 		</nav>
@@ -75,8 +75,8 @@ const showBrand = pathname !== '/';
 		document.documentElement.dataset.theme = mode;
 		const isDark = mode === 'dark';
 		document.body.classList.toggle('reading', isDark);
-		sun.style.display = isDark ? 'none' : 'inline-block';
-		moon.style.display = isDark ? 'inline-block' : 'none';
+		if (sun) sun.style.display = isDark ? 'none' : 'inline-block';
+		if (moon) moon.style.display = isDark ? 'inline-block' : 'none';
 	}
 
 	// init
