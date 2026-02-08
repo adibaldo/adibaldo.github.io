@@ -9,24 +9,12 @@ const OG_WIDTH = 1200;
 const OG_HEIGHT = 630;
 
 async function getFonts() {
-	// Use local fonts so OG generation works reliably in static builds.
-	// (GitHub Pages build + local build) — no external fetch.
 	const regular = await readFile(new URL('../../../public/fonts/atkinson-regular.woff', import.meta.url));
 	const bold = await readFile(new URL('../../../public/fonts/atkinson-bold.woff', import.meta.url));
 
 	return [
-		{
-			name: 'Atkinson',
-			data: regular,
-			weight: 400,
-			style: 'normal',
-		},
-		{
-			name: 'Atkinson',
-			data: bold,
-			weight: 700,
-			style: 'normal',
-		},
+		{ name: 'Atkinson', data: regular, weight: 400, style: 'normal' },
+		{ name: 'Atkinson', data: bold, weight: 700, style: 'normal' },
 	] as const;
 }
 
@@ -54,11 +42,12 @@ type Props = {
 
 export async function GET({ props }: { props: Props }) {
 	const { title, description, tags, placeLabel } = props;
+	const fonts = await getFonts();
+	const logoData = await readFile(new URL('../../../public/favicon-adi.png', import.meta.url));
+	const logoBase64 = `data:image/png;base64,${logoData.toString('base64')}`;
 
 	const tag = tags?.[0] || '';
 	const meta = [tag, placeLabel].filter(Boolean).join(' • ');
-
-	const fonts = await getFonts();
 
 	const svg = await satori(
 		{
@@ -70,11 +59,9 @@ export async function GET({ props }: { props: Props }) {
 					display: 'flex',
 					flexDirection: 'column',
 					justifyContent: 'space-between',
-					padding: '64px',
-					background:
-						'linear-gradient(180deg, #F5C77E 0%, #FDF0E2 100%)',
+					padding: '80px',
+					background: 'linear-gradient(180deg, #F5C77E 0%, #FDF0E2 100%)',
 					color: '#1A1A1A',
-					position: 'relative',
 				},
 				children: [
 					{
@@ -83,7 +70,7 @@ export async function GET({ props }: { props: Props }) {
 							style: {
 								display: 'flex',
 								flexDirection: 'column',
-								gap: '18px',
+								gap: '20px',
 							},
 							children: [
 								{
@@ -95,6 +82,8 @@ export async function GET({ props }: { props: Props }) {
 											fontSize: '24px',
 											fontWeight: 700,
 											color: '#6B5B4F',
+											letterSpacing: '1px',
+											textTransform: 'uppercase',
 										},
 										children: ['Alfarrábios do Adi'],
 									},
@@ -107,8 +96,8 @@ export async function GET({ props }: { props: Props }) {
 											fontFamily: 'Atkinson',
 											fontSize: '72px',
 											fontWeight: 700,
-											lineHeight: 1.05,
-											letterSpacing: '0.2px',
+											lineHeight: 1.1,
+											maxWidth: '900px',
 										},
 										children: [title],
 									},
@@ -119,32 +108,15 @@ export async function GET({ props }: { props: Props }) {
 										style: {
 											display: 'flex',
 											fontFamily: 'Atkinson',
-											fontSize: '28px',
+											fontSize: '32px',
 											fontWeight: 400,
 											color: '#3A2F28',
-											maxWidth: '920px',
-											lineHeight: 1.35,
+											maxWidth: '850px',
+											lineHeight: 1.4,
 										},
 										children: [description],
 									},
 								},
-								meta
-									? {
-											type: 'div',
-											props: {
-												style: {
-													display: 'flex',
-													gap: '10px',
-													alignItems: 'center',
-													marginTop: '6px',
-													fontFamily: 'Atkinson',
-													fontSize: '20px',
-													color: '#6B5B4F',
-												},
-												children: [meta],
-											},
-										}
-									: null,
 							],
 						},
 					},
@@ -162,41 +134,48 @@ export async function GET({ props }: { props: Props }) {
 									props: {
 										style: {
 											display: 'flex',
-											fontFamily: 'Atkinson',
-											fontSize: '20px',
-											fontWeight: 400,
-											color: '#6B5B4F',
-										},
-										children: ['adibaldo.github.io'],
-									},
-								},
-								{
-									type: 'div',
-									props: {
-										style: {
-											display: 'flex',
-											alignItems: 'center',
-											gap: '10px',
-											fontFamily: 'Atkinson',
-											fontSize: '20px',
-											fontWeight: 400,
-											color: '#6B5B4F',
+											flexDirection: 'column',
+											gap: '8px',
 										},
 										children: [
+											meta ? {
+												type: 'div',
+												props: {
+													style: {
+														display: 'flex',
+														fontFamily: 'Atkinson',
+														fontSize: '20px',
+														fontWeight: 700,
+														color: '#D4874E',
+													},
+													children: [meta],
+												},
+											} : null,
 											{
 												type: 'div',
 												props: {
 													style: {
 														display: 'flex',
-														width: '18px',
-														height: '18px',
-														borderRadius: '999px',
-														background: '#D4874E',
+														fontFamily: 'Atkinson',
+														fontSize: '18px',
+														color: '#6B5B4F',
 													},
+													children: ['adibaldo.github.io'],
 												},
 											},
-											'Alfarrábios do Adi',
 										],
+									},
+								},
+								{
+									type: 'img',
+									props: {
+										src: logoBase64,
+										style: {
+											width: '120px',
+											height: '120px',
+											borderRadius: '999px',
+											border: '2px solid #D4874E',
+										},
 									},
 								},
 							],
@@ -217,13 +196,7 @@ export async function GET({ props }: { props: Props }) {
 		},
 	);
 
-	const resvg = new Resvg(svg, {
-		fitTo: {
-			mode: 'width',
-			value: OG_WIDTH,
-		},
-	});
-
+	const resvg = new Resvg(svg, { fitTo: { mode: 'width', value: OG_WIDTH } });
 	const pngData = resvg.render().asPng();
 
 	return new Response(pngData, {
