@@ -1,20 +1,17 @@
 ---
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
-
-const pathname = Astro.url.pathname;
-const showBrand = pathname !== '/';
 ---
 
 <header class="site-header" id="site-header">
 	<div class="container">
 		<nav class="nav" aria-label="Navegação principal">
 			<div class="nav-left">
-				{showBrand && (
-					<a class="nav-brand" href="/">{SITE_TITLE}</a>
-				)}
+				<a class="nav-brand" href="/" aria-label="Início">
+					<img src="/favicon-adi.png" alt="" width="32" height="32" class="logo-img" />
+					<span class="brand-text">{SITE_TITLE}</span>
+				</a>
 				<div class="nav-links">
-					<HeaderLink href="/">Início</HeaderLink>
 					<HeaderLink href="/textos">Textos</HeaderLink>
 					<HeaderLink href="/locais">Locais</HeaderLink>
 					<HeaderLink href="/sobre">Sobre</HeaderLink>
@@ -64,6 +61,23 @@ const showBrand = pathname !== '/';
 	</div>
 </header>
 
+<style>
+	.logo-img {
+		border-radius: 50%;
+		background: var(--bg-primary);
+		border: 1px solid var(--border-light);
+	}
+	
+	@media (max-width: 620px) {
+		.brand-text {
+			display: none;
+		}
+		.nav-brand {
+			margin-right: var(--space-sm);
+		}
+	}
+</style>
+
 <script>
 	const header = document.getElementById('site-header');
 	const btn = document.getElementById('toggle-reading');
@@ -71,7 +85,6 @@ const showBrand = pathname !== '/';
 	const moon = document.getElementById('icon-moon');
 
 	function applyMode(mode) {
-		// mode: 'light' | 'dark'
 		document.documentElement.dataset.theme = mode;
 		const isDark = mode === 'dark';
 		document.body.classList.toggle('reading', isDark);
@@ -79,7 +92,6 @@ const showBrand = pathname !== '/';
 		if (moon) moon.style.display = isDark ? 'inline-block' : 'none';
 	}
 
-	// init
 	const saved = localStorage.getItem('alfarrabios_mode');
 	applyMode(saved === 'dark' ? 'dark' : 'light');
 
@@ -90,7 +102,6 @@ const showBrand = pathname !== '/';
 		applyMode(next);
 	});
 
-	// sticky shadow on scroll
 	function onScroll() {
 		if (!header) return;
 		if (window.scrollY > 8) header.classList.add('scrolled');
