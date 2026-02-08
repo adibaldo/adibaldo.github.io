@@ -43,6 +43,8 @@ type Props = {
 export async function GET({ props }: { props: Props }) {
 	const { title, description, tags, placeLabel } = props;
 	const fonts = await getFonts();
+	
+	// Ensure we load the definitive gravura logo
 	const logoData = await readFile(new URL('../../../public/favicon-adi.png', import.meta.url));
 	const logoBase64 = `data:image/png;base64,${logoData.toString('base64')}`;
 
@@ -57,20 +59,35 @@ export async function GET({ props }: { props: Props }) {
 					width: `${OG_WIDTH}px`,
 					height: `${OG_HEIGHT}px`,
 					display: 'flex',
-					flexDirection: 'column',
-					justifyContent: 'space-between',
-					padding: '80px',
+					flexDirection: 'row',
+					alignItems: 'center',
+					padding: '64px',
 					background: 'linear-gradient(180deg, #F5C77E 0%, #FDF0E2 100%)',
 					color: '#1A1A1A',
+					gap: '48px',
 				},
 				children: [
+					{
+						type: 'img',
+						props: {
+							src: logoBase64,
+							style: {
+								display: 'flex',
+								width: '320px',
+								height: '320px',
+								borderRadius: '999px',
+								border: '4px solid #D4874E',
+							},
+						},
+					},
 					{
 						type: 'div',
 						props: {
 							style: {
 								display: 'flex',
 								flexDirection: 'column',
-								gap: '20px',
+								flex: 1,
+								gap: '16px',
 							},
 							children: [
 								{
@@ -79,11 +96,11 @@ export async function GET({ props }: { props: Props }) {
 										style: {
 											display: 'flex',
 											fontFamily: 'Atkinson',
-											fontSize: '24px',
+											fontSize: '22px',
 											fontWeight: 700,
 											color: '#6B5B4F',
-											letterSpacing: '1px',
 											textTransform: 'uppercase',
+											letterSpacing: '1px',
 										},
 										children: ['Alfarrábios do Adi'],
 									},
@@ -94,10 +111,10 @@ export async function GET({ props }: { props: Props }) {
 										style: {
 											display: 'flex',
 											fontFamily: 'Atkinson',
-											fontSize: '72px',
+											fontSize: '64px',
 											fontWeight: 700,
 											lineHeight: 1.1,
-											maxWidth: '900px',
+											maxWidth: '680px',
 										},
 										children: [title],
 									},
@@ -108,76 +125,29 @@ export async function GET({ props }: { props: Props }) {
 										style: {
 											display: 'flex',
 											fontFamily: 'Atkinson',
-											fontSize: '32px',
+											fontSize: '28px',
 											fontWeight: 400,
 											color: '#3A2F28',
-											maxWidth: '850px',
+											maxWidth: '650px',
 											lineHeight: 1.4,
 										},
 										children: [description],
 									},
 								},
-							],
-						},
-					},
-					{
-						type: 'div',
-						props: {
-							style: {
-								display: 'flex',
-								justifyContent: 'space-between',
-								alignItems: 'flex-end',
-							},
-							children: [
-								{
+								meta ? {
 									type: 'div',
 									props: {
 										style: {
 											display: 'flex',
-											flexDirection: 'column',
-											gap: '8px',
+											marginTop: '12px',
+											fontFamily: 'Atkinson',
+											fontSize: '20px',
+											fontWeight: 700,
+											color: '#D4874E',
 										},
-										children: [
-											meta ? {
-												type: 'div',
-												props: {
-													style: {
-														display: 'flex',
-														fontFamily: 'Atkinson',
-														fontSize: '20px',
-														fontWeight: 700,
-														color: '#D4874E',
-													},
-													children: [meta],
-												},
-											} : null,
-											{
-												type: 'div',
-												props: {
-													style: {
-														display: 'flex',
-														fontFamily: 'Atkinson',
-														fontSize: '18px',
-														color: '#6B5B4F',
-													},
-													children: ['adibaldo.github.io'],
-												},
-											},
-										],
+										children: [meta],
 									},
-								},
-								{
-									type: 'img',
-									props: {
-										src: logoBase64,
-										style: {
-											width: '120px',
-											height: '120px',
-											borderRadius: '999px',
-											border: '2px solid #D4874E',
-										},
-									},
-								},
+								} : null,
 							],
 						},
 					},
