@@ -47,12 +47,25 @@ if [[ "${1:-}" == "--multi" ]]; then
     shift
     IFS=',' read -r SPEAKER1 SPEAKER2 <<< "$1"
     shift
-    
+
+    # Sanitize voice/speaker names (alphanumeric + dash/underscore only)
+    for name in "$VOICE1" "$VOICE2" "$SPEAKER1" "$SPEAKER2"; do
+        if [[ ! "$name" =~ ^[a-zA-Z0-9_-]+$ ]]; then
+            echo "ERROR: Invalid voice/speaker name '$name'. Only alphanumeric, dash, underscore allowed." >&2
+            exit 1
+        fi
+    done
+
     if [[ -n "${1:-}" ]]; then
         OUTPUT="$1"
     fi
 else
     VOICE_NAME="$1"
+    # Sanitize voice name
+    if [[ ! "$VOICE_NAME" =~ ^[a-zA-Z0-9_-]+$ ]]; then
+        echo "ERROR: Invalid voice name '$VOICE_NAME'. Only alphanumeric, dash, underscore allowed." >&2
+        exit 1
+    fi
     if [[ -n "${2:-}" ]]; then
         OUTPUT="$2"
     fi
