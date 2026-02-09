@@ -7,7 +7,7 @@ Usage:
     --message "Publish: Título"
 
 This script does:
-- git add -A
+- git add (content files only — not secrets or env files)
 - git commit (if there are changes)
 - git push
 
@@ -19,6 +19,16 @@ from __future__ import annotations
 import argparse
 import subprocess
 from pathlib import Path
+
+# Only stage content directories (never secrets, env files, etc.)
+SAFE_PATHS = [
+    "src/",
+    "public/",
+    "astro.config.*",
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json",
+]
 
 
 def run(cmd: list[str], cwd: Path) -> str:
@@ -39,14 +49,17 @@ def main() -> int:
         print("No changes to publish.")
         return 0
 
-    subprocess.run(["git", "add", "-A"], cwd=repo, check=True)
+    # Stage only known-safe content paths instead of -A
+    for pattern in SAFE_PATHS:
+        subprocess.run(["git", "add", pattern], cwd=repo, check=False)
 
-    # Commit may fail if nothing staged; handle gracefully.
-    try:
-        subprocess.run(["git", "commit", "-m", args.message], cwd=repo, check=True)
-    except subprocess.CalledProcessError:
-        print("Nothing to commit.")
+    # Verify something was actually staged
+    staged = run(["git", "diff", "--cached", "--name-only"], cwd=repo)
+    if not staged:
+        print("No content files to publish (only ignored/untracked files changed).")
+        return 0
 
+    subprocess.run(["git", "commit", "-m", args.message], cwd=repo, check=True)
     subprocess.run(["git", "push"], cwd=repo, check=True)
     print("Pushed.")
     return 0
