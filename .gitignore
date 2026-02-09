@@ -1,0 +1,26 @@
+# Secrets and credentials
+*.env
+secrets.*
+.env.*
+credentials.*
+
+# Audio test files (keep only intentional ones via git add -f)
+*.wav
+*.pcm
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Temp files
+*.tmp
+*.swp
+*~

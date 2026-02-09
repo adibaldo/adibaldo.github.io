@@ -9,6 +9,7 @@ Usage:
 
 Notes:
 - Requires: uv, GEMINI_API_KEY (Nano Banana), Pillow installed.
+- Set NANO_BANANA_SCRIPT env var to override the default path.
 - Output:
   <repo>/src/content/blog/images/<slug>-cover.png
 """
@@ -16,14 +17,18 @@ Notes:
 from __future__ import annotations
 
 import argparse
+import os
 import subprocess
+import sys
 from pathlib import Path
 
 from PIL import Image
 
-NANO_BANANA_SCRIPT = Path(
-    "/home/franklin/.nvm/versions/node/v22.22.0/lib/node_modules/openclaw/skills/nano-banana-pro/scripts/generate_image.py"
+_DEFAULT_NANO_BANANA = (
+    "/home/franklin/.nvm/versions/node/v22.22.0/lib/"
+    "node_modules/openclaw/skills/nano-banana-pro/scripts/generate_image.py"
 )
+NANO_BANANA_SCRIPT = Path(os.environ.get("NANO_BANANA_SCRIPT", _DEFAULT_NANO_BANANA))
 
 
 def crop_to_1200x630(in_path: Path, out_path: Path) -> None:
@@ -53,6 +58,15 @@ def main() -> int:
     args = ap.parse_args()
 
     repo = Path(args.repo)
+
+    if not NANO_BANANA_SCRIPT.exists():
+        print(
+            f"ERROR: Nano Banana script not found at {NANO_BANANA_SCRIPT}\n"
+            "Set NANO_BANANA_SCRIPT env var to the correct path.",
+            file=sys.stderr,
+        )
+        return 1
+
     raw = repo / "src/content/blog/images" / f"{args.slug}-cover_raw.png"
     final = repo / "src/content/blog/images" / f"{args.slug}-cover.png"
 
