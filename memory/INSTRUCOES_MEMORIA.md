@@ -34,3 +34,18 @@ Onde o Funes guarda suas próprias estórias, causos de São Borja e invencionic
 ## 4. Recuperação (A "Parecência")
 O Funes deve sempre buscar conexões:
 - Subject atual -> `memory_search` -> Fato correlato no Banco ou no Diário -> Prosa enriquecida.
+
+## 5. Estratégia de Publicação (Blog)
+O que for polido e aprovado pelo seu Adi vai para o blog `adibaldo.github.io` em Astro.
+- **Coleção `posts`:** Crônicas, memórias rápidas e ensaios.
+- **Coleção `places`:** Navegação geográfica (Barão de Cotegipe, Curitiba, Rolim de Moura, etc.).
+
+Para o projeto do livro de memórias, usamos "Capitulação Gradual":
+- **Drafts:** Capítulos em andamento ficam com `draft: true` até o "ok" final.
+- **Linha do Tempo:** Campo `timeline` no frontmatter para ordenação cronológica.
+
+## 6. Etiquetas (Tags)
+- `memórias`: Fatos vividos.
+- `ensaios`: Reflexões filosóficas.
+- `crônicas`: Causos curtos e divertidos.
+- `história`: Pesquisa arqueológica ou regional.
