@@ -5,6 +5,7 @@ pubDate: 2026-02-10
 tags: ["memórias", "história"]
 place: "parana"
 placeLabel: "Paraná"
+heroImage: ./images/chao-de-agulhas-e-balcao-dos-causos-cover.png
 ---
 
 Em 1957, o tempo no Paraná parecia ser medido pela altura dos pinheiros. Para um menino, aquelas araucárias não eram apenas árvores; eram as colunas que seguravam o céu cinzento das manhãs de geada. Eu caminhava para a escola sentindo o estalar das agulhas secas sob o sapato, um som que se misturava ao bater dos meus dentes no frio de arrepiar.
