@@ -1,0 +1,23 @@
+/* giscus-custom.css - Aparício's tailoring for Giscus */
+
+main {
+  --color-canvas-default: transparent;
+  --color-canvas-subtle: rgba(0, 0, 0, 0.03);
+  --color-border-default: #e1e4e8;
+  --color-border-muted: #eeeeee;
+  --color-fg-default: #222222;
+  --color-fg-muted: #666666;
+  --color-accent-fg: #8b4513; /* Brown accent to match the "varanda" vibe */
+  --color-btn-primary-bg: #8b4513;
+  --color-btn-primary-border: #8b4513;
+  --color-btn-primary-text: #ffffff;
+}
+
+.giscus-frame {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* Remove borders from the main container to blend in better */
+.giscus-main {
+  border: none !important;
+}
