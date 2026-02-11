@@ -121,7 +121,11 @@ const tgUrl = `https://t.me/share/url?url=${encodeURIComponent(shareUrl)}&text=$
 
 		<script>
 			function updateGiscusTheme() {
-				const theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+				const isDark = document.documentElement.dataset.theme === 'dark';
+				const theme = isDark 
+					? 'https://adibaldo.github.io/giscus-custom.css' 
+					: 'https://adibaldo.github.io/giscus-custom.css';
+				
 				const iframe = document.querySelector<HTMLIFrameElement>('iframe.giscus-frame');
 				if (!iframe) return;
 				iframe.contentWindow?.postMessage(
