@@ -5,6 +5,7 @@ pubDate: 2026-02-12
 tags: ["ensaios", "política"]
 place: "mundo"
 placeLabel: "Brasil"
+heroImage: ./images/cade-o-toucinho-cover.png
 ---
 
 Falarei de uma antiga brincadeira de roda:

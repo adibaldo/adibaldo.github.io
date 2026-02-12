@@ -5,6 +5,7 @@ pubDate: 2026-02-12
 tags: ["memórias", "causos"]
 place: "parana"
 placeLabel: "Paraná"
+heroImage: ./images/o-cavalo-javali-e-o-misterio-das-aboboras-cover.png
 ---
 
 ### O Trigo, o Trinta e Oito e o Javali
