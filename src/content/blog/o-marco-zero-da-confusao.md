@@ -5,6 +5,7 @@ pubDate: 2026-02-11
 tags: ["ensaios", "história"]
 place: "mundo"
 placeLabel: "Marco Zero"
+heroImage: ./images/o-marco-zero-da-confusao-cover.png
 ---
 
 Aprendemos que a história nasce com a escrita, decifrada por Champollion em 1830. Os arqueólogos afirmam que os hieróglifos têm cinco mil anos — coisa que eu, particularmente, duvido. Nossa história ocidental é contada pelos livros bíblicos, repletos de narrativas e lendas. Veja o caso do Dilúvio: a ciência comprova a grande inundação, mas Noé e Gilgamesh? É inimaginável alguém construir um Titanic de madeira capaz de abrigar todas as espécies. Se a engenharia náutica brasileira não conseguiu reproduzir uma simples caravela para os festejos dos 500 anos do Descobrimento, como Noé teria realizado tamanha proeza?
