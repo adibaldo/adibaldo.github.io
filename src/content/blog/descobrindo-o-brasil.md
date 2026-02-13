@@ -5,6 +5,7 @@ pubDate: 2026-02-13
 tags: ["ensaios", "história", "rondônia"]
 place: "mundo"
 placeLabel: "Brasil"
+heroImage: ./images/descobrindo-o-brasil-cover.png
 ---
 
 Em 9 de março de 1500, Pedro Álvares Cabral partiu de Lisboa rumo às Índias e, "sem querer querendo", esbarrou no Brasil. Quase cinco séculos depois, em 9 de março de 1981, eu parti de Curitiba rumo a Rondônia. Cabral levou 40 dias de caravela; eu levei 12 dias de ônibus (ou ao menos essa era a intenção antes dos atoleiros). Ele se desviou das calmarias da costa africana; eu tive que me desviar dos atoleiros infernais da BR-364. A epopeia da conquista do Norte é um capítulo à parte na nossa história.
