@@ -6,6 +6,7 @@ Este é o caderno principal da família Funes. Ele serve como índice para as me
 As memórias consolidadas e organizadas por assunto estão na pasta `memory/bank/`.
 
 - [Rolim de Moura](bank/rolim-de-moura.md): Início da advocacia, gestão Raupp, iluminação pública.
+- [Diretrizes Editoriais](diretrizes-editoriais.md): Regras para publicação no blog e atuação como ghostwriter.
 - Raízes e Família *(a criar: `bank/raizes-e-familia.md`)*: Retirante de quarta geração, Itália, Rio Grande do Sul, Paraná.
 - Pensamento e Filosofia *(a criar: `bank/pensamento-e-filosofia.md`)*: Direito Natural, críticas à constituição, Maçonaria.
 - Lugares da Vida *(a criar: `bank/lugares-da-vida.md`)*: Barão de Cotegipe, Curitiba, Francisco Beltrão, Itapejara, Jaborá.
