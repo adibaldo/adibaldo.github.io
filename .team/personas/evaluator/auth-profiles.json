@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "profiles": {
+    "google:default": {
+      "type": "api_key",
+      "provider": "google",
+      "key": "REDACTED_GEMINI_KEY"
+    },
+    "anthropic:default": {
+      "type": "token",
+      "provider": "anthropic",
+      "token": "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"
+    },
+    "openai-codex:default": {
+      "type": "oauth",
+      "provider": "openai-codex",
+      "access": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE5MzQ0ZTY1LWJiYzktNDRkMS1hOWQwLWY5NTdiMDc5YmQwZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSJdLCJjbGllbnRfaWQiOiJhcHBfRU1vYW1FRVo3M2YwQ2tYYVhwN2hyYW5uIiwiZXhwIjoxNzcxNDMxNDEzLCJodHRwczovL2FwaS5vcGVuYWkuY29tL2F1dGgiOnsiY2hhdGdwdF9hY2NvdW50X2lkIjoiM2IzN2QwOWEtNDFhNi00MWIyLWI0ZjAtNzc0MmI3NTY0ZDQ3IiwiY2hhdGdwdF9hY2NvdW50X3VzZXJfaWQiOiJ1c2VyLUl4Qjd1eVdQVjN6SlAwQ1pZZFlpbU83OF9fM2IzN2QwOWEtNDFhNi00MWIyLWI0ZjAtNzc0MmI3NTY0ZDQ3IiwiY2hhdGdwdF9jb21wdXRlX3Jlc2lkZW5jeSI6Im5vX2NvbnN0cmFpbnQiLCJjaGF0Z3B0X3BsYW5fdHlwZSI6InBsdXMiLCJjaGF0Z3B0X3VzZXJfaWQiOiJ1c2VyLUl4Qjd1eVdQVjN6SlAwQ1pZZFlpbU83OCIsInVzZXJfaWQiOiJ1c2VyLUl4Qjd1eVdQVjN6SlAwQ1pZZFlpbU83OCJ9LCJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJmcmFua2xpbmJhbGRvQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlfSwiaWF0IjoxNzcwNTY3NDEyLCJpc3MiOiJodHRwczovL2F1dGgub3BlbmFpLmNvbSIsImp0aSI6IjgzNmQ2N2NhLWFiOTUtNGYxZC04MDRmLTZjY2FlNjA1ZDM1YSIsIm5iZiI6MTc3MDU2NzQxMiwicHdkX2F1dGhfdGltZSI6MTc3MDU2NzM3NDIzMSwic2NwIjpbIm9wZW5pZCIsInByb2ZpbGUiLCJlbWFpbCIsIm9mZmxpbmVfYWNjZXNzIl0sInNlc3Npb25faWQiOiJhdXRoc2Vzc19NVVBxZ2cwNFVpcXJXSzh2YXZ5QWljZzAiLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExNzY5NDY5OTc1OTMyMDY5MzAyOSJ9.K1Wp2XzevjyEiss_Zk-OFylDLvLSxYYwU600Za-ECgtUcqMNIfXqPGa-7R_ZobIuOmvIRT3LWLtJtr-sqLDsK7mRNcWA902BbxXO2Xl-kqqqinEJqZ7tXCSJfYPoPtiUjYaxvx-eWvRvOqdX1clXADrkqB1IBKL4YUYHUtGAiocbtcWdEGhB2KI3jZ1FpdHHki55pvZQpaQy3HCJwjnuy7cK7UpcZYWbhDBNOWIiRN9hWaXyI7SpUwRxbYw5HZpI4LmVYult-3xNE0uKBMByYUobJYwxcLRkoy4k6EzOoOJbJ9xpSj70cuag4_G5C--i5SVafXmNiBguAbg1HSfUgF0EkvYiA_rklnl0TJRkQus65J-V2apD_b0FGCvZy5mvmwP2tEB1gY3LwMo418euZFl27GThaSltgwDES_Xzfi2Pp0F4pXGPdxnO8YGw62HSIYoHBEH0BrHXaLvOi_CMfu3fTqgxOQDDZVSrli__qMoJW9bzDU1V60rGlP6UCPaLkIWU-yPmRCJfC0SeVNflSc09mNFq8otS6GnB_xnm0qpBLuRgMfue3H0lTlJUKh9fRJO4ut0tnCcBi3sckXI9a-5zo02RUsizE8jp8-NeoGRzkaucyeD_Ele7otVKHQoVzk4PFdJsWnwnuivDGBJKI5ADO0U7Q_eMydLSdlMVzJI",
+      "refresh": "rt_AEWavx_WctO7M_Nh-O-6F8FPebdp_1lszbRK9ebEM9Q.TUuX0Hnyswav91OPZjmRc_8g1XDDvXtmUgRUKXTDFjU",
+      "expires": 1771431412874,
+      "accountId": "3b37d09a-41a6-41b2-b4f0-7742b7564d47"
+    },
+    "google-gemini-cli:franklinbaldo@gmail.com": {
+      "type": "oauth",
+      "provider": "google-gemini-cli",
+      "access": "ya29.a0AUMWg_L2lNHqCLkJcwPzjTWICX_fmJ9rGXQ3i3LRqRR275LjmoM08FuDv6V0SB5Zp4NAfikEGz4AzELBnX8_iHDfxSjqaOVZuvM0hWtLTl2NuP60ag743MC9pONr4tUBWwu-bekr2ZnMVnWfZM-JNx5pTS_a7NRLb2SNemTO5XESkirO5lhVlpeWKlJ-gD7TnNJFbHTqoB4JvgaCgYKAewSARMSFQHGX2MiU6ECBVTvUavAIM9uJCib9w0213",
+      "refresh": "1//0hsPtGJ2UjW15CgYIARAAGBESNwF-L9Ir87NYWrP3At5eLvPUDuawTN-fYlIrki57xHdI3u2e7weeAaRZoKuErHlePW8CTRfeOHw",
+      "expires": 1771007925857,
+      "email": "franklinbaldo@gmail.com",
+      "projectId": "ardent-vent-5f3h4"
+    },
+    "google-antigravity:franklinbaldo@gmail.com": {
+      "type": "oauth",
+      "provider": "google-antigravity",
+      "access": "ya29.a0AUMWg_L2-tb0BOCHR0v2TdHjK6PpxKXsiHU8R7vUISYXQxmJOMm4ByUpkEB9pD_D_96kM9ZM5LQ81g49b4DXSlbKVDBR_of8SwLC_GQ4HBV1qi_ugXbTIszS8U5fISfvs1uxauDB1KfEh0ZzqS4Lm_1zDIIlCYEL7NOQLgGQ-NiJMyrSY0r1mtcPg1GYGEIRFUZcYDnfmJXzyQaCgYKASYSARMSFQHGX2MiVg2AmJaOW_TkxZ3DWzHHEg0213",
+      "refresh": "1//0hGASoZ6SHjnyCgYIARAAGBESNwF-L9IriDN6KjyL-ufGbpvhgGo5g8iR9Dt8MKJs-6ax1uM0GWF-UC34QlcUn6wOLKiOxGc9UwM",
+      "expires": 1771009725816,
+      "email": "franklinbaldo@gmail.com",
+      "projectId": "ardent-vent-5f3h4"
+    },
+    "minimax:default": {
+      "type": "api_key",
+      "provider": "minimax",
+      "key": "sk-api-gVF2Y-XvB0kt3pHWFT7orZeasV9za8YBzufzGVdI2t__08zH1OG8PZbnl408ir_xzz_xMp67gCPd8Vi7G4UtH6KrbfI4GJ_QFG_3s4HgvdmtVvhxWxrSpf4"
+    },
+    "qwen-portal:default": {
+      "type": "oauth",
+      "provider": "qwen-portal",
+      "access": "z3HDH9Mf449m66O1LUWnRrKPzgiRpytn1y57q3CUsLUz5U_456R3Qr2KR0V0M5LgT6wRwwQrXyzujN7GI-05Iw",
+      "refresh": "lUV8fBV3zq-R3dF8XPD2n7HrpTUs0dWkRrga679pGzHMBGcrEEjTjcS29H9uPOF-rdYGZ8pe4tw3waR_B1LPOw",
+      "expires": 1770564112328
+    },
+    "anthropic:manual": {
+      "type": "token",
+      "provider": "anthropic",
+      "token": "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"
+    }
+  },
+  "lastGood": {
+    "anthropic": "anthropic:manual",
+    "openai-codex": "openai-codex:default",
+    "google-gemini-cli": "google-gemini-cli:franklinbaldo@gmail.com",
+    "google-antigravity": "google-antigravity:franklinbaldo@gmail.com",
+    "qwen-portal": "qwen-portal:default",
+    "google": "google:default"
+  },
+  "usageStats": {
+    "anthropic:default": {
+      "lastUsed": 1770897998046,
+      "errorCount": 0,
+      "lastFailureAt": 1770897483726
+    },
+    "openai-codex:default": {
+      "lastUsed": 1771005937344,
+      "errorCount": 0,
+      "lastFailureAt": 1770930076533
+    },
+    "google-gemini-cli:franklinbaldo@gmail.com": {
+      "lastUsed": 1770988565452,
+      "errorCount": 5,
+      "lastFailureAt": 1771004848669,
+      "failureCounts": {
+        "rate_limit": 5
+      },
+      "cooldownUntil": 1771008448669
+    },
+    "google-antigravity:franklinbaldo@gmail.com": {
+      "lastUsed": 1771006893714,
+      "errorCount": 0,
+      "lastFailureAt": 1771002472586
+    },
+    "qwen-portal:default": {
+      "lastUsed": 1770558399746,
+      "errorCount": 0
+    },
+    "google:default": {
+      "lastUsed": 1770672836417,
+      "errorCount": 0,
+      "lastFailureAt": 1770671767060
+    },
+    "anthropic:manual": {
+      "lastUsed": 1770930130099,
+      "errorCount": 0,
+      "lastFailureAt": 1770897490195
+    }
+  }
+}

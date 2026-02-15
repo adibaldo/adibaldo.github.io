@@ -40,9 +40,15 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo", required=True)
     ap.add_argument("--message", required=True)
+    ap.add_argument("--author-name", default="Adi Baldo")
+    ap.add_argument("--author-email", default="260098358+adibaldo@users.noreply.github.com")
     args = ap.parse_args()
 
     repo = Path(args.repo)
+
+    # Enforce per-repo author identity for Alfarrábios posts
+    subprocess.run(["git", "config", "--local", "user.name", args.author_name], cwd=repo, check=True)
+    subprocess.run(["git", "config", "--local", "user.email", args.author_email], cwd=repo, check=True)
 
     status = run(["git", "status", "--porcelain"], cwd=repo)
     if not status:
