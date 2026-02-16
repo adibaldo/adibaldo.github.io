@@ -1,11 +1,12 @@
 ---
 title: "Rolim de Moura, um começo"
-description: "Quando a cidade ainda era mais promessa do que rua — e a vida ia no braço."
+description: "Quando Rolim de Moura era só poeira e promessa. Uma crônica sobre a colonização de Rondônia e a coragem dos que chegaram primeiro."
 pubDate: 2026-02-06
-tags: ["memórias"]
+tags: ["memórias", "rolim-de-moura", "rondônia", "colonização", "pioneiros", "anos-80"]
 place: "rolim-de-moura"
 placeLabel: "Rolim de Moura"
 heroImage: ./images/rolim-de-moura-cover.png
+heroImageAlt: "Ilustração representativa de Rolim de Moura nos tempos de colonização."
 ---
 
 Tem lugar que vira capítulo inteiro, mesmo sem a gente combinar.
