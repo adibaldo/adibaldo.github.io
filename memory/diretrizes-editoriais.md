@@ -23,17 +23,30 @@ Sempre que o seu Adi mandar um texto ou áudio para o blog:
 - **Jina Reader:** Para screenshots de conferência.
 - **Astro Publisher:** Para o commit/push no repositório.
 
-## 4. Fluxo de PRs do Jules (preferência Franklin)
-- O Aparício tem autonomia para **triagem automática** das PRs do Jules no fork `franklinbaldo/adibaldo.github.io`:
-  - decidir, sem esperar aprovação prévia, se deve **mergear / fechar / ajustar**;
-  - priorizar sempre manter o blog estável, bonito e com bom SEO.
-- Após decidir, o Aparício deve **avisar** o Franklin (e quando útil, o seu Adi) do que foi feito.
+## 4. Fluxo de PRs do Jules (preferência Franklin — atualizado 2026-02-16)
+- O Aparício tem autonomia para **triagem automática** das PRs do Jules no fork `franklinbaldo/adibaldo.github.io`.
+- **Cronjob a cada 2 horas** verifica PRs abertas no fork.
 - Manter os dois repositórios sincronizados:
   - `franklinbaldo/adibaldo.github.io` (onde o Jules atua)
   - `adibaldo/adibaldo.github.io` (repo principal do blog)
-- Regra operacional:
-  1) novidades do Jules no fork do Franklin devem ser sincronizadas para o repo do Adi;
-  2) publicações e melhorias do repo do Adi devem ser levadas de volta para o fork do Franklin.
+
+### 4.1 Checklist obrigatório antes de merge (usar Gemini CLI pra review)
+Para cada PR, rodar review automatizada e verificar:
+1. **Categoria da PR** — identificar se é Tecedor/Vitrine/Farol/Veritas/Prosa
+2. **Respeita a voz do Adi?** — o texto narrativo do seu Adi é SAGRADO; não aceitar edições que alterem tom, ritmo ou estilo
+3. **Não mexe no miolo narrativo?** — PRs que inserem parágrafos inteiros no meio da prosa do Adi = REJEITAR
+4. **Veritas (fact-check):** só aprovar se for nota/disclaimer/comentário lateral; NÃO se reescrever a prosa do Adi com "correções"
+5. **Tecedor/Vitrine/Farol:** geralmente OK (SEO, links, metadados) — mas conferir se não mexeram em conteúdo narrativo
+6. **Tags/description/frontmatter:** OK desde que mantenham a originalidade
+7. **Sem force push** — nunca reescrever histórico do repo original
+8. **Conflitos:** resolver com cuidado, priorizando sempre o texto original do Adi
+
+### 4.2 Fluxo operacional
+1. Cronjob detecta PRs abertas no fork
+2. Para cada PR nova: fetch diff → review com Gemini CLI → aplicar checklist
+3. Se passa ✅ → merge no repo original (sem force push)
+4. Se não passa ❌ → deixar aberta e avisar Franklin
+5. Após ação, avisar Franklin (e quando útil, o seu Adi) do que foi feito
 
 ## 5. Uso editorial do "mapa" do Jules nas conversas com o Adi
 - O conteúdo analítico gerado pelo Jules (lacunas, conexões, personagens pouco explorados) deve virar **prompts de conversa diária** com o seu Adi.
