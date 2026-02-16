@@ -5,3 +5,7 @@
 ## 2026-02-14 - Sol Invictus vs Persian Origin
 **Learning:** The Roman festival of Sol Invictus (Dec 25) is frequently conflated with the Persian god Mithras. While Mithras has Persian origins, the 'Sol Invictus' state cult established by Aurelian was Roman.
 **Action:** Verify attributions of 'Sol Invictus' carefully; if attributed to Persians, correct to Roman or clarify the distinction.
+
+## 2026-02-14 - Historical Misconceptions: Favelas and Scapegoats
+**Learning:** Common historical narratives often simplify origins. The term "favela" is specifically tied to the Canudos War (1897) and the plant "faveleira", not merely urban displacement like the arrival of the Royal Court (1808). Similarly, the term "scapegoat" (bode expiatório) originates from the Leviticus ritual (Day of Atonement), distinct from the Binding of Isaac (where a ram was sacrificed).
+**Action:** Always verify the etymology and specific historical context of terms, even when they seem intuitively connected to famous events.
