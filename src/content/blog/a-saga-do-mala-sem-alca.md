@@ -11,6 +11,8 @@ No primário, além de lendas dos bandeirantes, como de Borba Gato, disseram-me 
 
 Até então não existia a província do Paraguai, tão pouco o Paraná. Tudo era terra de ninguém ou dos índios nativos e que pouco a pouco foram dizimados pelos conquistadores. Segundo Darcy Ribeiro, mais de um milhão deles existiam pelo Brasil, espalhados e agrupados e com suas culturas diversas. Em que pese o tratado de Tordesilhas ter partilhado o Novo Mundo entre portugueses e espanhóis, sem plebiscito ou audiência pública, tudo assim na mão grande, na cara dura e com as bençãos da Santa Madre Igreja Católica Apostólica Romana, o continente americano já tinha um povo de elevada organização sócio-política, tanto é e ingenuamente, interagiram com os conquistadores. Daí, já viu. Saíram pelados com as mãos no bolso.
 
+![Cabeça de Vaca esfarrapado mas com pose na Babitonga](./images/cabeza-de-vaca-1.png)
+
 ### O Náufrago de Babitonga
 
 O causo do momento é sobre um sujeito batizado por Alvar Nunes Cabeza de Vaca, ou simplesmente, Cabeça de Vaca. Os registros dão conta de um aventureiro conquistador que nunca conquistou nada. Explico: Sua saga de conquistador teve início na América Central, porem por lá se deu muito mal. Mesmo assim o infeliz não se deu por derrotado, pudera, era “pau mandado” da decadente nobreza e crescente burguesia espanhola abençoadas pela cúria romana e assim fez nova expedição, dessa vez para a América do Sul. Sua missão era conquistar os incas, também já dominados massacrados e espoliados pelo sanguinário Francisco Pizarro. A ideia era passar a mão na “bufunfa” usando outra estratégia.

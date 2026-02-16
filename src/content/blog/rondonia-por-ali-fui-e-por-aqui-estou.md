@@ -11,6 +11,8 @@ Ao contrário de “Cabeza de Vaca”, fui do Sul pro Norte. Com 31 anos era hor
 
 O destino era Cacoal, cidade que surgiu na margem da BR 364, na década de 70. Até então Rondônia era uma densa floresta cortada por uma estrada aberta por Juscelino Kubitschek, mais precisamente de Cuiabá a Porto Velho. O traçado já fora feito pelo Marechal Cândido Rondon em 1910, quando construiu a linha telegráfica Cuiabá-Porto Velho. 
 
+![O avião da TABA sobre a floresta](./images/voo-taba-1981.png)
+
 ### A Grande Travessia
 
 Em março de 1981 parti de Curitiba com uma mala e uns pacotes. De um só lance a Viação Andorinha, partindo de Maringá, atravessou o cerrado matogrossense. Uma viagem um tanto monótona. Por vezes a paisagem era quebrada pela presença de seriemas, casebres, barracas de lona e tratores que já começavam a rasgar o cerrado. Foram 24 horas de viagem até Cuiabá. Era praticamente o início da viagem; seriam mais mil quilômetros por uma estrada inimaginavelmente precária. 
