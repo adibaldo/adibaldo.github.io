@@ -6,8 +6,8 @@ tags: ["ensaios", "política", "história", "brasil", "memórias"]
 place: "mundo"
 placeLabel: "Brasil"
 heroImage: ./images/cade-o-toucinho-cover.png
+heroImageAlt: "Ilustração satírica representando a brincadeira 'Cadê o toucinho?' com elementos da política brasileira."
 ---
-
 Falarei de uma antiga brincadeira de roda:
 
 *“Cadê o toucinho daqui? — O gato comeu;*
