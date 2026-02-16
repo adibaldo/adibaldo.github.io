@@ -2,7 +2,7 @@
 title: "A Saga do Mala sem Alça – Parte 2: O Salto e o Te-rê-rê"
 description: "A aventura continua com Cabeça de Vaca pendurado num galho de sarandi nas Cataratas do Iguaçu e a invenção da bebida que salvou o sangue do espanhol."
 pubDate: "2026-02-16"
-heroImage: "/images/blog/cabeza-de-vaca-2.png"
+heroImage: "./images/cabeza-de-vaca-2.png"
 heroImageAlt: "Ilustração de Núñez Cabeza de Vaca pendurado em um galho de árvore nas Cataratas do Iguaçu, enquanto o cacique Paraguá tenta resgatá-lo."
 tags: ["história", "paraná", "cataratas", "tererê"]
 ---

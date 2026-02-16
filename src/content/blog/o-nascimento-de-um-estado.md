@@ -2,7 +2,7 @@
 title: "O Nascimento de um Estado: Quarenta Anos de Rondônia"
 description: "Reflexões sobre a chegada em Rolim de Moura, a transformação do Território em Estado e o rastro de resiliência de quem desbravou o Novo Eldorado."
 pubDate: "2026-02-16"
-heroImage: "/images/blog/descobrindo-o-brasil.png"
+heroImage: "./images/descobrindo-o-brasil-cover.png"
 heroImageAlt: "Imagem simbólica do desbravamento de Rondônia."
 tags: ["memórias", "rondônia", "rolim-de-moura", "história", "política"]
 ---
