@@ -48,16 +48,28 @@ A questão agora era não querer ser chefe da corrutela. Teria que conviver com 
 
 Capixabas, paranaenses, nordestinos e gaúchos, todos plantando o que conheciam. Carne de paca, de mateiro e tatu. Peixe frito ou ensopado com macaxeira. Malária e Leishmaniose. Escolas pau-a-pique, transportes pau-de-arara. Enfim, foi um ano de conhecimento e resiliência. Era necessário acreditar. 
 
-### O Nascimento de um Estado
+### Integrar para não Entregar: E Assim Fizemos
 
-Quatro de janeiro de 1982, o Território é transformado no mais novo Estado brasileiro. Em fevereiro me instalei em uma vila: Rolim de Moura. E por ali fiquei. Nome em homenagem a D. Antônio Tavares de Rolim de Moura, conde de Azambuja, que em 1752 fundou a cidade de Vila Bela da Santíssima Trindade. 
+Rondônia é o resultado da luta de um povo, chamado que foi pelo Brasil para ocupar e transformar a selva em ambiente de produção e cultura. Sua história é vasta: vai do Forte Príncipe da Beira (1770), passa pela Ferrovia Madeira-Mamoré (1900), pela Linha Telegráfica do Marechal Rondon (1910) e pelos Soldados da Borracha. Getúlio Vargas criou o Território Federal do Guaporé em 1943, e Juscelino abriu a estrada Cuiabá-Porto Velho em 1959. 
 
-![Pioneirismo em Rolim de Moura](./images/rolim-de-moura-cover.png)
+Tudo foi feito com suor e lágrimas. De mata inóspita, transformou-se em terra produtiva. O migrante não foi chamado para fazer agricultura sintrópica; foi necessário o uso do fogo para a retirada da mata. Entre erros e acertos, foi construído um ambiente de paz e prosperidade. Um esforço hercúleo, por vezes minimizado por visões externas, mas que resultou na conquista de um espaço para plantar, colher e bem viver.
 
-Quarenta anos se passaram. A população cresceu, as cidades se transformaram. Outras surgiram. A produção agropecuária evoluiu. Há que se lamentar os bolsões de pobreza, a falta de perspectiva de milhares desta nova geração e a desigualdade social gritante. Assim caminha a humanidade. Nos orgulhamos de Rondônia por ser um estado jovem e por ter o melhor índice de transparência de todo o Brasil. 
+Em trinta anos, uma população de cerca de trezentos mil subiu para mais de dois milhões. Aqui o Brasil se alargou e se irmanou. Floresceu um Estado com a segunda melhor distribuição de renda e o melhor índice de transparência do Brasil. Destaca-se a pecuária, a piscicultura com espécies nativas e a cafeicultura orgânica premiada. 
 
-Passados mais de quarenta anos, aos trancos e barrancos, lutando com as armas que se tinha: as armas de um advogado. Um lugar para ficar e muita resiliência. Por vezes vendo as oportunidades chegar e passar. Não por medo, mas por prudência. 
+![A epopeia de Rondônia](./images/rolim-de-moura-cover.png)
 
-Os atoleiros me ensinaram a dar a volta, para poder seguir o caminho. Restam os versos do poeta: “Tudo vale a pena quando a alma não é pequena” (Fernando Pessoa). 
+Como diz o nosso hino: *“Nós, os bandeirantes de Rondônia, nos orgulhamos de tanta beleza. Somos brasileiros desta fronteira de nossa Pátria. Rondônia trabalha febrilmente... A orquestração empolga toda gente”*. 
+
+E assim fizemos.
+
+---
+
+### Ecos da Fronteira (Comentários de Amigos e Pioneiros)
+
+> **Jose Lopes de Oliveira:** "Parabéns, meu querido colega destemido pioneiro, pela lucidez e reconhecimento da importância do suor e também lágrimas derramadas por todos que regaram e fertilizaram essa abençoada porção do território nacional."
+>
+> **Silvana Gomes de Andrade:** "E assim fizemos. Muito bem lembrada a história desse povo, Dr. ADI."
+>
+> **Francisco Pinto Sales:** "O amigo faz uma bela análise de nossa ocupação, desenvolvimento e redenção. Rondônia foi, é e será sempre nossa casa. A custa de muitas saudades, tristezas e sofrimentos conseguimos, nós pioneiros de todas as partes e cantos do Brasil, construir uma Rondônia para todos."
 
 O que mudou?
