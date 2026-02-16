@@ -1,13 +1,13 @@
 ---
 title: "Por ali fui e por aqui estou: A Chegada na Amazônia"
-description: "O relato emocionante da travessia de Curitiba até Rondônia em 1981: o voo da TABA, os atoleiros e o início da vida em Cacoal e Rolim de Moura."
+description: "O relato emocionante da travessia de Curitiba até Rondônia em 1982: o voo da TABA, os atoleiros e o início da vida em Cacoal e Rolim de Moura."
 pubDate: "2026-02-16"
 heroImage: "./images/voo-taba-1981.png"
 heroImageAlt: "Aeronave bimotor Curtiss C-46 da TABA sobrevoando a imensidão verde da floresta amazônica."
 tags: ["memórias", "rondônia", "cacoal", "pioneirismo", "rolim-de-moura", "história"]
 ---
 
-Era o ano de 1981. Concluída a faculdade, era imperioso procurar um lugar para iniciar a vida. O Paraná já se mostrava saturado de bacharéis. Não havia como pensar em concursos. De origem humilde, devia prover o próprio sustento e era quase impossível se preparar para um concurso. No mais, a idade exigia que se buscasse a autonomia. Deveria existir um lugar para exercer a profissão livre de tanta concorrência. 
+Era o ano de 1982. Concluída a faculdade, era imperioso procurar um lugar para iniciar a vida. O Paraná já se mostrava saturado de bacharéis. Não havia como pensar em concursos. De origem humilde, devia prover o próprio sustento e era quase impossível se preparar para um concurso. No mais, a idade exigia que se buscasse a autonomia. Deveria existir um lugar para exercer a profissão livre de tanta concorrência. 
 
 Um ano de estágio em escritório de advocacia foi o suficiente para entender que a luta seria aguerrida. Com palpites de terceiros, fé e coragem, decidi que fosse conforme os desígnios do Arquiteto do Universo. Rondônia estava no auge da migração de todas as partes do Brasil. Decidi: é pra lá que eu vou! Mas onde? Alguém que nunca havia saído do burburinho da Rua das Flores aconselhou-me: 
 — Vá para Cacoal. Não sei onde fica, mas tenho um amigo que foi pra lá. 
@@ -16,7 +16,7 @@ Pareceu-me uma boa ideia. Pelo menos tinha uma referência. Fazer a mala e parti
 
 ### A Grande Travessia
 
-Em março de 1981, parti de Curitiba com uma mala e uns pacotes. De um só lance, a Viação Andorinha, partindo de Maringá, atravessou o cerrado matogrossense. Uma viagem um tanto monótona. Por vezes a paisagem era quebrada pela presença de seriemas, casebres, barracas de lona e tratores que já começavam a rasgar o cerrado. Foram 24 horas de viagem até Cuiabá. 
+Em março de 1982, parti de Curitiba com uma mala e uns pacotes. De um só lance, a Viação Andorinha, partindo de Maringá, atravessou o cerrado matogrossense. Uma viagem um tanto monótona. Por vezes a paisagem era quebrada pela presença de seriemas, casebres, barracas de lona e tratores que já começavam a rasgar o cerrado. Foram 24 horas de viagem até Cuiabá. 
 
 Descendo do ônibus e procurando me localizar, vislumbrei um anúncio: **PASSAGENS PARA CACOAL**. Que bom! Está fácil. 
 — Moço, uma passagem para Cacoal. 
@@ -36,7 +36,7 @@ O avião partiu às 14:30 horas. O tempo estava bom. Da janelinha dava para cont
 
 Ali mesmo na pista apareceram táxis. Lotamos um Fusca e partimos. O taxista alertou que havia atoleiros no Riozinho e teríamos que passar por dentro da aldeia indígena: era necessário pedir autorização do cacique. Já era noite, o motorista desceu e foi um momento de tensão. Retornou com permissão para passar. Parece que naquele dia o cacique estava de bom humor (via de regra, um litro da boa). 
 
-Finalmente, Cacoal. Nem parecia ser uma cidade. Chovia e tudo estava escuro, exceto a varanda de um hotel: “Hotel Decolares”. Janta, pernoite e café da manhã. Dia 22 de março de 1981. O bom da história é que o dinheiro acabou. Não furei o teto orçamentário, contudo, foi necessário cortar algumas despesas. 
+Finalmente, Cacoal. Nem parecia ser uma cidade. Chovia e tudo estava escuro, exceto a varanda de um hotel: “Hotel Decolares”. Janta, pernoite e café da manhã. Dia 22 de março de 1982. O bom da história é que o dinheiro acabou. Não furei o teto orçamentário, contudo, foi necessário cortar algumas despesas. 
 
 ### O Início da Lida
 
