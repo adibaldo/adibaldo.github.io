@@ -6,8 +6,8 @@ tags: ["memórias", "história", "migração", "família", "rio-grande-do-sul", 
 place: "parana"
 placeLabel: "Paraná"
 heroImage: ./images/chao-de-agulhas-e-balcao-dos-causos-cover.png
+heroImageAlt: "Interior de um antigo armazém de secos e molhados, com balcão de madeira, prateleiras cheias de produtos e luz natural entrando por uma janela."
 ---
-
 ### O PRÊMIO DA VIDA
 
 Por vales e campinas,  
