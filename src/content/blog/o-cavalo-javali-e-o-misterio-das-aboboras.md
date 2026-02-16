@@ -1,11 +1,12 @@
 ---
 title: "O Cavalo Javali e o Mistério das Abóboras"
-description: "A saga de um tordilho afamado, um revólver 38 niquelado e o mistério de uma abóbora monumental."
+description: "Uma história de infância no interior do Paraná: o cavalo Javali, um tordilho afamado que ninguém domava, e o mistério das abóboras que desapareciam do quintal."
 pubDate: 2026-02-12
-tags: ["memórias", "causos"]
+tags: ["memórias", "causos", "paraná", "infância", "vida no campo", "rio-grande-do-sul"]
 place: "parana"
 placeLabel: "Paraná"
 heroImage: ./images/o-cavalo-javali-e-o-misterio-das-aboboras-cover.png
+heroImageAlt: "Pintura de um cavalo marrom pulando e quebrando uma cerca de madeira em um campo dourado, com árvores ao fundo sob um céu nublado."
 ---
 
 ### O Trigo, o Trinta e Oito e o Javali
