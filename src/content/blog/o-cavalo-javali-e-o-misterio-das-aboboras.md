@@ -1,16 +1,16 @@
 ---
 title: "O Cavalo Javali e o Mistério das Abóboras"
-description: "A saga de um tordilho afamado, um revólver 38 niquelado e o mistério de uma abóbora monumental."
+description: "Uma história de infância no interior do Paraná: o cavalo Javali, um tordilho afamado que ninguém domava, e o mistério das abóboras que desapareciam do quintal."
 pubDate: 2026-02-12
-tags: ["memórias", "causos"]
+tags: ["memórias", "causos", "paraná", "infância", "vida no campo", "rio-grande-do-sul"]
 place: "parana"
 placeLabel: "Paraná"
 heroImage: ./images/o-cavalo-javali-e-o-misterio-das-aboboras-cover.png
+heroImageAlt: "Pintura de um cavalo marrom pulando e quebrando uma cerca de madeira em um campo dourado, com árvores ao fundo sob um céu nublado."
 ---
-
 ### O Trigo, o Trinta e Oito e o Javali
 
-Quando colheu as 103 sacas e uma quarta de trigo em Barão de Cotegipe, meu pai sentiu-se rico. Sendo solteiro, o plano foi um só: comprar um revólver e um cavalo. O revólver foi fácil: um 38 niquelado, de cano longo, coisa de patrão. Já o cavalo deu trabalho, até que ele encontrou um tordilho acinzentado, esperto e marchador. Olhando a cor do bicho, lembrou de um porco do mato e batizou: **Javali**.
+Quando colheu as 103 sacas e uma quarta de trigo em [Barão de Cotegipe](/locais/barao-de-cotegipe/), meu pai sentiu-se rico. Sendo solteiro, o plano foi um só: comprar um revólver e um cavalo. O revólver foi fácil: um 38 niquelado, de cano longo, coisa de patrão. Já o cavalo deu trabalho, até que ele encontrou um tordilho acinzentado, esperto e marchador. Olhando a cor do bicho, lembrou de um porco do mato e batizou: **Javali**.
 
 ### O Mistério da Abóbora Gigante
 
@@ -26,10 +26,10 @@ O cavalo era manso de verdade. Minha mãe montava com nenê no colo, e o mano ma
 
 ### O Banquete de Duzentos Quilos
 
-Uma tarde, já no Paraná, papai colheu umas vinte abóboras graúdas na resteva do milho. Deixou a carroça carregada — uns duzentos ou trezentos quilos de *zucca* — e foi dormir. O Javali estava solto. No outro dia, a carroça estava limpa, sem uma semente para remédio! Quando o mano mais velho duvidou que o cavalo desse conta de tanto, papai pigarreou com aquela sua autoridade: *"Olha, daqueles trinta e seis quilos da namorada eu não tenho certeza, mas os duzentos que estavam na carroça eu garanto!"*. Quem era o guri para duvidar da verdade do pai?
+Uma tarde, já no Paraná (após a saga de [Secos e Molhados](/blog/secos-e-molhados/)), papai colheu umas vinte abóboras graúdas na resteva do milho. Deixou a carroça carregada — uns duzentos ou trezentos quilos de *zucca* — e foi dormir. O Javali estava solto. No outro dia, a carroça estava limpa, sem uma semente para remédio! Quando o mano mais velho duvidou que o cavalo desse conta de tanto, papai pigarreou com aquela sua autoridade: *"Olha, daqueles trinta e seis quilos da namorada eu não tenho certeza, mas os duzentos que estavam na carroça eu garanto!"*. Quem era o guri para duvidar da verdade do pai?
 
 ### Fumaça, Cinza e o Mistério de Rondônia
 
-Quarenta anos depois, lá em Rondônia, numa festa junina, papai contou a história ao redor da fogueira. Entre os ouvintes, estava um vivente de mais de setenta, gaudério de Soledade, que ajeitou o corpo no cepo e sentenciou: *"Eu conheci o Javali! De uma feita, numa carreirada lá na Coxilha Seca, deu um entrevero por causa desse cavalo..."*.
+Quarenta anos depois, lá em Rondônia (em [Rolim de Moura](/locais/rolim-de-moura/)), numa festa junina, papai contou a história ao redor da fogueira. Entre os ouvintes, estava um vivente de mais de setenta, gaudério de Soledade, que ajeitou o corpo no cepo e sentenciou: *"Eu conheci o Javali! De uma feita, numa carreirada lá na Coxilha Seca, deu um entrevero por causa desse cavalo..."*.
 
 Mas antes que o segredo fosse revelado, um gaiato jogou um petardo na fogueira. Foi aquele esparramo! Cinza e fumaça para todo lado, o povo se arredou e o testemunho do velho gaudério sumiu no ar. Ficou o mistério: o que o Javali aprontou naquela carreira? Jamais saberemos. Só nos resta o respeito por aquele tordilho afamado, que se não foi o mais rápido, foi com certeza o mais faminto do Rio Grande.

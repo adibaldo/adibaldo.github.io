@@ -2,10 +2,6 @@
 **Learning:** When fact-checking religious calendars (e.g., Jewish Year), always calculate relative to the post's intended publication date, not the current date, to avoid flagging correct future dates as errors.
 **Action:** Check frontmatter pubDate before verifying time-sensitive data.
 
-## 2026-02-14 - Sol Invictus vs Persian Origin
-**Learning:** The Roman festival of Sol Invictus (Dec 25) is frequently conflated with the Persian god Mithras. While Mithras has Persian origins, the 'Sol Invictus' state cult established by Aurelian was Roman.
-**Action:** Verify attributions of 'Sol Invictus' carefully; if attributed to Persians, correct to Roman or clarify the distinction.
-
-## 2026-02-14 - Historical Misconceptions: Favelas and Scapegoats
-**Learning:** Common historical narratives often simplify origins. The term "favela" is specifically tied to the Canudos War (1897) and the plant "faveleira", not merely urban displacement like the arrival of the Royal Court (1808). Similarly, the term "scapegoat" (bode expiatório) originates from the Leviticus ritual (Day of Atonement), distinct from the Binding of Isaac (where a ram was sacrificed).
-**Action:** Always verify the etymology and specific historical context of terms, even when they seem intuitively connected to famous events.
+## 2026-02-12 - Historical Metaphors vs. Facts
+**Learning:** Authors may use vivid imagery (e.g., "camped on the beach") that is factually incorrect. Fact-checking should correct the mechanism (e.g., "requisitioned houses") while preserving the intended narrative impact (e.g., displacement/favelas).
+**Action:** Identify the underlying historical event and replace inaccurate metaphors with descriptive facts that maintain the story's flow.
