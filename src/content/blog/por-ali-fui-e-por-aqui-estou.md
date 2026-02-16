@@ -2,7 +2,7 @@
 title: "Por ali fui e por aqui estou: A Grande Travessia de 1981"
 description: "Ao contrário de Cabeça de Vaca, Adi Baldo foi do Sul para o Norte. O relato da viagem de Curitiba até Cacoal, o voo da TABA e o nascimento de Rondônia."
 pubDate: "2026-02-16"
-heroImage: "/images/blog/voo-taba-1981.png"
+heroImage: "./images/voo-taba-1981.png"
 heroImageAlt: "Aeronave bimotor Curtiss C-46 da TABA sobrevoando a imensidão verde da floresta amazônica."
 tags: ["memórias", "rondônia", "cacoal", "taba", "pioneirismo"]
 ---

@@ -2,7 +2,7 @@
 title: "A Saga do Mala sem Alça – Parte 3: O Pé na Bunda e o Pinhão"
 description: "O desfecho da jornada de Cabeça de Vaca, a ceroula penhorada em Asunción e o descanso do cacique Paraguá na terra das araucárias."
 pubDate: "2026-02-16"
-heroImage: "/images/blog/cabeza-de-vaca-1.png"
+heroImage: "./images/cabeza-de-vaca-1.png"
 heroImageAlt: "Núñez Cabeza de Vaca e o cacique Paraguá."
 tags: ["história", "paraguai", "curitiba", "piraquara"]
 ---

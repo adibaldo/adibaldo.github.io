@@ -2,7 +2,7 @@
 title: "A Saga do Mala sem Alça – Parte 1: O Náufrago de Babitonga"
 description: "O primeiro capítulo da saga de Núñez Cabeza de Vaca, o conquistador espanhol que naufragou no litoral de Santa Catarina e descobriu que encarar a mata era pior que encarar o mar."
 pubDate: "2026-02-16"
-heroImage: "/images/blog/cabeza-de-vaca-1.png"
+heroImage: "./images/cabeza-de-vaca-1.png"
 heroImageAlt: "Pintura a óleo de Núñez Cabeza de Vaca, náufrago e esfarrapado, mas com pose arrogante na Baía de Babitonga, ao lado de um cacique indígena."
 tags: ["história", "paraná", "curiosidades", "cabeza-de-vaca"]
 ---
