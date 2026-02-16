@@ -8,7 +8,6 @@ placeLabel: "Paraná"
 heroImage: ./images/o-cavalo-javali-e-o-misterio-das-aboboras-cover.png
 heroImageAlt: "Pintura de um cavalo marrom pulando e quebrando uma cerca de madeira em um campo dourado, com árvores ao fundo sob um céu nublado."
 ---
-
 ### O Trigo, o Trinta e Oito e o Javali
 
 Quando colheu as 103 sacas e uma quarta de trigo em [Barão de Cotegipe](/locais/barao-de-cotegipe/), meu pai sentiu-se rico. Sendo solteiro, o plano foi um só: comprar um revólver e um cavalo. O revólver foi fácil: um 38 niquelado, de cano longo, coisa de patrão. Já o cavalo deu trabalho, até que ele encontrou um tordilho acinzentado, esperto e marchador. Olhando a cor do bicho, lembrou de um porco do mato e batizou: **Javali**.
