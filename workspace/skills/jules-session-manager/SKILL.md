@@ -48,6 +48,14 @@ Após dar o merge no GitHub, não esqueça de trazer as melhorias para o seu gal
 git pull origin main
 ```
 
+## 🔗 Referência sobre Repetição (Link over Repeat)
+
+Para manter a consistência e evitar conflitos de instruções, dê preferência a **referenciar** arquivos existentes em vez de repetir comandos ou regras no prompt:
+
+1. **Aponte o Caminho**: Em vez de copiar um protocolo de `SOUL.md`, diga: "Siga o protocolo de execução descrito em `jules-agents/{nome}/SOUL.md`".
+2. **Contexto do Projeto**: Em vez de descrever a estrutura do repositório toda vez, aponte para o `jules-agents/README.md`.
+3. **Evite Drift**: Repetir instruções cria o risco de uma versão ficar desatualizada. Referenciar garante que o agente sempre use a "fonte da verdade" mais recente do repositório.
+
 ## 🚫 Limites
 - **Nunca** envie apenas a missão sem a alma (SOUL.md).
 - **Nunca** envie instruções que tirem a autonomia do agente definida no framework.

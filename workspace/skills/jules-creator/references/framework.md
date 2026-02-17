@@ -22,6 +22,9 @@ O arquivo `EXPERIENCE.md` deve ser atualizado apenas quando o agente descobre al
 Para evitar conflitos de merge, o "Quadro de Avisos" não é um arquivo único, mas uma pasta em `jules-agents/quadro-de-avisos/`.
 - Cada novo aviso deve ser um arquivo único: `YYYYMMDD-HHMMSS-{agente}-{assunto}.md`.
 
+### E. Referência sobre Repetição
+Para evitar inconsistências, os agentes devem ser instruídos a **referenciar arquivos de diretrizes** (como este Framework ou o `README.md` do repositório) em vez de terem instruções repetidas em seus `SOUL.md`. Se uma regra mudar no Framework, ela deve valer automaticamente para todos os que a referenciam.
+
 ## 2. Estrutura Padrão do SOUL.md
 
 Todo SOUL.md deve seguir esta ordem:
