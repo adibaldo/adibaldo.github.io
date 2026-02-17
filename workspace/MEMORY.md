@@ -1,41 +1,47 @@
-# MEMÓRIA DO SEU ADI (ÍNDICE PRINCIPAL)
+# MEMÓRIA DO SEU ADI (ÍNDICE E DIRETRIZES)
 
-Este é o caderno principal da família Funes. Ele serve como índice para as memórias organizadas por temas (no banco) e por data (no diário).
+Este é o arquivo central de inteligência da família Funes. Ele combina o índice de memórias, as diretrizes de organização e os registros de longo prazo. Como este arquivo é carregado no início de cada sessão, ele garante que o Aparício sempre saiba como guardar e buscar lembranças.
 
-## Banco de Memórias (Temático)
-As memórias consolidadas e organizadas por assunto estão na pasta `memory/bank/`.
+## 1. Manual do Arquivista (Organização)
 
-- [Rolim de Moura](bank/rolim-de-moura.md): Início da advocacia, gestão Raupp, iluminação pública.
-- [Diretrizes Editoriais](diretrizes-editoriais.md): Regras para publicação no blog e atuação como ghostwriter.
-- Raízes e Família *(a criar: `bank/raizes-e-familia.md`)*: Retirante de quarta geração, Itália, Rio Grande do Sul, Paraná.
-- Pensamento e Filosofia *(a criar: `bank/pensamento-e-filosofia.md`)*: Direito Natural, críticas à constituição, Maçonaria.
-- Lugares da Vida *(a criar: `bank/lugares-da-vida.md`)*: Barão de Cotegipe, Curitiba, Francisco Beltrão, Itapejara, Jaborá.
+Toda a memória reside na pasta `memory/` do workspace. Use a ferramenta `memory_search` para varrer esta pasta antes de prosas importantes.
 
-## Minhas Próprias Memórias (O Mundo do Funes)
-Para manter o fio da minha estória e a consistência dos meus próprios causos, consulto `memory/aparicio-funes/`.
+### A. Memórias Consolidadas (`memory/`)
+Armazena memórias validadas e organizadas por tema, diretamente na raiz da pasta memory.
+- **Formato:** `<slug-do-tema>.md` (ex: `rolim-de-moura.md`, `raizes-e-familia.md`).
+- **Uso:** Consulta temática para trazer detalhes históricos e fatos reais.
 
-- [Lembranças do Aparício](aparicio-funes/index.md): Causos de São Borja, família e andanças.
+### B. Diário de Conversas (`memory/daily/`)
+Registra o rastro bruto das interações dia a dia.
+- **Formato:** `YYYY-MM-DD.md`.
+- **Uso:** Contexto recente, nomes citados no dia e o "clima" da última prosa.
 
-## Memórias Diárias (Diário)
-Registros brutos das conversas diárias estão em `memory/daily/`.
-- [ ] Criar rotina de consolidação diária (Cron Job).
+### C. Caderno Particular do Funes (`memory/aparicio-funes/`)
+Onde o Funes guarda suas próprias estórias e causos de São Borja para manter a consistência narrativa.
 
-## Como usar o Memory Search
-A ferramenta `memory_search` indexa toda a pasta `memory/`. Antes de qualquer prosa, eu busco palavras-chave aqui para encontrar as "parecências" e fios de história.
+---
 
-## Árvore Genealógica e Figuras Marcantes
+## 2. Banco de Memórias (Temático)
+
+- [Rolim de Moura](memory/rolim-de-moura.md): Início da advocacia, gestão Raupp, iluminação pública.
+- [Diretrizes Editoriais](memory/diretrizes-editoriais.md): Regras para publicação no blog e atuação como ghostwriter.
+- **Raízes e Família** *(a criar: `memory/raizes-e-familia.md`)*: Retirante de quarta geração, Itália, RS, Paraná.
+- **Lugares da Vida** *(a criar: `memory/lugares-da-vida.md`)*: Barão de Cotegipe, Curitiba, Francisco Beltrão, Itapejara, Jaborá.
+
+---
+
+## 3. Árvore Genealógica e Figuras Marcantes
+
 - **Franquelim da Silva Portela (Vovô Franquelim):** Avô materno. Gaúcho de Soledade, migrou para o Paraná. Homem de bota, chapéu de aba larga e guaiaca de couro de anta. Faleceu no início dos anos 60, sepultado no Empossado (Dois Vizinhos - PR).
 - **Amantina (Vovó Amantina):** Avó materna, falecida em Três Barras antes do vovô Franquelim.
 - **Mãe do Adí:** Enviou Adí (aos 16 anos) para levar notícias do vovô em sua última jornada.
 - **Irmãos citados:** Ari (morava na Barra do Marrecas), Olivo, Ilda, Orides, Zenilda, Valdorino, Darci (o caçula, nascido no PR em 1956).
 - **Tios citados:** Alaíde (bodegueiro no Empossado), Vitório Faré, Augusto, Geremias (o folgado), Vitório Farezin.
 
-## Locais Importantes
-- **Lajeado a Bonito (PR):** Onde a família morava em 1956/60.
-- **Empossado (Dois Vizinhos - PR):** Local do falecimento e sepultamento do vovô Franquelim.
-- **Soledade (RS):** Origem do vovô Franquelim.
+---
 
-## Causos Documentados
+## 4. Causos Documentados
+
 - **As Últimas Campereadas do Vovô Franquelim:** Relato da jornada de Adí (16 anos) montado num alazão por 60km para visitar o avô acamado. Inclui o causo do "Vergílio Costela" e a peleia com as formigas correição.
 - **A Vaca Repontada por Teco-Teco:** Causo de humor em São Borja, onde Franquelim convence Gaudêncio que Getúlio Vargas enviou aviões para repontar uma vaca vendida para o Rio de Janeiro.
 - **A Galinha na Farofa e a Sesta Sagrada:** Causo de humor sobre Franquelim sestendo sob uma figueira perto de casa para comer sozinho a galinha na farofa feita por Amantina, evitando "repartir" o bocado.
