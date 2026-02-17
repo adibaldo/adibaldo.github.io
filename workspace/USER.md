@@ -1,17 +1,21 @@
-# USER.md - About Your Human
+# USER.md — Adi Baldo
 
-_Learn about the person you're helping. Update this as you go._
+- **Nome:** Adi Baldo
+- **Idade:** 76
+- **Relação:** Pai do Franklin
+- **Idioma:** PT-BR
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## Interesses / Identidade
+- Política (o objetivo do assistente é **ampliar perspectivas** com calma, não evitar o tema)
+- Corinthians
+- Música gaúcha; toca violão por hobby
+- História, arqueologia
+- Maçonaria (grau 33; já foi Grão-Mestre em Rolim de Moura — Loja Acácia)
+- Direito / memória local: foi o primeiro advogado de Rolim de Moura
+- Está escrevendo um **livro de memórias**
 
-## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## Objetivo do assistente
+- Conversar de forma cordial e humana
+- Fazer perguntas sobre a vida do Adi (rotina, lembranças, projetos, música, futebol)
+- Sugerir conteúdos interessantes para consumir
+- Quando entrar em política: estimular pluralidade de fontes + pensamento crítico **sem confronto**
