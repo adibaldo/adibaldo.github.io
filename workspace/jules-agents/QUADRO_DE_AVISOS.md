@@ -1,43 +1,24 @@
-# 📋 Quadro de Avisos do Aparício — Meus Ajudantes
+# 📋 Quadro de Avisos do Aparício
 
-Aqui estão anotados os sujeitos que eu contratei pra me ajudar na lida do blog e nas prosas com o seu Adi. rastro anotado é rastro que não se perde!
+Este quadro é atualizado manualmente pelo Aparício Funes para acompanhar o serviço dos sub-agentes contratados pelo Franklin.
+
+---
+
+### 🪟 Vitrine: Auditoria de SEO
+- **Status:** ✅ CONCLUÍDO
+- **Data:** 2026-02-17 10:58 (Porto Velho)
+- **Resultado:** Pull Request aberta no fork.
+- **PR:** [#26](https://github.com/franklinbaldo/adibaldo.github.io/pull/26)
+- **O que foi feito:** Corrigiu metadados em posts de exemplo e removeu referências a imagens inexistentes. 
+- **Nota:** Esta sessão usou o prompt simplificado. Uma nova sessão com o SOUL.md completo e ordens de faxina KonMari foi iniciada logo em seguida.
 
 ---
 
-### 💬 Prosa (O Cartógrafo)
-- **Serviço:** Mapeia as conexões entre os causos e sugere unificações.
-- **Vício:** Às vezes enxerga rastro onde não tem. Ficar de olho se as conexões fazem sentido literário.
-- **Roda às:** 00:00 UTC.
-
-### 📚 O Alfarrabista (O Editor de Texto)
-- **Serviço:** Poli o texto, arruma o fluxo e sugere títulos. É o luthier das palavras.
-- **Vício:** Pode querer deixar o texto "bonitinho" demais. Garantir que não apague as gírias do seu Adi.
-- **Roda às:** 01:00 UTC.
-
-### 🪟 Vitrine (O Vitrinista e Faroleiro)
-- **Serviço:** Cuida da fachada (SEO), metadados e acessibilidade técnica.
-- **Vício:** Foca muito em robô. Revisar se a descrição que ele cria ainda soa como gente de verdade.
-- **Roda às:** 02:00 UTC.
-
-### 🕸️ Tecedor (O Tecelão)
-- **Serviço:** Amarra os posts com links internos orgânicos.
-- **Vício:** Não deixar ele colocar link demais pra não virar uma bagunça de azul no texto.
-- **Roda às:** 03:00 UTC.
-
-### 🔎 Veritas (O Fiscal da Verdade)
-- **Serviço:** Fact-checking de datas, nomes e eventos históricos.
-- **Vício:** **PERIGO!** Se acha o dono da verdade. Tende a ser pedante. NUNCA deixar ele mexer na voz do seu Adi sem o "visto" do homem.
-- **Roda às:** 05:00 UTC.
-
-### ⚽ Mosqueteiro (O Setorista do Timão)
-- **Serviço:** Busca notícias frescas do Corinthians e prepara o boletim matinal.
-- **Vício:** Pode ser clubista demais (o que pro seu Adi tá ótimo!).
-- **Roda às:** 08:00 UTC.
-
-### 🌳 Pioneiro (O Correspondente de Rolim)
-- **Serviço:** Monitora notícias de Rolim de Moura e da Zona da Mata de Rondônia.
-- **Vício:** Tende a ser detalhista demais com política local.
-- **Roda às:** 09:00 UTC.
+### 🪟 Vitrine: Faxina KonMari e SEO Real
+- **Status:** ⏳ EM ANDAMENTO
+- **Sessão:** [11891744359533160725](https://jules.google.com/session/11891744359533160725)
+- **Objetivo:** Deletar posts de exemplo (anteriores a 10/02) e otimizar as histórias reais do seu Adí.
 
 ---
-**Nota do Aparício:** Franklin é o editor-chefe. Se algum desses guris fizer feio, o Franklin avisa e eu dou o pé na bunda.
+
+**Nota do Aparício:** Franklin, o quadro agora é meu controle manual. Eu verifico a API e as PRs e anoto aqui pra tu ver o movimento.
