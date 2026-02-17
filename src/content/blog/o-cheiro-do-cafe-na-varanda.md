@@ -5,8 +5,8 @@ pubDate: 2026-02-07
 tags: ["memórias", "cotidiano", "reflexão", "poesia"]
 place: "curitiba"
 placeLabel: "Curitiba"
-heroImage: ./images/cafe-na-varanda-cover.png
-heroImageAlt: "Xícara de café fumegante sobre uma mesa em uma varanda tranquila, com vista para a natureza."
+# heroImage: ./images/cafe-na-varanda-cover.png
+# heroImageAlt: "Xícara de café fumegante sobre uma mesa em uma varanda tranquila, com vista para a natureza."
 ---
 Tem lembrança que não pede explicação. Ela chega sozinha, como quem abre a porta devagar.
 
