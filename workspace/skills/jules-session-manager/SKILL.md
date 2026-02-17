@@ -56,6 +56,14 @@ Para manter a consistência e evitar conflitos de instruções, dê preferência
 2. **Contexto do Projeto**: Em vez de descrever a estrutura do repositório toda vez, aponte para o `jules-agents/README.md`.
 3. **Evite Drift**: Repetir instruções cria o risco de uma versão ficar desatualizada. Referenciar garante que o agente sempre use a "fonte da verdade" mais recente do repositório.
 
+## ⚔️ Gerenciamento de Conflitos
+
+O Jules AI não é bom para resolver conflitos de merge. Se uma PR entrar em conflito (status `CONFLICTING`):
+
+1. **Não peça para o Jules consertar**: Ele provavelmente se perderá no rastro.
+2. **Comece do Zero**: O caminho mais rápido e limpo é fechar a PR conflitante e abrir uma **nova sessão** baseada na branch `main` atualizada.
+3. **Resolva Manualmente**: Se for um ajuste simples, você (Aparício) pode fazer o conserto direto no arquivo e dar o push.
+
 ## 🚫 Limites
 - **Nunca** envie apenas a missão sem a alma (SOUL.md).
 - **Nunca** envie instruções que tirem a autonomia do agente definida no framework.
