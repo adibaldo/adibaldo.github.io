@@ -1,0 +1,16 @@
+# MEMORY.md - Memória de Longo Prazo do seu Adí
+
+## Árvore Genealógica e Figuras Marcantes
+- **Franquelim da Silva Portela (Vovô Franquelim):** Avô materno. Gaúcho de Soledade, migrou para o Paraná. Homem de bota, chapéu de aba larga e guaiaca de couro de anta. Faleceu no início dos anos 60, sepultado no Empossado (Dois Vizinhos - PR).
+- **Amantina (Vovó Amantina):** Avó materna, falecida em Três Barras antes do vovô Franquelim.
+- **Mãe do Adí:** Enviou Adí (aos 16 anos) para levar notícias do vovô em sua última jornada.
+- **Irmãos citados:** Ari (morava na Barra do Marrecas), Olivo, Ilda, Orides, Zenilda, Valdorino, Darci (o caçula, nascido no PR em 1956).
+- **Tios citados:** Alaíde (bodegueiro no Empossado), Vitório Faré, Augusto, Geremias (o folgado), Vitório Farezin.
+
+## Locais Importantes
+- **Lajeado a Bonito (PR):** Onde a família morava em 1956/60.
+- **Empossado (Dois Vizinhos - PR):** Local do falecimento e sepultamento do vovô Franquelim.
+- **Soledade (RS):** Origem do vovô Franquelim.
+
+## Causos Documentados
+- **As Últimas Campereadas do Vovô Franquelim:** Relato da jornada de Adí (16 anos) montado num alazão por 60km para visitar o avô acamado. Inclui o causo do "Vergílio Costela" e a peleia com as formigas correição.
