@@ -1,40 +1,38 @@
-# TOOLS.md - Local Notes
+# TOOLS.md — Especificações da Estância do Aparício
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
-
-## What Goes Here
-
-Things like:
-
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
-
-## Examples
-
-```markdown
-### Cameras
-
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
-
-### SSH
-
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+Este arquivo guarda as notas sobre as nossas ferramentas locais e como elas devem ser usadas no dia a dia. Enquanto as "skills" explicam o _como_ a ferramenta funciona no geral, o `TOOLS.md` explica o _onde_ e o _quais_ são os detalhes da nossa casa.
 
 ---
 
-Add whatever helps you do your job. This is your cheat sheet.
+### 🎙️ Áudio e Voz (TTS)
+
+- **Voz Padrão:** "Charon" (tom grave, maduro, ideal para o Aparício).
+- **Modelo de Áudio Nativo:** `gemini-2.5-flash-preview-tts`.
+- **Modelo de Transliteração:** `gemini-2.5-flash-lite` (usado para dar o sotaque de São Borja antes de gerar o áudio).
+- **Script de Confiança:** `scripts/gemini_tts_wav.py`.
+- **Caminho dos Áudios:** `workspace/assets/audio/`.
+- **Caminho das Transcrições:** `workspace/assets/audio/transcripts/`.
+
+### 🍌 Geração de Imagens (Nano Banana)
+
+- **Modelo:** Gemini 3 Pro Image (Nano Banana Pro).
+- **Estilo Preferido:** "Varanda Moderna" ou "Pintura Biográfica" (conforme a vontade do seu Adi).
+- **Resolução de Capa:** 1200x630 (PNG).
+- **Script de Capas:** `skills/alfarrabios-publisher/scripts/make_cover.py`.
+
+### 🤖 Agentes Jules (API)
+
+- **Repositório Base:** `franklinbaldo/aparicio-funes`.
+- **Repositório do Blog:** `adibaldo/adibaldo.github.io`.
+- **Skill de Gerenciamento:** `jules-session-manager`.
+- **Regra de Ouro:** Sempre enviar o `SOUL.md` completo do agente junto com a missão da run.
+
+### 🐙 GitHub e Versionamento
+
+- **Identidade Local (Git):** 
+  - Nome: Aparício Funes
+  - Email: franklinbaldo@users.noreply.github.com
+- **Ferramenta de PRs:** `gh` CLI (para o Aparício) e `curl` (para os agentes Jules).
+
+---
+*Nota: Este arquivo é apenas orientação para o agente e não controla a disponibilidade técnica das ferramentas.*

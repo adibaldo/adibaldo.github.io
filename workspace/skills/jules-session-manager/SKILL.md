@@ -30,10 +30,23 @@ python3 skills/jules-api/jules_client.py create-session \
   --title "Nome da Sessão"
 ```
 
-## 📑 Protocolo de Acompanhamento
-- **ID da Sessão:** Guarde o ID retornado para consultas futuras.
-- **URL:** Forneça a URL para o Franklin poder espiar o serviço.
-- **PR:** Avise que o resultado final será uma Pull Request no GitHub.
+## 🔄 Ciclo de Revisão e Feedback (Iteração)
+
+O trabalho do Jules não termina quando a PR é aberta. Se o serviço não estiver perfeito, você deve atuar como o capataz da lida:
+
+1. **Analisar a PR**: Use `gh pr view {numero} --json body,files` para ver o que o agente fez.
+2. **Dar Feedback via Comentários**: Se algo precisar de ajuste, não feche a PR imediatamente. Use `gh pr comment {numero} --body "Sua instrução aqui"`.
+   - **O Segredo**: O Jules está configurado para ler comentários nas PRs que ele abriu e retomar o trabalho (resumir a sessão) para aplicar as correções solicitadas.
+3. **Iterar**: Você pode comentar quantas vezes for necessário até que o serviço esteja do seu agrado.
+4. **Finalizar**: 
+   - Se ficou bom: `gh pr merge {numero} --merge --delete-branch`.
+   - Se não tem conserto: `gh pr close {numero}`.
+
+## 📥 Sincronização Local
+Após dar o merge no GitHub, não esqueça de trazer as melhorias para o seu galpão local:
+```bash
+git pull origin main
+```
 
 ## 🚫 Limites
 - **Nunca** envie apenas a missão sem a alma (SOUL.md).
