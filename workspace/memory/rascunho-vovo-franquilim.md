@@ -36,8 +36,25 @@ Conversei com ele. Vi um homem que, mesmo acamado, cavalgava em pensamento, pala
 
 Era dia primeiro de ano, um domingo. Encilhei o Alazão e me bandeei de volta. Tinha que levar o “RECADO A GARCIA”: dizer pra mamãe que o vovô não estava bem. 
 
-No caminho, uma peleia com formigas correição que atacaram o cavalo e os arreios na subida da Boa Esperança. Cheguei exausto na Barra do Marrecas. O mano Darci, guri de oito anos, montou o Alazão pra levá-lo pra beber na sanga. Comi o requento do meio-dia e segui os últimos quilômetros. 
+No caminho, uma peleia com formigas correição que atacaram o cavalo e os arreios na subida da Boa Esperança. Cheguei exausto na Barra do Marrecas. O mano Darci, guri de eight anos, montou o Alazão pra levá-lo pra beber na sanga. Comi o requento do meio-dia e segui os últimos quilômetros. 
 
 Quando mamãe me viu entrar na porteira, soube antes mesmo de eu falar. Entre lágrimas, balbuciou: “Eu sabia”. Deitei amuado. Trotear mais de sessenta quilômetros não é serviço pra piá. 
 
 Poucos dias depois, veio a notícia. Seu **Franquelim da Silva Portela** havia falecido. Foi sepultado no cemitério do Empossado, em Dois Vizinhos. Partiu pro rancho eterno, deixando uma geração e muitos causos que o tempo não apaga.
+
+## Bônus: A Galinha na Farofa e a Sesta Sagrada
+
+Se tinha uma coisa que seu Franquelim apreciava era montar em sua mula ruana e andar pelas estâncias, mais pra saber das coisas do que fazer algum brique. Sempre que empreendia uma andança, vó Amantina fazia uma galinha na farofa, e colocava numa matula e depois enfiava no pessuelo. 
+
+De uma feita, seu Franquelim disse que iria na estância do Amarante, a trinta quilômetros. Amantina preparou a galinha gorda e ele partiu mal clareando o dia. Logo após ao meio-dia, Amantina decidiu visitar uma comadre e, ao passar por uma frondosa figueira, viu algo estranho: era a mula de seu Franquelim.
+
+Esgueirou-se pelos arbustos e lá estava o homem, estirado sobre os pelegos, dormindo no maior sossego. 
+— O que estás fazendo aí, homem de Deus? — gritou ela.
+— Estou fazendo a sesta — respondeu ele num sobressalto.
+— Mas que sesta, se estás perto de casa?
+— Deixa eu explicar: quando saí, lembrei que o seu Amarante não estaria em casa. Mas eu não podia perder a galinha na farofa, então resolvi sestear por aqui mesmo.
+
+Amantina já ia descarregando o guarda-chuva no "folgado" quando ele completou:
+— Espera aí, mulher! A galinha não era grande e se tivesse que repartir não ia dar pra dois. Assim pelo menos um ficou satisfeito!
+
+E assim, no passo manso, voltaram os dois para o rancho, com o vovô Franquelim satisfeito por ter evitado a "pernada" à toa e garantido o seu bocado.
