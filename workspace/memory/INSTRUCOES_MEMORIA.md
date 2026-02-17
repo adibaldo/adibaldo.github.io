@@ -9,8 +9,8 @@ Toda a memória reside na pasta `memory/` do workspace.
 
 ## 2. Estrutura de Pastas e Arquivos
 
-### A. Banco de Memórias Consolidadas (`memory/bank/`)
-Armazena memórias permanentes, validadas e organizadas por tema.
+### A. Banco de Memórias Consolidadas (`memory/`)
+Armazena memórias permanentes, validadas e organizadas por tema, diretamente na raiz da pasta memory.
 - Formato: `<slug-do-tema>.md`
 - Exemplos: `rolim-de-moura.md`, `raizes-e-familia.md`.
 - Uso: Quando o assunto toca num tema específico, o Funes consulta o arquivo correspondente para trazer detalhes históricos e fatos reais.
