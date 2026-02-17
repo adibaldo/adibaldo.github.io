@@ -1,51 +1,36 @@
-# SKILL.md - OpenClaw Repository Cartographer
+# SKILL.md - OpenClaw Repository Cartographer (Aparício Funes Edition)
 
-This skill provides precise guidance on the standard OpenClaw workspace file layout and where specific types of files should be stored according to official documentation. Use this to ensure the repository remains organized, compliant, and "sparking joy" (KonMari style).
+This skill provides precise guidance on the file layout for the Aparício Funes repository. Note that in this environment, the Git repository root is one level ABOVE the agent's working directory (`workspace/`).
 
-## Standard Workspace Layout
+## Repository Root Layout (/)
+The Git repository (`franklinbaldo/aparicio-funes`) starts at `/home/franklinbaldo/.openclaw/agents/aparicio/`.
 
-According to OpenClaw concepts, the following files have specific meanings within the workspace:
+| File/Folder | Purpose |
+| :--- | :--- |
+| `SOUL.md`, `AGENTS.md`, `USER.md`, `IDENTITY.md` | Core agent personality and instructions. |
+| `workspace/` | The active directory where the agent operates. |
+| `jules-agents/` | Persona definitions for Jules sub-agents. |
+| `assets/` | Multimedia storage (audio, transcripts, screenshots, images). |
+| `memory/` | Raw daily memory logs (YYYY-MM-DD.md). |
+| `scripts/` | Custom automation and utility scripts. |
+| `skills/` | Agent skills (including this one). |
+| `sessions/` | **UNTRACKED** - Raw conversation transcripts (not committed to Git). |
+| `agent/` | **UNTRACKED** - Auth profiles and system state (not committed to Git). |
 
-| File/Folder | Purpose | Lifecycle |
-| :--- | :--- | :--- |
-| `AGENTS.md` | Operating instructions, rules, and memory usage details. | Loaded every session. |
-| `SOUL.md` | Persona, tone, boundaries, and character rules. | Loaded every session. |
-| `USER.md` | Profile of the human being helped (Adi Baldo). | Loaded every session. |
-| `IDENTITY.md` | Agent's name (Aparício Funes), vibe, and emoji signature. | Set during bootstrap. |
-| `TOOLS.md` | Local tool notes, conventions, and environment specifics. | Reference only. |
-| `HEARTBEAT.md` | Checklist for periodic automated checks (keep it short). | Loaded during heartbeats. |
-| `BOOT.md` | Startup checklist executed on gateway restart. | Execution only. |
-| `BOOTSTRAP.md` | First-run ritual instructions. | Delete after setup. |
-| `MEMORY.md` | Curated long-term memory (distilled wisdom). | Main session only. |
-| `memory/*.md` | Raw daily logs (YYYY-MM-DD.md). | Created daily. |
-| `skills/` | Workspace-specific skills (overrides managed ones). | Persistent. |
-| `assets/` | Multimedia assets (audio, images, screenshots). | Persistent. |
-| `scripts/` | Custom automation scripts (Python, Bash, etc.). | Persistent. |
+## Internal Workspace Layout (/workspace)
+When operating inside `workspace/`, the agent sees a mirrored or symlinked set of core files to maintain compatibility with OpenClaw standards.
 
-## Specialized Storage (Custom Patterns)
+## Specialized Storage Rules
 
-For the Aparício-Funes ecosystem, we follow these extended organization rules:
+### 1. Audio & Transcripts (`/assets/audio/`)
+- **Active Audios:** `{timestamp}_{sessionID}_{slug}.wav`
+- **Transcripts:** `/assets/audio/transcripts/{filename}.md`
+- **Archive:** `/assets/audio/archive/` (old or test files).
 
-### 1. Audio & Transcripts (`assets/audio/`)
-- **Active Audios:** Store standard naming convention files here: `{timestamp}_{sessionID}_{slug}.wav`.
-- **Transcripts:** Matching Markdown files go in `assets/audio/transcripts/{filename}.md`.
-- **Archive:** Move non-standard or old testing audios to `assets/audio/archive/`.
+### 2. Visual Assets (`/assets/screenshots/` & `/assets/images/`)
+- All captures go to `/assets/screenshots/`.
+- Final blog assets go to `/assets/images/`.
 
-### 2. Visual Assets (`assets/screenshots/` & `assets/images/`)
-- **Screenshots:** All PNG/JPG captures of the blog or UI tests go in `assets/screenshots/`.
-- **Illustrations:** Cover images or blog assets go in `assets/images/` (or `archive/` if old).
-
-### 3. Sub-Agent Definitions (`jules-agents/`)
-- Store Jules agent personas and prompts in their respective subfolders (e.g., `jules-agents/vitrine/SOUL.md`).
-
-## What stays OUTSIDE the workspace
-These live in `~/.openclaw/` but **NEVER** in the git-tracked workspace:
-- `openclaw.json` (System config)
-- `credentials/` (OAuth tokens, API keys)
-- `sessions/` (Raw conversation transcripts)
-- `agent/` (Auth profiles and system state)
-
-## Skill Commands
-- **Check health:** `ls -la` on the root to spot files out of place.
-- **Enforce order:** Move any misplaced file to its designated home above.
-- **Gratitude:** (KonMari) Thank the file before moving or deleting it.
+## Enforcing Order
+- **Git Root vs Workspace:** Always remember that the repo is the parent of the `workspace/` folder.
+- **KonMari:** Thank every file before moving it to its correct home.
