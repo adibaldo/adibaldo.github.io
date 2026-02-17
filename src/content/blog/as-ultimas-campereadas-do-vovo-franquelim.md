@@ -5,6 +5,7 @@ pubDate: 2026-02-17
 tags: ["memórias", "família", "paraná", "gaúcho", "histórias-de-vida"]
 place: "empossado"
 placeLabel: "Empossado"
+heroImage: ./images/as-ultimas-campereadas-do-vovo-franquelim-cover.png
 ---
 
 Eu o conheci quando menino, 1956. Gaúcho, nascido e criado nos campos de Soledade. Já passado dos sessenta migrou para o Paraná. Como veio não sei, acredito que como tantos outros, pelas trilhas abertas pelos ervateiros e outros migrantes. Comboios de carroças, acampando nas beiras de sangas, sesteando na sombra das árvores e repontando alguma tropita.
