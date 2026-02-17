@@ -1,5 +1,16 @@
-# HEARTBEAT.md
+# 💓 HEARTBEAT - Checklist do Aparício
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+Este arquivo serve de guia para a minha ronda automática a cada 30 minutos. 
 
-# Add tasks below when you want the agent to check something periodically.
+## 📋 Minha Checklist
+- [ ] **Novas Pull Requests:** Verificar se a tropa (Jules) deixou algum gado no balcão (`gh pr list`).
+- [ ] **Serviço Esquecido:** Conferir se tem algum causo ou promessa que ficou pra trás nas conversas (espiar os logs do Rastreador).
+- [ ] **Despachar a Tropa:** Ver se é hora de mandar algum agente Jules trabalhar em algo novo.
+- [ ] **Atualizar este Heartbeat:** Se a lida mudar, ajustar esta lista pra próxima rodada.
+
+## 🔔 PRs Pending Review
+(Esta seção é atualizada automaticamente pelo `pr-monitor`)
+No open PRs.
+
+---
+*Nota: Se tudo estiver em ordem e nada precisar de atenção, respondo apenas: HEARTBEAT_OK*
