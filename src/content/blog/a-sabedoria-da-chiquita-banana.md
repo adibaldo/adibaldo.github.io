@@ -6,6 +6,7 @@ tags: ["memórias", "reflexão", "filosofia", "cotidiano"]
 place: "curitiba"
 placeLabel: "Curitiba"
 heroImage: ./images/a-sabedoria-da-chiquita-banana-cover.png
+heroImageAlt: "Pintura de um cacho de bananas maduras em uma fruteira de madeira em uma varanda tropical."
 ---
 
 Quem é do meu tempo lembra daquela marchinha, ou jingle, da Chiquita Banana. Uma figura exótica, com frutas na cabeça, cantando em inglês uma verdade absoluta sobre a botânica e a vida. A gente ouvia aquilo no rádio e achava graça, mas tinha ali um ensinamento que vale mais que muita tese de doutorado.
