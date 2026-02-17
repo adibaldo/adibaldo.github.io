@@ -1,11 +1,14 @@
+# OpenClaw state (per-agent, not versioned)
+agent/
+sessions/
+
 # Secrets and credentials
 *.env
 secrets.*
 .env.*
 credentials.*
 
-# Audio test files (keep only intentional ones via git add -f)
-*.wav
+# Audio raw PCM (not needed in repo)
 *.pcm
 
 # OS artifacts
