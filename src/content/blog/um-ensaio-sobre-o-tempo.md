@@ -3,8 +3,8 @@ title: "Um ensaio sobre o tempo"
 description: "O tempo não apaga: ele reorganiza. E a gente aprende a ler diferente."
 pubDate: 2026-02-05
 tags: ["ensaios", "tempo", "vida", "filosofia"]
-heroImage: ./images/ensaio-sobre-o-tempo-cover.png
-heroImageAlt: "Imagem abstrata representando a passagem do tempo."
+# heroImage: ./images/ensaio-sobre-o-tempo-cover.png
+# heroImageAlt: "Imagem abstrata representando a passagem do tempo."
 ---
 O tempo tem duas mãos: uma tira, outra devolve.
 
