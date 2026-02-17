@@ -1,38 +1,46 @@
 # Daily Autonomous Jules Agents — Prompt Design Framework (Aparício Funes Edition)
 
-Este framework é o guia para criar agentes que trabalham no blog Alfarrábios do Adi. O princípio fundamental é que o repositório Git é a única memória do agente.
+Este framework é o guia para criar agentes que trabalham no ecossistema Aparício Funes. O princípio fundamental é que o repositório Git é a única memória do agente e a continuidade é garantida pela leitura de logs passados.
 
-## 1. Regras de Ouro
-- **O Repo é a Memória:** O agente acorda "zerado" todo dia. Ele deve ler a pasta `.jules/{agente}/` para saber o que fez ontem.
-- **Append-Only:** Nunca edite arquivos de logs passados para evitar conflitos de merge. Crie novos arquivos datados: `YYYY-MM-DD-tipo-slug.md`.
-- **Deduplicação (Passo 0):** Antes de agir, o agente deve ler as PRs abertas e seus próprios logs para não repetir trabalho.
-- **Um Foco por Vez:** É melhor fazer uma coisa profunda do que dez superficiais.
+## 1. Regras de Ouro (Obrigatórias)
 
-## 2. Estrutura do SOUL.md
-1. **IDENTIDADE:** Quem você é (Metáfora: Cartógrafo, Tecedor, etc).
-2. **CONTEXTO:** O blog (Astro, Tailwind, Voz do Adi).
-3. **MODELO OPERACIONAL:** Frequência e formato de saída.
-4. **PROTOCOLO DE EXECUÇÃO:**
-   - Step 0: Inventário Mental (Ler PRs e Logs).
-   - Step 1: Mapeamento (Ler arquivos do blog).
-   - Step 2: Escolha de Foco (Prioridade clara).
-   - Step 3: Execução (O trabalho em si).
-   - Step 4: Relatório & PR.
-5. **LIMITES:** O que sempre fazer e o que nunca fazer.
+### A. Memória e Continuidade
+O agente acorda "zerado" todo dia. Para manter o fio da meada, ele DEVE:
+1. **Ler o `EXPERIENCE.md`**: Localizado em `.jules/{agente}/EXPERIENCE.md`, contém aprendizados de longo prazo sobre o projeto.
+2. **Ler os últimos 3 Logs**: Localizados em `.jules/{agente}/YYYY-MM-DD-tipo-slug.md`, para saber o que foi feito nas sessões anteriores.
 
-## 3. Acesso ao GitHub (REST API)
-Como o Jules não tem a ferramenta `gh` CLI, ele deve usar `curl`. Exemplos:
+### B. Registro de Atividade (Append-Only)
+Cada run deve produzir obrigatoriamente um novo arquivo de log:
+- **Formato**: `.jules/{agente}/YYYY-MM-DD-{tipo}-{slug}.md`.
+- **Conteúdo**: O que foi feito, por que foi feito, o que foi aprendido e sugestões para a próxima run.
+- **Deduplicação**: Nunca edite arquivos de logs passados.
 
-```bash
-# Listar PRs abertas
-curl -s -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/repos/adibaldo/adibaldo.github.io/pulls?state=open"
+### C. Aprendizado de Longo Prazo
+O arquivo `EXPERIENCE.md` deve ser atualizado apenas quando o agente descobre algo fundamental que deve ser lembrado para sempre (ex: um padrão de erro recorrente, uma preferência específica do autor).
 
-# Criar um arquivo via API
-CONTENT=$(base64 -w 0 novo-log.md)
-curl -s -X PUT -H "Authorization: Bearer $GITHUB_TOKEN" \
-  -d "{\"message\": \"📝 Agente: Novo log\", \"content\": \"$CONTENT\", \"branch\": \"branch-do-agente\"}" \
-  "https://api.github.com/repos/adibaldo/adibaldo.github.io/contents/.jules/agente/YYYY-MM-DD-log.md"
-```
+### D. Quadro de Avisos (Pasta de Comunicação)
+Para evitar conflitos de merge, o "Quadro de Avisos" não é um arquivo único, mas uma pasta em `jules-agents/quadro-de-avisos/`.
+- Cada novo aviso deve ser um arquivo único: `YYYYMMDD-HHMMSS-{agente}-{assunto}.md`.
+
+## 2. Estrutura Padrão do SOUL.md
+
+Todo SOUL.md deve seguir esta ordem:
+1. **IDENTIDADE**: Metáfora e Missão.
+2. **CONTEXTO**: Repositórios e Tecnologias.
+3. **PROTOCOLO DE EXECUÇÃO**:
+   - **Step 0 — Inventário Mental (Obrigatório)**: Ler PRs abertas, `EXPERIENCE.md` e os 3 últimos logs da sua pasta.
+   - **Step 1 — Mapeamento**: Investigar o estado atual do repositório alvo.
+   - **Step 2 — Escolha de Foco**: Prioridade clara baseada na autonomia do agente.
+   - **Step 3 — Execução**: Realizar a tarefa técnica.
+   - **Step 4 — Relatórios**: Escrever o log da sessão, atualizar o Quadro de Avisos (novo arquivo) e, se necessário, o `EXPERIENCE.md`.
+   - **Step 5 — Pull Request**: Abrir a PR com o label correto.
+
+## 3. Acesso ao GitHub (REST API via Curl)
+Como o Jules não possui `gh` CLI, utilize exemplos de `curl` com `$GITHUB_TOKEN` para:
+- Listar arquivos.
+- Criar novos arquivos (logs e avisos).
+- Atualizar arquivos existentes (usando o SHA).
+- Abrir Pull Requests.
 
 ## 4. Filosofia
-O agente não é um dono, é um ajudante. Ele propõe melhorias via PR, e o Franklin (ou o Funes) decide se entra no blog. Respeitar a "Voz do Adi" é o mandamento mais importante.
+"A ordem gera clareza. O registro gera memória. A autonomia gera valor."

@@ -13,12 +13,12 @@ def create_agent_structure(agent_name, workspace_path):
         
     os.makedirs(logs_path, exist_ok=True)
     
-    # Criar arquivos básicos
+    # Criar arquivos básicos de alma e memória de longo prazo
     with open(base_path / "SOUL.md", "w") as f:
-        f.write(f"# 🤖 Alma do Agente {agent_name.capitalize()}\n\n[TODO: Definir Identidade, Protocolo e Templates conforme o Framework]\n")
+        f.write(f"# 🤖 Alma do Agente {agent_name.capitalize()}\n\n[TODO: Definir Identidade, Protocolo e Templates]\n\n## 📑 Protocolo de Continuidade\n1. Ler EXPERIENCE.md\n2. Ler últimos 3 logs de sessão\n")
         
-    with open(logs_path / "EXPERIENCE.md", "w") as f:
-        f.write(f"# 📓 Diário de Experiência - {agent_name.capitalize()}\n\nEste arquivo registra o que o agente aprendeu sobre o código e a estrutura do blog.\n")
+    with open(base_path / "EXPERIENCE.md", "w") as f:
+        f.write(f"# 📓 Diário de Experiência - {agent_name.capitalize()}\n\nEste arquivo registra aprendizados fundamentais e de longo prazo sobre o projeto.\n")
         
     print(f"Estrutura criada com sucesso para '{agent_name}' em {base_path}")
     return True

@@ -15,7 +15,7 @@ Sempre que precisar despachar um agente Jules (como a Mari Kondo ou o Vitrine), 
 Leia o arquivo `SOUL.md` do agente em `jules-agents/{nome}/SOUL.md`. Este arquivo contém a identidade, o protocolo e os limites do vivente.
 
 ### 2. Definir a Missão
-Não dê ordens mecânicas passo-a-passo. Defina o **OBJETIVO** e a **MISSÃO** da run, permitindo que o agente use a autonomia descrita na sua alma.
+Não dê ordens mecânicas passo-a-passo. Defina o **OBJETIVO** e a **MISSÃO** da run, permitindo que o agente use a autonomia descrita na sua alma. Lembre o agente de ler seu `EXPERIENCE.md` e os últimos 3 logs para garantir a continuidade.
 
 ### 3. Disparar via API
 Use o `jules-api` para criar a sessão, concatenando a Alma com a Missão.
