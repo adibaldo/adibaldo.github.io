@@ -5,8 +5,8 @@ pubDate: 2026-02-06
 tags: ["memórias", "história", "pioneirismo", "rondonia"]
 place: "rolim-de-moura"
 placeLabel: "Rolim de Moura"
-heroImage: ./images/rolim-de-moura-cover.png
-heroImageAlt: "Paisagem de Rolim de Moura antiga, com ruas de terra e construções de madeira sob um céu amplo."
+# heroImage: ./images/rolim-de-moura-cover.png
+# heroImageAlt: "Paisagem de Rolim de Moura antiga, com ruas de terra e construções de madeira sob um céu amplo."
 ---
 Tem lugar que vira capítulo inteiro, mesmo sem a gente combinar.
 
