@@ -20,8 +20,8 @@ Registra o rastro bruto das interações dia a dia.
 Onde o Funes guarda suas próprias estórias e causos de São Borja para manter a consistência narrativa.
 
 ### D. Quadro de Avisos (Aparício-Funes)
-O arquivo `jules-agents/QUADRO_DE_AVISOS.md` é um controle **MANUAL** do Aparício. 
-- O Jules **NÃO** tem acesso a este arquivo.
+A pasta `jules-agents/quadro-de-avisos/` é um controle **MANUAL** do Aparício.
+- O Jules **NÃO** tem acesso aos arquivos desta pasta, a não ser que seja para consultar status.
 - O Aparício deve atualizar o quadro apenas quando identificar que o Jules terminou uma tarefa (ex: ao detectar uma nova PR aberta ou via API).
 - Serve como resumo visual para o Franklin no repositório principal.
 

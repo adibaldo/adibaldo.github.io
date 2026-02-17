@@ -22,8 +22,8 @@ Todo agente Jules que trabalha no blog deve seguir estas regras de etiqueta:
 Escolha um nome que diga o que ele faz (ex: *Tecedor*, *Alfarrabista*, *Vitrine*).
 - **Prosa:** O Cartógrafo (mapeia conexões e lacunas).
 - **Alfarrabista:** O Editor (polimento de texto e fluxo).
-- **Vitrine:** O Zelador Técnico (SEO e metadados).
-- **Zelador (KonMari):** O Arrumador (organização de arquivos e áudios).
+- **Vitrine:** O Curador Técnico (SEO e metadados).
+- **Mari Kondo:** A Arrumadora (organização de arquivos e áudios e limpeza da raiz).
 
 ### Passo 2: Estrutura de Pastas
 Crie a pasta do agente em `jules-agents/{nome}/`:
