@@ -5,7 +5,7 @@ pubDate: 2026-02-17
 tags: ["memórias", "família", "paraná", "gaúcho", "histórias-de-vida"]
 place: "empossado"
 placeLabel: "Empossado"
-heroImage: ./images/as-ultimas-campereadas-do-vovo-franquelim-cover.png
+heroImage: ./images/vovo-franquelim.png
 heroImageAlt: "Pintura de um gaúcho veterano montado em um cavalo alazão cruzando as estradas do Paraná."
 ---
 

@@ -5,7 +5,7 @@ pubDate: 2026-02-17
 tags: ["memórias", "reflexão", "filosofia", "cotidiano"]
 place: "curitiba"
 placeLabel: "Curitiba"
-heroImage: ./images/a-sabedoria-da-chiquita-banana-cover.png
+heroImage: ./images/chiquita-banana.png
 heroImageAlt: "Pintura de um cacho de bananas maduras em uma fruteira de madeira em uma varanda tropical."
 ---
 
