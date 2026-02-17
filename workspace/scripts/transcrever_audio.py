@@ -28,7 +28,7 @@ def transcribe_audio(file_path, api_key):
 
     print("\nIniciando transcrição...")
     response = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-2.0-flash-lite",
         contents=[
             "Transcreva este áudio fielmente para o português brasileiro. "
             "Se houver gírias ou expressões informais, mantenha-as conforme falado.",
