@@ -25,8 +25,7 @@ from pathlib import Path
 from PIL import Image
 
 _DEFAULT_NANO_BANANA = (
-    "/home/franklin/.nvm/versions/node/v22.22.0/lib/"
-    "node_modules/openclaw/skills/nano-banana-pro/scripts/generate_image.py"
+    "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/scripts/generate_image_flash.py"
 )
 NANO_BANANA_SCRIPT = Path(os.environ.get("NANO_BANANA_SCRIPT", _DEFAULT_NANO_BANANA))
 
