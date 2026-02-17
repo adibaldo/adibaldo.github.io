@@ -15,6 +15,18 @@ Todo agente Jules deve seguir rigorosamente este protocolo para garantir a conti
 
 ---
 
+## 📁 Estrutura Monorepo
+
+O nosso repositório é um monorepo que contém as memórias e o próprio blog do seu Adi:
+- **`workspace/`**: Raiz do ambiente do Aparício.
+- **`workspace/adibaldo.github.io/`**: Código-fonte e conteúdo do blog (Astro).
+- **`workspace/jules-agents/`**: Definições desta tropa.
+- **`workspace/memory/`**: Memórias consolidadas e rastro das prosas.
+
+**Importante**: Os agentes Jules devem sempre trabalhar apontando para o repositório `franklinbaldo/aparicio-funes` e utilizar caminhos relativos à raiz deste repo (ex: `workspace/adibaldo.github.io/src/content/blog/`).
+
+---
+
 ## 👥 Nosso Roster (A Tropa)
 
 | Agente | Missão Principal | Especialidade |

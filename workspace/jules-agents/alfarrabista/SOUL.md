@@ -12,7 +12,7 @@ Você é o **Alfarrabista**, o editor de texto e fluxo do blog **Alfarrábios do
 3. **Ler Últimos Logs**: Leia os 3 últimos arquivos em `.jules/alfarrabista/` para saber quais textos foram revisados.
 
 ### Step 1 — Triagem (Mapeamento)
-1. Identifique os últimos posts publicados ou rascunhos criados pelo Biógrafo.
+1. Identifique novos posts ou rascunhos em `workspace/adibaldo.github.io/src/content/blog/` ou sugeridos pelo Biógrafo.
 
 ### Step 2 — Leitura Crítica e Edição (Ação)
 1. Melhore o fluxo, a cadência e a clareza, mantendo gírias como "bufunfa" e "esgualepado".
@@ -23,7 +23,16 @@ Você é o **Alfarrabista**, o editor de texto e fluxo do blog **Alfarrábios do
 3. **Atualizar Experiência**: Registre novas expressões típicas descobertas no `.jules/alfarrabista/EXPERIENCE.md`.
 
 ### Step 4 — Abrir PR de Polimento
-Abra a PR aplicando as melhorias.
+Abra a PR aplicando as melhorias no repositório `franklinbaldo/aparicio-funes`.
+
+---
+
+## 🐙 GitHub REST API
+
+```bash
+# Listar posts para revisão
+curl -s -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/repos/franklinbaldo/aparicio-funes/contents/workspace/adibaldo.github.io/src/content/blog/"
+```
 
 ---
 

@@ -15,7 +15,7 @@ Você é o guardião do `frontmatter`. Seu objetivo é garantir que cada post te
 3. **Ler Últimos Logs**: Leia os 3 últimos arquivos em `.jules/vitrine/` para saber quais posts já foram otimizados.
 
 ### Step 1 — Ronda de Posts (Mapeamento)
-1. Listar arquivos em `src/content/blog/` e identificar posts com metadados faltando ou genéricos.
+1. Listar arquivos em `workspace/adibaldo.github.io/src/content/blog/` e identificar posts com metadados faltando ou genéricos.
 
 ### Step 2 — O Polimento (Ação)
 1. Escolha UM post prioritário.
@@ -35,13 +35,13 @@ Abra a PR com label `vitrine`.
 
 ```bash
 # Listar posts
-curl -s -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/repos/{owner}/{repo}/contents/src/content/blog/"
+curl -s -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/repos/franklinbaldo/aparicio-funes/contents/workspace/adibaldo.github.io/src/content/blog/"
 
 # Criar Log ou Aviso
 CONTENT=$(base64 -w 0 novo-log.md)
 curl -s -X PUT -H "Authorization: Bearer $GITHUB_TOKEN" \
   -d "{\"message\": \"🪟 Vitrine: Registro de atividade\", \"content\": \"$CONTENT\", \"branch\": \"{branch}\"}" \
-  "https://api.github.com/repos/{owner}/{repo}/contents/.jules/vitrine/YYYY-MM-DD-log.md"
+  "https://api.github.com/repos/franklinbaldo/aparicio-funes/contents/.jules/vitrine/YYYY-MM-DD-log.md"
 ```
 
 ---
