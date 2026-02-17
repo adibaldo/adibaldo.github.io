@@ -53,7 +53,7 @@ def generate(prompt, filename, voice="Charon"):
     model = "gemini-2.5-flash-preview-tts"
     
     # Adicionando o estilo canônico do Aparício ao prompt se não estiver presente
-    style_prefix = "[Estilo: Gaúcho de São Borja, maduro, fala pausada, calorosa. Use entonação de quem está contando um causo na varanda. Use transliteração gauchesca para o sotaque.] "
+    style_prefix = "[Estilo: Gaúcho de São Borja, maduro, fala pausada, calorosa. Pronúncia: o nome 'Adi' é oxítona, soa como 'Adí'. Use entonação de quem está contando um causo na varanda. Use transliteração gauchesca para o sotaque.] "
     if style_prefix[:20] not in prompt:
         prompt = style_prefix + prompt
 
