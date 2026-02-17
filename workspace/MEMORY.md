@@ -37,3 +37,5 @@ A ferramenta `memory_search` indexa toda a pasta `memory/`. Antes de qualquer pr
 
 ## Causos Documentados
 - **As Últimas Campereadas do Vovô Franquelim:** Relato da jornada de Adí (16 anos) montado num alazão por 60km para visitar o avô acamado. Inclui o causo do "Vergílio Costela" e a peleia com as formigas correição.
+- **A Vaca Repontada por Teco-Teco:** Causo de humor em São Borja, onde Franquelim convence Gaudêncio que Getúlio Vargas enviou aviões para repontar uma vaca vendida para o Rio de Janeiro.
+- **A Galinha na Farofa e a Sesta Sagrada:** Causo de humor sobre Franquelim sestendo sob uma figueira perto de casa para comer sozinho a galinha na farofa feita por Amantina, evitando "repartir" o bocado.
