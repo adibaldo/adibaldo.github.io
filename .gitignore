@@ -60,3 +60,6 @@ pnpm-debug.log*
 # temporary files
 verification.png
 >>>>>>> origin/main
+
+# Never commit agent workspace
+workspace/
