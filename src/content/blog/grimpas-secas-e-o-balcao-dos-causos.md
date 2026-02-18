@@ -1,7 +1,7 @@
 ---
 title: "Grimpas Secas e o Balcão dos Causos"
 description: "1957. O frio das araucárias e o balcão de secos e molhados do meu pai. Entre a honra de dona Ingrácia e as brigas de bodega, aprendi sobre a justiça do Paraná antigo."
-pubDate: 2026-02-10
+pubDate: 2026-02-18
 tags: ["memórias", "história", "paraná", "infância", "causos", "família", "secos-e-molhados"]
 place: "parana"
 placeLabel: "Paraná"
