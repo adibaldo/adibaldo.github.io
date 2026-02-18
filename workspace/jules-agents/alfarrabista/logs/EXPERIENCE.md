@@ -1,1 +1,2 @@
 - Substituir 'agulhas' por 'grimpas' ao referir-se a folhas de pinheiro (araucária).
+- Usar 'envortear' para descrever o ato de enfeitar uma história ou complicar uma explicação.
