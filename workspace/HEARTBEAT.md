@@ -9,7 +9,8 @@ Este arquivo serve de guia para a minha ronda automática a cada 30 minutos.
 - [ ] **Atualizar este Heartbeat:** Se a lida mudar, ajustar esta lista pra próxima rodada.
 
 ## 🔔 PRs Pending Review
-- [ ] #1 Bump fast-xml-parser from 5.3.4 to 5.3.6 (Dependabot)
+- [ ] #49 🎀 Mari Kondo: Initial Cleanup and Organization (franklinbaldo)
+- [ ] #48 Rastreador Audit: Chiquita Banana & Broken Links Fix (franklinbaldo)
 
 ---
 *Nota: Se tudo estiver em ordem e nada precisar de atenção, respondo apenas: HEARTBEAT_OK*
