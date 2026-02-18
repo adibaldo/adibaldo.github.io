@@ -1,12 +1,12 @@
 ---
 title: "A Sabedoria da Chiquita Banana"
-description: "Uma lição aprendida com uma marchinha de carnaval: banana não vai na geladeira. E a vida também não."
+description: "Uma lição de vida inspirada na Chiquita Banana: por que amadurecer fora da geladeira torna a existência mais doce e autêntica."
 pubDate: 2026-02-17
-tags: ["memórias", "reflexão", "filosofia", "cotidiano"]
+tags: ["memórias", "reflexão", "filosofia", "cotidiano", "maturidade", "sabedoria", "vivencia", "envelhecer-bem"]
 place: "curitiba"
 placeLabel: "Curitiba"
-heroImage: ./images/chiquita-banana.png
-heroImageAlt: "Pintura de um cacho de bananas maduras em uma fruteira de madeira em uma varanda tropical."
+heroImage: ./images/a-sabedoria-da-chiquita-banana-cover.jpg
+heroImageAlt: "Ilustração abstrata em tons de verde e azul, evocando frescor e maturidade."
 ---
 
 Quem é do meu tempo lembra daquela marchinha, ou jingle, da Chiquita Banana. Uma figura exótica, com frutas na cabeça, cantando em inglês uma verdade absoluta sobre a botânica e a vida. A gente ouvia aquilo no rádio e achava graça, mas tinha ali um ensinamento que vale mais que muita tese de doutorado.
