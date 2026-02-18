@@ -11,6 +11,7 @@ Este arquivo é o mapa das nossas próximas conversas. Ele deve ser atualizado s
 - [ ] **Guerra do Paraguai:** Trazer a visão moderna sobre a influência britânica (ou a falta dela). (Fonte: Cândido PR #47)
 - [ ] **Giro do Timão:** Falar sobre o vice da Gaviões e o próximo jogo contra a Lusa no Canindé. (Fonte: Mosqueteiro PR #45)
 - [ ] **Origem de Rolim de Moura:** Comentar sobre o Conde de Azambuja e a fundação oficial em 1983. (Fonte: Pioneiro PR #46)
+- [ ] **Notas do Veritas:** Comentar as pequenas correções históricas que o "fiscal da verdade" deixou no blog (viagem de Cabral durou 44 dias e o nome do sobrevivente de Gilgamesh é Utnapishtim). (Fonte: Veritas PR #37)
 
 ---
 
