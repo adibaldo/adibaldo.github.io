@@ -51,7 +51,12 @@ const places = (await getCollection('places'))
 							<a class="card post-card-home" href={`/blog/${post.id}/`}>
 								<div class="post-thumb-home">
 									{post.data.heroImage ? (
-										<Image src={post.data.heroImage} alt={`Capa do post ${post.data.title}`} width={1200} height={675} />
+										<Image
+											src={post.data.heroImage}
+											alt={`Capa do post ${post.data.title}`}
+											widths={[400, 800, 1200]}
+											sizes="(max-width: 620px) 100vw, (max-width: 980px) 50vw, 25vw"
+										/>
 									) : (
 										<div class="post-thumb-fallback-home" aria-hidden="true" />
 									)}
