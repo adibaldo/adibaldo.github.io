@@ -1,0 +1,46 @@
+---
+---
+<section class="comments">
+	<script
+		src="https://giscus.app/client.js"
+		data-repo="adibaldo/adibaldo.github.io"
+		data-repo-id="R_kgDORK6bRw"
+		data-category="Announcements"
+		data-category-id="DIC_kwDORK6bR84C2B5w"
+		data-mapping="pathname"
+		data-strict="0"
+		data-reactions-enabled="1"
+		data-emit-metadata="0"
+		data-input-position="bottom"
+		data-theme="https://adibaldo.github.io/giscus-custom.css"
+		data-lang="pt"
+		crossorigin="anonymous"
+		async>
+	</script>
+</section>
+
+<script>
+	function updateGiscusTheme() {
+		const isDark = document.documentElement.dataset.theme === 'dark';
+		const theme = isDark
+			? 'https://adibaldo.github.io/giscus-custom.css'
+			: 'https://adibaldo.github.io/giscus-custom.css';
+
+		const iframe = document.querySelector('iframe.giscus-frame');
+		if (!iframe) return;
+		iframe.contentWindow?.postMessage(
+			{ giscus: { setConfig: { theme } } },
+			'https://giscus.app'
+		);
+	}
+
+	const observer = new MutationObserver((mutations) => {
+		mutations.forEach((mutation) => {
+			if (mutation.attributeName === 'data-theme') {
+				updateGiscusTheme();
+			}
+		});
+	});
+
+	observer.observe(document.documentElement, { attributes: true });
+</script>
