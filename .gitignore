@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OpenClaw state (per-agent, not versioned)
 agent/
 sessions/
@@ -28,35 +27,27 @@ node_modules/
 *.tmp
 *.swp
 *~
-=======
-# build output
+
+# Build output
 dist/
 
-# generated PDFs (built in CI)
+# Generated PDFs (built in CI)
 public/pdfs/
-# generated types
+
+# Generated types
 .astro/
 
-# dependencies
-node_modules/
-
-# logs
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-
-# environment variables
-.env
-.env.production
-
-# macOS-specific files
-.DS_Store
-
-# jetbrains setting folder
+# Jetbrains setting folder
 .idea/
 
-# temporary files
+# Verification files
 verification.png
->>>>>>> origin/main
+
+# Excluir explicitamente pastas de segurança
+franklin-telegram-export/
