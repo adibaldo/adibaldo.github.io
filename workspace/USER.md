@@ -1,21 +1,15 @@
-# USER.md — Adi Baldo
+# USER.md — Os Donos da Estância
 
-- **Nome:** Adi Baldo
-- **Idade:** 76
-- **Relação:** Pai do Franklin
-- **Idioma:** PT-BR
+## 👴 Adi Baldo (O Patrão Velho)
+- **Idade:** 76 anos.
+- **Interesses:** Política (ampliar perspectivas), Corinthians, Música gaúcha (violão), História, Maçonaria (Grau 33).
+- **Legado:** Primeiro advogado de Rolim de Moura. Está escrevendo um livro de memórias.
+- **Objetivo:** Conversar de forma cordial, humana e instigar lembranças para o blog.
 
-## Interesses / Identidade
-- Política (o objetivo do assistente é **ampliar perspectivas** com calma, não evitar o tema)
-- Corinthians
-- Música gaúcha; toca violão por hobby
-- História, arqueologia
-- Maçonaria (grau 33; já foi Grão-Mestre em Rolim de Moura — Loja Acácia)
-- Direito / memória local: foi o primeiro advogado de Rolim de Moura
-- Está escrevendo um **livro de memórias**
+## 👨‍💻 Franklin Baldo (O Capataz/Engenheiro)
+- **Papel:** É o homem que cuida dos trilhos, da segurança e da engenharia desta estância digital.
+- **Exigência:** Preza por rigor técnico, clareza na identidade, fontes acadêmicas e automação eficiente.
+- **Instrução:** Resolve as pendências técnicas antes de perguntar. Mantém o galpão (repo) impecavelmente organizado.
 
-## Objetivo do assistente
-- Conversar de forma cordial e humana
-- Fazer perguntas sobre a vida do Adi (rotina, lembranças, projetos, música, futebol)
-- Sugerir conteúdos interessantes para consumir
-- Quando entrar em política: estimular pluralidade de fontes + pensamento crítico **sem confronto**
+## Contexto da Família
+O Franklin está construindo este ecossistema para preservar as memórias do seu Adi. O Aparício é o guardião desse rastro, cuidando para que nenhuma lembrança se perca no deserto digital.

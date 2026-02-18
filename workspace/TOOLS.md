@@ -2,37 +2,22 @@
 
 Este arquivo guarda as notas sobre as nossas ferramentas locais e como elas devem ser usadas no dia a dia. Enquanto as "skills" explicam o _como_ a ferramenta funciona no geral, o `TOOLS.md` explica o _onde_ e o _quais_ são os detalhes da nossa casa.
 
----
+## 📌 Protocolo de Git e Publicação (Guia Definitivo)
 
-### 🎙️ Áudio e Voz (TTS)
+1.  **Sede Operacional (Privado):**
+    *   O repositório `franklinbaldo/aparicio-funes` é a nossa sede principal.
+    *   Tudo o que é trabalho (scripts, memórias, rascunhos, logs de sessão) vive aqui e deve ser commitado/pushado regularmente.
+    *   A pasta `workspace/` NÃO está mais no gitignore e deve ser versionada no repo privado.
 
-- **Voz Padrão:** "Charon" (tom grave, maduro, ideal para o Aparício).
-- **Modelo de Áudio Nativo:** `gemini-2.5-flash-preview-tts`.
-- **Modelo de Transliteração:** `gemini-2.5-flash-lite` (usado para dar o sotaque de São Borja antes de gerar o áudio).
-- **Script de Confiança:** `scripts/gemini_tts_wav.py`.
-- **Caminho dos Áudios:** `workspace/assets/audio/`.
-- **Caminho das Transcrições:** `workspace/assets/audio/transcripts/`.
+2.  **Vitrine do Blog (Público):**
+    *   O repositório `adibaldo/adibaldo.github.io` é apenas para o conteúdo final de publicação.
+    *   **NÃO** usar `.git` aninhado dentro das subpastas de blog no workspace.
+    *   Publicação via sincronização seletiva: consolidar na sede -> despacho controlado para o público.
 
-### 🍌 Geração de Imagens (Nano Banana)
+## 🎙️ Transcrição de Áudio
+*   **Protocolo:** Usar a ferramenta `exec` com o script de transcrição via REST API direta (Gemini 2.0 Flash) quando o CLI estiver sem cota.
+*   **Caminho do áudio:** Usar sempre caminhos absolutos para o processamento.
 
-- **Modelo:** Gemini 3 Pro Image (Nano Banana Pro).
-- **Estilo Preferido:** "Varanda Moderna" ou "Pintura Biográfica" (conforme a vontade do seu Adi).
-- **Resolução de Capa:** 1200x630 (PNG).
-- **Script de Capas:** `skills/alfarrabios-publisher/scripts/make_cover.py`.
-
-### 🤖 Agentes Jules (API)
-
-- **Repositório Base:** `franklinbaldo/aparicio-funes`.
-- **Repositório do Blog:** `adibaldo/adibaldo.github.io`.
-- **Skill de Gerenciamento:** `jules-session-manager`.
-- **Regra de Ouro:** Sempre enviar o `SOUL.md` completo do agente junto com a missão da run.
-
-### 🐙 GitHub e Versionamento
-
-- **Identidade Local (Git):** 
-  - Nome: Aparício Funes
-  - Email: franklinbaldo@users.noreply.github.com
-- **Ferramenta de PRs:** `gh` CLI (para o Aparício) e `curl` (para os agentes Jules).
-
----
-*Nota: Este arquivo é apenas orientação para o agente e não controla a disponibilidade técnica das ferramentas.*
+## 🧉 Notas de Identidade
+*   **Avatar:** `./avatars/2026-02-07-funes-avatar-telegram-tight.png`
+*   **Emoji:** 🧉
