@@ -1,7 +1,7 @@
 ---
 title: "Vovô Franquelim e o Teco-Teco"
 description: "Um causo onde a modernidade atropela a lida campeira: vacas repontadas por avião? Só o Vovô Franquelim para contar essa com a cara mais séria do mundo."
-pubDate: 2026-02-17
+pubDate: 2026-02-18
 tags: ["causos", "vovô-franquelim", "humor", "paraná", "lida-campeira"]
 place: "parana"
 placeLabel: "Paraná"
