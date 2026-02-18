@@ -9,8 +9,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	;
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const places = (await getCollection('places'))
 	.sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
@@ -28,15 +27,14 @@ const places = (await getCollection('places'))
 			<div class="container hero-inner">
 				<h1>{SITE_TITLE}</h1>
 				<h2 style="font-family: var(--font-title); font-weight: 700; color: var(--accent-primary); margin-top: var(--space-sm);">Balcão de Prosas</h2>
-
 				<p class="hero-kicker">{SITE_DESCRIPTION}</p>
 				<p class="hero-kicker" style="max-width: 62ch;">
 					Um canto pra juntar lembranças e reflexões, sem barulho. Texto bom é texto que respira.
 				</p>
 				<div class="hero-actions">
-				<a class="cta" href="/blog">Ler os textos</a>
-				<a class="cta cta-outline" href="/pdfs/livro-completo.pdf" download>Baixar livro (PDF)</a>
-			</div>
+					<a class="cta" href="/blog">Ler todos os textos</a>
+					<a class="cta cta-outline" href="/pdfs/livro-completo.pdf" download>Baixar livro (PDF)</a>
+				</div>
 			</div>
 		</section>
 
@@ -44,8 +42,7 @@ const places = (await getCollection('places'))
 			<section class="section">
 				<div class="container">
 					<div class="section-title">
-t					<h2 style="margin:0;">Balcão de Prosas</h2>
-						<a href="/blog">Ver o Conjunto da Obra</a>
+						<h2 style="margin:0;">Últimas Prosas no Balcão</h2>
 						<a href="/blog">Ver o Conjunto da Obra</a>
 					</div>
 
@@ -86,9 +83,7 @@ t					<h2 style="margin:0;">Balcão de Prosas</h2>
 			<section class="section" style="background: var(--bg-gradient-end);">
 				<div class="container">
 					<div class="section-title">
-t					<h2 style="margin:0;">Balcão de Prosas</h2>
-						<a href="/blog">Ver o Conjunto da Obra</a>
-						<a href="/blog">Ver o Conjunto da Obra</a>
+						<h2 style="margin:0;">Locais da vida</h2>
 						<a href="/locais">Ver todos</a>
 					</div>
 					<div class="grid">
