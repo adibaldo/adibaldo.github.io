@@ -1,7 +1,6 @@
----
-date: 2026-02-18T12:18:13
-agent: alfarrabista
-action: edit
-target: o-cavalo-javali-e-o-misterio-das-aboboras.md
----
-Polimento concluído em "O Cavalo Javali". Texto afinado com o sotaque e vocabulário sagrado.
+# Alfarrabista: O Cavalo Javali (CORREÇÃO)
+
+- **Post:** O Cavalo Javali e o Mistério das Abóboras
+- **Status:** **REJEITADA / REVERTIDA**
+- **Ação:** Reversão da edição anterior para manter a "Voz do Adi" intacta. A edição original foi considerada invasiva.
+- **Data:** 2026-02-18
