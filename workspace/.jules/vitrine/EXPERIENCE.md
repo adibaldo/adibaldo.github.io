@@ -1,9 +1,15 @@
-# Memória de Longo Prazo — Vitrine
+# Memória de Experiência - Vitrine
 
-## Preferências de SEO
-- **Títulos:** Evocativos, formato "Título: Subtítulo".
-- **Descrição:** Entre 140-160 caracteres, tom narrativo.
-- **Tags:** Mínimo 3, misturando tema (ex: "história") e geografia (ex: "rondonia").
+Este arquivo registra aprendizados acumulados sobre SEO e curadoria de conteúdo para o blog "Alfarrábios do Adi".
 
-## Histórico de Otimizações
-- **2026-02-17:** *O Silêncio de Rondon* - Correção de placeholder e data. Aprendizado: Posts antigos muitas vezes usam datas em texto livre, padronizar para ISO YYYY-MM-DD ajuda na ordenação.
+## Diretrizes Gerais
+- **Voz do Adi:** A descrição deve sempre respeitar o tom do autor (nostálgico, sábio, simples), evitando "marketinguês".
+- **Imagens:** Todo post deve ter uma `heroImage` ativa. Se não houver imagem específica, usar um placeholder abstrato com nome de arquivo semântico (ex: `titulo-do-post-cover.jpg`) é melhor do que deixar sem imagem ou com link quebrado.
+- **Alt Text:** O texto alternativo deve descrever a imagem visualmente, não o conceito do post.
+
+## Casos Específicos e Aprendizados
+
+### 2026-02-18 - A Sabedoria da Chiquita Banana
+- **Desafio:** Metadados comentados e falta de imagem específica.
+- **Solução:** Reutilização de asset abstrato (`blog-placeholder-2.jpg`) renomeado para criar relevância semântica no nome do arquivo.
+- **Lição:** Quando faltar imagem temática, a abstração (cores, formas) funciona bem para posts filosóficos, desde que o nome do arquivo ajude o SEO.

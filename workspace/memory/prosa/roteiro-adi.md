@@ -24,3 +24,6 @@ Este arquivo é o mapa das nossas próximas conversas. Ele deve ser atualizado s
 
 ---
 *"Uma prosa bem preparada é meio caminho andado para uma lembrança bem guardada."*
+- [ ] **A Sabedoria da Chiquita Banana:** Comentar que o Vitrine otimizou o post e ativou a capa.
+- [ ] **Correções do Tecedor:** Ver novas conexões em Pato Branco, Empossado e Curitiba.
+- [ ] **Alerta do Alfarrabista:** Reversão da edição do post do Cavalo Javali para preservar a voz original.
