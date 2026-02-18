@@ -20,3 +20,7 @@
 ### 4. Lições de Resgate (17/02/2026)
 - Histórias de família como "Vovô Franquelim" devem ter arquivos próprios em `familia-baldo/`.
 - O ceticismo do Pioneiro é vital para a credibilidade das memórias de Rolim.
+
+### 5. Preservação de Texto (18/02/2026)
+- **Não-Invasão:** Ao editar textos de alta densidade intelectual (como o de Scott Alexander), a função do Biógrafo é polir a forma (tipografia, fluxo) sem tocar na substância.
+- **Tipografia Gwern:** Aspas inteligentes e travessões reais não são preciosismo; são respeito ao leitor.
