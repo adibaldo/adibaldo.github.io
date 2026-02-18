@@ -1,0 +1,1 @@
+- Substituir 'agulhas' por 'grimpas' ao referir-se a folhas de pinheiro (araucária).
