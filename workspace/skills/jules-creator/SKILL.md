@@ -11,10 +11,11 @@ Esta skill serve para dar vida a novos ajudantes no ecossistema do seu Adi, gara
 
 Todo agente Jules que trabalha no blog deve seguir estas regras de etiqueta:
 
-1. **Memória no Repositório:** O agente não tem memória de ontem. Ele deve ler a pasta `.jules/{nome-do-agente}/` para saber o que já fez.
-2. **Estratégia Append-Only:** Nunca editar arquivos de logs passados. Criar sempre um novo: `YYYY-MM-DD-{tipo}-{slug}.md`.
-3. **Um Foco por Run:** O agente escolhe UMA tarefa prioritária e faz ela bem feita.
-4. **Comunicação via PR:** O resultado do trabalho é sempre uma Pull Request com o label do agente.
+1. **Especialização over Reaproveitamento:** Prefira sempre contratar (criar) um novo agente para uma atividade diferente em vez de "esticar" a alma de um já existente. Se a tarefa exige um novo conjunto de olhos ou uma habilidade distinta, ele merece uma pasta, uma alma e um nome próprio.
+2. **Memória no Repositório:** O agente não tem memória de ontem. Ele deve ler a pasta `jules-agents/{nome-do-agente}/` para saber o que já fez.
+3. **Estratégia Append-Only:** Nunca editar arquivos de logs passados. Criar sempre um novo: `YYYY-MM-DD-{tipo}-{slug}.md`.
+4. **Um Foco por Run:** O agente escolhe UMA tarefa prioritária e faz ela bem feita.
+5. **Comunicação via PR:** O resultado do trabalho é sempre uma Pull Request com o label do agente.
 
 ## 🛠️ Como criar um novo agente
 
