@@ -4,6 +4,7 @@ import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import Giscus from '../components/Giscus.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 
@@ -151,24 +152,7 @@ const breadcrumbLD = {
 
 				<hr style="margin: var(--space-3xl) 0;" />
 
-				<section class="comments">
-					<script
-						src="https://giscus.app/client.js"
-						data-repo="adibaldo/adibaldo.github.io"
-						data-repo-id="R_kgDORK6bRw"
-						data-category="Announcements"
-						data-category-id="DIC_kwDORK6bR84C2B5w"
-						data-mapping="pathname"
-						data-strict="0"
-						data-reactions-enabled="1"
-						data-emit-metadata="0"
-						data-input-position="bottom"
-						data-theme="https://adibaldo.github.io/giscus-custom.css"
-						data-lang="pt"
-						crossorigin="anonymous"
-						async>
-					</script>
-				</section>
+				<Giscus />
 			</div>
 		</main>
 
@@ -195,31 +179,5 @@ const breadcrumbLD = {
 				}
 			}
 		</style>
-
-		<script>
-			function updateGiscusTheme() {
-				const isDark = document.documentElement.dataset.theme === 'dark';
-				const theme = isDark 
-					? 'https://adibaldo.github.io/giscus-custom.css' 
-					: 'https://adibaldo.github.io/giscus-custom.css';
-				
-				const iframe = document.querySelector<HTMLIFrameElement>('iframe.giscus-frame');
-				if (!iframe) return;
-				iframe.contentWindow?.postMessage(
-					{ giscus: { setConfig: { theme } } },
-					'https://giscus.app'
-				);
-			}
-
-			const observer = new MutationObserver((mutations) => {
-				mutations.forEach((mutation) => {
-					if (mutation.attributeName === 'data-theme') {
-						updateGiscusTheme();
-					}
-				});
-			});
-
-			observer.observe(document.documentElement, { attributes: true });
-		</script>
 	</body>
 </html>

@@ -87,7 +87,7 @@ Para limpar a capoeira e plantar, papai organizou um **mutirão**. Ver vinte pe�
 
 ### A Bodega do Gigante
 
-Papai, o gigante que nos trouxe, logo virou **bodegueiro**. Nossa casa era o porto seguro de caboclos, italianos e polacos. Tinha de tudo: cachaça, fumo em corda, pólvora e bolacha Maria. Chegavam a cavalo ou a pé, sempre de chapéu de palha e facão na cintura. Tinha o **Theodoro**, viciado no baralho; o **Pedrinho Facão**; o [**João Madalena**](/blog/chao-de-agulhas-e-balcao-dos-causos/), que uma vez aprontou um bafafá por causa de uma faca e levou um peso de balança na testa; e tantos outros.
+Papai, o gigante que nos trouxe, logo virou **bodegueiro**. Nossa casa era o porto seguro de caboclos, italianos e polacos. Tinha de tudo: cachaça, fumo em corda, pólvora e bolacha Maria. Chegavam a cavalo ou a pé, sempre de chapéu de palha e facão na cintura. Tinha o **Theodoro**, viciado no baralho; o **Pedrinho Facão**; o [**João Madalena**](/blog/grimpas-secas-e-o-balcao-dos-causos/), que uma vez aprontou um bafafá por causa de uma faca e levou um peso de balança na testa; e tantos outros.
 
 Papai era o conciliador, apartando as confusões da freguesia. E mamãe, **dona Ingrácia**, quando preciso, montava no burro manso e ia até a delegacia "largar os cachorros" nos baderneiros.
 
