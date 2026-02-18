@@ -14,6 +14,8 @@ Aprendemos que a história nasce com a escrita, decifrada por Champollion em 182
 
 Dizem que a Arca encalhou no Monte Ararat, a cinco mil metros de altitude. Se foi no topo ou na base, ninguém sabe ao certo. Mas se foi lá em cima, Noé entrou numa fria danada e deve ter descido o morro batendo queixo! Arqueólogos afirmam ter encontrado vestígios de tudo por lá — até de "cocô de grilo", segundo os mais entusiasmados. Aberta a comporta, saiu todo mundo na mais perfeita ordem para repovoar a terra. Ou assim nos contam.
 
+> **Nota do Veritas:** Na *Epopeia de Gilgamesh*, o sobrevivente do dilúvio que possui a imortalidade é Utnapishtim. Gilgamesh é o rei herói que o procura. A confusão dos nomes no texto ilustra a própria tese do autor sobre a mistura de mitos e narrativas.
+
 ## Do Paraíso à Favela: O Marco Zero da Sobrevivência
 
 No Brasil, D. João VI e sua comitiva, fugindo de Napoleão, requisitaram as melhores casas — e o povo que já estava ali foi posto na rua (o famoso "P.R."). Foi, digamos, o marco zero das favelas. Mas bem antes disso, Adão já havia sido expulso às pressas do Paraíso por causa de uma serpente encrenqueira. Foi o fim da moleza.

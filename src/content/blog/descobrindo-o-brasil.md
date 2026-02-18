@@ -15,6 +15,8 @@ Cabral ficou uns dias em Porto Seguro. Segundo Pero Vaz de Caminha, os "portugas
 
 A folga acabou quando Frei Henrique de Coimbra reclamou: *"Pois pois, e o que estou eu a fazer aqui?"*. Cabral, soldado de Cristo, mandou Caminha escrever ao Rei. Dizem que D. Manoel não se empolgou com o famoso *"em se plantando, tudo dá"*. Ele queria era ouro, prata e riquezas imediatas. Desde então, o mundo passa por aqui querendo tirar uma casquinha... e continua igualzinho. Até o amigo Trump mandou as patriotas às favas quando viu que outros interesses eram mais úteis.
 
+> **Nota do Veritas:** A viagem de Cabral de Lisboa ao Brasil (9 de março a 22 de abril de 1500) durou, na verdade, 44 dias. O arredondamento do autor para 40 dias mantém o tom coloquial da narrativa.
+
 ### A Explosão do Oeste (1957 - 1987)
 O Brasil foi sendo povoado pelo litoral e pelos rios, mas a Amazônia permaneceu quase intacta até Juscelino construir Brasília. Entre 1957 e 1987, a conquista do Oeste explodiu. Milhares de brasileiros se embrenharam no cerrado e na floresta. Não foram para fazer turismo ou tirar retrato de borboleta; foram para transformar o inóspito em solo produtivo. Em 30 anos, criamos rebanhos e lavouras que hoje sustentam o mundo. 
 
