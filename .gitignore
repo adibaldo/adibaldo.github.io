@@ -1,6 +1,3 @@
-# Never commit agent workspace
-workspace/
-
 # OpenClaw state (per-agent, not versioned)
 agent/
 .openclaw/
@@ -51,3 +48,7 @@ verification.png
 
 # Security exports
 franklin-telegram-export/
+
+# Backup git metadata from nested repos
+workspace/.git.bak_*/
+workspace/**/.git.bak/
