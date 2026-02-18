@@ -20,6 +20,8 @@ Aqui estão registradas as expressões típicas e o sotaque que devem ser preser
 - **sanga**: Pequeno curso d'água.
 - **campereada**: Atividade no campo.
 - **gaudério**: Gaúcho errante, sem paradeiro fixo.
+- **prenda**: Mulher, namorada (termo carinhoso ou respeitoso).
+- **vivente**: Pessoa, sujeito, indivíduo.
 
 ## Estilo
 - **NUNCA** usar tom acadêmico ("bonitinho demais").
