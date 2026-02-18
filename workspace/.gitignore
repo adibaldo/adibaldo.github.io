@@ -27,3 +27,14 @@ node_modules/
 *.tmp
 *.swp
 *~
+
+# Astro/Build output
+dist/
+public/pdfs/
+.astro/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

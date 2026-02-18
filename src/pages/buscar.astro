@@ -1,0 +1,99 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog'))
+	.filter((p) => !p.data.draft)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.map((p) => ({
+		id: p.id,
+		title: p.data.title,
+		description: p.data.description,
+		tags: p.data.tags ?? [],
+		placeLabel: p.data.placeLabel ?? '',
+	}));
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead title={`Buscar — ${SITE_TITLE}`} description="Procurar nos alfarrábios." />
+	</head>
+	<body>
+		<Header />
+
+		<section class="hero">
+			<div class="container hero-inner">
+				<h1 style="font-size: clamp(34px, 4.5vw, 56px);">Buscar</h1>
+				<p class="hero-kicker">Procura por palavra, tema ou lugar.</p>
+			</div>
+		</section>
+
+		<main class="section">
+			<div class="reading-width">
+				<label class="sr-only" for="q">Procurar</label>
+				<input
+					id="q"
+					type="search"
+					placeholder="Procurar nos alfarrábios…"
+					style="width:100%; padding: 14px 16px; border-radius: 14px; border: 1px solid var(--border-light); font-family: var(--font-ui); font-size: 16px;"
+				/>
+				<div id="results" style="margin-top: var(--space-lg);"></div>
+			</div>
+		</main>
+
+		<Footer />
+
+		<script>
+			const posts = JSON.parse(document.getElementById('posts-json').textContent);
+			const q = document.getElementById('q');
+			const results = document.getElementById('results');
+
+			function render(items) {
+				if (!items.length) {
+					results.innerHTML = '<p class="meta">Não achei por esse rumo… tenta outra palavra.</p>';
+					return;
+				}
+				results.innerHTML = items
+					.slice(0, 20)
+					.map((p) => {
+						const meta = [p.tags?.[0], p.placeLabel].filter(Boolean).join(' • ');
+						return `
+							<a class="card" href="/textos/${p.id}/" style="margin-bottom: var(--space-md);">
+								<div class="tag-row">
+									${p.tags?.[0] ? `<span class="tag">${p.tags[0]}</span>` : ''}
+									${p.placeLabel ? `<span class="tag">${p.placeLabel}</span>` : ''}
+								</div>
+								<h3 class="card-title">${p.title}</h3>
+								<p class="card-desc">${p.description}</p>
+								${meta ? `<p class="meta" style="margin:0;">${meta}</p>` : ''}
+							</a>
+						`;
+					})
+					.join('');
+			}
+
+			function norm(s) {
+				return (s || '').toLowerCase();
+			}
+
+			function search(term) {
+				const t = norm(term).trim();
+				if (!t) return render(posts);
+				const filtered = posts.filter((p) => {
+					const hay = [p.title, p.description, p.placeLabel, ...(p.tags || [])].map(norm).join(' ');
+					return hay.includes(t);
+				});
+				render(filtered);
+			}
+
+			q.addEventListener('input', (e) => search(e.target.value));
+			render(posts);
+		</script>
+
+		<script type="application/json" id="posts-json">{JSON.stringify(posts)}</script>
+	</body>
+</html>

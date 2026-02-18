@@ -1,0 +1,638 @@
+/*
+  Alfarrábios do Adi — estilo base (varanda moderna)
+  Prioridade: legibilidade, contraste, respiro.
+*/
+
+/* ── Fontes auto-hospedadas ── */
+
+/* Playfair Display */
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/playfair-display-latin-ext-600-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/playfair-display-latin-600-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('/fonts/playfair-display-latin-ext-700-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('/fonts/playfair-display-latin-700-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 900;
+	font-display: swap;
+	src: url('/fonts/playfair-display-latin-ext-900-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 900;
+	font-display: swap;
+	src: url('/fonts/playfair-display-latin-900-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Source Sans 3 */
+@font-face {
+	font-family: 'Source Sans 3';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/source-sans-3-latin-ext-400-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Source Sans 3';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/source-sans-3-latin-400-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: 'Source Sans 3';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('/fonts/source-sans-3-latin-ext-500-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Source Sans 3';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('/fonts/source-sans-3-latin-500-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: 'Source Sans 3';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/source-sans-3-latin-ext-600-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Source Sans 3';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/source-sans-3-latin-600-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Source Serif 4 */
+@font-face {
+	font-family: 'Source Serif 4';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/source-serif-4-latin-ext-400-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Source Serif 4';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/source-serif-4-latin-400-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: 'Source Serif 4';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/source-serif-4-latin-ext-600-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Source Serif 4';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/source-serif-4-latin-600-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: 'Source Serif 4';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('/fonts/source-serif-4-latin-ext-700-normal.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: 'Source Serif 4';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('/fonts/source-serif-4-latin-700-normal.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+	/* Cores */
+	--bg-primary: #fdf0e2; /* creme claro */
+	--bg-gradient-start: #f5c77e; /* pêssego */
+	--bg-gradient-end: #fdf0e2;
+	--bg-card: #ffffff;
+	--bg-dark: #1a1a1a;
+	--text-primary: #1a1a1a;
+	--text-secondary: #6b5b4f;
+	--text-muted: #9b8b7f;
+	--text-dark-mode: #e8ddd0;
+	--accent-primary: #d4874e;
+	--accent-hover: #c07640;
+	--tag-bg: #f0e6d8;
+	--tag-text: #6b5b4f;
+	--border-light: #e8ddd0;
+	--border-card: #d4c4b0;
+
+	/* Espaçamento */
+	--space-xs: 4px;
+	--space-sm: 8px;
+	--space-md: 16px;
+	--space-lg: 24px;
+	--space-xl: 40px;
+	--space-2xl: 64px;
+	--space-3xl: 96px;
+
+	/* Layout */
+	--container-max: 1120px;
+	--reading-max: 720px;
+
+	/* Raios e sombras */
+	--radius-card: 12px;
+	--radius-tag: 16px;
+	--radius-button: 24px;
+	--shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06);
+	--shadow-card-hover: 0 4px 12px rgba(0, 0, 0, 0.1);
+	--shadow-navbar: 0 1px 8px rgba(0, 0, 0, 0.05);
+
+	/* Tipografia */
+	--font-title: 'Playfair Display', Georgia, 'Times New Roman', serif;
+	--font-body: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+	--font-ui: 'Source Sans 3', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+
+	color-scheme: light;
+}
+
+/* Dark/Leitura noturna */
+:root[data-theme='dark'] {
+	color-scheme: dark;
+	--bg-primary: #1a1a1a;
+	--bg-gradient-start: #2a2218;
+	--bg-gradient-end: #1a1a1a;
+	--bg-card: #221f1a;
+	--text-primary: #e8ddd0;
+	--text-secondary: #cbbcab;
+	--text-muted: #a89b8f;
+	--border-light: rgba(232, 221, 208, 0.15);
+	--border-card: rgba(232, 221, 208, 0.25);
+	--shadow-card: 0 1px 3px rgba(0, 0, 0, 0.35);
+	--shadow-card-hover: 0 6px 18px rgba(0, 0, 0, 0.45);
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: var(--bg-primary);
+	color: var(--text-primary);
+	font-family: var(--font-body);
+	font-size: 20px;
+	line-height: 1.75;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Modo leitura: aumenta fonte e respiro */
+body.reading {
+	font-size: 22px;
+	line-height: 1.85;
+}
+
+a {
+	color: var(--accent-primary);
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+	text-underline-offset: 3px;
+}
+
+a:hover {
+	color: var(--accent-hover);
+}
+
+p {
+	margin: 0 0 1.2em 0;
+}
+
+h1,
+h2,
+h3 {
+	font-family: var(--font-title);
+	line-height: 1.2;
+	margin: 0 0 0.6em 0;
+	letter-spacing: 0.2px;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: clamp(40px, 6vw, 72px);
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+
+h2 {
+	font-weight: 700;
+	font-size: clamp(22px, 2.8vw, 28px);
+}
+
+h3 {
+	font-weight: 600;
+	font-size: clamp(18px, 2.2vw, 22px);
+}
+
+small,
+.meta {
+	font-family: var(--font-ui);
+	color: var(--text-secondary);
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: var(--radius-card);
+}
+
+hr {
+	border: none;
+	border-top: 1px solid var(--border-light);
+	margin: var(--space-lg) 0;
+}
+
+.container {
+	width: min(var(--container-max), calc(100% - 2 * var(--space-md)));
+	margin: 0 auto;
+}
+
+.reading-width {
+	width: min(var(--reading-max), calc(100% - 2 * var(--space-md)));
+	margin: 0 auto;
+}
+
+/* Header */
+.site-header {
+	position: sticky;
+	top: 0;
+	z-index: 50;
+	padding: var(--space-sm) 0;
+	backdrop-filter: blur(10px);
+}
+
+.site-header.scrolled {
+	background: rgba(253, 240, 226, 0.88);
+	box-shadow: var(--shadow-navbar);
+}
+
+:root[data-theme='dark'] .site-header.scrolled {
+	background: rgba(26, 26, 26, 0.78);
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: var(--space-md);
+	font-family: var(--font-ui);
+}
+
+.nav-left {
+	display: flex;
+	align-items: center;
+	gap: var(--space-md);
+	min-width: 0;
+}
+
+.nav-brand {
+	font-size: 14px;
+	font-weight: 600;
+	color: var(--text-secondary);
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.nav-links {
+	display: flex;
+	gap: var(--space-md);
+	flex-wrap: wrap;
+}
+
+@media (max-width: 620px) {
+	.nav {
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+		padding: 4px 0;
+	}
+	.nav-left {
+		gap: var(--space-xs);
+	}
+	.nav-links {
+		gap: 4px;
+		font-size: 13px;
+	}
+	.nav-links a {
+		padding: 6px 4px;
+	}
+	.nav-right {
+		width: auto;
+		gap: 4px;
+	}
+	.icon-btn {
+		padding: 8px;
+	}
+	.icon-btn span {
+		display: none;
+	}
+}
+
+.nav a {
+	color: var(--text-primary);
+	text-decoration: none;
+	padding: 10px 8px;
+	border-radius: 10px;
+}
+
+.nav a:hover {
+	color: var(--accent-primary);
+}
+
+.nav a.active {
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+	text-underline-offset: 6px;
+	text-decoration-color: var(--accent-primary);
+}
+
+.nav-right {
+	display: flex;
+	align-items: center;
+	gap: var(--space-sm);
+}
+
+.icon-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	font-family: var(--font-ui);
+	font-size: 14px;
+	padding: 10px 12px;
+	border-radius: var(--radius-button);
+	border: 1px solid var(--border-light);
+	background: rgba(255, 255, 255, 0.6);
+	color: var(--text-primary);
+	text-decoration: none;
+	cursor: pointer;
+}
+
+:root[data-theme='dark'] .icon-btn {
+	background: rgba(34, 31, 26, 0.7);
+}
+
+.icon-btn:hover {
+	border-color: var(--border-card);
+	box-shadow: var(--shadow-card);
+}
+
+.icon {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}
+
+/* Hero */
+.hero {
+	background: linear-gradient(180deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+	padding: var(--space-2xl) 0 var(--space-xl) 0;
+}
+
+.hero-inner {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: var(--space-md);
+}
+
+.hero-kicker {
+	font-family: var(--font-ui);
+	color: var(--text-secondary);
+	max-width: 52ch;
+}
+
+.cta {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	font-family: var(--font-ui);
+	font-weight: 600;
+	font-size: 14px;
+	padding: 12px 28px;
+	border-radius: var(--radius-button);
+	border: 1px solid transparent;
+	background: var(--accent-primary);
+	color: white;
+	text-decoration: none;
+	width: fit-content;
+}
+
+.cta:hover {
+	background: var(--accent-hover);
+	color: white;
+}
+
+/* Seções */
+.section {
+	padding: var(--space-xl) 0;
+}
+
+.section-title {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: var(--space-md);
+	margin-bottom: var(--space-md);
+}
+
+.section-title a {
+	font-family: var(--font-ui);
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: var(--space-lg);
+}
+
+@media (max-width: 980px) {
+	.grid {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (max-width: 620px) {
+	body {
+		font-size: 18px;
+	}
+	body.reading {
+		font-size: 20px;
+	}
+	.grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+.card {
+	background: var(--bg-card);
+	border: 1px solid var(--border-light);
+	border-radius: var(--radius-card);
+	padding: var(--space-md);
+	box-shadow: var(--shadow-card);
+	text-decoration: none;
+	color: inherit;
+	min-height: 140px;
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-sm);
+}
+
+.card:hover {
+	border-color: var(--border-card);
+	box-shadow: var(--shadow-card-hover);
+}
+
+.card-title {
+	font-family: var(--font-title);
+	font-weight: 600;
+	font-size: 20px;
+	margin: 0;
+	text-decoration: none;
+}
+
+.card-desc {
+	margin: 0;
+	color: var(--text-secondary);
+	font-size: 16px;
+	font-family: var(--font-ui);
+	line-height: 1.5;
+}
+
+.tag-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--space-sm);
+}
+
+.tag {
+	font-family: var(--font-ui);
+	font-size: 13px;
+	padding: 6px 10px;
+	border-radius: var(--radius-tag);
+	background: var(--tag-bg);
+	color: var(--tag-text);
+	border: 1px solid var(--border-light);
+}
+
+/* Post */
+.post {
+	padding: var(--space-3xl) 0;
+}
+
+.post-header {
+	margin-bottom: var(--space-xl);
+}
+
+.post-title {
+	margin-bottom: var(--space-sm);
+}
+
+.post-meta {
+	font-family: var(--font-ui);
+	color: var(--text-secondary);
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.prose {
+	font-size: 1em;
+}
+
+.prose blockquote {
+	border-left: 4px solid var(--accent-primary);
+	padding: 0 0 0 16px;
+	margin: 0 0 1.5em 0;
+	color: var(--text-secondary);
+}
+
+.prose code {
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+	font-size: 0.95em;
+	background: var(--tag-bg);
+	padding: 2px 6px;
+	border-radius: 6px;
+}
+
+/* Acessibilidade */
+.sr-only {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	white-space: nowrap;
+}
+
+:focus-visible {
+	outline: 3px solid var(--accent-primary);
+	outline-offset: 3px;
+}
