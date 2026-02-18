@@ -1,11 +1,14 @@
+# Never commit agent workspace
+workspace/
+
 # OpenClaw state (per-agent, not versioned)
 agent/
-sessions/
+.openclaw/
 
 # Secrets and credentials
 *.env
-secrets.*
 .env.*
+secrets.*
 credentials.*
 
 # Audio raw PCM (not needed in repo)
@@ -31,9 +34,6 @@ node_modules/
 # Build output
 dist/
 
-# Generated PDFs (built in CI)
-public/pdfs/
-
 # Generated types
 .astro/
 
@@ -49,5 +49,5 @@ pnpm-debug.log*
 # Verification files
 verification.png
 
-# Excluir explicitamente pastas de segurança
+# Security exports
 franklin-telegram-export/
