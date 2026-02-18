@@ -9,7 +9,11 @@ Este arquivo serve de guia para a minha ronda automática a cada 30 minutos.
 - [ ] **Atualizar este Heartbeat:** Se a lida mudar, ajustar esta lista pra próxima rodada.
 
 ## 🔔 PRs Pending Review
-No open PRs.
+- [ ] #54 Mari Kondo: Structural Cleanup (Lyrics, Data, Archive) (@franklinbaldo)
+- [ ] #53 chore(marikondo): initial repository cleanup and organization (@franklinbaldo)
+- [ ] #52 🕵️ Rastreador: Auditoria de Pendências - 2026-02-18 (@franklinbaldo)
+- [ ] #51 feat: primeira ronda de metricas do estatistico (@franklinbaldo)
+- [ ] #50 feat: add Estatístico daily report for 2026-02-18 (@franklinbaldo)
 
 ---
 *Nota: Se tudo estiver em ordem e nada precisar de atenção, respondo apenas: HEARTBEAT_OK*
