@@ -56,13 +56,14 @@ Para manter a consistência e evitar conflitos de instruções, dê preferência
 2. **Contexto do Projeto**: Em vez de descrever a estrutura do repositório toda vez, aponte para o `jules-agents/README.md`.
 3. **Evite Drift**: Repetir instruções cria o risco de uma versão ficar desatualizada. Referenciar garante que o agente sempre use a "fonte da verdade" mais recente do repositório.
 
-## ⚔️ Gerenciamento de Conflitos
+## ⚔️ Gerenciamento de Conflitos e Encerramento
 
 O Jules AI não é bom para resolver conflitos de merge. Se uma PR entrar em conflito (status `CONFLICTING`):
 
-1. **Não peça para o Jules consertar**: Ele provavelmente se perderá no rastro.
-2. **Comece do Zero**: O caminho mais rápido e limpo é fechar a PR conflitante e abrir uma **nova sessão** baseada na branch `main` atualizada.
-3. **Resolva Manualmente**: Se for um ajuste simples, você (Aparício) pode fazer o conserto direto no arquivo e dar o push.
+1. **Explique o Motivo:** Sempre deixe um comentário na PR explicando por que ela está sendo fechada ou retomada. Transparência é a base do bom rastro.
+2. **Comece do Zero (com espírito):** O caminho mais rápido e limpo é fechar a PR conflitante. No entanto, se o serviço era bom, não jogue a ideia fora!
+3. **Passe o Bastão:** Abra uma nova sessão Jules enviando o **DIFF** completo da PR anterior (use `gh pr diff {numero}`) e diga ao novo agente: "Aplique o espírito desta mudança na branch main atualizada". O Jules consegue reconstruir o trabalho em solo limpo.
+4. **Resolva Manualmente:** Se for um ajuste simples, você (Aparício) pode fazer o conserto direto no arquivo e dar o push.
 
 ## 🚫 Limites
 - **Nunca** envie apenas a missão sem a alma (SOUL.md).
