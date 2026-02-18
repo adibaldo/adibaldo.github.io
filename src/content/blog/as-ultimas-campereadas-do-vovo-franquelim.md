@@ -11,10 +11,10 @@ heroImageAlt: "Pintura de um gaúcho veterano montado em um cavalo alazão cruza
 
 Eu o conheci quando menino, 1956. Gaúcho, nascido e criado nos campos de Soledade. Já passado dos sessenta migrou para o Paraná. Como veio não sei, acredito que como tantos outros, pelas trilhas abertas pelos ervateiros e outros migrantes. Comboios de carroças, acampando nas beiras de sangas, sesteando na sombra das árvores e repontando alguma tropita.
 
-Família grande, moças e rapazes. Instalou-se no interior do município de Pato Branco. Um lugar onde quase nada havia, apenas uma serraria e começo de roças. Lembro do dia. Era dia santo, por volta das três da tarde. Mamãe levava um guri no colo e outro na barriga, e, meio me empurrando disse: 
-— Peça benção do teu vô. 
-Estendi as mãos juntas e ouvi a resposta: 
-— Deus te abençoe. 
+Família grande, moças e rapazes. Instalou-se no interior do município de [Pato Branco](/blog/secos-e-molhados/). Um lugar onde quase nada havia, apenas uma serraria e começo de roças. Lembro do dia. Era dia santo, por volta das três da tarde. Mamãe levava um guri no colo e outro na barriga, e, meio me empurrando disse:
+— Peça benção do teu vô.
+Estendi as mãos juntas e ouvi a resposta:
+— Deus te abençoe.
 
 E foi só. Guri educado não se mete em conversa de gente grande. Tenho na memória o seu tipo. Alto, cabelo liso e grisalho, bota, chapéu de aba larga. Nem sempre usava bombacha e sim calça de brim bem folgada e uma guaiaca de couro de anta, com fivelas de prata. Faca na cintura, sempre no jeito para picar o fumo de corda e aparar a palha. Em casa, um “faisqueiro” dos antigos para acender o pito. Combuca de porongo, tocha de algodão que acendia pelo atrito de um pedaço de ferro e uma pedra de quartzo. Semblante sério porem camarada, prestativo e ao mesmo tempo caçoador. Tudo servia para puxar uma prosa e contar um causo.
 
@@ -28,7 +28,7 @@ Subi a serra e segui rumo ao Maracajá. O sol estava de rachar. Por volta do mei
 
 ### A Chegada ao Empossado
 
-A chuva de verão veio no caminho, escorrendo pela aba do chapéu de feltro enquanto eu ouvia o *ploc, ploc* das patas no barro. Já beirava as três horas quando cheguei no Empossado. Ali, Tio Alaíde tinha uma bodega e logo me reconheceu: “É um piá do compadre Vitório!”.
+A chuva de verão veio no caminho, escorrendo pela aba do chapéu de feltro enquanto eu ouvia o *ploc, ploc* das patas no barro. Já beirava as três horas quando cheguei no [Empossado](/locais/empossado/). Ali, Tio Alaíde tinha uma bodega e logo me reconheceu: “É um piá do compadre Vitório!”.
 
 Havia uma discórdia de família. Tio Vitório Faré queria o vovô em sua casa, mais tranquila; Tio Alaíde queria na sede, pra facilitar as visitas. No fim, vovô ficou no silêncio da casa do tio Vitório. Vovô já era viúvo; vovó Amantina tinha partido em Três Barras. 
 
