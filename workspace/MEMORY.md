@@ -31,6 +31,7 @@ A pasta `jules-agents/quadro-de-avisos/` é um controle **MANUAL** do Aparício.
 
 - [Rolim de Moura](memory/rolim-de-moura.md): Início da advocacia, gestão Raupp, iluminação pública.
 - [Diretrizes Editoriais](memory/diretrizes-editoriais.md): Regras para publicação no blog e atuação como ghostwriter.
+- [Roteiro de Prosa (seu Adi)](memory/prosa/roteiro-adi.md): Mapa de assuntos pendentes para as conversas diárias.
 - **Raízes e Família** *(a criar: `memory/raizes-e-familia.md`)*: Retirante de quarta geração, Itália, RS, Paraná.
 - **Lugares da Vida** *(a criar: `memory/lugares-da-vida.md`)*: Barão de Cotegipe, Curitiba, Francisco Beltrão, Itapejara, Jaborá.
 

@@ -5,13 +5,13 @@ Este arquivo é o mapa das nossas próximas conversas. Ele deve ser atualizado s
 ---
 
 ## 🧉 Assuntos para a Próxima Prosa
-- [ ] **O Causo do Teco-Teco:** Comentar que o texto foi polido e o Getúlio Vargas agora faz parte da "aerodinâmica bovina". (Fonte: PR #43)
-- [ ] **As Pirâmides Brasileiras:** Contar sobre o Sambaqui Figueirinha I em Jaguaruna, que é tão antigo quanto as pirâmides do Egito. (Fonte: Cândido PR #47)
-- [ ] **Engenharia da Música Gaúcha:** Conversar sobre como o Nativismo e o Tradicionalismo moldaram o som do RS. (Fonte: Cândido PR #47)
-- [ ] **Guerra do Paraguai:** Trazer a visão moderna sobre a influência britânica (ou a falta dela). (Fonte: Cândido PR #47)
-- [ ] **Giro do Timão:** Falar sobre o vice da Gaviões e o próximo jogo contra a Lusa no Canindé. (Fonte: Mosqueteiro PR #45)
-- [ ] **Origem de Rolim de Moura:** Comentar sobre o Conde de Azambuja e a fundação oficial em 1983. (Fonte: Pioneiro PR #46)
-- [ ] **Notas do Veritas:** Comentar as pequenas correções históricas que o "fiscal da verdade" deixou no blog (viagem de Cabral durou 44 dias e o nome do sobrevivente de Gilgamesh é Utnapishtim). (Fonte: Veritas PR #37)
+- [ ] **O Causo do Teco-Teco:** Comentar que o texto foi polido e o Getúlio Vargas agora faz parte da "aerodinâmica bovina". (Rastro: [PR #43](https://github.com/franklinbaldo/aparicio-funes/pull/43))
+- [ ] **As Pirâmides Brasileiras:** Contar sobre o Sambaqui Figueirinha I em Jaguaruna, que é tão antigo quanto as pirâmides do Egito. (Rastro: [Achados do Cândido](jules-agents/candido/2026-02-14-achados.md))
+- [ ] **Engenharia da Música Gaúcha:** Conversar sobre como o Nativismo e o Tradicionalismo moldaram o som do RS. (Rastro: [Achados do Cândido](jules-agents/candido/2026-02-14-achados.md))
+- [ ] **Guerra do Paraguai:** Trazer a visão moderna sobre a influência britânica (ou a falta dela). (Rastro: [Achados do Cândido](jules-agents/candido/2026-02-14-achados.md))
+- [ ] **Giro do Timão:** Falar sobre o vice da Gaviões e o próximo jogo contra a Lusa no Canindé. (Rastro: [Boletim do Mosqueteiro](jules-agents/mosqueteiro/logs/2026-02-17-boletim.md))
+- [ ] **Origem de Rolim de Moura:** Comentar sobre o Conde de Azambuja e a fundação oficial em 1983. (Rastro: [Boletim do Pioneiro](.jules/rondonia/2026-02-18-rolim.md))
+- [ ] **Notas do Veritas:** Comentar as pequenas correções históricas que o "fiscal da verdade" deixou no blog (viagem de Cabral durou 44 dias e o nome do sobrevivente de Gilgamesh é Utnapishtim). (Rastro: [Veritas Check](jules-agents/quadro-de-avisos/20260218-120000-veritas-check.md))
 
 ---
 
