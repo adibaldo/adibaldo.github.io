@@ -9,8 +9,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 4);
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const places = (await getCollection('places'))
 	.sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
@@ -27,14 +26,15 @@ const places = (await getCollection('places'))
 		<section class="hero">
 			<div class="container hero-inner">
 				<h1>{SITE_TITLE}</h1>
+				<h2 style="font-family: var(--font-title); font-weight: 700; color: var(--accent-primary); margin-top: var(--space-sm);">Balcão de Prosas</h2>
 				<p class="hero-kicker">{SITE_DESCRIPTION}</p>
 				<p class="hero-kicker" style="max-width: 62ch;">
 					Um canto pra juntar lembranças e reflexões, sem barulho. Texto bom é texto que respira.
 				</p>
 				<div class="hero-actions">
-				<a class="cta" href="/blog">Ler os textos</a>
-				<a class="cta cta-outline" href="/pdfs/livro-completo.pdf" download>Baixar livro (PDF)</a>
-			</div>
+					<a class="cta" href="/blog">Ler todos os textos</a>
+					<a class="cta cta-outline" href="/pdfs/livro-completo.pdf" download>Baixar livro (PDF)</a>
+				</div>
 			</div>
 		</section>
 
@@ -42,16 +42,21 @@ const places = (await getCollection('places'))
 			<section class="section">
 				<div class="container">
 					<div class="section-title">
-						<h2 style="margin:0;">Balcão de Prosas</h2>
-						<a href="/blog" class="conjunto-link">Ver o Conjunto da Obra</a>
+						<h2 style="margin:0;">Últimas Prosas no Balcão</h2>
+						<a href="/blog">Ver o Conjunto da Obra</a>
 					</div>
 
 					<div class="grid post-grid-home">
 						{posts.map((post) => (
-							<a class="card post-card-home rustic-card" href={`/blog/${post.id}/`}>
+							<a class="card post-card-home" href={`/blog/${post.id}/`}>
 								<div class="post-thumb-home">
 									{post.data.heroImage ? (
-										<Image src={post.data.heroImage} alt={`Capa do post ${post.data.title}`} width={1200} height={675} />
+										<Image
+											src={post.data.heroImage}
+											alt={`Capa do post ${post.data.title}`}
+											widths={[400, 800, 1200]}
+											sizes="(max-width: 620px) 100vw, (max-width: 980px) 50vw, 25vw"
+										/>
 									) : (
 										<div class="post-thumb-fallback-home" aria-hidden="true" />
 									)}
