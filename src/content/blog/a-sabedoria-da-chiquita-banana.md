@@ -5,7 +5,7 @@ pubDate: 2026-02-17
 tags: ["memórias", "reflexão", "filosofia", "cotidiano", "maturidade", "sabedoria", "vivencia", "envelhecer-bem"]
 place: "curitiba"
 placeLabel: "Curitiba"
-heroImage: ./images/a-sabedoria-da-chiquita-banana-cover.jpg
+heroImage: ./images/chiquita-banana.png
 heroImageAlt: "Ilustração abstrata em tons de verde e azul, evocando frescor e maturidade."
 ---
 
