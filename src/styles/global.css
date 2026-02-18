@@ -546,6 +546,39 @@ hr {
 	box-shadow: var(--shadow-card-hover);
 }
 
+.rustic-card {
+	background-color: #d2b48c; /* Tan */
+	background-image: linear-gradient(90deg, rgba(0,0,0,0.05) 1px, transparent 1px),
+	                  linear-gradient(rgba(0,0,0,0.05) 1px, transparent 1px);
+	background-size: 20px 20px;
+	border: 2px solid #8b4513; /* SaddleBrown */
+	box-shadow: 3px 3px 0px #5d2906;
+	position: relative;
+	transition: transform 0.1s;
+}
+
+.rustic-card::after {
+	content: "";
+	position: absolute;
+	top: 0; left: 0; right: 0; bottom: 0;
+	background: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+	opacity: 0.1;
+	pointer-events: none;
+}
+
+.rustic-card:hover {
+	transform: translate(1px, 1px);
+	box-shadow: 1px 1px 0px #5d2906;
+}
+
+.rustic-card .card-title {
+	color: #3e1f0a;
+}
+
+.rustic-card .card-desc {
+	color: #5d2906;
+}
+
 .card-title {
 	font-family: var(--font-title);
 	font-weight: 600;
