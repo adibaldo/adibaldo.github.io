@@ -1,14 +1,14 @@
 ---
-title: "O Chão de Agulhas e o Balcão dos Causos"
+title: "Grimpas Secas e o Balcão dos Causos"
 description: "1957. O frio das araucárias e o balcão de secos e molhados do meu pai. Entre a honra de dona Ingrácia e as brigas de bodega, aprendi sobre a justiça do Paraná antigo."
 pubDate: 2026-02-10
 tags: ["memórias", "história", "paraná", "infância", "causos", "família", "secos-e-molhados"]
 place: "parana"
 placeLabel: "Paraná"
-heroImage: ./images/chao-de-agulhas-e-balcao-dos-causos-cover.png
+heroImage: ./images/grimpas-secas-e-o-balcao-dos-causos-cover.png
 heroImageAlt: "Interior de um armazém de secos e molhados antigo, com balcão de madeira e produtos diversos nas prateleiras."
 ---
-Em 1957, o tempo no Paraná parecia ser medido pela altura dos pinheiros. Para um menino, aquelas araucárias não eram apenas árvores; eram as colunas que seguravam o céu cinzento das manhãs de geada. Eu caminhava para a escola sentindo o estalar das agulhas secas sob o sapato, um som que se misturava ao bater dos meus dentes no frio de arrepiar.
+Em 1957, o tempo no Paraná parecia ser medido pela altura dos pinheiros. Para um menino, aquelas araucárias não eram apenas árvores; eram as colunas que seguravam o céu cinzento das manhãs de geada. Eu caminhava para a escola sentindo o estalar das grimpas secas sob o sapato, um som que se misturava ao bater dos meus dentes no frio de arrepiar.
 
 Mas o meu mundo real, a universidade onde aprendi a ler a alma dos homens, ficava no armazém de [Secos e Molhados](/blog/secos-e-molhados/) do meu pai. Ali, o movimento era constante e de um colorido que nenhum livro escolar tinha. Vinham de todo lado: uns a pé, com o pó da estrada grudado na pele; outros a cavalo, amarrando os bichos no palanque. Todos de chapéu de palha e facão pendurado na cintura, brilhando como um aviso.
 
