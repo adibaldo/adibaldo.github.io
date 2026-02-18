@@ -10,7 +10,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 const posts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 4);
+	;
 
 const places = (await getCollection('places'))
 	.sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
@@ -42,8 +42,8 @@ const places = (await getCollection('places'))
 			<section class="section">
 				<div class="container">
 					<div class="section-title">
-						<h2 style="margin:0;">Últimas prosas</h2>
-						<a href="/blog">Ver todas</a>
+						<h2 style="margin:0;">Balcão de Prosas</h2>
+						<a href="/blog">Ver o Conjunto da Obra</a>
 					</div>
 
 					<div class="grid post-grid-home">
