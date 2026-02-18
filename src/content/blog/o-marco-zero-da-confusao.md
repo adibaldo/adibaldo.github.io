@@ -8,11 +8,13 @@ placeLabel: "Marco Zero"
 heroImage: ./images/o-marco-zero-da-confusao-cover.png
 heroImageAlt: "Colagem artística representando eventos históricos e figuras bíblicas em um cenário caótico e atemporal."
 ---
-Aprendemos que a história nasce com a escrita, decifrada por Champollion em 1822. Os arqueólogos afirmam que os hieróglifos têm cinco mil anos — coisa que eu, particularmente, duvido. Nossa história ocidental é contada pelos livros bíblicos, repletos de narrativas e lendas. Veja o caso do Dilúvio: a ciência comprova a grande inundação, mas Noé e Utnapishtim (do épico de Gilgamesh)? É inimaginável alguém construir um Titanic de madeira capaz de abrigar todas as espécies. Se a engenharia náutica brasileira não conseguiu reproduzir uma simples caravela para os festejos dos 500 anos do Descobrimento, como Noé teria realizado tamanha proeza?
+Aprendemos que a história nasce com a escrita, decifrada por Champollion em 1822. Os arqueólogos afirmam que os hieróglifos têm cinco mil anos — coisa que eu, particularmente, duvido. Nossa história ocidental é contada pelos livros bíblicos, repletos de narrativas e lendas. Veja o caso do Dilúvio: a ciência comprova a grande inundação, mas Noé e Gilgamesh? É inimaginável alguém construir um Titanic de madeira capaz de abrigar todas as espécies. Se a engenharia náutica brasileira não conseguiu reproduzir uma simples caravela para os festejos dos 500 anos do Descobrimento, como Noé teria realizado tamanha proeza?
 
 ## Noé e a Fria do Ararat
 
 Dizem que a Arca encalhou no Monte Ararat, a cinco mil metros de altitude. Se foi no topo ou na base, ninguém sabe ao certo. Mas se foi lá em cima, Noé entrou numa fria danada e deve ter descido o morro batendo queixo! Arqueólogos afirmam ter encontrado vestígios de tudo por lá — até de "cocô de grilo", segundo os mais entusiasmados. Aberta a comporta, saiu todo mundo na mais perfeita ordem para repovoar a terra. Ou assim nos contam.
+
+> **Nota do Veritas:** Na *Epopeia de Gilgamesh*, o sobrevivente do dilúvio que possui a imortalidade é Utnapishtim. Gilgamesh é o rei herói que o procura. A confusão dos nomes no texto ilustra a própria tese do autor sobre a mistura de mitos e narrativas.
 
 ## Do Paraíso à Favela: O Marco Zero da Sobrevivência
 
