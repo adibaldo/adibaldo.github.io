@@ -84,10 +84,32 @@ function readPosts() {
     .sort((a, b) => new Date(a.data.pubDate) - new Date(b.data.pubDate));
 }
 
-function postHeader(post) {
+function postHeader(post, isBook = false) {
   const date = formatDate(post.data.pubDate);
   const place = post.data.placeLabel ? ` — ${post.data.placeLabel}` : '';
-  return `# ${post.data.title}\n\n<p class="post-meta">${date}${place}</p>\n\n---\n\n`;
+
+  // Para o livro, usamos um ID para permitir links do sumário
+  const anchor = isBook ? `<div id="${post.slug}"></div>\n\n` : '';
+
+  return `${anchor}# ${post.data.title}\n\n<p class="post-meta">${date}${place}</p>\n\n---\n\n`;
+}
+
+function buildTableOfContents(posts) {
+  const items = posts.map(post => {
+    return `<li><a href="#${post.slug}">${post.data.title}</a></li>`;
+  }).join('\n');
+
+  return `
+<div class="toc">
+
+## Sumário
+
+<ul>
+${items}
+</ul>
+
+</div>
+`;
 }
 
 // ── Opções do md-to-pdf ──
@@ -98,13 +120,15 @@ function pdfOptions(css) {
     body_class: [],
     pdf_options: {
       format: 'A4',
-      margin: { top: '30mm', right: '25mm', bottom: '30mm', left: '25mm' },
+      margin: { top: '25mm', right: '20mm', bottom: '25mm', left: '20mm' },
       printBackground: true,
       displayHeaderFooter: true,
       headerTemplate: '<div></div>',
       footerTemplate: `
-        <div style="font-size: 9px; color: #999; text-align: center; width: 100%;">
-          <span class="pageNumber"></span>
+        <div style="font-size: 9px; color: #999; text-align: center; width: 100%; margin: 0 20mm;">
+          <span style="border-top: 1px solid #e8ddd0; padding-top: 4px; display: inline-block; min-width: 20mm;">
+            <span class="pageNumber"></span>
+          </span>
         </div>`,
     },
     launch_options: {
@@ -140,14 +164,15 @@ async function generateBookPdf(posts, css) {
 <p class="date">${today}</p>
 
 </div>`,
+    // Sumário
+    buildTableOfContents(posts)
   ];
 
   for (const post of posts) {
-    const date = formatDate(post.data.pubDate);
-    const place = post.data.placeLabel ? ` — ${post.data.placeLabel}` : '';
+    const md = postHeader(post, true) + post.content;
 
     parts.push(
-      `<div class="chapter">\n\n# ${post.data.title}\n\n<p class="post-meta">${date}${place}</p>\n\n---\n\n${post.content}\n\n</div>`
+      `<div class="chapter">\n\n${md}\n\n</div>`
     );
   }
 
