@@ -17,7 +17,11 @@ for BLOG in "${BLOGS[@]}"; do
         # Tentar disparar o deploy via GH CLI
         # Detectar o owner do repo (adi ou franklin)
         REMOTE_URL=$(git remote get-url origin)
-        if [[ $REMOTE_URL == *"adibaldo"* ]]; then OWNER="adibaldo"; else OWNER="franklinbaldo"; fi
+        if [[ $REMOTE_URL == *"adibaldo/adibaldo.github.io"* ]]; then 
+            OWNER="adibaldo"
+        else 
+            OWNER="franklinbaldo"
+        fi
         
         echo "🚀 Disparando deploy para $OWNER/$BLOG..."
         gh workflow run "Deploy to GitHub Pages" --repo "$OWNER/$BLOG"
