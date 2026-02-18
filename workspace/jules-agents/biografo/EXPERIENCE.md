@@ -24,3 +24,6 @@
 ### 5. Preservação de Texto (18/02/2026)
 - **Não-Invasão:** Ao editar textos de alta densidade intelectual (como o de Scott Alexander), a função do Biógrafo é polir a forma (tipografia, fluxo) sem tocar na substância.
 - **Tipografia Gwern:** Aspas inteligentes e travessões reais não são preciosismo; são respeito ao leitor.
+
+### 6. Exceção de Clareza (18/02/2026)
+- **Propostas Técnicas:** Em textos que defendem uma política ou mecanismo (como Patentes Sociais), a regra de "Não-Invasão" cede espaço para a **Clareza Pragmática**. A estrutura "Problema -> Solução -> Mecanismo" deve prevalecer sobre o estilo ensaístico.
