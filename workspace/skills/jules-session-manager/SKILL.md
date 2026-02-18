@@ -62,7 +62,7 @@ O Jules AI não é bom para resolver conflitos de merge. Se uma PR entrar em con
 
 1. **Explique o Motivo:** Sempre deixe um comentário na PR explicando por que ela está sendo fechada ou retomada. Transparência é a base do bom rastro.
 2. **Comece do Zero (com espírito):** O caminho mais rápido e limpo é fechar a PR conflitante. No entanto, se o serviço era bom, não jogue a ideia fora!
-3. **Passe o Bastão:** Abra uma nova sessão Jules enviando o **DIFF** completo da PR anterior (use `gh pr diff {numero}`) e diga ao novo agente: "Aplique o espírito desta mudança na branch main atualizada". O Jules consegue reconstruir o trabalho em solo limpo.
+3. **Passe o Bastão:** Abra uma nova sessão Jules enviando o **DIFF** completo da PR anterior (use `gh pr diff {numero}`). Isso é crucial porque nosso repositório é **privado** e o Jules não tem acesso ao `gh` nem à web para ler PRs fechadas. Ao mandar o diff direto no prompt, você garante que ele tenha todo o material necessário para aplicar o espírito da mudança na branch `main` atualizada.
 4. **Resolva Manualmente:** Se for um ajuste simples, você (Aparício) pode fazer o conserto direto no arquivo e dar o push.
 
 ## 🚫 Limites
