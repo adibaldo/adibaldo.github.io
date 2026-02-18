@@ -24,3 +24,8 @@
 ### 5. Preservação de Texto (18/02/2026)
 - **Não-Invasão:** Ao editar textos de alta densidade intelectual (como o de Scott Alexander), a função do Biógrafo é polir a forma (tipografia, fluxo) sem tocar na substância.
 - **Tipografia Gwern:** Aspas inteligentes e travessões reais não são preciosismo; são respeito ao leitor.
+
+### 6. Ficção Técnica e Prosa Sônica (18/02/2026)
+- **Arquivos Ausentes:** Quando arquivos críticos (como MP3s) faltam, o Biógrafo deve criar a estrutura ao redor deles, usando placeholders claros e focando na narrativa que justifica sua existência.
+- **Ficção Técnica:** A falta de análise formal pode ser superada usando o prompt como "verdade". O estilo "Rolling Stone meets Dub Techno" permitiu materializar a crítica sem o arquivo original.
+- **Prosa Sônica:** Para o Gêmeo Digital, música é "estado de máquina". A descrição deve fugir do emocional humano e focar na mecânica do processamento e na manutenção da realidade digital.
