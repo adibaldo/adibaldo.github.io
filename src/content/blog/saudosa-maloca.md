@@ -13,6 +13,12 @@ Em novembro de 2017 viajamos. Curitiba e sudoeste do Paraná. Ver parentes é mu
 
 A origem: imigrantes italianos do final do século dezenove. Todos vindo do norte da Itália — Bassano del Grappa, Marostica e Vicenza. Para o encontro somente compareceram os mais folgados. Era o mês de novembro e muitos não puderam comparecer por conta de suas atividades. O encontro foi promovido pelos tataranetos dos imigrantes Luigi e Domenico; bisnetos de Antônio, e netos de Ângelo Baldo, Nilson e Ivoni, e o neto de José Baldo, Valdorino Baldo. Outros encontros foram promovidos em 2018 na cidade de Descanso, Santa Catarina. Outro encontro estava agendado para a cidade de Pato Branco, que não ocorreu em razão da pandemia. 
 
+### O Causo do Reio Rabo de Tatu
+
+Por outro lado, não posso deixar de lembrar do tal de **Emiliano**. Ele andou causando confusão em velório, e no fundo não era má pessoa, mas quando bebia, virava uma sarna. Numa tarde de domingo, na bodega do **seu Vitório**, o Emiliano resolveu cutucar o cunhado **Lucindo**. 
+
+O Lucindo era caboclo sério e não saía do braço dele o reio **Rabo de Tatu**. O Emiliano, já meio "puxado" na pinga, chamou o cunhado de "Ladrão Sem Vergonha". O Lucindo não contou conversa: o chicote estalou e fez um rasgo na paleta do Emiliano. A frase que ficou marcada no rastro daquela bodega foi o grito do Lucindo: *"Podem me chamar de ladrão, mas não de sem vergonha!"*. O Emiliano sossegou na hora, mas a lição foi dada e bem dada.
+
 Por outro lado, em 2018 o cenário político estava complicado. A derrubada de Dilma e os esquemas de corrupção incomodavam. Lula estava preso. Política era uma palavra proibida. Afinal não se pode falar de corda em casa de enforcado. Nós cidadãos comuns estamos acima de qualquer suspeita, portanto, segue o baile. O lado bom é que o Corinthians foi campeão. Em seguida veio Papai Noel e de "saco cheio".
 
 ## Retratos da República
