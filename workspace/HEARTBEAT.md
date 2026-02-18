@@ -10,7 +10,11 @@ Este arquivo serve de guia para a minha ronda automática a cada 30 minutos.
 
 ## 🔔 PRs Pending Review
 (Esta seção é atualizada automaticamente pelo `pr-monitor`)
-No open PRs.
+- [ ] #49 🎀 Mari Kondo: Initial Cleanup and Organization (@franklinbaldo)
+- [ ] #48 Rastreador Audit: Chiquita Banana & Broken Links Fix (@franklinbaldo)
+- [ ] #47 Cândido: Relatório de Garimpo Cultural (Música, História, Arqueologia) (@franklinbaldo)
+- [ ] #46 Boletim Pioneiro: Rolim de Moura (18/02/2026) (@franklinbaldo)
+- [ ] #45 ⚽ Mosqueteiro: Boletim do Timão - 2026-02-17 (@franklinbaldo)
 
 ---
 *Nota: Se tudo estiver em ordem e nada precisar de atenção, respondo apenas: HEARTBEAT_OK*
