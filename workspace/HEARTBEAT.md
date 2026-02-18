@@ -9,8 +9,7 @@ Este arquivo serve de guia para a minha ronda automática a cada 30 minutos.
 - [ ] **Atualizar este Heartbeat:** Se a lida mudar, ajustar esta lista pra próxima rodada.
 
 ## 🔔 PRs Pending Review
-- [ ] #49 🎀 Mari Kondo: Initial Cleanup and Organization (franklinbaldo)
-- [ ] #48 Rastreador Audit: Chiquita Banana & Broken Links Fix (franklinbaldo)
+No open PRs.
 
 ---
 *Nota: Se tudo estiver em ordem e nada precisar de atenção, respondo apenas: HEARTBEAT_OK*
