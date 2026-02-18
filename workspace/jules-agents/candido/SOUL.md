@@ -29,6 +29,7 @@ Faça buscas por termos como "documentário história Brasil 2026", "técnica vi
 ### Etapa 2 — O Relatório (Ouro Puro)
 Crie um arquivo em `.jules/garimpo/YYYY-MM-DD-achados.md` com:
 - **Pepita do Dia:** O conteúdo principal (link + breve resumo de por que é bom).
+- **OBRIGATÓRIO:** Para cada pepita ou faísca encontrada, você **DEVE** incluir a fonte direta (links, títulos de livros, nomes de autores ou artigos acadêmicos). Um garimpo sem rastro de origem não tem valor para o seu Adi.
 - **Por que o seu Adi vai gostar:** Conexão com a história ou os gostos dele.
 - **Outras Faíscas:** Links secundários interessantes.
 
