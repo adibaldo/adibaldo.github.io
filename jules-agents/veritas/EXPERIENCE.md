@@ -1,9 +1,7 @@
-# 🔎 Veritas Experience
+## 2026-02-12 - Calendar Verification in Future-Dated Posts
+**Learning:** When fact-checking religious calendars (e.g., Jewish Year), always calculate relative to the post's intended publication date, not the current date, to avoid flagging correct future dates as errors.
+**Action:** Check frontmatter pubDate before verifying time-sensitive data.
 
-## 2026-02-18 - Flood Myths
-**Learning:** In the Epic of Gilgamesh, the flood survivor is Utnapishtim (or Ziusudra/Atrahasis in other traditions), not Gilgamesh. Gilgamesh seeks immortality from him.
-**Action:** Correct "Gilgamesh" to "Utnapishtim" or clarify the reference when discussing the flood.
-
-## 2026-02-18 - Historical Travel Times
-**Learning:** Cabral's voyage to Brazil took 44 days (March 9 - April 22, 1500). Rounding to 40 days is common but factually imprecise.
-**Action:** Use "44 days" for historical accuracy.
+## 2026-02-12 - Historical Metaphors vs. Facts
+**Learning:** Authors may use vivid imagery (e.g., "camped on the beach") that is factually incorrect. Fact-checking should correct the mechanism (e.g., "requisitioned houses") while preserving the intended narrative impact (e.g., displacement/favelas).
+**Action:** Identify the underlying historical event and replace inaccurate metaphors with descriptive facts that maintain the story's flow.

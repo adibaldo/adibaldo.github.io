@@ -1,26 +1,13 @@
-# Tecedor - Experiência Acumulada
+# Tecedor - Memória de Longo Prazo
 
-Este arquivo mantém um registro dos termos, locais e personagens recorrentes que já foram mapeados e conectados na teia do blog.
+## Conexões Recorrentes
+- **Pontifex**: Conectar sempre que falar de "arquitetura de agente" ou "sondagem semântica".
+- **Funes / Aparício**: Conectar sempre que falar de "memória", "biógrafo" ou "persona".
+- **Boswell Digital**: Conectar à persona de Aparício.
+- **Manifold**: Conectar ao post sobre Leis de Conservação.
+- **Future AI / Future Systems**: Conectar a `funes-soul.md`.
 
-## Locais Mapeados (`/locais/`)
-- **Barão de Cotegipe** (`barao-de-cotegipe`)
-- **Curitiba** (`curitiba`)
-- **Empossado** (`empossado`)
-- **Francisco Beltrão** (`francisco-beltrao`)
-- **Itapejara** (`itapejara`)
-- **Jaborá** (`jabora`)
-- **Rolim de Moura** (`rolim-de-moura`)
-
-## Posts Chave para Conexão
-- **Secos e Molhados** (`/blog/secos-e-molhados/`): Migração, chegada ao Paraná, Pato Branco, família.
-- **Chão de Agulhas e Balcão dos Causos** (`/blog/chao-de-agulhas-e-balcao-dos-causos/`): Bodega do pai, Dona Ingrácia, João Madalena.
-
-## Vocabulário Recorrente
-- **Franquelim da Silva Portela** (Vovô Franquelim)
-- **Vó Amantina**
-- **Dona Ingrácia** (Mãe)
-- **Tio Vitório Faré**
-- **Tio Alaíde**
-- **Pato Branco** (Frequentemente linkado a `secos-e-molhados` ou futuro local)
-- **Soledade** (Origem, sem local ainda)
-- **Coxilha Seca**
+## Estratégias
+- Priorizar links discretos que não interrompam o fluxo.
+- Sempre verificar se o termo existe no contexto antes de linkar.
+- Manter o equilíbrio entre posts técnicos e narrativos.

@@ -1,0 +1,110 @@
+diff --git a/.jules/prosa/2026-02-17-unificacao-saga-secos-molhados.md b/.jules/prosa/2026-02-17-unificacao-saga-secos-molhados.md
+new file mode 100644
+index 0000000..43ba309
+--- /dev/null
++++ b/.jules/prosa/2026-02-17-unificacao-saga-secos-molhados.md
+@@ -0,0 +1,59 @@
++# Proposta de Unificação: A Saga dos Secos, Molhados e Cavalos
++*Gerado em 2026-02-17 pelo Prosa*
++
++## O Território Atual
++Identifiquei três posts que, embora separados, contam a mesma grande história: a saga do pai (o "Bodegueiro") e da família, desde a juventude no Rio Grande do Sul até o estabelecimento no Paraná. Atualmente, a leitura é fragmentada e, por vezes, repetitiva.
++
++**Posts envolvidos:**
++1. **[O Cavalo Javali e o Mistério das Abóboras](/blog/o-cavalo-javali-e-o-misterio-das-aboboras/)** (O "prólogo" no RS).
++2. **[Secos e Molhados](/blog/secos-e-molhados/)** (A "jornada" do RS ao PR).
++3. **[O Chão de Agulhas e o Balcão dos Causos](/blog/chao-de-agulhas-e-balcao-dos-causos/)** (O "epílogo" da infância no PR).
++
++## Problemas da Estrutura Atual
++- **Repetição:** A história de João Madalena e a descrição da bodega aparecem tanto em `Secos e Molhados` quanto em `Chão de Agulhas`.
++- **Fragmentação Temporal:** O leitor precisa pular entre posts para entender a cronologia completa (Solteiro no RS -> Casamento -> Migração -> Vida no PR -> Reencontro com o cavalo).
++- **Quebra de Ritmo:** `Secos e Molhados` tenta abraçar tudo, mas acaba resumindo partes ricas que estão melhor detalhadas nos outros posts.
++
++## A Proposta: Uma Única Saga Épica
++
++Sugiro unificar os três textos em um único post robusto, dividido em capítulos, criando uma experiência de leitura imersiva (long-read).
++
++**Título Sugerido:** *Saga dos Secos, Molhados e Cavalos: Do Rio Grande ao Paraná*
++**Slug Sugerido:** `saga-secos-molhados-e-cavalos`
++
++### Estrutura Sugerida
++
++#### Capítulo 1: O Javali e o Trinta e Oito (RS)
++*Conteúdo base: `o-cavalo-javali-e-o-misterio-das-aboboras`*
++- Iniciar com a juventude do pai em Barão de Cotegipe.
++- A compra do revólver e do cavalo Javali.
++- O namoro frustrado pelas abóboras (o tom de "causo" prende o leitor).
++- O casamento com Dona Ingrácia e a venda do Javali (o sacrifício necessário para o futuro).
++
++#### Capítulo 2: A Arca de Noé sobre Rodas (A Viagem)
++*Conteúdo base: `secos-e-molhados`*
++- O nascimento do narrador (1950) e a decisão de partir.
++- A viagem no Chevrolet 51 "Boca de Sapo" (a arca de Noé com a família e os bichos).
++- A travessia do Rio Uruguai e a chegada "assombrosa" à luz elétrica de Xanxerê.
++- A chegada ao Paraná no dia de São Pedro (fogos e frio).
++
++#### Capítulo 3: O Balcão dos Causos (PR)
++*Conteúdo base: `chao-de-agulhas-e-balcao-dos-causos` + trechos de `secos-e-molhados`*
++- A instalação no "rancho de tábuas" e o mutirão.
++- A abertura da bodega de Secos e Molhados (o coração da narrativa).
++- **Unificação dos causos:** Inserir aqui a história completa da briga do João Madalena (detalhada em `chao-de-agulhas`) e a defesa feita por Dona Ingrácia.
++- O velório da velha Sebastiana e a briga dos irmãos (que ilustra a "justiça rústica").
++
++#### Epílogo: O Reencontro e a Fogueira
++*Conteúdo base: Final de `o-cavalo-javali` + Reflexão final de `secos-e-molhados`*
++- O reencontro emocionante com o cavalo Javali na Coxilha Seca (fechando o arco do Capítulo 1).
++- O salto para Rondônia ("Quarenta anos depois..."), onde a história é recontada.
++- Fechamento com a reflexão sobre o tempo ("O mundo de antanho era igual ao de agora...").
++
++## Por que fazer isso?
++1. **Fortalece a Lenda:** Transforma anedotas isoladas em uma biografia coesa do pai e da formação do caráter do narrador.
++2. **Melhora o SEO:** Um post longo e denso retém mais o leitor do que três curtos dispersos.
++3. **Resolve Lacunas:** Elimina a sensação de "déjà vu" ao ler histórias repetidas e clarifica a linha do tempo.
++
++---
++*Nota: Esta unificação não apaga as memórias, apenas as organiza em uma constelação mais brilhante.*
+diff --git a/src/content/blog/o-cheiro-do-cafe-na-varanda.md b/src/content/blog/o-cheiro-do-cafe-na-varanda.md
+index 21c3748..a963121 100644
+--- a/src/content/blog/o-cheiro-do-cafe-na-varanda.md
++++ b/src/content/blog/o-cheiro-do-cafe-na-varanda.md
+@@ -5,8 +5,8 @@ pubDate: 2026-02-07
+ tags: ["memórias", "cotidiano", "reflexão", "poesia"]
+ place: "curitiba"
+ placeLabel: "Curitiba"
+-heroImage: ./images/cafe-na-varanda-cover.png
+-heroImageAlt: "Xícara de café fumegante sobre uma mesa em uma varanda tranquila, com vista para a natureza."
++# heroImage: ./images/cafe-na-varanda-cover.png
++# heroImageAlt: "Xícara de café fumegante sobre uma mesa em uma varanda tranquila, com vista para a natureza."
+ ---
+ Tem lembrança que não pede explicação. Ela chega sozinha, como quem abre a porta devagar.
+ 
+diff --git a/src/content/blog/rolim-de-moura-um-comeco.md b/src/content/blog/rolim-de-moura-um-comeco.md
+index 24339dc..9a73705 100644
+--- a/src/content/blog/rolim-de-moura-um-comeco.md
++++ b/src/content/blog/rolim-de-moura-um-comeco.md
+@@ -5,8 +5,8 @@ pubDate: 2026-02-06
+ tags: ["memórias", "história", "pioneirismo", "rondonia"]
+ place: "rolim-de-moura"
+ placeLabel: "Rolim de Moura"
+-heroImage: ./images/rolim-de-moura-cover.png
+-heroImageAlt: "Paisagem de Rolim de Moura antiga, com ruas de terra e construções de madeira sob um céu amplo."
++# heroImage: ./images/rolim-de-moura-cover.png
++# heroImageAlt: "Paisagem de Rolim de Moura antiga, com ruas de terra e construções de madeira sob um céu amplo."
+ ---
+ Tem lugar que vira capítulo inteiro, mesmo sem a gente combinar.
+ 
+diff --git a/src/content/blog/um-ensaio-sobre-o-tempo.md b/src/content/blog/um-ensaio-sobre-o-tempo.md
+index 16f691e..1d62103 100644
+--- a/src/content/blog/um-ensaio-sobre-o-tempo.md
++++ b/src/content/blog/um-ensaio-sobre-o-tempo.md
+@@ -3,8 +3,8 @@ title: "Um ensaio sobre o tempo"
+ description: "O tempo não apaga: ele reorganiza. E a gente aprende a ler diferente."
+ pubDate: 2026-02-05
+ tags: ["ensaios", "tempo", "vida", "filosofia"]
+-heroImage: ./images/ensaio-sobre-o-tempo-cover.png
+-heroImageAlt: "Imagem abstrata representando a passagem do tempo."
++# heroImage: ./images/ensaio-sobre-o-tempo-cover.png
++# heroImageAlt: "Imagem abstrata representando a passagem do tempo."
+ ---
+ O tempo tem duas mãos: uma tira, outra devolve.
+ 
