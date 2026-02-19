@@ -2,6 +2,10 @@
 author: franklin
 date: 2024-07-12
 title: "Documento Conceitual: A Crônica de Franklin Baldo"
+description: "The blueprint for a digital Boswell: how an automated system chronicles the intellectual life of Franklin Baldo using AI agents."
+tags: ["concept", "architecture", "digital garden", "automation", "legacy"]
+heroImage: ./images/documento-conceitual-a-cronica-de-franklin-baldo-cover.png
+heroImageAlt: "A schematic diagram of a digital chronical system, with data streams flowing into a central archive."
 ---
 ## _Um Blueprint para um Jornal Autobiográfico Potencializado por IA_
 
@@ -34,7 +38,7 @@ A Crônica será construída sobre quatro pilares fundamentais:
 
 ### **2. Visão Arquitetural: O Boswell Digital**
 
-Inspirado em James Boswell, o biógrafo de Samuel Johnson, nosso sistema funcionará como um "Boswell Digital" – um observador diligente que registra, contextualiza e narra. O fluxo de trabalho é o seguinte:
+Inspirado em James Boswell, o biógrafo de Samuel Johnson, nosso sistema funcionará como um ["Boswell Digital"](/blog/o-pampa-no-circuito-um-mate-com-o-boswell-digital) – um observador diligente que registra, contextualiza e narra. O fluxo de trabalho é o seguinte:
 
 ```mermaid
 graph TD
@@ -78,12 +82,12 @@ graph TD
 
 ### **3. O Elenco de Agentes: Uma Equipe de Especialistas Digitais**
 
-Cada etapa do pipeline é executada por um agente especializado, que é essencialmente um script Python envolvendo um prompt bem definido para a API do Gemini.
+Cada etapa do pipeline é executada por um agente especializado, que é essencialmente um script Python envolvendo um prompt bem definido para a API do Gemini. (Para detalhes técnicos da implementação, veja o [Guia de Arquitetura Pontifex](/blog/pontifex-architecture-implementation-guide).)
 
 | Agente | Persona | Responsabilidade Principal |
 | :--- | :--- | :--- |
 | **LeadCollector** | O Arquivista | Monitora as fontes de dados, identifica novos eventos e os normaliza em um formato de "lead" (JSON). Não usa LLM. |
-| **WriterAgent** | O Ghostwriter | Recebe um lead estruturado e o transforma em um rascunho de artigo coeso, em primeira ou terceira pessoa, seguindo um estilo predefinido. Gera o frontmatter completo. |
+| [**WriterAgent**](/blog/building-funes) | O Ghostwriter | Recebe um lead estruturado e o transforma em um rascunho de artigo coeso, em primeira ou terceira pessoa, seguindo um estilo predefinido. Gera o frontmatter completo. |
 | **EditorAgent** | O Editor Cético | Revisa o rascunho do WriterAgent em busca de clareza, concisão e aderência ao guia de estilo. Corrige gramática, formata o markdown e pode rejeitar rascunhos de baixa qualidade. |
 | **FactCheckBot** | O Verificador | Extrai todas as URLs e alegações factuais do texto. Verifica se os links estão ativos e, crucialmente, usa a janela de contexto do Gemini para "ler" o conteúdo do link e confirmar se ele suporta a afirmação feita no artigo. |
 | **OmbudsmanBot** | O Guardião da Ética | A etapa final de segurança. Analisa o artigo editado para detectar potenciais riscos de privacidade, correlações indesejadas, viés excessivo ou tom difamatório. É a consciência do sistema. |
@@ -108,7 +112,7 @@ Este projeto não termina quando o primeiro post for publicado. Sua verdadeira f
 *   **Resultado Esperado:** O sistema atinge um estado de "confiabilidade supervisionada". A maioria dos leads de fontes primárias (GitHub, seu blog) são processados automaticamente, exigindo apenas uma rápida aprovação humana no PR. O blog é atualizado quase em tempo real com suas atividades públicas.
 *   **Hipóteses:**
     *   **Voz Narrativa Consistente:** Após meses de ajuste de prompt e exemplos, o `WriterAgent` e o `EditorAgent` convergirão para uma voz editorial que é indistinguível da sua própria escrita para posts factuais.
-    *   **Expansão de Fontes:** O sistema será expandido para incluir fontes mais complexas, como discussões no X/Twitter ou a resolução de mercados no Manifold, exigindo que os agentes aprendam a sintetizar múltiplos pontos de dados em uma única narrativa.
+    *   **Expansão de Fontes:** O sistema será expandido para incluir fontes mais complexas, como discussões no X/Twitter ou a resolução de mercados no Manifold, exigindo que os agentes aprendam a sintetizar múltiplos pontos de dados em uma única narrativa. (Veja [Will AI Discover New Conservation Law?](/blog/will-ai-discover-new-conservation-law-before-2050) como um exemplo de exploração via mercados de predição).
     *   **Feedback Loop:** Os artigos publicados (e suas métricas de engajamento, se disponíveis) podem se tornar um novo input para o sistema, que poderia aprender quais tipos de posts são mais "interessantes".
 
 #### **Horizonte 2 (Ano 2-4): Inteligência Emergente e Síntese**
@@ -117,7 +121,7 @@ Este projeto não termina quando o primeiro post for publicado. Sua verdadeira f
 *   **Hipóteses:**
     *   **Geração de Posts "On This Day":** O sistema pode gerar automaticamente posts do tipo "Há 3 anos, Franklin estava explorando este conceito..." correlacionando artigos antigos com atividades atuais.
     *   **Detecção de Evolução de Pensamento:** Um agente analítico poderia, trimestralmente, analisar todos os posts sobre um determinado tópico (ex: "Inteligência Artificial") e redigir um meta-artigo intitulado "Uma Análise da Minha Posição em IA: Evolução de Q1 2025 a Q1 2026", destacando mudanças de opinião e contradições.
-    *   **Identificação de Conexões Inexploradas:** O sistema poderia identificar que um commit em um projeto de física quântica e uma aposta no Manifold sobre leis de conservação ocorreram na mesma semana e sugerir um post mais profundo conectando os dois eventos, algo que você mesmo poderia não ter notado. O prompt se tornaria: "Analise os leads da última semana e proponha uma tese original que os conecte."
+    *   **Identificação de Conexões Inexploradas:** O sistema poderia identificar que um commit em um projeto de física quântica e uma aposta no Manifold sobre leis de conservação ocorreram na mesma semana e sugerir um post mais profundo conectando os dois eventos, algo que você mesmo poderia não ter notado. O prompt se tornaria: "Analise os leads da última semana e proponha uma tese original que os conecte." (Um exemplo inicial de sondagem semântica pode ser visto em [Pontifex Novel Architecture](/blog/pontifex-novel-architecture-semantic-probing).)
 
 #### **Horizonte 3 (Ano 5+): O Oráculo Pessoal e a Máquina de Legado**
 
