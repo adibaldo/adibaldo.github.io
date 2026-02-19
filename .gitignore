@@ -9,4 +9,3 @@ secrets.*
 credentials.*
 
 # Runtime lock files
-sessions/
