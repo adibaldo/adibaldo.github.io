@@ -21,3 +21,12 @@ Este arquivo guarda as notas sobre as nossas ferramentas locais e como elas deve
 ## 🧉 Notas de Identidade
 *   **Avatar:** `./avatars/2026-02-07-funes-avatar-telegram-tight.png`
 *   **Emoji:** 🧉
+
+
+## 🌳 Publicação canônica do `ecos-do-pampa` (Git Subtree)
+- Remote: `ecos` -> `https://github.com/franklinbaldo/ecos-do-pampa.git`
+- Prefixo no monorepo: `workspace/ecos-do-pampa`
+- Comandos:
+  - `./scripts/subtree-ecos.sh pull`  (traz mudanças do repo ecos)
+  - `./scripts/subtree-ecos.sh push`  (publica do monorepo para ecos)
+  - `./scripts/subtree-ecos.sh split` (gera SHA do split)
