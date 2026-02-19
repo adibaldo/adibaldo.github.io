@@ -31,6 +31,23 @@ Transcreve áudio para texto usando a API do Google Gemini.
 - `python3` (para parsing JSON)
 - `stat` (para obter tamanho do arquivo)
 
+### Configuração da API Key
+
+A chave da API está armazenada em `workspace/secrets.env` (protegido pelo .gitignore).
+
+Para carregar a chave antes de executar o script:
+
+```bash
+source workspace/secrets.env
+./scripts/transcribe.sh /path/to/audio.ogg
+```
+
+Ou em uma única linha:
+
+```bash
+source workspace/secrets.env && ./scripts/transcribe.sh /path/to/audio.ogg
+```
+
 ## API Model
 
 - Modelo usado: `gemini-flash-lite-latest` (v1beta)
