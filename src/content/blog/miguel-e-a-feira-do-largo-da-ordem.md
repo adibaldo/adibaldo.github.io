@@ -5,8 +5,8 @@ pubDate: 2026-02-18
 tags: ["memórias", "curitiba", "história", "causos"]
 place: "curitiba"
 placeLabel: "Curitiba"
-heroImage: ./images/cafe-na-varanda-cover.png
-heroImageAlt: "Pintura do Largo da Ordem em Curitiba com suas barracas coloridas e o burburinho da feira antiga."
+heroImage: ./images/feira-largo-da-ordem-antiga.jpg
+heroImageAlt: "Foto histórica da feira do Largo da Ordem em Curitiba, com carroças e cavalos estacionados na praça de paralelepípedos."
 ---
 
 Um certo **Miguel** veio de uma pequena cidade localizada nos confins do fim do mundo. Veio fugido da guerra. Um dia, como fazia de costume, sentou no banco da praça e, conversando com um turco que contava sua vida aqui no Brasil, também contou a sua história. 
