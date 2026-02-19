@@ -77,7 +77,7 @@ const breadcrumbLD = {
 
 				<div class="section-title">
 					<h2 style="margin:0;">Textos deste lugar</h2>
-					<a href="/textos">Ver todos</a>
+					<a href="/blog">Ver todos</a>
 				</div>
 
 				{posts.length === 0 ? (
@@ -85,7 +85,7 @@ const breadcrumbLD = {
 				) : (
 					<div class="grid">
 						{posts.map((post) => (
-							<a class="card" href={`/textos/${post.id}/`}>
+							<a class="card" href={`/blog/${post.id}/`}>
 								<div class="tag-row">
 									{post.data.tags?.slice(0, 1).map((t) => (
 										<span class="tag">{t}</span>
