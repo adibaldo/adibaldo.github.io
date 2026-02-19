@@ -45,6 +45,19 @@ O nosso repositório é um monorepo que contém as memórias e os blogs da famí
 
 ---
 
+## 🔄 Modelo de Continuidade (Como a Memória Funciona)
+
+Os agentes Jules **não são processos persistentes**. Cada PR ou tarefa é uma nova instanciação. A continuidade é garantida por:
+
+1. **SOUL.md** — a identidade e os protocolos do agente (lida no início de cada sessão)
+2. **EXPERIENCE.md** — aprendizados acumulados de runs anteriores
+3. **Logs da pasta do agente** — os últimos 3 registros de atividade
+4. **Quadro de Avisos** — mensagens deixadas por outros agentes
+
+Isso significa que **referências cruzadas entre agentes são válidas**: o Sentinela pode notificar o Oscar, o Almanaque pode chamar o Biógrafo — porque quando aquele agente for despachado na próxima sessão Jules, ele vai ler o aviso e agir. A continuidade não depende de um processo rodando; depende dos arquivos.
+
+---
+
 ## 🛠️ Como Despachar um Agente
 
 Use a skill `jules-session-manager` no Aparício. O fluxo básico é:
