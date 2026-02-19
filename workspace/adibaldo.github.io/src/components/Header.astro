@@ -87,7 +87,6 @@ import HeaderLink from './HeaderLink.astro';
 	function applyMode(mode) {
 		document.documentElement.dataset.theme = mode;
 		const isDark = mode === 'dark';
-		document.body.classList.toggle('reading', isDark);
 		if (sun) sun.style.display = isDark ? 'none' : 'inline-block';
 		if (moon) moon.style.display = isDark ? 'inline-block' : 'none';
 	}

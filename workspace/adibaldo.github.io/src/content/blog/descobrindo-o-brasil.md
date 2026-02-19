@@ -1,8 +1,8 @@
 ---
 title: "Descobrindo o Brasil: De Cabral ao Busão da 364"
-description: "Uma comparação irônica entre a expedição de Cabral em 1500 e a saga da conquista do Oeste brasileiro nos anos 80."
+description: "Do 'achamento' de Cabral aos atoleiros da BR-364: uma crônica irônica sobre a eterna (e lamacenta) conquista do Oeste."
 pubDate: 2026-02-13
-tags: ["ensaios", "história", "rondônia"]
+tags: ["ensaios", "história", "rondônia", "br-364", "migração", "cabral", "juscelino", "colonização", "brasil-profundo"]
 place: "mundo"
 placeLabel: "Brasil"
 heroImage: ./images/descobrindo-o-brasil-cover.png
