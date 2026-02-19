@@ -2,7 +2,7 @@
 title: "O Marco Zero da Confusão"
 description: "Do Dilúvio de Noé ao Metaverso: uma viagem irônica pelas eras, calendários e a eterna mania humana de querer explicar tudo."
 pubDate: 2026-02-11
-tags: ["ensaios", "história"]
+tags: ["ensaios", "história", "religião", "mitologia", "calendários", "reflexão", "sociedade"]
 place: "mundo"
 placeLabel: "Marco Zero"
 heroImage: ./images/o-marco-zero-da-confusao-cover.png

@@ -9,7 +9,7 @@ heroImage: ./images/vovo-franquelim-e-o-teco-teco-cover.png
 heroImageAlt: "Um gaúcho antigo contando histórias para outro homem cético em um ambiente rural, com um avião teco-teco voando baixo ao fundo sobre o gado."
 ---
 
-Eu estava abancado no canto, só "alcançando" a prosa com os olhos, enquanto o chimarrão passava de mão em mão num compasso de relógio antigo. Na varanda, o **Vovô Franquelim** ajeitava o chapéu de aba larga, com aquela expressão grave de quem vai revelar o segredo da santíssima trindade. Do outro lado, o **Gaudêncio**, desconfiado que só ele, alisava o bigode, já esperando o "laço" da conversa.
+Eu estava abancado no canto, só "alcançando" a prosa com os olhos, enquanto o chimarrão passava de mão em mão num compasso de relógio antigo. Na varanda, o **[Vovô Franquelim](/blog/as-ultimas-campereadas-do-vovo-franquelim/)** ajeitava o chapéu de aba larga, com aquela expressão grave de quem vai revelar o segredo da santíssima trindade. Do outro lado, o **Gaudêncio**, desconfiado que só ele, alisava o bigode, já esperando o "laço" da conversa.
 
 — Pois olha, Gaudêncio — começou o Franquelim, sem piscar —, a lida de campo tá mudando. Antigamente era no grito e na espora. Mas eu vi, com esses olhos que a terra há de comer, uma tropa inteira ser repontada sem um único pingo de suor de cavalo.
 

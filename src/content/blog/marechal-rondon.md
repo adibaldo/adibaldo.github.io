@@ -11,7 +11,7 @@ tags: ["rondon", "roosevelt", "história", "rondônia", "exploração", "memóri
 
 Baixinho, “tarracudo”, inteligente e destemido. Uma cruza de índio com francês. Não dominava o inglês, mas foi o guia do presidente Theodore Roosevelt pela imensidão da Floresta Amazônica. Estamos falando de Cândido Mariano da Silva Rondon, nascido em Santo Antônio de Leverger, Mato Grosso, em 1865. 
 
-Militar de carreira, humanista por vocação e Marechal por mérito, falecido em 1958. Em sua homenagem, o Território Federal do Guaporé passou a se chamar Território Federal de Rondônia — hoje, o nosso próspero Estado de Rondônia. 
+Militar de carreira, humanista por vocação e Marechal por mérito, falecido em 1958. Em sua homenagem, o Território Federal do Guaporé passou a se chamar Território Federal de Rondônia — hoje, o nosso próspero Estado de [Rondônia](/blog/rondonia-por-ali-fui-e-por-aqui-estou/).
 
 ### O Rio da Dúvida e o Pulo do Gato
 
@@ -32,6 +32,8 @@ Não teria Rondon feito essa "confusão" propositalmente para não ensinar o cam
 Não podemos falar de Rondon sem citar seu respeito sagrado pelos povos nativos. Descendente dos próprios nativos mato-grossenses, ele defendeu o princípio de que os povos indígenas têm o direito de se integrar à civilização mantendo suas culturas e territórios. 
 
 Essa postura humanista lhe rendeu uma indicação ao **Prêmio Nobel da Paz** em 1925, feita por ninguém menos que **Albert Einstein**. O físico alemão escreveu a recomendação a bordo de um navio, após visitar o Brasil e ficar impressionado com o trabalho do Marechal. 
+
+> **Nota do Veritas:** Embora Albert Einstein tenha de fato expressado grande admiração por Rondon após sua visita ao Brasil em 1925, as indicações oficiais do Marechal ao Prêmio Nobel da Paz ocorreram posteriormente, em 1953 e 1957. A recomendação de Einstein ao Comitê Nobel foi enviada em 1951.
 
 Rondon foi mais que um militar; foi o bandeirante moderno que integrou o Brasil sem derramar sangue desnecessário. Como ele mesmo dizia: *"Morrer se preciso for, matar nunca."*
 
