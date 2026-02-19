@@ -75,14 +75,14 @@ if [ -z "$FILE_URI" ]; then
   exit 1
 fi
 
-# Step 3: Transcrever usando Gemini Flash Lite
+# Step 3: Transcrever usando Gemini Flash Lite (duas versões)
 TRANSCRIPTION_RESPONSE=$(curl -s -X POST \
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key=${GEMINI_API_KEY}" \
   -H "Content-Type: application/json" \
   -d "{
     \"contents\": [{
       \"parts\": [
-        {\"text\": \"Transcreva este áudio em português brasileiro com alta precisão. Mantenha gírias, sotaques regionais e características da fala como foram pronunciadas. Se houver pausas ou hesitações significativas, indique com [...]. Retorne APENAS a transcrição literal, sem comentários ou formatação adicional.\"},
+        {\"text\": \"Transcreva este áudio em português brasileiro com alta precisão. Forneça DUAS versões da transcrição:\n\n## RAW\n[Transcrição literal com todas as hesitações, repetições, pausas e características exatas da fala. Use [...] para pausas significativas]\n\n## INTERPRETED\n[Versão limpa e interpretada, removendo hesitações e repetições, mantendo apenas o sentido pretendido da mensagem]\n\nMantenha gírias e sotaques regionais em ambas as versões.\"},
         {\"file_data\": {\"mime_type\": \"${MIME_TYPE}\", \"file_uri\": \"$FILE_URI\"}}
       ]
     }]

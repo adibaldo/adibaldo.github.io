@@ -8,7 +8,9 @@ Transcreve áudio para texto usando a API do Google Gemini.
 - Suporta português brasileiro com alta precisão
 - Mantém gírias, sotaques regionais e características da fala
 - Upload automático via API do Gemini
-- Retorna apenas a transcrição literal, sem formatação extra
+- **Retorna DUAS versões da transcrição:**
+  - **RAW:** Transcrição literal com hesitações, repetições e pausas
+  - **INTERPRETED:** Versão limpa e interpretada, mantendo apenas o sentido pretendido
 
 ## Usage
 
@@ -46,7 +48,24 @@ O script realiza 3 etapas:
 
 ## Output
 
-A transcrição é retornada como texto puro (stdout), facilitando integração com pipelines.
+A transcrição é retornada como texto formatado em markdown (stdout), com duas seções distintas:
+
+```markdown
+## RAW
+
+Elas devem ser comitadas para esse repositório, repositório privado, entendeu? Elas precisam ser comitadas.
+
+## INTERPRETED
+
+Elas devem ser comitadas para esse repositório, repositório privado. Elas precisam ser comitadas.
+```
+
+### Formato de Output
+
+- **RAW:** Mantém características exatas da fala (hesitações, repetições, "né?", "entendeu?", etc.)
+- **INTERPRETED:** Versão editada mantendo apenas o conteúdo essencial da mensagem
+- Ambas preservam gírias e sotaques regionais
+- Facilita integração com pipelines e processamento posterior
 
 ## Error Handling
 
