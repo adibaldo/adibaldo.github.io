@@ -5,8 +5,8 @@ pubDate: 2026-02-18
 tags: ["memórias", "história", "paraná", "infância", "causos", "família", "secos-e-molhados"]
 place: "parana"
 placeLabel: "Paraná"
-heroImage: ./images/bodega-balcao-causos.jpg
-heroImageAlt: "Interior de uma bodega antiga com balcão de madeira, balança, prateleiras abarrotadas de produtos e o cheiro de tempo."
+heroImage: ./images/grimpas-secas-e-o-balcao-dos-causos-cover.png
+heroImageAlt: "Interior de um armazém de secos e molhados antigo, com balcão de madeira e produtos diversos nas prateleiras."
 ---
 Em 1957, o tempo no Paraná parecia ser medido pela altura dos pinheiros. Para um menino, aquelas araucárias não eram apenas árvores; eram as colunas que seguravam o céu cinzento das manhãs de geada. Eu caminhava para a escola sentindo o estalar das grimpas secas sob o sapato, um som que se misturava ao bater dos meus dentes no frio de arrepiar.
 
