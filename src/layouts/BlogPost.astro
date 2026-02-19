@@ -114,7 +114,15 @@ const breadcrumbLD = {
 
 				{heroImage && (
 					<div class="post-hero">
-						<Image class="post-hero-image" width={1020} height={510} src={heroImage} alt={heroImageAlt || `Imagem de capa: ${title}`} />
+						<Image
+							class="post-hero-image"
+							width={1020}
+							height={510}
+							src={heroImage}
+							alt={heroImageAlt || `Imagem de capa: ${title}`}
+							widths={[400, 800, 1020]}
+							sizes="(max-width: 620px) 100vw, (max-width: 1020px) 100vw, 1020px"
+						/>
 					</div>
 				)}
 
