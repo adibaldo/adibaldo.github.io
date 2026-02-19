@@ -15,3 +15,6 @@ sessions/sessions.json
 
 # NPM lock files (updates recorrentes locais)
 **/package-lock.json
+
+# Session transcripts (moved to agents/aparicio/sessions/)
+sessions/
