@@ -6,5 +6,4 @@
 
 ## 🔔 PRs Pending Review
 
-- [ ] #63 — feat(recrutador): estratégia e contratação da nova guarda (Esteno, Sentinela, Almanaque, Lumière) [@franklinbaldo]
-
+<!-- nenhum pendente no momento -->
