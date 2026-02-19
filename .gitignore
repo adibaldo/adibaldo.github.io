@@ -12,3 +12,6 @@ credentials.*
 
 # Session index (runtime state)
 sessions/sessions.json
+
+# NPM lock files (updates recorrentes locais)
+**/package-lock.json
