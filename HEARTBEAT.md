@@ -6,4 +6,5 @@
 
 ## 🔔 PRs Pending Review
 
-<!-- nenhum pendente no momento -->
+- [ ] #66 — 🎨 Oscar: Otimização de Arquitetura Astro (@franklinbaldo)
+- [ ] #65 — feat(pioneiro): Boletim de Rolim de Moura 2026-02-20 (@franklinbaldo)

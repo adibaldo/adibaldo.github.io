@@ -10,3 +10,7 @@ credentials.*
 
 # Runtime lock files
 sessions/*.lock
+
+# Session logs (OpenClaw runtime)
+sessions/*.jsonl
+sessions/sessions.json
