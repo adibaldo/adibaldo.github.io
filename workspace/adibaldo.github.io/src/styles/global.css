@@ -669,3 +669,8 @@ hr {
 	outline: 3px solid var(--accent-primary);
 	outline-offset: 3px;
 }
+
+html {
+	scroll-behavior: smooth;
+	scroll-padding-top: 80px; /* offset for sticky header */
+}
