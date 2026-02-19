@@ -1,0 +1,19 @@
+
+> adibaldo.github.io@0.0.1 dev
+> astro dev
+
+14:14:11 [types] Generated 1ms
+14:14:12 [content] Syncing content
+14:14:12 [content] Synced content
+14:14:12 [vite] Re-optimizing dependencies because vite config has changed
+
+ astro  v5.17.1 ready in 1421 ms
+
+┃ Local    http://localhost:4321/
+┃ Network  use --host to expose
+
+14:14:12 watching for file changes...
+14:15:06 [200] /blog/secos-e-molhados 67ms
+14:15:07 [200] /_image 221ms
+14:15:08 [200] /blog/a-sabedoria-da-chiquita-banana 35ms
+14:15:09 [200] /_image 202ms
