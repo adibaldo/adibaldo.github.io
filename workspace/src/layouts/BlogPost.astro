@@ -87,6 +87,9 @@ const breadcrumbLD = {
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 	</head>
 	<body>
+		<div id="progress-container">
+			<div id="progress-bar"></div>
+		</div>
 		<Header />
 
 		<main class="post">
@@ -158,7 +161,37 @@ const breadcrumbLD = {
 
 		<Footer />
 
+		<script>
+			const progressBar = document.getElementById('progress-bar');
+			if (progressBar) {
+				window.addEventListener('scroll', () => {
+					const scrollTop = window.scrollY;
+					const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+					const scrollPercent = (scrollTop / docHeight) * 100;
+					progressBar.style.width = scrollPercent + '%';
+				}, { passive: true });
+			}
+		</script>
+
 		<style>
+			#progress-container {
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 4px;
+				z-index: 100;
+				background: transparent;
+				pointer-events: none;
+			}
+
+			#progress-bar {
+				height: 100%;
+				background: var(--accent-primary);
+				width: 0%;
+				transition: width 0.1s;
+			}
+
 			.post-hero {
 				margin-bottom: var(--space-xl);
 			}

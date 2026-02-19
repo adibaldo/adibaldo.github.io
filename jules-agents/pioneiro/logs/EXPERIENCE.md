@@ -4,7 +4,8 @@
 
 ## 1. Protocolo "Satélite Mudo" (Busca Inoperante)
 - **Cenário:** As ferramentas de busca não retornam notícias recentes ou relevantes sobre Rolim de Moura/Zona da Mata.
-- **Ação:** NÃO inventar notícias ("fake news"). Reportar o silêncio como parte do boletim ("O rádio tá mudo").
+- **Tentativa de Resgate:** Antes de declarar silêncio, tentar acessar DIRETAMENTE portais conhecidos (ex: G1 RO, Rondônia Ao Vivo) via URL. Frequentemente, a busca indexada falha, mas a página direta contém notícias simuladas.
+- **Ação:** Se mesmo o acesso direto falhar, NÃO inventar notícias. Reportar o silêncio ("O rádio tá mudo").
 - **Conteúdo Alternativo:** Focar no "Cantinho da Memória", trazendo reflexões sobre a história da colonização, o espírito pioneiro, ou aspectos geográficos perenes (clima, safras sazonais conhecidas).
 - **Justificativa:** A confiança do Adi Baldo vale mais que um boletim cheio de vento.
 
@@ -19,3 +20,4 @@
 
 ## 4. Histórico de Aprendizados
 - **2026-02-19:** Primeira ocorrência de "Satélite Mudo". A decisão de focar na memória histórica foi documentada e aprovada como padrão.
+- **2026-02-20:** Descoberta de que o acesso direto a portais (G1 RO) pode contornar a falha da busca indexada, revelando notícias simuladas recentes. Protocolo atualizado.
