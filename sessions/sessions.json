@@ -1,9 +1,9 @@
 {
   "agent:aparicio:cron:9e99a605-48d8-4f5a-bde3-67cdeb8fff4e": {
-    "sessionId": "5b71dbfe-e4e1-493d-94bd-74b0e660e54f",
-    "updatedAt": 1771448972050,
+    "sessionId": "35410798-b081-4be0-b603-58cc31609c94",
+    "updatedAt": 1771456172085,
     "systemSent": true,
-    "model": "gemini-3-flash-preview",
+    "model": "gemini-3-pro-high",
     "contextTokens": 1048576,
     "label": "Cron: Triagem de PRs do Jules (fork → repo original)",
     "skillsSnapshot": {
@@ -136,15 +136,15 @@
       ],
       "version": 0
     },
-    "modelProvider": "google-gemini-cli",
-    "inputTokens": 9300,
-    "outputTokens": 42,
-    "totalTokens": 10176,
+    "modelProvider": "google-antigravity",
+    "inputTokens": 14435,
+    "outputTokens": 403,
+    "totalTokens": 12007,
     "totalTokensFresh": true
   },
   "agent:aparicio:main": {
     "sessionId": "3b313458-5b71-4e4b-98bb-3d406f42deed",
-    "updatedAt": 1771455771435,
+    "updatedAt": 1771459744507,
     "verboseLevel": "on",
     "reasoningLevel": "stream",
     "systemSent": true,
@@ -254,21 +254,35 @@
     "lastTo": "telegram:8490688452",
     "lastAccountId": "aparicio",
     "channel": "whatsapp",
-    "modelProvider": "google-antigravity",
-    "model": "gemini-3-flash",
-    "contextTokens": 1048576,
+    "modelProvider": "openai-codex",
+    "model": "gpt-5.3-codex",
+    "contextTokens": 272000,
     "abortedLastRun": false,
-    "inputTokens": 209188,
-    "outputTokens": 439,
-    "totalTokens": 201753,
+    "inputTokens": 2876,
+    "outputTokens": 88,
+    "totalTokens": 244028,
     "totalTokensFresh": true,
+    "origin": {
+      "label": "Franklin Baldo (@franklinbaldo) id:8490688452",
+      "provider": "telegram",
+      "surface": "telegram",
+      "chatType": "direct",
+      "from": "telegram:8490688452",
+      "to": "telegram:8490688452",
+      "accountId": "aparicio"
+    },
+    "chatType": "direct",
+    "sessionFile": "/home/franklinbaldo/.openclaw/agents/aparicio/sessions/3b313458-5b71-4e4b-98bb-3d406f42deed.jsonl",
+    "authProfileOverride": "google-antigravity:franklinbaldo@gmail.com",
+    "authProfileOverrideSource": "auto",
+    "authProfileOverrideCompactionCount": 0,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1771455639594,
+      "generatedAt": 1771459693431,
       "sessionId": "3b313458-5b71-4e4b-98bb-3d406f42deed",
       "sessionKey": "agent:aparicio:main",
-      "provider": "google-antigravity",
-      "model": "gemini-3-flash",
+      "provider": "openai-codex",
+      "model": "gpt-5.3-codex",
       "workspaceDir": "/home/franklinbaldo/.openclaw/workspace-aparicio",
       "bootstrapMaxChars": 20000,
       "sandbox": {
@@ -276,9 +290,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 29233,
-        "projectContextChars": 16706,
-        "nonProjectContextChars": 12527
+        "chars": 28668,
+        "projectContextChars": 16629,
+        "nonProjectContextChars": 12039
       },
       "injectedWorkspaceFiles": [
         {
@@ -325,8 +339,8 @@
           "name": "HEARTBEAT.md",
           "path": "/home/franklinbaldo/.openclaw/workspace-aparicio/HEARTBEAT.md",
           "missing": false,
-          "rawChars": 725,
-          "injectedChars": 725,
+          "rawChars": 648,
+          "injectedChars": 648,
           "truncated": false
         },
         {
@@ -527,28 +541,14 @@
           }
         ]
       }
-    },
-    "sessionFile": "/home/franklinbaldo/.openclaw/agents/aparicio/sessions/3b313458-5b71-4e4b-98bb-3d406f42deed.jsonl",
-    "origin": {
-      "label": "Franklin Baldo (@franklinbaldo) id:8490688452",
-      "provider": "telegram",
-      "surface": "telegram",
-      "chatType": "direct",
-      "from": "telegram:8490688452",
-      "to": "telegram:8490688452",
-      "accountId": "aparicio"
-    },
-    "chatType": "direct",
-    "authProfileOverride": "google-antigravity:franklinbaldo@gmail.com",
-    "authProfileOverrideSource": "auto",
-    "authProfileOverrideCompactionCount": 0
+    }
   },
   "agent:aparicio:cron:f08d755d-68f7-4bfc-bac5-24f9cd5609f6": {
-    "sessionId": "289fd6c3-3556-42ca-b533-3d54fb025680",
-    "updatedAt": 1771455144924,
+    "sessionId": "3c2219ea-ee03-4943-bbdb-537839c9398e",
+    "updatedAt": 1771458745412,
     "systemSent": true,
-    "model": "gemini-3-pro-high",
-    "contextTokens": 1048576,
+    "model": "gpt-5.3-codex",
+    "contextTokens": 272000,
     "label": "Cron: heartbeat",
     "skillsSnapshot": {
       "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>alfarrabios-publisher</name>\n    <description>Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>biographer-ghostwriter</name>\n    <description>Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro &apos;EITA LASQUEIRA&apos;.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jina-reader</name>\n    <description>Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md</location>\n  </skill>\n</available_skills>",
@@ -680,18 +680,18 @@
       ],
       "version": 0
     },
-    "modelProvider": "google-antigravity",
-    "inputTokens": 10223,
-    "outputTokens": 259,
-    "totalTokens": 10223,
+    "modelProvider": "openai-codex",
+    "inputTokens": 8168,
+    "outputTokens": 722,
+    "totalTokens": 12911,
     "totalTokensFresh": true
   },
   "agent:aparicio:cron:926b6bc5-8723-4a02-802d-ce115c9df5a5": {
-    "sessionId": "7689abca-b1f8-46ad-ad72-1a1db5d3fa33",
-    "updatedAt": 1771455596779,
+    "sessionId": "09f3206a-ec91-4a8c-a26c-c6243d6b049d",
+    "updatedAt": 1771459196776,
     "systemSent": true,
-    "model": "gemini-3-pro-high",
-    "contextTokens": 1048576,
+    "model": "gpt-5.3-codex",
+    "contextTokens": 272000,
     "label": "Cron: pr-monitor",
     "skillsSnapshot": {
       "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
@@ -790,10 +790,10 @@
       ],
       "version": 0
     },
-    "modelProvider": "google-antigravity",
-    "inputTokens": 18951,
-    "outputTokens": 1132,
-    "totalTokens": 11819,
+    "modelProvider": "openai-codex",
+    "inputTokens": 21602,
+    "outputTokens": 765,
+    "totalTokens": 12973,
     "totalTokensFresh": true
   },
   "agent:aparicio:cron:cab35f19-abbb-4552-9a4a-8593733afe45": {
@@ -1143,387 +1143,6 @@
           "description": "Gera áudio nativo (.wav) usando o modelo Gemini 2.5 Flash TTS com o estilo do Aparício Funes.",
           "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/gemini-tts-native/SKILL.md",
           "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/gemini-tts-native",
-          "source": "openclaw-workspace",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "jina-reader",
-          "description": "Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.",
-          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md",
-          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader",
-          "source": "openclaw-workspace",
-          "disableModelInvocation": false
-        }
-      ],
-      "version": 0
-    }
-  },
-  "agent:aparicio:cron:9e99a605-48d8-4f5a-bde3-67cdeb8fff4e:run:bf4350a8-2d21-49b0-8bb3-131aba6b51ec": {
-    "sessionId": "bf4350a8-2d21-49b0-8bb3-131aba6b51ec",
-    "updatedAt": 1771369772041,
-    "systemSent": true,
-    "model": "gemini-3-flash-preview",
-    "contextTokens": 1048576,
-    "label": "Cron: Triagem de PRs do Jules (fork → repo original)",
-    "skillsSnapshot": {
-      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>alfarrabios-publisher</name>\n    <description>Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>biographer-ghostwriter</name>\n    <description>Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro &apos;EITA LASQUEIRA&apos;.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jina-reader</name>\n    <description>Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md</location>\n  </skill>\n</available_skills>",
-      "skills": [
-        {
-          "name": "coding-agent"
-        },
-        {
-          "name": "gemini"
-        },
-        {
-          "name": "github"
-        },
-        {
-          "name": "healthcheck"
-        },
-        {
-          "name": "nano-banana-pro",
-          "primaryEnv": "GEMINI_API_KEY"
-        },
-        {
-          "name": "skill-creator"
-        },
-        {
-          "name": "tmux"
-        },
-        {
-          "name": "weather"
-        },
-        {
-          "name": "alfarrabios-publisher"
-        },
-        {
-          "name": "biographer-ghostwriter"
-        },
-        {
-          "name": "jina-reader"
-        }
-      ],
-      "resolvedSkills": [
-        {
-          "name": "coding-agent",
-          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "gemini",
-          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "github",
-          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "healthcheck",
-          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "nano-banana-pro",
-          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "skill-creator",
-          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "tmux",
-          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "weather",
-          "description": "Get current weather and forecasts (no API key required).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "alfarrabios-publisher",
-          "description": "Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.",
-          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md",
-          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher",
-          "source": "openclaw-workspace",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "biographer-ghostwriter",
-          "description": "Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro 'EITA LASQUEIRA'.",
-          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md",
-          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter",
-          "source": "openclaw-workspace",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "jina-reader",
-          "description": "Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.",
-          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md",
-          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader",
-          "source": "openclaw-workspace",
-          "disableModelInvocation": false
-        }
-      ],
-      "version": 0
-    }
-  },
-  "agent:aparicio:cron:926b6bc5-8723-4a02-802d-ce115c9df5a5:run:611ce827-ee31-4799-9d91-682ea08947d3": {
-    "sessionId": "611ce827-ee31-4799-9d91-682ea08947d3",
-    "updatedAt": 1771371900315,
-    "systemSent": true,
-    "model": "gemini-3-flash-preview",
-    "contextTokens": 1048576,
-    "label": "Cron: pr-monitor",
-    "skillsSnapshot": {
-      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
-      "skills": [
-        {
-          "name": "coding-agent"
-        },
-        {
-          "name": "gemini"
-        },
-        {
-          "name": "github"
-        },
-        {
-          "name": "healthcheck"
-        },
-        {
-          "name": "nano-banana-pro",
-          "primaryEnv": "GEMINI_API_KEY"
-        },
-        {
-          "name": "skill-creator"
-        },
-        {
-          "name": "tmux"
-        },
-        {
-          "name": "weather"
-        }
-      ],
-      "resolvedSkills": [
-        {
-          "name": "coding-agent",
-          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "gemini",
-          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "github",
-          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "healthcheck",
-          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "nano-banana-pro",
-          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "skill-creator",
-          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "tmux",
-          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "weather",
-          "description": "Get current weather and forecasts (no API key required).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        }
-      ],
-      "version": 0
-    }
-  },
-  "agent:aparicio:cron:f08d755d-68f7-4bfc-bac5-24f9cd5609f6:run:065f7d66-a4b9-4f8c-8845-9db07476b785": {
-    "sessionId": "065f7d66-a4b9-4f8c-8845-9db07476b785",
-    "updatedAt": 1771372346917,
-    "systemSent": true,
-    "model": "gemini-3-flash-preview",
-    "contextTokens": 1048576,
-    "label": "Cron: heartbeat",
-    "skillsSnapshot": {
-      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>alfarrabios-publisher</name>\n    <description>Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>biographer-ghostwriter</name>\n    <description>Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro &apos;EITA LASQUEIRA&apos;.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jina-reader</name>\n    <description>Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md</location>\n  </skill>\n</available_skills>",
-      "skills": [
-        {
-          "name": "coding-agent"
-        },
-        {
-          "name": "gemini"
-        },
-        {
-          "name": "github"
-        },
-        {
-          "name": "healthcheck"
-        },
-        {
-          "name": "nano-banana-pro",
-          "primaryEnv": "GEMINI_API_KEY"
-        },
-        {
-          "name": "skill-creator"
-        },
-        {
-          "name": "tmux"
-        },
-        {
-          "name": "weather"
-        },
-        {
-          "name": "alfarrabios-publisher"
-        },
-        {
-          "name": "biographer-ghostwriter"
-        },
-        {
-          "name": "jina-reader"
-        }
-      ],
-      "resolvedSkills": [
-        {
-          "name": "coding-agent",
-          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "gemini",
-          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "github",
-          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "healthcheck",
-          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "nano-banana-pro",
-          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "skill-creator",
-          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "tmux",
-          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "weather",
-          "description": "Get current weather and forecasts (no API key required).",
-          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
-          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
-          "source": "openclaw-bundled",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "alfarrabios-publisher",
-          "description": "Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.",
-          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md",
-          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher",
-          "source": "openclaw-workspace",
-          "disableModelInvocation": false
-        },
-        {
-          "name": "biographer-ghostwriter",
-          "description": "Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro 'EITA LASQUEIRA'.",
-          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md",
-          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter",
           "source": "openclaw-workspace",
           "disableModelInvocation": false
         },
@@ -12800,8 +12419,8 @@
     "totalTokensFresh": true
   },
   "agent:aparicio:cron:faa73f03-1cdd-4ff0-b5f3-526b168c41d5": {
-    "sessionId": "5d6bcbaa-6759-474a-8f30-f29137e83186",
-    "updatedAt": 1771453761026,
+    "sessionId": "8de5b2f1-929c-4e78-84d3-33b051b75c31",
+    "updatedAt": 1771456863075,
     "systemSent": true,
     "model": "gemini-3-pro-high",
     "contextTokens": 1048576,
@@ -12981,9 +12600,9 @@
       "version": 0
     },
     "modelProvider": "google-antigravity",
-    "inputTokens": 37159,
-    "outputTokens": 1812,
-    "totalTokens": 20938,
+    "inputTokens": 25255,
+    "outputTokens": 833,
+    "totalTokens": 11463,
     "totalTokensFresh": true
   },
   "agent:aparicio:cron:faa73f03-1cdd-4ff0-b5f3-526b168c41d5:run:28521e1e-c089-4470-b33b-2857b8d9244d": {
@@ -21565,6 +21184,1062 @@
     "inputTokens": 18951,
     "outputTokens": 1132,
     "totalTokens": 11819,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:9e99a605-48d8-4f5a-bde3-67cdeb8fff4e:run:35410798-b081-4be0-b603-58cc31609c94": {
+    "sessionId": "35410798-b081-4be0-b603-58cc31609c94",
+    "updatedAt": 1771456172085,
+    "systemSent": true,
+    "model": "gemini-3-pro-high",
+    "contextTokens": 1048576,
+    "label": "Cron: Triagem de PRs do Jules (fork → repo original)",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>alfarrabios-publisher</name>\n    <description>Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>biographer-ghostwriter</name>\n    <description>Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro &apos;EITA LASQUEIRA&apos;.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jina-reader</name>\n    <description>Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        },
+        {
+          "name": "alfarrabios-publisher"
+        },
+        {
+          "name": "biographer-ghostwriter"
+        },
+        {
+          "name": "jina-reader"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "alfarrabios-publisher",
+          "description": "Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "biographer-ghostwriter",
+          "description": "Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro 'EITA LASQUEIRA'.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "jina-reader",
+          "description": "Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "google-antigravity",
+    "inputTokens": 14435,
+    "outputTokens": 403,
+    "totalTokens": 12007,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:926b6bc5-8723-4a02-802d-ce115c9df5a5:run:d6b500fb-e135-4364-b1ee-6238e8f96743": {
+    "sessionId": "d6b500fb-e135-4364-b1ee-6238e8f96743",
+    "updatedAt": 1771456496779,
+    "systemSent": true,
+    "model": "gpt-5.3-codex",
+    "contextTokens": 272000,
+    "label": "Cron: pr-monitor",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "openai-codex",
+    "inputTokens": 11500,
+    "outputTokens": 789,
+    "totalTokens": 13064,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:faa73f03-1cdd-4ff0-b5f3-526b168c41d5:run:8de5b2f1-929c-4e78-84d3-33b051b75c31": {
+    "sessionId": "8de5b2f1-929c-4e78-84d3-33b051b75c31",
+    "updatedAt": 1771456863075,
+    "systemSent": true,
+    "model": "gemini-3-pro-high",
+    "contextTokens": 1048576,
+    "label": "Cron: 📋 Aparício: Sincronização Geral (Hourly)",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>alfarrabios-publisher</name>\n    <description>Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>biographer-ghostwriter</name>\n    <description>Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro &apos;EITA LASQUEIRA&apos;.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jina-reader</name>\n    <description>Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jules-creator</name>\n    <description>Crie ou atualize agentes autônomos para o ecossistema Jules (blog Alfarrábios do Adi). Use para gerar novos SOUL.md seguindo o Framework de Agentes Autônomos, organizando pastas de logs, diretrizes de append-only e protocolos de comunicação via repositório.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jules-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jules-session-manager</name>\n    <description>Cria e gerencia sessões do Jules AI usando os perfis (SOUL.md) dos agentes locais. Use para delegar tarefas autônomas ao Jules, garantindo que ele receba a &apos;alma&apos; e a &apos;missão&apos; corretas para atuar no repositório.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jules-session-manager/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>memory-graph</name>\n    <description>Audita e conecta arquivos de memória desgarrados (órfãos) no workspace. Inspirado no conceito de Grafo do Obsidian, garante que todo registro de memória tenha um rastro de origem ou referência.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/memory-graph/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>monorepo-sync</name>\n    <description>Sincroniza mudanças do Monorepo Aparício Funes para os repositórios individuais (blogs) e vice-versa. Essencial para publicar posts do seu Adi e do Franklin que foram editados via Jules no monorepo.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/monorepo-sync/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        },
+        {
+          "name": "alfarrabios-publisher"
+        },
+        {
+          "name": "biographer-ghostwriter"
+        },
+        {
+          "name": "jina-reader"
+        },
+        {
+          "name": "jules-creator"
+        },
+        {
+          "name": "jules-session-manager"
+        },
+        {
+          "name": "memory-graph"
+        },
+        {
+          "name": "monorepo-sync"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "alfarrabios-publisher",
+          "description": "Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "biographer-ghostwriter",
+          "description": "Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro 'EITA LASQUEIRA'.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "jina-reader",
+          "description": "Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "jules-creator",
+          "description": "Crie ou atualize agentes autônomos para o ecossistema Jules (blog Alfarrábios do Adi). Use para gerar novos SOUL.md seguindo o Framework de Agentes Autônomos, organizando pastas de logs, diretrizes de append-only e protocolos de comunicação via repositório.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jules-creator/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jules-creator",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "jules-session-manager",
+          "description": "Cria e gerencia sessões do Jules AI usando os perfis (SOUL.md) dos agentes locais. Use para delegar tarefas autônomas ao Jules, garantindo que ele receba a 'alma' e a 'missão' corretas para atuar no repositório.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jules-session-manager/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jules-session-manager",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "memory-graph",
+          "description": "Audita e conecta arquivos de memória desgarrados (órfãos) no workspace. Inspirado no conceito de Grafo do Obsidian, garante que todo registro de memória tenha um rastro de origem ou referência.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/memory-graph/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/memory-graph",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "monorepo-sync",
+          "description": "Sincroniza mudanças do Monorepo Aparício Funes para os repositórios individuais (blogs) e vice-versa. Essencial para publicar posts do seu Adi e do Franklin que foram editados via Jules no monorepo.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/monorepo-sync/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/monorepo-sync",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "google-antigravity",
+    "inputTokens": 25255,
+    "outputTokens": 833,
+    "totalTokens": 11463,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:f08d755d-68f7-4bfc-bac5-24f9cd5609f6:run:664ed61f-3e9c-42ab-bf4d-e230c2613789": {
+    "sessionId": "664ed61f-3e9c-42ab-bf4d-e230c2613789",
+    "updatedAt": 1771456945760,
+    "systemSent": true,
+    "model": "gpt-5.3-codex",
+    "contextTokens": 272000,
+    "label": "Cron: heartbeat",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>alfarrabios-publisher</name>\n    <description>Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>biographer-ghostwriter</name>\n    <description>Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro &apos;EITA LASQUEIRA&apos;.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jina-reader</name>\n    <description>Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        },
+        {
+          "name": "alfarrabios-publisher"
+        },
+        {
+          "name": "biographer-ghostwriter"
+        },
+        {
+          "name": "jina-reader"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "alfarrabios-publisher",
+          "description": "Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "biographer-ghostwriter",
+          "description": "Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro 'EITA LASQUEIRA'.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "jina-reader",
+          "description": "Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "openai-codex",
+    "inputTokens": 7479,
+    "outputTokens": 522,
+    "totalTokens": 12093,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:926b6bc5-8723-4a02-802d-ce115c9df5a5:run:73feccf1-d919-41bc-9f8a-ce49e20e7877": {
+    "sessionId": "73feccf1-d919-41bc-9f8a-ce49e20e7877",
+    "updatedAt": 1771457396766,
+    "systemSent": true,
+    "model": "gemini-3-pro-high",
+    "contextTokens": 1048576,
+    "label": "Cron: pr-monitor",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "google-antigravity",
+    "inputTokens": 19902,
+    "outputTokens": 1366,
+    "totalTokens": 12112,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:926b6bc5-8723-4a02-802d-ce115c9df5a5:run:0b3fcb1d-130c-416f-b1ea-8c7a51a99b48": {
+    "sessionId": "0b3fcb1d-130c-416f-b1ea-8c7a51a99b48",
+    "updatedAt": 1771458296787,
+    "systemSent": true,
+    "model": "gemini-3-pro-high",
+    "contextTokens": 1048576,
+    "label": "Cron: pr-monitor",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "google-antigravity",
+    "inputTokens": 18089,
+    "outputTokens": 820,
+    "totalTokens": 11364,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:f08d755d-68f7-4bfc-bac5-24f9cd5609f6:run:3c2219ea-ee03-4943-bbdb-537839c9398e": {
+    "sessionId": "3c2219ea-ee03-4943-bbdb-537839c9398e",
+    "updatedAt": 1771458745412,
+    "systemSent": true,
+    "model": "gpt-5.3-codex",
+    "contextTokens": 272000,
+    "label": "Cron: heartbeat",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>alfarrabios-publisher</name>\n    <description>Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>biographer-ghostwriter</name>\n    <description>Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro &apos;EITA LASQUEIRA&apos;.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>jina-reader</name>\n    <description>Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.</description>\n    <location>/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        },
+        {
+          "name": "alfarrabios-publisher"
+        },
+        {
+          "name": "biographer-ghostwriter"
+        },
+        {
+          "name": "jina-reader"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "alfarrabios-publisher",
+          "description": "Publish and maintain posts for the blog Alfarrábios do Adi (Astro + GitHub Pages). Use when the user asks to publish a post: polish Adi audio/text, choose tags + Locais da vida, generate a mandatory Nano Banana cover image, ensure per-post OG social card works, commit/push to the repo, and confirm deployment.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/alfarrabios-publisher",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "biographer-ghostwriter",
+          "description": "Atue como um biógrafo e ghostwriter profissional para transformar memórias esparsas em uma obra literária coesa. Use para entrevistar o autor, organizar capítulos, polir textos mantendo a voz original e estruturar o livro 'EITA LASQUEIRA'.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/biographer-ghostwriter",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "jina-reader",
+          "description": "Fetch clean markdown content or screenshots from any URL using the Jina Reader API. Use when you need to read a web page without clutter, bypass anti-bot measures, or take a visual screenshot of a website.",
+          "filePath": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader/SKILL.md",
+          "baseDir": "/home/franklinbaldo/.openclaw/agents/aparicio/workspace/skills/jina-reader",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "openai-codex",
+    "inputTokens": 8168,
+    "outputTokens": 722,
+    "totalTokens": 12911,
+    "totalTokensFresh": true
+  },
+  "agent:aparicio:cron:926b6bc5-8723-4a02-802d-ce115c9df5a5:run:09f3206a-ec91-4a8c-a26c-c6243d6b049d": {
+    "sessionId": "09f3206a-ec91-4a8c-a26c-c6243d6b049d",
+    "updatedAt": 1771459196776,
+    "systemSent": true,
+    "model": "gpt-5.3-codex",
+    "contextTokens": 272000,
+    "label": "Cron: pr-monitor",
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>coding-agent</name>\n    <description>Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>gemini</name>\n    <description>Gemini CLI for one-shot Q&amp;A, summaries, and generation.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>github</name>\n    <description>Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/github/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>tmux</name>\n    <description>Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.</description>\n    <location>/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/usr/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "coding-agent"
+        },
+        {
+          "name": "gemini"
+        },
+        {
+          "name": "github"
+        },
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY"
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "tmux"
+        },
+        {
+          "name": "weather"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "coding-agent",
+          "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/coding-agent/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/coding-agent",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "gemini",
+          "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/gemini/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/gemini",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "github",
+          "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/github/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/github",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "tmux",
+          "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/tmux/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/tmux",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts (no API key required).",
+          "filePath": "/usr/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/usr/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "openai-codex",
+    "inputTokens": 21602,
+    "outputTokens": 765,
+    "totalTokens": 12973,
     "totalTokensFresh": true
   }
 }
