@@ -6,6 +6,6 @@
 
 ## 🔔 PRs Pending Review
 
-- [ ] franklinbaldo/aparicio-funes#69 — Ritual de Arrumação KonMari (Cleanup and Organization)
-- [ ] franklinbaldo/aparicio-funes#67 — feat(candido): adiciona garimpo do dia 2026-02-19
-<!-- Last updated: 2026-02-19 07:44 AM (America/Porto_Velho) -->
+- [ ] franklinbaldo/aparicio-funes#69 — Ritual de Arrumação KonMari (Cleanup and Organization) (@franklinbaldo)
+- [ ] franklinbaldo/aparicio-funes#67 — feat(candido): adiciona garimpo do dia 2026-02-19 (@franklinbaldo)
+<!-- Last updated: 2026-02-19 09:14 AM (America/Porto_Velho) -->
