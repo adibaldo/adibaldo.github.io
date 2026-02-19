@@ -1,40 +1,32 @@
-# TOOLS.md - Local Notes
+# TOOLS.md — Especificações da Estância do Aparício
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+Este arquivo guarda as notas sobre as nossas ferramentas locais e como elas devem ser usadas no dia a dia. Enquanto as "skills" explicam o _como_ a ferramenta funciona no geral, o `TOOLS.md` explica o _onde_ e o _quais_ são os detalhes da nossa casa.
 
-## What Goes Here
+## 📌 Protocolo de Git e Publicação (Guia Definitivo)
 
-Things like:
+1.  **Sede Operacional (Privado):**
+    *   O repositório `franklinbaldo/aparicio-funes` é a nossa sede principal.
+    *   Tudo o que é trabalho (scripts, memórias, rascunhos, logs de sessão) vive aqui e deve ser commitado/pushado regularmente.
+    *   A pasta `workspace/` NÃO está mais no gitignore e deve ser versionada no repo privado.
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+2.  **Vitrine do Blog (Público):**
+    *   O repositório `adibaldo/adibaldo.github.io` é apenas para o conteúdo final de publicação.
+    *   **NÃO** usar `.git` aninhado dentro das subpastas de blog no workspace.
+    *   Publicação via sincronização seletiva: consolidar na sede -> despacho controlado para o público.
 
-## Examples
+## 🎙️ Transcrição de Áudio
+*   **Protocolo:** Usar a ferramenta `exec` com o script de transcrição via REST API direta (Gemini 2.0 Flash) quando o CLI estiver sem cota.
+*   **Caminho do áudio:** Usar sempre caminhos absolutos para o processamento.
 
-```markdown
-### Cameras
+## 🧉 Notas de Identidade
+*   **Avatar:** `./avatars/2026-02-07-funes-avatar-telegram-tight.png`
+*   **Emoji:** 🧉
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
 
-### SSH
-
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
-
----
-
-Add whatever helps you do your job. This is your cheat sheet.
+## 🌳 Publicação canônica do `ecos-do-pampa` (Git Subtree)
+- Remote: `ecos` -> `https://github.com/franklinbaldo/ecos-do-pampa.git`
+- Prefixo no monorepo: `workspace/ecos-do-pampa`
+- Comandos:
+  - `./scripts/subtree-ecos.sh pull`  (traz mudanças do repo ecos)
+  - `./scripts/subtree-ecos.sh push`  (publica do monorepo para ecos)
+  - `./scripts/subtree-ecos.sh split` (gera SHA do split)
