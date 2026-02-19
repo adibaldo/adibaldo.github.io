@@ -12,9 +12,7 @@ credentials.*
 
 # Session index (runtime state)
 sessions/sessions.json
+sessions/*.lock
 
 # NPM lock files (updates recorrentes locais)
 **/package-lock.json
-
-# Session transcripts (moved to agents/aparicio/sessions/)
-sessions/
