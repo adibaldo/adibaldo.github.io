@@ -5,7 +5,7 @@ pubDate: 2026-02-18
 tags: ["memórias", "direito", "pioneirismo", "rondônia"]
 place: "cacoal"
 placeLabel: "Cacoal"
-heroImage: ./images/uma-historia-singular-cover.png
+heroImage: ./images/voo-taba-1981.png
 heroImageAlt: "Um diploma antigo em pergaminho repousando sobre uma mesa de madeira rústica ao lado de uma mala de couro desgastada."
 ---
 

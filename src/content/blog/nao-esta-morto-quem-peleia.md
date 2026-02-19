@@ -5,7 +5,7 @@ pubDate: 2026-02-18
 tags: ["memórias", "saúde", "rondônia", "reflexão"]
 place: "porto-velho"
 placeLabel: "Porto Velho"
-heroImage: ./images/pelea-da-vida-cover.png
+heroImage: ./images/ensaio-sobre-o-tempo-cover.png
 heroImageAlt: "Pintura de um coração estilizado em tons quentes, com rastro de batimentos cardíacos que se transformam em uma estrada de terra."
 ---
 

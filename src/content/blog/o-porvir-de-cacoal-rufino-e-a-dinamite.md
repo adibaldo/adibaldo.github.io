@@ -5,7 +5,7 @@ pubDate: 2026-02-18
 tags: ["memórias", "direito", "pioneirismo", "rondônia"]
 place: "cacoal"
 placeLabel: "Cacoal / Rolim de Moura"
-heroImage: ./images/chegada-em-cacoal-cover.png
+heroImage: ./images/voo-taba-1981.png
 heroImageAlt: "Pintura de um caminhão enlameado passando por uma rua de terra em frente a um hotel simples de madeira no interior de Rondônia."
 ---
 

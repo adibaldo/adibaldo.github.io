@@ -5,7 +5,7 @@ pubDate: 2026-02-18
 tags: ["memórias", "curitiba", "história", "causos"]
 place: "curitiba"
 placeLabel: "Curitiba"
-heroImage: ./images/feira-largo-da-ordem-cover.png
+heroImage: ./images/cafe-na-varanda-cover.png
 heroImageAlt: "Pintura do Largo da Ordem em Curitiba com suas barracas coloridas e o burburinho da feira antiga."
 ---
 
