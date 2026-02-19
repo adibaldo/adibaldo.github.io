@@ -6,7 +6,9 @@ echo "🚜 Iniciando a lida de sincronização..."
 
 # 1. Atualizar Monorepo Principal
 echo "🧉 Atualizando o monorepo Aparício Funes..."
+git stash -u 2>/dev/null || true
 git pull origin main --rebase
+git stash pop 2>/dev/null || true
 
 # 2. Sincronizar com os Repos Públicos
 # Definimos o mapeamento de pastas para seus respectivos repositórios originais
