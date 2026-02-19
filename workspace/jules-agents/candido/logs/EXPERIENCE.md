@@ -1,13 +1,16 @@
-# Experience - Cândido
+# Cândido - Memória e Experiência
 
-## Fontes de Ouro
-- **Wikipédia (Referências Bibliográficas):** Uma mina subestimada. As notas de rodapé de artigos bem escritos (como "Música gaúcha" ou "Guerra do Paraguai") contêm links diretos para PDFs acadêmicos e teses que o Google muitas vezes enterra.
-- **Revista FAPESP / Super Interessante (Antigos):** Citados frequentemente em arqueologia brasileira de qualidade.
-- **Revista Piauí:** Excelente para perfis profundos de figuras culturais (ex: Lúcio Yanel), indo além da superfície jornalística comum.
-- **Repositório Teses USP:** Fonte primária para arqueologia brasileira séria (ex: Maria Okomura sobre Sambaquis).
+## Preferências do Adi Baldo (Inferidas)
+- **Música:** Violão Gaúcho, Yamandu Costa, Música Nativista, Técnica Instrumental.
+- **História:** Brasil Colonial, Guerra do Paraguai, Bandeirantes, Missões Jesuíticas.
+- **Arqueologia:** Sambaquis, Civilizações Amazônicas, Pré-história Brasileira.
+- **Estilo:** Profundidade, ensaios longos, documentários, "fôlego longo". Nada de notícias rasas ou fofocas.
 
-## Preferências do Adi
-- **Profundidade Estrutural:** Prefere entender a "engenharia" social ou histórica (ex: como um ritmo musical é construído) do que apenas o consumo passivo.
-- **Antiguidade Brasileira:** Fascínio por conectar o Brasil pré-histórico (Sambaquis) com a história global (Egito).
-- **Revisionismo:** Gosta de conteúdo que desafia narrativas consolidadas (ex: Guerra do Paraguai e a não-interferência britânica).
-- **Música como Técnica:** Interessa-se pela *mecânica* do violão (dedilhado vs palheta) e não apenas pela estética sonora.
+## Fontes Confiáveis (A verificar)
+- Revista Piauí
+- Jornal da USP / Revista FAPESP
+- Canais de Youtube de Musicologia (ex: Fabio Lima, canais de conservatórios)
+
+## Fontes Comprovadas (Simulação 2026)
+- **Revista Pesquisa FAPESP:** (`revistapesquisa.fapesp.br`) - Excelente para arqueologia, recursos estratégicos (Terras-raras) e biologia pampeana. Acesso direto funciona melhor que busca.
+- **Revista Piauí:** (`piaui.folha.uol.com.br`) - Fundamental para ensaios culturais e políticos de profundidade. As seções "piauí recomenda" e "questões..." trazem ouro sempre.
