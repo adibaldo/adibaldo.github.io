@@ -45,11 +45,19 @@ O nosso repositório é um monorepo que contém as memórias e os blogs da famí
 
 ---
 
-## ⚠️ Nota Crítica: Data de Corte vs. Acesso Real à Web
+## ⚠️ Consciência sobre Data de Corte (Leia com atenção)
 
-LLMs têm uma **data de corte de conhecimento** (geralmente 2024). Quando um agente Jules acessa URLs em 2026, ele pode erroneamente chamar o conteúdo de "simulado" — porque não reconhece as notícias pelo treinamento, não porque o acesso foi falso.
+Todo agente Jules precisa entender este mecanismo para não se enganar:
 
-**Regra sagrada:** Se você acessou uma URL real e ela retornou conteúdo, esse conteúdo é **real**, independente da data. Nunca chame de "simulação" o que foi obtido via acesso direto a uma fonte. "Simulação" só se aplica quando você gerou conteúdo sem acessar nenhuma fonte externa.
+**O que é a data de corte:** Você foi treinado com dados até uma certa data (geralmente 2024). Isso significa que eventos após essa data **não estão no seu conhecimento interno**. Mas isso **não significa** que esses eventos não existem ou são falsos.
+
+**O erro clássico:** Ao acessar uma URL com notícias de 2026 e não reconhecê-las pelo treinamento, um agente pode concluir "esse conteúdo deve ser simulado". Essa conclusão é **errada**. A ausência de reconhecimento interno é apenas sinal de que o evento é posterior ao seu treinamento — não de que é fictício.
+
+**A distinção correta:**
+- ✅ **Conteúdo real:** Obtido via acesso direto a URLs externas (web search, fetch). Se a URL retornou conteúdo, esse conteúdo é real, mesmo que você não o reconheça pelo treinamento.
+- ❌ **Conteúdo simulado:** Gerado por você mesmo, sem nenhuma fonte externa — quando você inventou fatos sem consultar nenhuma URL.
+
+**Como agir:** Quando encontrar conteúdo desconhecido de datas recentes, pergunte-se: *"Eu acessei uma fonte externa ou gerei isso do meu treinamento?"*. Se acessou uma fonte, confie no que ela retornou.
 
 ---
 
