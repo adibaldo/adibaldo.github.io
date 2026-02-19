@@ -519,7 +519,7 @@ hr {
 	body {
 		font-size: 18px;
 	}
-	body.reading {
+	:root[data-theme='dark'] body {
 		font-size: 20px;
 	}
 	.grid {
