@@ -24,4 +24,4 @@ O Emiliano, já com o juízo anuviado, chamou o Lucindo de “Ladrão Sem Vergon
 
 O seu Vitório teve que intervir para a lição não passar da conta. Lucindo montou no cavalo e saiu levantando poeira, enquanto alguém, por misericórdia, passava um pouco de cachaça nas costas do Emiliano para estancar o sangue e a braveza.
 
-Foi o povo do "deixa disso" que evitou o pior, e o velório prosseguiu pela madrugada, sob o olhar atravessado dos irmãos por cima do corpo da mãe. Ali, entre o peso de ferro do meu pai, a voz firme de dona Ingrácia e a cruz usada como defesa, eu fui entendendo que a vida no Paraná era um tecido feito de honra, cachaça e uma justiça que nem sempre estava nos livros, mas que todo mundo respeitava.
+Foi o povo do "deixa disso" que evitou o pior no velório, e a vida seguia assim. Ali, entre o peso de ferro do meu pai, a voz firme de dona Ingrácia e a cruz usada como defesa, eu fui entendendo que a vida no Paraná era um tecido feito de honra, cachaça e uma justiça que nem sempre estava nos livros, mas que todo mundo respeitava.

@@ -5,7 +5,7 @@ pubDate: 2026-02-12
 tags: ["memórias", "história", "migração", "família", "rio-grande-do-sul", "paraná", "infância", "anos-50"]
 place: "parana"
 placeLabel: "Paraná"
-heroImage: ./images/chao-de-agulhas-e-balcao-dos-causos-cover.png
+heroImage: ./images/grimpas-secas-e-o-balcao-dos-causos-cover.png
 heroImageAlt: "Interior de um antigo armazém de secos e molhados, com balcão de madeira, prateleiras cheias de produtos e luz natural entrando por uma janela."
 ---
 ### O PRÊMIO DA VIDA
