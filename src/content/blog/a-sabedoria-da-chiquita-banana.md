@@ -25,4 +25,4 @@ A vida exige que a gente fique fora da geladeira. Que a gente pegue sol, chuva, 
 
 É o sinal de que a gente amadureceu, de que a gente acumulou doçura e sabedoria. Cada marca é uma história, um causo, uma lembrança.
 
-Então, meu amigo, o conselho do Alfarrabista é o mesmo da Chiquita: saia da geladeira. Não tenha medo de amadurecer. Deixe a vida te pintar de marrom e dourado. Porque, no fim das contas, bananas gostam é do clima tropical. E a alma da gente também.
+Então, meu amigo, o conselho de um velho alfarrabista é o mesmo da Chiquita: saia da geladeira. Não tenha medo de amadurecer. Deixe a vida te pintar de marrom e dourado. Porque, no fim das contas, bananas gostam é do clima tropical. E a alma da gente também.

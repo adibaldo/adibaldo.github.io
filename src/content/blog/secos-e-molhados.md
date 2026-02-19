@@ -47,7 +47,7 @@ O mundo de antanho era igual ao de agora; diferente era o modo de vê-lo. Hoje, 
 
 ## O CAMINHÃOZINHO DE MUDANÇA
 
-Minhas recordações levam-me ao tempo da infância em [Barão de Cotegipe](/locais/barao-de-cotegipe/), Rio Grande do Sul. Dos sete irmãos, eu era o quarto. Brincávamos entre arvoredos e pedregulhos de pega-pega e esconde-esconde, recitando rimas que mal entendíamos: *"Guiri, guiri gaio... escampa sotto il gaio... alora fatte furbo!"*. Era o som das nossas raízes italianas ditando o ritmo da brincadeira.
+Minhas recordações levam-me ao tempo da infância em Barão de Cotegipe, Rio Grande do Sul. Dos sete irmãos, eu era o quarto. Brincávamos entre arvoredos e pedregulhos de pega-pega e esconde-esconde, recitando rimas que mal entendíamos: *"Guiri, guiri gaio... escampa sotto il gaio... alora fatte furbo!"*. Era o som das nossas raízes italianas ditando o ritmo da brincadeira.
 
 Do topo da nossa colina, víamos ao longe, além do vale, uma vila que era o nosso mundo dos sonhos. Imaginávamos uma igreja grande, carroças e uma bodega cheia de caramelos. Um dia, na esperança de que nossos passos fossem mais longos, calçamos as botas grandes de papai. Queríamos atravessar o vale num instante, como se tivéssemos as botas de sete léguas do Pequeno Polegar — personagem que nem conhecíamos. Nossa única história era a do Negrinho do Pastoreio.
 
