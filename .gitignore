@@ -9,3 +9,6 @@ secrets.*
 credentials.*
 
 # Runtime lock files
+
+# Session index (runtime state)
+sessions/sessions.json
