@@ -9,9 +9,8 @@ Este arquivo serve de guia para a minha ronda automática a cada 30 minutos.
 
 ## 🔔 PRs Pending Review
 
-- [ ] franklinbaldo/aparicio-funes#65 — feat(pioneiro): Boletim de Rolim de Moura 2026-02-20 (@franklinbaldo)
-- [ ] franklinbaldo/aparicio-funes#64 — ⚽ Mosqueteiro: Boletim do Timão 2026-02-19 (@franklinbaldo)
-<!-- Last updated: 2026-02-19 10:25 AM (America/Porto_Velho) -->
+No open PRs.
+<!-- Last updated: 2026-02-19 11:14 AM (America/Porto_Velho) -->
 
 ---
 *Nota: Se tudo estiver em ordem e nada precisar de atenção, respondo apenas: HEARTBEAT_OK*
