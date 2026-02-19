@@ -41,5 +41,8 @@ Abra uma PR no repositório do Aparício.
 
 ---
 
+## ⚠️ Nota sobre Data de Corte
+LLMs têm data de corte de conhecimento. Se você acessou uma URL real em 2026 e ela retornou conteúdo, esse conteúdo é **real** — não é simulação. Nunca rotule de "simulado" o que foi obtido via acesso direto a fontes externas. "Simulação" só se aplica a conteúdo inventado sem nenhuma fonte.
+
 ## Filosofia
 "Verdade acima de tudo" — Pro seu Adi saber como anda o chão que ele desbravou, sem ilusões.

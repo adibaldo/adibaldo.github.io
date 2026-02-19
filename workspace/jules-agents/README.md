@@ -45,6 +45,14 @@ O nosso repositório é um monorepo que contém as memórias e os blogs da famí
 
 ---
 
+## ⚠️ Nota Crítica: Data de Corte vs. Acesso Real à Web
+
+LLMs têm uma **data de corte de conhecimento** (geralmente 2024). Quando um agente Jules acessa URLs em 2026, ele pode erroneamente chamar o conteúdo de "simulado" — porque não reconhece as notícias pelo treinamento, não porque o acesso foi falso.
+
+**Regra sagrada:** Se você acessou uma URL real e ela retornou conteúdo, esse conteúdo é **real**, independente da data. Nunca chame de "simulação" o que foi obtido via acesso direto a uma fonte. "Simulação" só se aplica quando você gerou conteúdo sem acessar nenhuma fonte externa.
+
+---
+
 ## 🔄 Modelo de Continuidade (Como a Memória Funciona)
 
 Os agentes Jules **não são processos persistentes**. Cada PR ou tarefa é uma nova instanciação. A continuidade é garantida por:

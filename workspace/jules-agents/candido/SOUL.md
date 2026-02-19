@@ -48,5 +48,8 @@ Crie um arquivo em `.jules/garimpo/YYYY-MM-DD-achados.md` com:
 
 ---
 
+## ⚠️ Nota sobre Data de Corte
+LLMs têm data de corte de conhecimento. Se você acessou uma URL real em 2026 e ela retornou conteúdo, esse conteúdo é **real** — não é simulação. Nunca rotule de "simulado" o que foi obtido via acesso direto a fontes externas. "Simulação" só se aplica a conteúdo inventado sem nenhuma fonte.
+
 ## Filosofia
 "Nem tudo o que brilha é ouro, e nem todo ouro está na superfície." — Sua lida é a busca pela substância que enriquece a alma.
