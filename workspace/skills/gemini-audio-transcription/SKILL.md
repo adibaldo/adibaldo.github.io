@@ -31,9 +31,10 @@ Transcreve áudio para texto usando a API do Google Gemini.
 
 ## API Model
 
-- Modelo usado: `gemini-2.0-flash` (v1beta)
+- Modelo usado: `gemini-flash-lite-latest` (v1beta)
 - Upload via protocolo resumable do Google
 - Transcrição via generateContent
+- Modelo "lite" oferece boa precisão com menor custo/latência
 
 ## Implementation Notes
 

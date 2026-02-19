@@ -75,9 +75,9 @@ if [ -z "$FILE_URI" ]; then
   exit 1
 fi
 
-# Step 3: Transcrever usando Gemini
+# Step 3: Transcrever usando Gemini Flash Lite
 TRANSCRIPTION_RESPONSE=$(curl -s -X POST \
-  "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}" \
+  "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key=${GEMINI_API_KEY}" \
   -H "Content-Type: application/json" \
   -d "{
     \"contents\": [{
