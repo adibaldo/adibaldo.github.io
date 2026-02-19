@@ -9,7 +9,7 @@ heroImage: ./images/chiquita-banana.png
 heroImageAlt: "Pintura de um cacho de bananas maduras em uma fruteira de madeira em uma varanda tropical."
 ---
 
-Quem é do meu tempo lembra daquela marchinha, ou jingle, da Chiquita Banana. Uma figura exótica, com frutas na cabeça, cantando em inglês uma verdade absoluta sobre a botânica e a vida. A gente ouvia aquilo no rádio e achava graça, mas tinha ali um ensinamento que vale mais que muita tese de doutorado.
+Quem é do meu tempo lembra daquela marchinha, ou jingle, da Chiquita Banana. Uma figura exótica, com frutas na cabeça, cantando em inglês uma verdade absoluta sobre a botânica e a vida. A gente ouvia aquilo no rádio e achava graça. Lembro até hoje da Vovó Amantina, no canto da cozinha, cuidando do cacho de banana enquanto a música tocava. Mas tinha ali um ensinamento que vale mais que muita tese de doutorado.
 
 A letra dizia algo muito sério, um conselho de amiga: *“you should never put bananas in the refrigerator”*. Traduzindo em miúdos: nunca ponha bananas na geladeira. Por quê? Porque elas são lá do trópico, do calor do Equador. Se você botar no frio, elas se assustam. A casca fica preta, cinzenta, perdem o gosto, não amadurecem direito. Elas precisam ficar na fruteira, pegando um calorzinho, esperando o tempo certo até aparecerem aquelas pintinhas marrons. É ali, quando ela tá pintadinha, que ela tá doce, que ela tá no ponto, pronta pra virar uma bananada ou acompanhar o arroz com feijão.
 
