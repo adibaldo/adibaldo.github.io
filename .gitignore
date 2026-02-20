@@ -10,9 +10,8 @@ credentials.*
 
 # Runtime lock files
 
-# Session index (runtime state)
-sessions/sessions.json
-sessions/*.lock
+# Session transcripts (SENSITIVE DATA - keep local only)
+sessions/
 
 # NPM lock files (updates recorrentes locais)
 **/package-lock.json
