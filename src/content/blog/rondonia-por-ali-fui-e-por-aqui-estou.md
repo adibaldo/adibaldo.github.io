@@ -2,8 +2,8 @@
 title: "Por ali fui e por aqui estou: A Chegada na Amazônia"
 description: "O relato emocionante da travessia de Curitiba até Rondônia em 1982: o voo da TABA, os atoleiros e o início da vida em Cacoal e Rolim de Moura."
 pubDate: "2026-02-16"
-heroImage: "./images/voo-taba-1981.png"
-heroImageAlt: "Aeronave bimotor Curtiss C-46 da TABA sobrevoando a imensidão verde da floresta amazônica."
+heroImage: "./images/c46-taba-real.jpg"
+heroImageAlt: "Aeronave Curtiss C-46 Commando da TABA (Transportes Aéreos da Bacia Amazônica) em pátio de aeroporto."
 tags: ["memórias", "rondônia", "cacoal", "pioneirismo", "rolim-de-moura", "história"]
 ---
 
@@ -29,8 +29,6 @@ Descendo do ônibus e procurando me localizar, vislumbrei um anúncio: **PASSAGE
 Foi uma ducha de água fria despejada em meu corpo suado, cansado e empoeirado. Era uma outra realidade. Tinha ônibus, mas, ao mesmo tempo, não tinha. Alguém aconselhou: “Daqui pra frente só de avião”. Quem está no barro tem que se enlamear. 
 
 Após conhecer algumas particularidades da região, consegui uma vaga no voo semanal da TABA (Transportes Aéreos da Bacia Amazônica). Uma aeronave do tempo da guerra. Talvez tivesse cumprido algumas missões jogando bombas sobre redutos nazistas ou transportando o brigadeiro Eduardo Gomes. Bimotor, dezesseis lugares. Todos os passageiros acomodados em assentos espremidos por malas, caixotes e bugigangas. Até uma gaiola com um filhote de cão de caça e outros bichos. 
-
-![O avião da TABA sobre a floresta](./images/voo-taba-1981.png)
 
 O avião partiu às 14:30 horas. O tempo estava bom. Da janelinha dava para contemplar o infinito da floresta e por vezes sumíamos entre as nuvens encasteladas. Por volta das cinco da tarde a nave aterrissou na cidade de Pimenta Bueno. A pista era um lamaçal ladeado pela floresta. Restavam 50 quilômetros para o destino final. 
 
