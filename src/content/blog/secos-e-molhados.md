@@ -111,3 +111,11 @@ Mar, terra, rios e montes;
 Desertos, floras e fontes.  
 Antes nada havia.  
 Do nada, a luz.
+
+---
+
+### FIM DO CAMINHÃOZINHO
+
+<img src="./images/secos-e-molhados-caravana-1970s.jpg" alt="Caravana de pioneiros carregados" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:1rem;">
+
+A imagem fecha o capítulo como se fosse um último passo da longa viagem: homens com mochilas e sacos, um cachorro, panelas na mão e o olhar decidido. Foi ali, no final do caminhãozinho de mudança, que a bodega começou, e o Paraná abriu o braço para nós.
