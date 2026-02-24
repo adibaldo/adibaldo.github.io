@@ -20,14 +20,10 @@ logs/
 # Agentes Jules (ficam no repo privado)
 .jules/
 
-# GitHub Actions (gerenciados no repo privado)
-.github/
-
 # Secrets
 .env
 .env.*
 secrets/
-*.asc
 *.key
 *.pem
 
