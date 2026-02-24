@@ -114,8 +114,9 @@ code {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  min-height: 75vh;
+  min-height: 100vh;
   text-align: center;
+  page-break-after: always;
 }
 
 .cover h1 {
@@ -141,4 +142,47 @@ code {
 
 .chapter {
   page-break-before: always;
+}
+
+/* ── Sumário (Índice) ── */
+
+.toc {
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.toc h2 {
+  font-size: 20pt;
+  margin-bottom: 20pt;
+  text-align: center;
+}
+
+.toc ol, .toc p, .toc li {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 11pt;
+  line-height: 2;
+}
+
+.toc-meta {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: 9pt;
+  color: #9b8b7f;
+}
+
+/* ── Imagens ── */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 16pt auto;
+  page-break-inside: avoid;
+}
+
+/* Hero image de capa de capítulo */
+.chapter img:first-of-type {
+  width: 100%;
+  max-height: 200pt;
+  object-fit: cover;
+  margin-bottom: 16pt;
 }
