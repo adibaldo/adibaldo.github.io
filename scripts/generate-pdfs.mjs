@@ -34,10 +34,14 @@ const FONT_FACES = [
   ['Playfair Display', 600, 'playfair-display-latin-ext-600-normal.woff2'],
   ['Playfair Display', 700, 'playfair-display-latin-700-normal.woff2'],
   ['Playfair Display', 700, 'playfair-display-latin-ext-700-normal.woff2'],
+  ['Playfair Display', 700, 'playfair-display-latin-700-italic.woff2', 'italic'],
+  ['Playfair Display', 700, 'playfair-display-latin-ext-700-italic.woff2', 'italic'],
   ['Playfair Display', 900, 'playfair-display-latin-900-normal.woff2'],
   ['Playfair Display', 900, 'playfair-display-latin-ext-900-normal.woff2'],
   ['Source Serif 4', 400, 'source-serif-4-latin-400-normal.woff2'],
   ['Source Serif 4', 400, 'source-serif-4-latin-ext-400-normal.woff2'],
+  ['Source Serif 4', 400, 'source-serif-4-latin-400-italic.woff2', 'italic'],
+  ['Source Serif 4', 400, 'source-serif-4-latin-ext-400-italic.woff2', 'italic'],
   ['Source Serif 4', 600, 'source-serif-4-latin-600-normal.woff2'],
   ['Source Serif 4', 600, 'source-serif-4-latin-ext-600-normal.woff2'],
   ['Source Serif 4', 700, 'source-serif-4-latin-700-normal.woff2'],
@@ -52,10 +56,10 @@ const FONT_FACES = [
 
 function buildFontFaceCss() {
   return FONT_FACES.map(
-    ([family, weight, file]) =>
+    ([family, weight, file, style = 'normal']) =>
       `@font-face {
   font-family: '${family}';
-  font-style: normal;
+  font-style: ${style};
   font-weight: ${weight};
   src: url('file://${join(FONTS_DIR, file)}') format('woff2');
 }`
