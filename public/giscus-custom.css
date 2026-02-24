@@ -1,0 +1,48 @@
+/* giscus-custom.css - Aparício's tailoring for Giscus (Light & Dark) */
+
+/* Default (Light) */
+main {
+  --color-canvas-default: transparent;
+  --color-canvas-subtle: #f6f8fa;
+  --color-border-default: #d0d7de;
+  --color-border-muted: #hsla(210,18%,87%,1);
+  --color-fg-default: #24292f;
+  --color-fg-muted: #57606a;
+  --color-accent-fg: #8b4513; /* Brown accent */
+  --color-btn-primary-bg: #8b4513;
+  --color-btn-primary-border: #8b4513;
+  --color-btn-primary-text: #ffffff;
+}
+
+/* Dark Mode Overrides - Forced High Contrast */
+[data-color-mode="dark"] main {
+  --color-canvas-default: transparent;
+  --color-canvas-subtle: #161b22;
+  --color-border-default: #444c56;
+  --color-border-muted: #373e47;
+  --color-fg-default: #ffffff !important; /* Pure white for text */
+  --color-fg-muted: #ced4da !important;    /* Light grey for secondary text */
+  --color-accent-fg: #f5deb3 !important;   /* Wheat color for links/accents */
+  --color-btn-primary-bg: #8b4513;
+  --color-btn-primary-border: #a0522d;
+  --color-btn-primary-text: #ffffff;
+}
+
+.giscus-frame {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.giscus-main {
+  border: none !important;
+}
+
+/* Ensure the editor and previews are readable */
+[data-color-mode="dark"] .form-control, 
+[data-color-mode="dark"] .btn {
+  color: #ffffff !important;
+  border-color: #444c56 !important;
+}
+
+[data-color-mode="dark"] .color-text-primary {
+  color: #ffffff !important;
+}
