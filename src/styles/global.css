@@ -427,6 +427,7 @@ hr {
 	color: var(--text-primary);
 	text-decoration: none;
 	cursor: pointer;
+	transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 
 :root[data-theme='dark'] .icon-btn {
@@ -477,11 +478,13 @@ hr {
 	color: white;
 	text-decoration: none;
 	width: fit-content;
+	transition: background 0.2s ease, transform 0.15s ease;
 }
 
 .cta:hover {
 	background: var(--accent-hover);
 	color: white;
+	transform: translateY(-1px);
 }
 
 /* Seções */
@@ -539,11 +542,13 @@ hr {
 	display: flex;
 	flex-direction: column;
 	gap: var(--space-sm);
+	transition: box-shadow 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
 .card:hover {
 	border-color: var(--border-card);
 	box-shadow: var(--shadow-card-hover);
+	transform: translateY(-2px);
 }
 
 .card-title {
@@ -576,6 +581,12 @@ hr {
 	background: var(--tag-bg);
 	color: var(--tag-text);
 	border: 1px solid var(--border-light);
+	transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.tag:hover {
+	background: var(--border-light);
+	border-color: var(--border-card);
 }
 
 /* Post */
