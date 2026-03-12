@@ -60,13 +60,13 @@ Como se estivesse na sobrecarga do caminhãozinho de mudança, ousei calçar as 
 
 ## O novo eldorado
 
+![Homens de costas entrando na mata de Rondônia, serraria ao fundo e o cachorro do lado](./images/caminhao-rondonia2.png)
+
 O Brasil se estendeu pelas trilhas rasgadas pelos bandeirantes, tropeiros, garimpeiros, seringueiros, aventureiros. Metas ambiciosas traçadas pelo governo para a integração da Amazônia.
 
 No início dos anos oitenta, como tantos outros, fui em busca do alardeado novo eldorado. Rondônia. Por entre as nuvens contemplei a mata quase infinita. Em terra: rios, brejos, atoleiros, picadas. Antas, onças, tatetos, pico-de-jaca e pernilongos. Peixes, ariranhas e jacarés. Papagaios, arraras, garças e o irritante biscateiro. *(Passarinho quase invisível e de forte assobio.)* Malária, leishmaniose e verminoses. Cidades surgindo do nada. Serrarias, barracos, bolichos e peões. Acidentes, assassinatos e tragédias. Gente com mochila nas costas — *"cacaio"* — levando apenas sal, farinha, pólvora e chumbo. Carabina à tiracolo, terçado na cinta e foice na mão. *Auia!... lá vem madeira!*
 
 Migrantes do sul, nordeste e sudeste em busca da terra prometida, da sobrevivência e da riqueza. Exploração e madeira. Ganância, bravuras, aventureiros e gente humilde. Todos juntos e misturados. Agricultores, comerciantes, profissionais liberais, médicos, engenheiros. Coragem, suor e resiliência. Nada muito diferente da canção que veio do tempo de antanho — e no caminhão de mudança, reescrita por Vinícius de Moraes:
-
-![Homens de costas entrando na mata de Rondônia, serraria ao fundo e o cachorro do lado](./images/caminhao-rondonia2.png)
 
 
 
