@@ -212,4 +212,28 @@ Estamos simplesmente entrando na era digital, do "metaverso", um conceito de esp
 
 ![A pedra lascada e o smartphone — o primeiro e o último marco zero](./images/marco-zero-pedra-lascada.png)
 
+---
+
+## Prêmio da Vida
+
+Por vales e campinas,\
+Viagens além da colina.\
+Doce infância campesina.\
+Devaneios e sonhos de menino\
+Brincando com seu cachorrinho.\
+Que, sei lá... sumiu no caminho.\
+Quanta saudade do pobrezinho.
+
+A vida segue em frente.\
+Tudo muda de repente.\
+O tempo cobra do vivente.\
+Mesmo forte, enérgico e bravo\
+O tempo bate em seu costado;\
+Cobra pelos serviços prestados\
+E certifica com comprido cajado.\
+Não indaga como foi o começo;\
+Das circunstâncias ou endereço.\
+Se do lado direito ou do avesso.\
+Apenas mede, pesa e põe preço.
+
 ![Cajado retorcido numa paisagem aberta — o tempo que mede, pesa e põe preço](./images/cajado-paisagem.png)
