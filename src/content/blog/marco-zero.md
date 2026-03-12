@@ -66,6 +66,8 @@ Somente no século XXI apareceu um doido que resolveu concluir algumas obras aba
 
 Voltando à vaca fria — ou melhor dizendo, à torre inacabada —, evidentemente que com o tempo e péssima qualidade dos materiais tudo se deteriorou e ruiu.
 
+![Torre de Babel: operários discutindo, cada um apontando numa direção diferente](./images/marco-zero-babel.png)
+
 ## O chifre de bode
 
 Esse negócio de obras é um problema, porque até muralha de pedra bem construída um dia ruiu só com o som das cornetas. Sim, cornetas feitas de chifre de bode.
@@ -130,6 +132,8 @@ Aí surgiu um novo líder peitudo de verdade. Chamava-se Josué. Lembram da util
 
 A verdadeira vitória só aconteceu tempos mais tarde, quando um moleque bom de estilingue acertou uma pedrada no meio do "zóio" de um grandalhão fanfarrão. Foi "pá-buf". O guri "chegou chegando" e com a própria espada do grandalhão decepou a cabeça do atrevido. Aquele moleque virou rei, governou por 40 anos e estabeleceu a capital no morrinho em que Abraão quase sacrificou seu filho. O local passou a se chamar Jerusalém — cidade da paz. O cara tinha estrela, por sinal de seis pontas. Ninguém sabe quem desenhou, mas ela é muito poderosa.
 
+![Davi com o estilingue, confiante, olhando para Golias que parece surpreso](./images/marco-zero-davi.png)
+
 ## Salomão
 
 Depois, seu filho Salomão reinou por quarenta anos e foi o rei mais sábio e mais rico que o mundo teve notícia. *(Tenho a impressão que os hebreus só sabiam contar até quarenta.)*
@@ -139,6 +143,8 @@ Salomão mandou construir um grande e luxuoso templo: 126 metros de comprimento,
 Dizem que houve três sujeitos que quiseram receber os segredos na marra e tendo o Mestre se negado, assassinaram-no no canteiro de obras. Um se chamava Jubela, outro Jubelo e o terceiro Jubelum.
 
 Há quem afirme que os vassalos do Rei Salomão estiveram navegando pela Amazônia em busca de ouro. Quanto a isto não me comprometo. Pior que tem uma galera afirmando que em algum ponto da Amazônia tem uma cidade enterrada muito mais esplendorosa que o templo de Salomão, os Jardins Suspensos da Babilônia, o Vaticano e o Pentágono juntos. Ratanabá é seu nome. Mas deixa isso de lado, vai que seja "fake news."
+
+![Salomão no trono, rodeado de tesouros, com o templo ao fundo](./images/marco-zero-salomao.png)
 
 ## Os Gregos
 
@@ -158,11 +164,15 @@ Não vão querer os incautos leitores que eu fale dos egípcios, etruscos, espar
 
 A partir dali surgiu o Império Romano. E como sabemos, os caras eram fodões. A terra prometida consistia apenas num foco de confusão — algo parecido com a "Favela do Alemão." Tanto é que na metade desse grande império, nessa terrinha, apareceu um sujeito diferente de tudo o que já havia acontecido, o qual mudou a história do mundo.
 
+![Soldados romanos marchando pela cidade, o povo os olhando sem impressionar](./images/marco-zero-romanos.png)
+
 ## Jesus
 
 Segundo dizem, os pais dele moravam em Nazaré, mas por uma circunstância especial tiveram que ir para Belém — distante mais de cento e cinquenta quilômetros — e foi ali que Ele nasceu, num lugarejo próximo de Jerusalém que havia sido a casa de campo do Rei Davi.
 
 Não se sabe muito da sua vida, apenas que transformou água em vinho, ressuscitou mortos, fez discursos e protestos. Criticava aqueles que só viviam na mordomia. Um dia foi preso, condenado sem provas, morto e sepultado, tudo em um final de semana. Na madrugada de quinta para sexta-feira, sem o devido processo legal. No primeiro dia da semana, bem cedo, constataram que seu corpo não estava no sepulcro. Depois disso ele teria aparecido e conversado com algumas pessoas. Passado uma lua e meia, desapareceu de vez. Falam em 40 dias, mas tudo bem, uma lua e meia está de bom tamanho.
+
+![Jesus pregando, alguns no público cochilando, outro comendo, outro olhando o relógio](./images/marco-zero-jesus.png)
 
 ## Paulo e o Concílio de Niceia
 
@@ -200,4 +210,6 @@ Para não ser prolixo, e citando o polêmico comunicador brasileiro da terceira 
 
 Estamos simplesmente entrando na era digital, do "metaverso", um conceito de espaço virtual 3D online que conecta tudo a todos e em todos os aspectos. Uma nova era, diferente para permanecer tudo igual. Estamos na era da Inteligência Artificial, onde tudo é facilitado, podendo-se adotar a lei do Menor Esforço e por consequência voltarmos ao marco zero da pedra lascada.
 
-![O cajado do tempo — mede, pesa e põe preço](./images/cajado.png)
+![A pedra lascada e o smartphone — o primeiro e o último marco zero](./images/marco-zero-pedra-lascada.png)
+
+![Cajado retorcido numa paisagem aberta — o tempo que mede, pesa e põe preço](./images/cajado-paisagem.png)
