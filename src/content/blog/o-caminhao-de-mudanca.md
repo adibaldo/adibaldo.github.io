@@ -44,6 +44,8 @@ Mais alguns dias mudamos mais acolá, e de repente estávamos dentro de uma bode
 
 ## A escola e o mundo lá fora
 
+![A bodega do papai — cachaça, fumo em corda, rapadura, a freguesia eclética](./images/caminhao-bodega.png)
+
 A menos de dois quilômetros, uma escola que também servia de capela. Lá íamos para a reza aos domingos e durante a semana para prender o ABC. Sol, chuva, barro, geada e apenas chinelinhos nos pés e *"guarda-passo"* à tiracolo — e dentro um lápis, uma borracha, um caderno, a cartilha e uma batata cozida para o lanche. Era assim. Aprender a ler, escrever, fazer continhas, as cores da bandeira e catecismo. Pedro Álvares Cabral descobriu o Brasil e Jesus nasceu em Belém numa manjedoura. O que seria uma manjedoura? Uma palavra esquisita. Tão esquisita quanto os reis magos e Herodes. José e Maria, tudo bem — mas Herodes?... Não dava nem pra imaginar alguém com esse nome.
 
 Corria notícias de jagunços e de revolta. Gente que ia e que vinha a cavalo, com revólver na cinta. Falavam de um levante dos colonos e que gente havia morrido. Depois, que veio o exército e tudo voltou à normalidade. Depois um Movimento pela Legalidade e de um plebiscito onde o povo tinha que votar Sim ou Não — e ninguém sabia o que era. A maioria seguiu o conselho do padre. Venceu o Não.
@@ -65,6 +67,8 @@ No início dos anos oitenta, como tantos outros, fui em busca do alardeado novo 
 Migrantes do sul, nordeste e sudeste em busca da terra prometida, da sobrevivência e da riqueza. Exploração e madeira. Ganância, bravuras, aventureiros e gente humilde. Todos juntos e misturados. Agricultores, comerciantes, profissionais liberais, médicos, engenheiros. Coragem, suor e resiliência. Nada muito diferente da canção que veio do tempo de antanho — e no caminhão de mudança, reescrita por Vinícius de Moraes:
 
 ![A fronteira de Rondônia — homens com cacaio nas costas, foice na mão, floresta à frente](./images/caminhao-rondonia.png)
+
+
 
 > *Tem certos dias em que eu penso em minha gente e sinto assim todo o meu peito se apertar.*\
 > *Porque parece que acontece de repente, feito um desejo de eu viver sem me notar.*\
@@ -88,7 +92,7 @@ Naquela campina vi muita gente em busca de um novo eldorado. No corredor, parece
 
 Foi só uma agulhada e, como se fosse um esturro na floresta, tudo silenciou. Acordei no clarear do outro dia. Pela janela do hospital vi a copada de um pinheiro e ouvi o cantar de um pássaro. Não era o pio do biscateiro. Reconheci o harmonioso canto do sabiá.
 
-![Pela janela do hospital — a copada do pinheiro e o sabiá cantando na manhã de agosto](./images/caminhao-sabia.png)
+![UTI — aparelhos em primeiro plano, janela ao fundo com o pinheiro e o sabiá](./images/caminhao-uti.png)
 
 Ainda sob os efeitos da anestesia, entendi que meu coração pulsava. Depois, mirando o teto, senti o frio. O frio do mês de agosto. Tive a sensação de estar no topo do caminhãozinho, vendo os campos cobertos de geada. A geada fria que queima o assa-peixe, que rebrota na primavera, para florir e produzir o melhor dos pólens e o mais gostoso mel.
 
@@ -98,7 +102,7 @@ No caminho natural das pedras, dei entrada no INSS e logo veio a aposentadoria. 
 
 Ver os filhos transpondo os vales e netos brincando de *"Sonic"* dá uma alegria esquisita. Alegria por saber que além do vale existem campinas e outras coisas que a vida ensina. Alegria esquisita de saber que o que se começa, de alguma forma termina.
 
-![O avô na varanda, os netos ao redor — a vida que continua além do vale](./images/caminhao-netos.png)
+![Crianças brincando no campo aberto, pinheiros ao fundo — o ciclo que continua](./images/caminhao-criancas2.png)
 
 Por vezes, vem a saudade. Saudade do caminhãozinho de mudança e até daquilo que gostaríamos ter vivido. Sentir saudade é a certeza de estar vivo. É o prêmio da vida.
 
