@@ -173,6 +173,9 @@ Nego Terêncio estendeu a cuia: — Mas *antonces*, quer dizer que o fandango fo
 
 — Na verdade, não lembro bem, porque virei a noite churrasqueando e mateando pelos fundos do rancho. Só lembro que no clarear do dia montei na mula baia que ficou noite toda amarrada no toco. Acho que o neguinho da estância tava se pelando de medo da onça.
 
+![A mula baia definhada, amarrada ao toco a noite toda enquanto o fandango rolava.](./images/onca-mula-toco.png)
+*"...a mula baia que ficou noite toda amarrada no toco."*
+
 ---
 
 ## Vô Franquelim e a Farofa de Viagem
