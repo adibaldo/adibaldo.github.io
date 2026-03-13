@@ -101,6 +101,9 @@ Seu Franquelim viu de cara que dava pra aprontar uma das suas. — Que guerra qu
 
 — Encordoado nada, foi só dois. Um atrás do outro. *"Entonces"* como eu ia contando: tá escrito lá no jornal. O que sucede é o seguinte — o Dr. Getúlio vendeu uma vaca de cria para um estancieiro lá do Rio de Janeiro ou das Minas Gerais. E o combinado foi que o estancieiro das Minas vinha buscar a vaca. Foi por causa disso que vieram os aviões, rumo a São Borja.
 
+![No bolicho — o Gaudêncio sopra o bigode, os peões ao redor com as canecas.](./images/negocio-bolicho.png)
+*"Parado aí! Isso é patacoada e das grandes!"*
+
 — Parado aí! Isso é patacoada e das grandes!, gritou o velho Gaudêncio.
 
 — Só estou contando o que está escrito no jornal. E olha bem, seu Gaudêncio — o jornal foi escrito pelos padres, e padre não mente.
