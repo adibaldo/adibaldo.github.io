@@ -29,6 +29,9 @@ Não demorou e chegamos ao destino sob uma forte chuva. O táxi parou na porta d
 
 ![A chegada em Cacoal — a varanda iluminada do Hotel Decolares, única luz na rua escura e chuvosa.](./images/foiporali-hotel.png)
 
+![Adi Baldo no escritório em Cacoal — início dos anos 1980.](./images/adi-escritorio-cacoal.jpg)
+*Adi Baldo no escritório em Cacoal — início dos anos 1980.*
+
 Clareou o dia e fui em busca da única referência que tinha daquele lugar: um paranaense nascido em Santa Catarina que havia migrado para Rondônia há alguns anos e era dono de serraria. Não foi difícil encontrá-lo. Recebeu-me muito bem, conforme os costumes. Forasteiro tem que ser tratado com o pisca de alerta. Em seguida, apresentou-me a um advogado seu conhecido de nome Francisco Rufino. Simples assim. Às oito da manhã eu estava acomodado em seu escritório. Estava tudo certo. Ali era o fim da picada. Só faltava dinheiro para comer e lugar para dormir.
 
 Cada um com suas sinas. Pais e mães de famílias apenas com alguns pertences em busca da sobrevivência e sonhando com o futuro. Era dia 22 de março de 1982.
