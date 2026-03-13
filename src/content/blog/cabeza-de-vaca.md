@@ -74,5 +74,7 @@ Diz a lenda que nunca mais voltou para a Baía de Babitonga, com receio de ser e
 
 De acordo com Rafael Greca, a câmara de vereadores de Piraquara estará aprovando um monumento em homenagem ao índio Paraguá, que sem sombra de dúvidas foi o primeiro habitante da região.
 
+No final das contas, o vencedor foi o Paraguá.
+
 ![O Paraguá com o trabuco — o sonho finalmente realizado.](./images/cabeza-paragua-trabuco.png)
 *O Paraguá com o trabuco — o sonho finalmente realizado.*
