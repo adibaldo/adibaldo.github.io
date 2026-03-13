@@ -123,6 +123,9 @@ Nunca ninguém explicou o porquê dos dois teco-tecos. Dizem que tinham ido busc
 
 ## A Caçada de Onça
 
+![A peonada reunida — cavalos, espingardas e cachorrada para caçar a onça pintada.](./images/onca-peonada.png)
+*"Mal clareou o dia, mais de trinta peões arrojados se achegaram com suas garruchas e cartucheiras, além da cachorrada barulhenta."*
+
 A pampa se estendia pelas coxilhas interrompidas apenas pelos capões de mato, como se fossem sentinelas a observar a "gadaria" que crescia ao relento e ao sopro do minuano. No entre meio, os alarmistas quero-queros e discretas perdizes a ciscar no capinzal à cata de besouros e gafanhotos.
 
 Toscos ranchos sustentados por esteios de guajuvira, cercados de taquara e cobertos com folhas de macega. Ao centro do rancho, o fogo de chão. Pendurada por uma corrente, uma panela de ferro onde fervia dia e noite a misturança de carne de queixada e feijão. Era a boia que sustentava o dia a dia dos viventes da lida campeira.
