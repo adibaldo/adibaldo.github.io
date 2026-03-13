@@ -2,8 +2,6 @@
 title: "Causos do Vovô Franquelim"
 description: "Cinco causos do gaudério Franquelim da Silva Portela — o homem do pala cinza, da mula baia e das histórias que não tinham fim."
 pubDate: "2026-03-13"
-heroImage: "./images/vovo-franquelim-foto.jpg"
-heroImageAlt: "Fotografia antiga da família Franquelim — os gaudérios das coxilhas gaúchas."
 tags: ["causos", "família", "rio-grande-do-sul", "memórias", "paraná"]
 place: "pato-branco"
 placeLabel: "Pato Branco"
@@ -14,6 +12,9 @@ placeLabel: "Pato Branco"
 ---
 
 ## Um gaudério fora de seu tempo
+
+![Vovô Franquelim — o gaudério de Soledade](./images/vovo-franquelim-foto.jpg)
+*Vovô Franquelim — o gaudério das coxilhas.*
 
 Eu o conheci quando menino, em 1956. Gaúcho, nascido e criado nos campos de Soledade. Já passado dos sessenta, migrou para o Paraná. Como veio não sei — acredito que como tantos outros, pelas trilhas abertas pelos ervateiros e outros migrantes. Comboios de carroças, acampando nas beiras de sangas, sesteando na sombra das árvores e repontando alguma tropita. Família grande, moças e rapazes.
 
