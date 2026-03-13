@@ -142,7 +142,12 @@ Seu Franquelim ficara solito no trote da mula baia, vendo a peonada sumir nos de
 
 A mula, de rédea solta, rumou pra beira da sanga para matar a sede. — Se a mula bebe, porque não eu. Apeou, desamarrou do arreio a velha caneca de prata, abanou a água e a caneca subiu pingando. Bebeu a se fartar.
 
-Em seguida, colocou a cartucheira no chão e sentou-se na raiz da gameleira. Acendeu o pito e levantou a cabeça para a primeira baforada. Ali estava ela, deitada, bem na sua frente, não mais de dez braças. Como se fosse coisa do dia a dia, empunhou a cartucheira, firmou no peito, mirou bem na fuça. *Bumm...* Dentro do "zoio" e entremeio as orelhas. O bicho esperneou ali mesmo.
+Em seguida, colocou a cartucheira no chão e sentou-se na raiz da gameleira. Acendeu o pito e levantou a cabeça para a primeira baforada.
+
+![Seu Franquelim na raiz da gameleira, a onça pintada deitada bem à sua frente.](./images/onca-deitada.png)
+*"Ali estava ela, deitada, bem na sua frente, não mais de dez braças."*
+
+Ali estava ela, deitada, bem na sua frente, não mais de dez braças. Como se fosse coisa do dia a dia, empunhou a cartucheira, firmou no peito, mirou bem na fuça. *Bumm...* Dentro do "zoio" e entremeio as orelhas. O bicho esperneou ali mesmo.
 
 Já lhe veio na mente uma das suas. *Isso não pode ficar barato.* Puxou o facão e simulou a peleia. Sapateou até o mato ficar bem amassado. Até a toceira de urtiga ficou tosquiada. De quebra, deu uma meia dúzia de talhos na cara e no costado da fera. Esfregou um ramo de capim forquilha na "sangria" e, como se fosse o capelão na procissão do padroeiro, aspergiu o sangue pela roupa. Então disparou outro tiro e gritou: — Auia!...
 
