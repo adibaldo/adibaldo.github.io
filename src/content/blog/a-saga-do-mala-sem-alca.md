@@ -1,5 +1,5 @@
 ---
-title: "A Saga do Mala sem Alça: Núñez Cabeza de Vaca e o Cacique Paraguá"
+title: "A Saga do Mala sem Alça: O Espanhol Núñez Cabeza de Vaca"
 description: "A épica e irônica jornada do conquistador espanhol que naufragou em Santa Catarina, descobriu as Cataratas e terminou penhorando a ceroula em Asunción."
 pubDate: "2026-02-16"
 heroImage: "./images/cabeza-de-vaca-1.png"
@@ -16,7 +16,7 @@ Até então não existia a província do Paraguai, tão pouco o Paraná. Tudo er
 
 ![Cabeça de Vaca esfarrapado mas com pose na Babitonga](./images/cabeza-de-vaca-1.png)
 
-### O Náufrago de Babitonga
+## O Náufrago de Babitonga
 
 O causo do momento é sobre um sujeito batizado por Alvar Nunes Cabeza de Vaca, ou simplesmente, Cabeça de Vaca. Os registros dão conta de um aventureiro conquistador que nunca conquistou nada. Explico: Sua saga de conquistador teve início na América Central, porem por lá se deu muito mal. Mesmo assim o infeliz não se deu por derrotado, pudera, era "pau mandado" da decadente nobreza e crescente burguesia espanhola abençoadas pela cúria romana e assim fez nova expedição, dessa vez para a América do Sul. Sua missão era conquistar os incas, também já dominados massacrados e espoliados pelo sanguinário Francisco Pizarro. A ideia era passar a mão na "bufunfa" usando outra estratégia.
 
@@ -28,7 +28,7 @@ O cacique tava de olho no trabuco do infeliz Cabeça de Vaca e topou no ato. Cab
 
 ![Cabeça de Vaca pendurado nas Cataratas](./images/cabeza-de-vaca-2.png)
 
-### O Salto e o Te-rê-rê
+## O Salto e o Te-rê-rê
 
 O problema era encarar a mata. Cabeça de vaca já tinha levado uma esfrega no deserto do México, portanto estava meio "veiaco". Topou porque o cacique disse que conhecia muito bem o caminho. Acontece que mal conhecia a trilha para "[Curitiba](/locais/curitiba/)", a qual tinha percorrido uma vez para catar pinhão. Subira a serra, e nas nascentes do Rio Iguaçu construíram alguns caícos de garuva e se atracaram rio abaixo.
 
@@ -44,7 +44,7 @@ Passado o susto, Cabeça de Vaca sentou-se numa pedra e ali permaneceu teso, abi
 
 Ou seja: fica frio. Nessas alturas Cabeça de Vaca já estava engrunhido de frio e vem o desgraçado do índio dizer para ficar frio. O sangue ferveu na veia de Cabeça de Vaca, com vontade de esguelhar seu fiel escudeiro.
 
-### O Pé na Bunda e o Pinhão
+## O Pé na Bunda e o Pinhão
 
 Seguiram remando e perceberam que estavam em um outro rio cujo nome desconheciam. Então, em homenagem ao seu obstinado ajudante, Cabeça de Vaca denominou de Rio Paraguai. Por ele subiram até chegar numa espelunca onde encontraram alguns castelhanos. De cara foi-lhe exigida uma propina, aliás coisa normal naqueles tempos. Como não tinha nenhuma "plata", penhorou a única ceroula que lhe restara, coisa mui útil para aquele tempo.
 
@@ -58,4 +58,8 @@ Para não dizer que foi um completo azarado, retornou à Espanha feito prisionei
 
 Moral da história: o tal Cabeza de Vaca quase deu uma volta no mundo para parar em Asunción e levar um pé na bunda. Um verdadeiro CABEÇA DE VACA.
 
-Quanto ao Cacique Paraguá, retornou ninguém sabe como, mas quando chegou na nascente do Rio Iguaçu, decidiu ficar por ali. Ali havia muitos pinheiros e um rio menor muito piscoso que denominou de Piraquara. Acabou se acostumando com o clima frio e úmido da terra das araucárias. Quando entediado, olhava para o pico das montanhas da serra do mar e gritava: "Anhangava!", que significa morada do diabo. Paraguá morreu de velho e foi sepultado no cemitério do Atuba, que atualmente é a praça da cidade de Pinhais.
+Quanto ao Cacique Paraguá, depois dessa experiência mal sucedida decidiu dar uma parada. Tendo retornado com Cabeza de Vaca sem o direito algum, deu um jeitinho e surrupiou o trabuco que tanto sonhara. Após isso resolveu se isolar do povo de sua tribo e subiu a serra e ao chegar nas nascentes do rio Iguaçu decidiu ficar por ali. Ali havia muitos pinheiros e um rio piscoso que o denominou de Piraquara. Por ali pescava, colhia pinhões, estaqueava couro de veado e quando seus conterrâneos, os Carijós subiam a serra pela trilha de Itupava, trocava por sal, chumbo, pólvora, e agasalho para se proteger do frio. Ainda não existia a japona.
+
+Paraguá Morreu de Velho e por óbvio, sem atestado de óbito, posto que não havia cartório de registro.
+De acordo com Rafael Greca, ex-prefeito de Curitiba e historiador regional, disse recentemente que a câmara de vereadores de Piraquara estará aprovando um monumento em homenagem ao índio Paraguá, que sem sombra de dúvidas foi o primeiro habitante da região.
+claro que ele não disse isso.
