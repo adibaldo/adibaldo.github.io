@@ -14,8 +14,8 @@ const allPosts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const initialPosts = allPosts.slice(0, INITIAL_COUNT);
-const morePosts = allPosts.slice(INITIAL_COUNT);
 const totalCount = allPosts.length;
+const hasMore = totalCount > INITIAL_COUNT;
 ---
 
 <!doctype html>
@@ -58,36 +58,7 @@ const totalCount = allPosts.length;
 											alt={post.data.heroImageAlt || `Capa do post ${post.data.title}`}
 											widths={[400, 800, 1200]}
 											sizes="(max-width: 620px) 100vw, (max-width: 980px) 50vw, 25vw"
-										/>
-									) : (
-										<div class="post-thumb-fallback-home" aria-hidden="true" />
-									)}
-								</div>
-								<div class="post-card-body-home">
-									<div class="tag-row">
-										{post.data.tags?.slice(0, 1).map((t) => (
-											<span class="tag">{t}</span>
-										))}
-										{post.data.placeLabel && <span class="tag">{post.data.placeLabel}</span>}
-									</div>
-									<h3 class="card-title">{post.data.title}</h3>
-									<p class="card-desc">{post.data.description}</p>
-									<p class="meta" style="margin:0;">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</div>
-							</a>
-						))}
-
-						{morePosts.map((post) => (
-							<a class="card post-card-home hidden-post" href={`/blog/${post.id}/`} aria-hidden="true">
-								<div class="post-thumb-home">
-									{post.data.heroImage ? (
-										<Image
-											src={post.data.heroImage}
-											alt={post.data.heroImageAlt || `Capa do post ${post.data.title}`}
-											widths={[400, 800, 1200]}
-											sizes="(max-width: 620px) 100vw, (max-width: 980px) 50vw, 25vw"
+											loading="lazy"
 										/>
 									) : (
 										<div class="post-thumb-fallback-home" aria-hidden="true" />
@@ -110,10 +81,10 @@ const totalCount = allPosts.length;
 						))}
 					</div>
 
-					{morePosts.length > 0 && (
+					{hasMore && (
 						<div class="ver-mais-wrap" id="ver-mais-wrap">
-							<button id="ver-mais-btn" class="cta cta-ver-mais">
-								Ver mais prosas ({morePosts.length} restantes)
+							<button id="ver-mais-btn" class="cta-ver-mais" data-loaded={INITIAL_COUNT} data-total={totalCount}>
+								Ver mais prosas (<span id="restantes">{totalCount - INITIAL_COUNT}</span> restantes)
 							</button>
 						</div>
 					)}
@@ -188,10 +159,6 @@ const totalCount = allPosts.length;
 				gap: var(--space-sm);
 			}
 
-			.hidden-post {
-				display: none;
-			}
-
 			.ver-mais-wrap {
 				display: flex;
 				justify-content: center;
@@ -215,6 +182,11 @@ const totalCount = allPosts.length;
 				color: white;
 			}
 
+			.cta-ver-mais:disabled {
+				opacity: 0.5;
+				cursor: default;
+			}
+
 			@media (max-width: 980px) {
 				.post-grid-home {
 					grid-template-columns: repeat(2, 1fr);
@@ -229,19 +201,67 @@ const totalCount = allPosts.length;
 		</style>
 
 		<script>
-			const btn = document.getElementById('ver-mais-btn');
-			const wrap = document.getElementById('ver-mais-wrap');
-			if (btn && wrap) {
-				btn.addEventListener('click', () => {
-					const hidden = document.querySelectorAll('.hidden-post');
-					hidden.forEach((el) => {
-						(el as HTMLElement).style.display = '';
-						el.removeAttribute('aria-hidden');
-						el.classList.remove('hidden-post');
-					});
-					wrap.style.display = 'none';
-				});
+		const BATCH = 8;
+
+		const btn = document.getElementById('ver-mais-btn') as HTMLButtonElement | null;
+		const wrap = document.getElementById('ver-mais-wrap');
+		const grid = document.getElementById('post-grid');
+
+		if (btn && wrap && grid) {
+			let allPosts: any[] | null = null;
+			let loaded = parseInt(btn.dataset.loaded || '8');
+			const total = parseInt(btn.dataset.total || '0');
+
+			function formatDate(iso: string) {
+				const d = new Date(iso);
+				return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
 			}
+
+			function renderCard(p: any) {
+				const card = document.createElement('a');
+				card.className = 'card post-card-home';
+				card.href = `/blog/${p.id}/`;
+				card.innerHTML = `
+					<div class="post-thumb-home">
+						${p.heroImage
+							? `<img src="${p.heroImage}" alt="Capa de ${p.title}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">`
+							: `<div class="post-thumb-fallback-home" aria-hidden="true"></div>`
+						}
+					</div>
+					<div class="post-card-body-home">
+						<div class="tag-row">
+							${p.tags?.slice(0, 1).map((t: string) => `<span class="tag">${t}</span>`).join('') ?? ''}
+							${p.placeLabel ? `<span class="tag">${p.placeLabel}</span>` : ''}
+						</div>
+						<h3 class="card-title">${p.title}</h3>
+						<p class="card-desc">${p.description}</p>
+						<p class="meta" style="margin:0;">${formatDate(p.pubDate)}</p>
+					</div>`;
+				return card;
+			}
+
+			btn.addEventListener('click', async () => {
+				btn.disabled = true;
+				btn.textContent = 'Carregando…';
+
+				if (!allPosts) {
+					const res = await fetch('/blog-index.json');
+					allPosts = await res.json();
+				}
+
+				const batch = allPosts!.slice(loaded, loaded + BATCH);
+				batch.forEach((p) => grid.appendChild(renderCard(p)));
+				loaded += batch.length;
+
+				const remaining = total - loaded;
+				if (remaining <= 0) {
+					wrap.style.display = 'none';
+				} else {
+					btn.disabled = false;
+					btn.innerHTML = `Ver mais prosas (<span id="restantes">${remaining}</span> restantes)`;
+				}
+			});
+		}
 		</script>
 	</body>
 </html>
