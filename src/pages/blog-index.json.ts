@@ -1,20 +1,30 @@
 import { getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
 
 export async function GET() {
   const posts = (await getCollection('blog'))
     .filter((p) => !p.data.draft)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-  const data = posts.map((p) => ({
-    id: p.id,
-    title: p.data.title,
-    description: p.data.description ?? '',
-    pubDate: p.data.pubDate.toISOString(),
-    tags: p.data.tags ?? [],
-    placeLabel: p.data.placeLabel ?? null,
-    heroImage: p.data.heroImage
-      ? `/blog/images/${p.data.heroImage.src.split('/').pop()}`
-      : null,
+  const data = await Promise.all(posts.map(async (p) => {
+    let heroImageUrl: string | null = null;
+    if (p.data.heroImage) {
+      try {
+        const img = await getImage({ src: p.data.heroImage, width: 400, format: 'webp' });
+        heroImageUrl = img.src;
+      } catch {
+        heroImageUrl = null;
+      }
+    }
+    return {
+      id: p.id,
+      title: p.data.title,
+      description: p.data.description ?? '',
+      pubDate: p.data.pubDate.toISOString(),
+      tags: p.data.tags ?? [],
+      placeLabel: p.data.placeLabel ?? null,
+      heroImage: heroImageUrl,
+    };
   }));
 
   return new Response(JSON.stringify(data), {
