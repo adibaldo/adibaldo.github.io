@@ -97,8 +97,8 @@ function pdfOptions(css) {
     css,
     body_class: [],
     pdf_options: {
-      format: 'A4',
-      margin: { top: '30mm', right: '25mm', bottom: '30mm', left: '25mm' },
+      width: '6in', height: '9in',
+      margin: { top: '19mm', right: '13mm', bottom: '19mm', left: '22mm' },
       printBackground: true,
       displayHeaderFooter: true,
       headerTemplate: '<div></div>',
@@ -133,9 +133,11 @@ async function generateBookPdf(posts, css) {
     // Capa
     `<div class="cover">
 
-# Alfarrábios do Adi
+# Eita Lasqueira
 
-<p class="subtitle">Memórias, causos e ensaios — sem pressa.</p>
+<p class="subtitle">Crônicas e Causos</p>
+
+<p class="author">Adi Baldo</p>
 
 <p class="date">${today}</p>
 

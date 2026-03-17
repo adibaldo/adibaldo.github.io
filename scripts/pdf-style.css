@@ -4,13 +4,13 @@
 */
 
 @page {
-  size: A4;
-  margin: 30mm 25mm;
+  size: 6in 9in;
+  margin: 19mm 13mm 19mm 22mm;
 }
 
 body {
   font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
-  font-size: 12pt;
+  font-size: 11pt;
   line-height: 1.75;
   color: #1a1a1a;
   orphans: 3;
