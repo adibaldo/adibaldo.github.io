@@ -19,11 +19,14 @@ if (!existsSync(htmlInput)) {
   process.exit(1);
 }
 
-const astroDir = join(ROOT, 'dist/_astro');
-const html = readFileSync(htmlInput, 'utf8');
-const fixed = html.replace(/src="\/_astro\//g, `src="${astroDir}/`);
-writeFileSync(htmlFixed, fixed);
-console.log('Paths corrigidos');
+// Remove imagens (XeLaTeX não suporta WebP; imagens serão adicionadas depois)
+let html = readFileSync(htmlInput, 'utf8');
+html = html.replace(/<img[^>]*>/gi, '');
+html = html.replace(/<figure[^>]*>[\s\S]*?<\/figure>/gi, '');
+writeFileSync(htmlFixed, html);
+console.log('✅ HTML preparado (imagens removidas para compatibilidade XeLaTeX)');
+
+console.log('Gerando PDF com Pandoc + XeLaTeX...');
 
 const cmd = [
   'pandoc',
@@ -31,14 +34,13 @@ const cmd = [
   '--pdf-engine=xelatex',
   `--template="${templateFile}"`,
   '-V lang=pt-BR',
-  `--resource-path="${join(ROOT, 'dist')}:${astroDir}"`,
   `-o "${outputFile}"`
 ].join(' ');
 
 try {
   execSync(cmd, { stdio: 'inherit', cwd: ROOT });
-  console.log(`PDF gerado: ${outputFile}`);
+  console.log(`✅ PDF gerado: ${outputFile}`);
 } catch (err) {
-  console.error('Erro:', err.message);
+  console.error('❌ Erro:', err.message);
   process.exit(1);
 }
