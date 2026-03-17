@@ -5,8 +5,6 @@ pubDate: 2026-02-12
 tags: ["memórias", "história", "migração", "família", "rio-grande-do-sul", "paraná", "infância", "anos-50"]
 place: "parana"
 placeLabel: "Paraná"
-heroImage: ./images/grimpas-secas-e-o-balcao-dos-causos-cover.png
-heroImageAlt: "Interior de um antigo armazém de secos e molhados, com balcão de madeira, prateleiras cheias de produtos e luz natural entrando por uma janela."
 ---
 ### O PRÊMIO DA VIDA
 
@@ -24,7 +22,9 @@ O tempo cobra do vivente.
 Mesmo forte, enérgico e bravo  
 O tempo bate em seu costado;  
 Cobra pelos serviços prestados  
-E certifica com comprido cajado.  
+E certifica com comprido cajado.
+
+![Cajado retorcido numa paisagem aberta — o tempo que mede, pesa e põe preço](./images/cajado-paisagem.png)  
 
 Não indaga como foi o começo;  
 Das circunstâncias ou endereço.  
