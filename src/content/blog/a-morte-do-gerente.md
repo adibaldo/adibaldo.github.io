@@ -29,8 +29,6 @@ A boca miúda, cochichos:
 
 — Logo hoje que eu iria receber uma ordem de pagamento. E eu que ia falar com ele para segurar meu cheque pré-datado. Veja como são as coisas. Ele era gente boa. Que Deus o tenha.
 
-![O cachaceiro da cidade — presente ao velório, curioso como sempre](./images/morte-do-gerente.jpg)
-
 ![O caixão em frente aos caixas do banco, o povo consternado e o cachaceiro espiando no canto](./images/morte-do-gerente-gravura.jpg)
 
 Naquilo entra o contumaz cachaceiro:
