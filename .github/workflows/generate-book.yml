@@ -26,7 +26,7 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
-      - name: Install Pandoc + XeLaTeX
+      - name: Install Pandoc + XeLaTeX + ImageMagick
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y \
@@ -35,13 +35,21 @@ jobs:
             texlive-lang-portuguese \
             texlive-fonts-recommended \
             texlive-fonts-extra \
-            texlive-latex-extra
+            texlive-latex-extra \
+            imagemagick
 
       - name: Install dependencies
         run: npm ci
 
       - name: Build Astro (generates book-export HTML)
         run: npm run build
+
+      - name: Convert WebP images to PNG for XeLaTeX
+        run: |
+          find dist/_astro -name "*.webp" | while read f; do
+            png="${f%.webp}.png"
+            convert "$f" "$png" && echo "✅ $f → $png"
+          done
 
       - name: Generate PDF
         run: node scripts/generate-book.mjs

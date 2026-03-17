@@ -15,25 +15,34 @@ const outputFile = join(outputDir, 'livro-completo.pdf');
 mkdirSync(outputDir, { recursive: true });
 
 if (!existsSync(htmlInput)) {
-  console.error(`HTML not found: ${htmlInput}`);
+  console.error(`HTML não encontrado: ${htmlInput}`);
   process.exit(1);
 }
 
-// Remove imagens (XeLaTeX não suporta WebP; imagens serão adicionadas depois)
+// Substitui refs WebP por PNG equivalente (convertido no step anterior)
+// e ajusta caminhos /_astro/ para o caminho absoluto no disco
 let html = readFileSync(htmlInput, 'utf8');
-html = html.replace(/<img[^>]*>/gi, '');
-html = html.replace(/<figure[^>]*>[\s\S]*?<\/figure>/gi, '');
-writeFileSync(htmlFixed, html);
-console.log('✅ HTML preparado (imagens removidas para compatibilidade XeLaTeX)');
+const distPath = join(ROOT, 'dist');
+html = html.replace(/src="(\/_astro\/[^"]+\.webp)"/gi, (_, p) => {
+  const pngPath = join(distPath, p.replace('/_astro/', '/_astro/').replace(/\.webp$/, '.png'));
+  return `src="${pngPath}"`;
+});
+html = html.replace(/src="(\/_astro\/[^"]+\.(jpg|jpeg|png|gif))"/gi, (_, p) => {
+  return `src="${join(distPath, p.replace('/_astro/', '/_astro/'))}"`;
+});
 
+writeFileSync(htmlFixed, html);
+console.log('✅ HTML preparado (imagens WebP → PNG)');
 console.log('Gerando PDF com Pandoc + XeLaTeX...');
 
+const distAstro = join(distPath, '_astro');
 const cmd = [
   'pandoc',
   `"${htmlFixed}"`,
   '--pdf-engine=xelatex',
   `--template="${templateFile}"`,
   '-V lang=pt-BR',
+  `--resource-path="${distPath}:${distAstro}"`,
   `-o "${outputFile}"`
 ].join(' ');
 
