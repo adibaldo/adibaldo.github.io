@@ -12,7 +12,9 @@ Parece que o português não era suficiente para deixar clara essa situação, e
 
 Daí eu pergunto: governadores e prefeitos vão ficar dentro ou fora? Esses personagens, bem como os policiais, o padeiro, o dono da funerária, o banqueiro e a moça que serve cafezinho têm que ficar do lado de fora, é claro.
 
-Não sei, não — acho que não vai dar certo. Mas a título de experiência é bom tentar. O importante é não ser afetado pelo vírus, visto que este fica circulando pelas ruas e praças e nos trilhos do metrô, na expectativa de apanhar algum incauto que fica zanzando à cata de confusão.
+Não sei, não — acho que não vai dar certo.
+
+![Rua quase deserta durante o lockdown — algumas pessoas de máscara, lojas fechadas.](./images/isolamento-lockdown-upgrade-gravura.jpg) Mas a título de experiência é bom tentar. O importante é não ser afetado pelo vírus, visto que este fica circulando pelas ruas e praças e nos trilhos do metrô, na expectativa de apanhar algum incauto que fica zanzando à cata de confusão.
 
 Isolamento não dá certo. Tem que ser lockdown — aí fica um olhando para a cara do outro, querendo saber qual o cardápio do dia. Geladeira cheia, TV a cabo, WhatsApp e outras mídias. Um livro? Aí é tortura. Ler é coisa do passado — é pedir demais. Vai bem um funk. É a terapia apropriada. O uso da máscara continua obrigatório; em compensação, pode rebolar à vontade, até mesmo porque é a única opção disponível. A questão é como enfrentar o vírus.
 
