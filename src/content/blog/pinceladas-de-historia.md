@@ -32,6 +32,8 @@ Montezuma faz uma síntese de como era o Estado de Rondônia na década de oiten
 
 Antes dele, **Manoel Rodrigues Ferreira**, jornalista paulista que por aqui esteve nas décadas de cinquenta e sessenta, descreveu como era o território — notadamente de Porto Velho a Guajará-Mirim: a saga de Rondon e o fim de uma ferrovia que custou a vida de milhares e que tinha por objetivo cumprir um tratado com a Bolívia na solução da questão do Acre. A ferrovia serviu de apoio aos soldados da borracha ao longo do Rio Madeira-Mamoré, mas por razões múltiplas teve suas atividades encerradas alguns anos após sua conclusão, convertendo-se em patrimônio histórico de ferros enferrujados e abandonados. Refiro-me ao livro *Ferrovia do Diabo*, que hoje só se encontra em algum sebo, ou na biblioteca particular de algum pioneiro.
 
+![O trem em trecho da Ferrovia Madeira-Mamoré — foto histórica, Acervo do Museu Paulista da USP.](./images/pinceladas-de-historia-ferrovia.jpg)
+
 Outros também escreveram sobre o desenvolvimento do Estado: **Antônio Lopes**, Coordenador Geral de Implantação de Assentamentos do DDI, relata as atividades do Incra nos assentamentos agrários e na formação de núcleos urbanos que hoje são cidades prósperas.
 
 Destaco ainda a obra de **Geraldo Schach**. Com seu livro *Rondônia, a Terra Prometida*, na condição de pastor luterano, trabalhou na assistência das comunidades luteranas nas décadas de setenta e oitenta, andou pelas trilhas e picadas da floresta — particularmente de Pimenta Bueno, Espigão do Oeste até Jaru. A obra registra a vida dos agricultores migrantes e as condições da época. Sem dúvida, mais uma obra que deve integrar o acervo da biblioteca da História do Estado de Rondônia.
