@@ -55,7 +55,8 @@ function buildFontFaceCss() {
   font-weight: ${weight};
   src: url('file://${join(FONTS_DIR, file)}') format('woff2');
 }`
-  ).join('\n');
+  ).join('
+');
 }
 
 // ── Helpers ──
@@ -87,7 +88,13 @@ function readPosts() {
 function postHeader(post) {
   const date = formatDate(post.data.pubDate);
   const place = post.data.placeLabel ? ` — ${post.data.placeLabel}` : '';
-  return `# ${post.data.title}\n\n<p class="post-meta">${date}${place}</p>\n\n---\n\n`;
+  return `# ${post.data.title}
+
+<p class="post-meta">${date}${place}</p>
+
+---
+
+`;
 }
 
 // ── Opções do md-to-pdf ──
@@ -142,6 +149,20 @@ async function generateBookPdf(posts, css) {
 <p class="date">${today}</p>
 
 </div>`,
+  
+`<div class="rights-page">
+
+<p>© 2026 Adi Baldo</p>
+
+<p>Todos os direitos reservados. Nenhuma parte desta obra pode ser reproduzida ou transmitida por qualquer forma ou por quaisquer meios sem a autorização por escrito do autor.</p>
+
+<p>Primeira edição: 2026</p>
+
+<p><em>Eita Lasqueira — Crônicas e Causos</em></p>
+
+<p>Adi Baldo<br>Rolim de Moura, Rondônia — Brasil</p>
+
+</div>`,
   ];
 
   for (const post of posts) {
@@ -149,11 +170,23 @@ async function generateBookPdf(posts, css) {
     const place = post.data.placeLabel ? ` — ${post.data.placeLabel}` : '';
 
     parts.push(
-      `<div class="chapter">\n\n# ${post.data.title}\n\n<p class="post-meta">${date}${place}</p>\n\n---\n\n${post.content}\n\n</div>`
+      `<div class="chapter">
+
+# ${post.data.title}
+
+<p class="post-meta">${date}${place}</p>
+
+---
+
+${post.content}
+
+</div>`
     );
   }
 
-  const md = parts.join('\n\n');
+  const md = parts.join('
+
+');
   const result = await mdToPdf({ content: md }, pdfOptions(css));
   const outPath = join(OUTPUT_DIR, 'livro-completo.pdf');
   await writeFile(outPath, result.content);
@@ -163,16 +196,19 @@ async function generateBookPdf(posts, css) {
 // ── Main ──
 
 async function main() {
-  console.log('Gerando PDFs...\n');
+  console.log('Gerando PDFs...
+');
 
   mkdirSync(POSTS_DIR, { recursive: true });
 
   const styleCss = readFileSync(STYLE_PATH, 'utf-8');
   const fontsCss = buildFontFaceCss();
-  const css = fontsCss + '\n' + styleCss;
+  const css = fontsCss + '
+' + styleCss;
 
   const posts = readPosts();
-  console.log(`${posts.length} posts encontrados.\n`);
+  console.log(`${posts.length} posts encontrados.
+`);
 
   // PDFs individuais
   console.log('PDFs individuais:');
@@ -181,10 +217,12 @@ async function main() {
   }
 
   // Livro completo
-  console.log('\nLivro completo:');
+  console.log('
+Livro completo:');
   await generateBookPdf(posts, css);
 
-  console.log('\nPronto!');
+  console.log('
+Pronto!');
 }
 
 main().catch((err) => {
