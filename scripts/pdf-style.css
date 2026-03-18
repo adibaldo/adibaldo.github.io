@@ -152,3 +152,25 @@ code {
 .chapter {
   page-break-before: always;
 }
+
+/* ── Página de direitos ── */
+
+.rights-page {
+  page-break-before: always;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 80vh;
+  padding-bottom: 40pt;
+  font-size: 9pt;
+  color: #6b5b4f;
+  line-height: 1.6;
+}
+
+.rights-page p {
+  text-align: left;
+  margin: 4pt 0;
+  font-size: 9pt;
+  color: #6b5b4f;
+}
