@@ -47,6 +47,30 @@ Mais alguns dias mudamos mais acolá, e de repente estávamos dentro de uma bode
 
 ![A bodega do papai — cachaça, fumo em corda, rapadura, a freguesia eclética](./images/caminhao-bodega.png)
 
+Eu, guri, observava tipos como o **Theodoro**, viciado no baralho, e o **Pedrinho Facão**, sempre alegre contando lorotas. Mas ninguém causou tanto bafafá quanto o **João Madalena**.
+
+Ninguém sabia de sua origem. Por ali chegara, montado em um cavalo bem encilhado, com uma mulher e dois filhos, e se acomodou num rancho já abandonado. Seguidamente comparecia na bodega mais para tomar um trago do que para fazer alguma compra. Uma feita, já noitezinha, solicitou ao papai que lhe entregasse um punhal que havia depositado na chegada. Papai, sabendo que ele não havia depositado faca alguma, mesmo assim esforçou-se e procurou. Entreguei, não entregou — e a prosa azedou. João Madalena foi enrolando a açoiteira no cabo, em claro sinal de ataque. Papai arremessou o peso de balança que pegou de raspão na testa do sujeito.
+
+Foi aquele ba-fa-fá. As portas foram fechadas e nós corremos para o sótão, tremendo de medo. O homem estava vivo — apenas com um pouco de sangue. Montaram nos cavalos e sumiram na escuridão.
+
+Não demorou e ouviu-se o tropel parando em frente à bodega. Alguém gritou: — Abre a porta senão vamos arrombar na bala! Mamãe viu quando papai empunhou o revólver. Num golpe de coragem, tomou a arma da mão dele e abriu a porta dizendo:
+
+— **Atirem, seus covardes!**
+
+![Dona Ingrácia na porta da bodega, revólver em punho — bico de pena](./images/bodega-ingracia-bico.png)
+
+Houve entre eles alguém de bom senso: — É uma mulher! Mesmo assim fizeram papai prisioneiro. Mamãe montou num burro manso e partiu noite adentro rumo à autoridade. Era meia-noite quando acordaram o delegado. Na madrugada cercaram o rancho. Todos se entregaram sem resistência.
+
+O delegado declarou solenemente: — Todos estão liberados, mas proibidos de frequentar bodega por 30 dias. Mais: voltem agora para suas casas, a pé e no sol quente.
+
+### O Velório da Velha Sebastiana
+
+As histórias não se davam só no balcão — seguiam pelos velórios até a beira da cova. No velório da **velha Sebastiana**, a paz durou pouco. Seus filhos, **Manezinho** e **Emiliano**, já não se bicavam. Emiliano, embriagado, provocou tanto que Manezinho puxou do facão em pleno velório. Para não ser retalhado, o Emiliano arrancou a cruz que guarnecia o caixão da própria mãe e usou-a como escudo, protegendo-se do facão que reluzia naquele lusco-fusco. O velório prosseguiu pela madrugada, sob o olhar atravessado dos irmãos por cima do corpo da falecida.
+
+### O Rabo-de-Tatu
+
+De outra feita, Emiliano provocou um cunhado chamando-o de ladrão de cano de fogão. O cunhado, munido do **rabo-de-tatu**, desceu o mango que fez um estrago na paleta. Emiliano com o lombo ardido continuou: — Ladrão, sem vergonha! E lá se foi mais um laçaço, retrucando: — Podem me chamar de ladrão, mas não de sem vergonha! Mas logo tudo se acalmou — exceto Emiliano, que pediu que lhe massageassem com cachaça. Fizeram. Mas aí o berro foi maior.
+
 ## A escola e o mundo lá fora
 
 A menos de dois quilômetros, uma escola que também servia de capela. Lá íamos para a reza aos domingos e durante a semana para prender o ABC. Sol, chuva, barro, geada e apenas chinelinhos nos pés e *"guarda-passo"* à tiracolo — e dentro um lápis, uma borracha, um caderno, a cartilha e uma batata cozida para o lanche. Era assim. Aprender a ler, escrever, fazer continhas, as cores da bandeira e catecismo. Pedro Álvares Cabral descobriu o Brasil e Jesus nasceu em Belém numa manjedoura. O que seria uma manjedoura? Uma palavra esquisita. Tão esquisita quanto os reis magos e Herodes. José e Maria, tudo bem — mas Herodes?... Não dava nem pra imaginar alguém com esse nome.
