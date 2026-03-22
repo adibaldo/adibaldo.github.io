@@ -49,10 +49,42 @@ h3 {
 /* ── Corpo ── */
 
 p {
-  margin: 0 0 10pt 0;
+  margin: 0;
   text-align: justify;
+  text-indent: 24pt; /* recuo literário — estilo livro físico */
   hyphens: auto;
   -webkit-hyphens: auto;
+}
+
+/* Primeiro parágrafo após H2 = metadado (data/local) — sem recuo */
+h2 + p {
+  text-align: center;
+  font-style: italic;
+  font-size: 10pt;
+  color: #6b5b4f;
+  text-indent: 0;
+  margin-bottom: 14pt;
+}
+
+/* Primeiro parágrafo do texto real: sem recuo */
+h2 + p + p {
+  text-indent: 0;
+}
+
+/* Parágrafo com imagem: sem recuo, centralizado */
+p:has(img) {
+  text-indent: 0;
+  text-align: center;
+  margin: 16pt 0 4pt 0;
+}
+
+/* Legenda (itálico após imagem) */
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 9pt;
+  color: #888;
+  margin-bottom: 16pt;
 }
 
 strong {
@@ -78,8 +110,15 @@ a {
 
 hr {
   border: none;
-  border-top: 0.5pt solid #e8ddd0;
-  margin: 16pt 0;
+  text-align: center;
+  margin: 20pt 0;
+}
+
+hr::before {
+  content: '* * *';
+  font-size: 14pt;
+  letter-spacing: 6pt;
+  color: #aaa;
 }
 
 ul, ol {

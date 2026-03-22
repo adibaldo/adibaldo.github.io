@@ -307,6 +307,21 @@ const breadcrumbLD = {
 			border-radius: 4px;
 			box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 		}
+
+		/* Parágrafo que contém imagem: sem recuo, centralizado */
+		.markdown-livro p:has(img) {
+			text-indent: 0;
+			text-align: center;
+		}
+
+		/* Itálico colado à imagem vira legenda */
+		.markdown-livro img + em {
+			display: block;
+			text-align: center;
+			font-size: 0.85rem;
+			color: #777;
+			margin-bottom: 3rem;
+		}
 	</style>
 	</body>
 </html>
