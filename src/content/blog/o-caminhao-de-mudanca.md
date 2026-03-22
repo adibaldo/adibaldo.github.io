@@ -47,6 +47,8 @@ Mais alguns dias mudamos mais acolá, e de repente estávamos dentro de uma bode
 
 ![A bodega do papai — cachaça, fumo em corda, rapadura, a freguesia eclética](./images/caminhao-bodega.png)
 
+![Ambiente da bodega — balcão de madeira, prateleiras e a freguesia de chapéu e facão](./images/bodega-interior.png)
+
 Eu, guri, observava tipos como o **Theodoro**, viciado no baralho, e o **Pedrinho Facão**, sempre alegre contando lorotas. Mas ninguém causou tanto bafafá quanto o **João Madalena**.
 
 Ninguém sabia de sua origem. Por ali chegara, montado em um cavalo bem encilhado, com uma mulher e dois filhos, e se acomodou num rancho já abandonado. Seguidamente comparecia na bodega mais para tomar um trago do que para fazer alguma compra. Uma feita, já noitezinha, solicitou ao papai que lhe entregasse um punhal que havia depositado na chegada. Papai, sabendo que ele não havia depositado faca alguma, mesmo assim esforçou-se e procurou. Entreguei, não entregou — e a prosa azedou. João Madalena foi enrolando a açoiteira no cabo, em claro sinal de ataque. Papai arremessou o peso de balança que pegou de raspão na testa do sujeito.
@@ -64,6 +66,8 @@ Houve entre eles alguém de bom senso: — É uma mulher! Mesmo assim fizeram pa
 O delegado declarou solenemente: — Todos estão liberados, mas proibidos de frequentar bodega por 30 dias. Mais: voltem agora para suas casas, a pé e no sol quente.
 
 ### O Velório da Velha Sebastiana
+
+![Velório da velha Sebastiana — Emiliano se defendendo com a cruz, em bico de pena](./images/velorio-sebastiana-bico.png)
 
 As histórias não se davam só no balcão — seguiam pelos velórios até a beira da cova. No velório da **velha Sebastiana**, a paz durou pouco. Seus filhos, **Manezinho** e **Emiliano**, já não se bicavam. Emiliano, embriagado, provocou tanto que Manezinho puxou do facão em pleno velório. Para não ser retalhado, o Emiliano arrancou a cruz que guarnecia o caixão da própria mãe e usou-a como escudo, protegendo-se do facão que reluzia naquele lusco-fusco. O velório prosseguiu pela madrugada, sob o olhar atravessado dos irmãos por cima do corpo da falecida.
 
