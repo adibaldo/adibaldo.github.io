@@ -85,11 +85,71 @@ Por volta da meia tarde, chegamos ao destino final: um rancho de tábuas lascada
 
 Para limpar a capoeira e plantar, papai organizou um **mutirão**. Ver vinte peões com foices gritando *"Auia!"* e ouvindo o *"vapete-vapete"* do mato caindo era uma música rústica. O pagamento? Um **fandango** na semana seguinte: moças perfumadas, homens com brilhantina no cabelo, e o som da gaita e do pandeiro correndo a madrugada.
 
-![Papai, o gigante que nos trouxe, no Chevrolet 51](./images/caminhao-caminhao.png)
+### A Bodega
 
-![A família toda embolada na carga do caminhão](./images/caminhao-caminhao2.png)
+![O ambiente da bodega — balcão de madeira, prateleiras, homens chegando de chapéu e facão](./images/bodega-interior.png)
 
-![Grupo de migrantes representando a caravana](./images/secos-e-molhados-caravana-1970s.jpg)
+Mas o meu mundo real, a universidade onde aprendi a ler a alma dos homens, ficava no armazém de Secos e Molhados do meu pai. Ali, o movimento era constante e de um colorido que nenhum livro escolar tinha. Pessoas vinham de todo lado: uns a pé, com o pó da estrada grudado na pele; outros a cavalo, suados pelo galope. Todos de chapéu de palha e facão pendurado na cintura — instrumento inseparável tanto na lida, quanto para impor respeito.
+
+Eu, guri, observava tipos como o **Theodoro**, viciado no baralho, e o **Pedrinho Facão**, sempre alegre contando lorotas. Mas ninguém causou tanto bafafá quanto o **João Madalena**.
+
+Ninguém sabia de sua origem. Por ali chegara, montado em um cavalo bem encilhado, com uma mulher e dois filhos, e se acomodou num rancho já abandonado pelo Velho Moisés, que regatava seu dinheirinho com empreitadas lascando tabuinhas de pinheiro para construção de casas.
+
+João Madalena, seguidamente comparecia na bodega mais para tomar um trago do que para fazer alguma compra. Uma feita, já noitezinha, João Madalena solicitou ao papai que lhe entregasse um punhal que havia depositado na chegada, conforme o costume. Papai, sabendo que ele não havia depositado faca alguma, mesmo assim esforçou-se e procurou o dito punhal. Entreguei, não entregou — e a prosa azedou. João Madalena foi enrolando a açoiteira no cabo, em claro sinal que se preparava para um ataque. Papai se preveniu pondo a mão no peso da balança de um quilo e, quando João ergueu o braço, papai se afastou por puro instinto de defesa e arremessou o peso que pegou de raspão na testa do sujeito.
+
+Foi aquele ba-fa-fá. Uns correram, outros acudiram o homem desmaiado, tido como morto. De pronto as portas foram fechadas e nós corremos para o sótão, tremendo de medo, ouvindo os murmúrios lá fora. O homem estava vivo — apenas com um pouco de sangue. Montaram em seus cavalos e sumiram na escuridão.
+
+Não demorou e ouviu-se o tropel que parou em frente à bodega. Alguém gritou: — Abre a porta senão vamos arrombar na bala!
+
+Nós em pânico, porém sem um choro — quase estáticos. Mamãe viu quando papai empunhou o revólver e foi para o lado da porta. Disse: — Eu abro, mas derrubo uns três, quatro. Papai era bom de tiro.
+
+Num golpe de sorte e de coragem, mamãe tomou a arma da mão dele enquanto com a outra mão abria a porta. A porta foi se abrindo e ela calçou no revólver dizendo:
+
+— **Atirem, seus covardes!**
+
+![Dona Ingrácia na porta da bodega, revólver em punho — bico de pena](./images/bodega-ingracia-bico.png)
+
+Houve entre eles alguém de bom senso que pediu aos demais que não investissem: — É uma mulher!
+
+Mesmo assim fizeram papai prisioneiro, sob a garantia e proteção de um de confiança. E lá se foram na escuridão, dizendo que iam para a delegacia.
+
+Mamãe disse: — Essa tropa de bêbados não vai a delegacia alguma. Vão para seus ranchos — e de pronto. Montou num burro manso, e o guri mais velho num cavalo emprestado, e partiram noite adentro rumo à autoridade. Era meia-noite quando acordaram o delegado.
+
+De pronto ele chamou sua escolta de não mais de cinco soldados e partiram. Na madrugada cercaram o rancho. Todos se entregaram sem resistência.
+
+Ali era apenas uma subdelegacia, sendo que a mais próxima distava cinquenta quilômetros. O delegado chamou papai e mamãe num particular:
+
+— O que faço com eles, que nem cadeia existe aqui? No mais, nem correu sangue — apenas ferimento leve. Vou ter que liberá-los.
+
+Eles concordaram, porém antes desejavam explicar o causo aos meliantes. Mamãe se adiantou feito promotora e soltou os cachorros. Todos cabisbaixos e envergonhados pediram mil perdões. Em seguida, mais comedidamente, papai se pronunciou:
+
+— Seu delegado, esses sujeitos devem receber alguma punição que sirva de exemplo para que não repitam mais esses atos.
+
+O delegado declarou solenemente:
+
+— Todos estão liberados, mas proibidos de frequentar bodega por 30 dias. Mais: voltem agora para suas casas, a pé e no sol quente.
+
+E chamou um soldado: — Acompanhe esses indivíduos até fora da vila. E não me afronte mais, que o castigo será outro.
+
+### Velório da Velha Sebastiana
+
+As histórias não se davam só no balcão — seguiam pelas carreiradas e velórios até a beira da cova. Contavam na bodega que, no velório da **velha Sebastiana**, a paz durou pouco. Seus filhos, **Manezinho** e **Emiliano**, já não se bicavam. Emiliano, embriagado, provocou tanto que Manezinho perdeu o juízo. Pôs-se de pé e puxou do facão em pleno velório. Para não ser retalhado, o Emiliano valeu-se do sagrado: arrancou a cruz que guarnecia o caixão da própria mãe e usou-a como escudo, protegendo-se do facão que reluzia naquele lusco-fusco.
+
+O povo se espantou, saindo porta a fora — e até pela janela. Aí vieram os mais corajosos e do "deixa disso", evitando assim o pior. O velório prosseguiu pela madrugada, sob o olhar atravessado dos irmãos por cima do corpo da falecida.
+
+### O Rabo-de-Tatu
+
+De outra feita, Emiliano provocou um cunhado chamando-o de ladrão de cano de fogão. O cunhado, que não era flor que se cheirasse, munido do **rabo-de-tatu**, desceu o mango que fez um estrago na paleta. Emiliano com o lombo ardido continuou:
+
+— Ladrão, sem vergonha!
+
+E lá se foi mais um laçaço, retrucando:
+
+— Podem me chamar de ladrão, mas não de sem vergonha!
+
+Mas logo tudo se acalmou e, como já era tardinha, todos se retiraram para suas casas — exceto Emiliano, que na tentativa de aliviar as dores pediu que lhe massageassem com cachaça. Fizeram. Mas aí o berro foi maior.
+
+
 
 Nas arestas do tempo,  
 Nas dobras do vento,  
