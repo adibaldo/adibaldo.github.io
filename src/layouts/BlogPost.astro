@@ -126,7 +126,7 @@ const breadcrumbLD = {
 					</div>
 				)}
 
-				<article class="prose">
+				<article class="markdown-livro">
 					<slot />
 				</article>
 
@@ -223,5 +223,90 @@ const breadcrumbLD = {
 				}
 			}
 		</style>
+
+	<style is:global>
+		/* ─────────────────────────────────────────────────────────
+		   TIPOGRAFIA LITERÁRIA DOS POSTS (markdown-livro)
+		   Estética de livro clássico para leitura longa
+		───────────────────────────────────────────────────────── */
+		.markdown-livro {
+			font-family: 'Merriweather', 'Georgia', 'Times New Roman', serif;
+			line-height: 1.7;
+			color: #2c2c2c;
+			max-width: 68ch;
+			margin: 0 auto;
+			padding: 2rem 1rem;
+			background-color: #fcfcfc;
+		}
+
+		.markdown-livro h1,
+		.markdown-livro h2,
+		.markdown-livro h3 {
+			text-align: center;
+			color: #111;
+			font-weight: normal;
+		}
+
+		.markdown-livro h1 { font-size: 2.5rem; margin-bottom: 2rem; }
+		.markdown-livro h2 { font-size: 1.8rem; margin-top: 3.5rem; margin-bottom: 0.2rem; }
+
+		/* Metadado (data/local) logo após H2 */
+		.markdown-livro h2 + p {
+			text-align: center;
+			font-style: italic;
+			font-size: 0.95rem;
+			color: #666;
+			margin-top: 0;
+			margin-bottom: 2.5rem;
+			text-indent: 0;
+		}
+
+		/* Parágrafos estilo literário: justificado + recuo */
+		.markdown-livro p {
+			text-align: justify;
+			margin-bottom: 0;
+			text-indent: 2rem;
+		}
+
+		/* Primeiro parágrafo real (após metadado) sem recuo */
+		.markdown-livro h2 + p + p { text-indent: 0; }
+
+		/* Separadores de cena: --- vira * * * */
+		.markdown-livro hr {
+			border: none;
+			text-align: center;
+			margin: 3rem 0;
+		}
+		.markdown-livro hr::before {
+			content: '* * *';
+			font-size: 1.5rem;
+			letter-spacing: 0.3rem;
+			color: #888;
+		}
+
+		/* Citações e poesias */
+		.markdown-livro blockquote {
+			margin: 2.5rem 3rem;
+			padding-left: 1.5rem;
+			border-left: 3px solid #ccc;
+			font-style: italic;
+			color: #444;
+		}
+		.markdown-livro blockquote p {
+			text-align: left;
+			text-indent: 0;
+			margin-bottom: 0.5rem;
+		}
+
+		/* Imagens */
+		.markdown-livro img {
+			max-width: 100%;
+			height: auto;
+			display: block;
+			margin: 3rem auto 0.5rem auto;
+			border-radius: 4px;
+			box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+		}
+	</style>
 	</body>
 </html>
