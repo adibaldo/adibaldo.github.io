@@ -6,7 +6,7 @@ tags: ["ensaios", "história", "humor"]
 heroImage: ./images/marco-zero-capa.png
 ---
 
-Aprendemos que a história é registrada a partir da descoberta da escrita e que os hieróglifos egípcios foram interpretados por Champollion em 1830. Segundo a arqueologia, tais escritos remontam a cinco mil anos. Coisa que duvido.
+Aprendemos que a história é registrada a partir da descoberta da escrita e que os hieróglifos egípcios foram interpretados por Champollion em 1822. Segundo a arqueologia, tais escritos remontam a cinco mil anos. Coisa que duvido.
 
 A história ocidental é contada a partir dos livros bíblicos, com muitas narrativas e lendas. É o caso do Dilúvio. A ciência comprova que em um dado momento houve uma grande inundação. Já os relatos sobre Noé e Gilgamesh podem ser classificados como lendas, até mesmo porque é inimaginável que alguém tenha construído um barco de madeira de dimensões de um Titanic, capaz de abrigar todas as espécies de animais.
 
