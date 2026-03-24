@@ -32,6 +32,6 @@ Por último e derradeiro parágrafo. Quer saber mais sobre o Forte Príncipe? V�
 
 Talvez seja mais importante saber sobre a Malária. [A malária](https://brasilescola.uol.com.br/doencas/malaria.htm) é uma doença causada por protozoário que é transmitida principalmente pela picada da fêmea de algumas espécies de mosquitos do gênero *Anopheles*... entretanto, é importante lembrar que existe tratamento eficaz, seguro e é oferecido gratuitamente pelo SUS.
 
-Quanto a D. Antônio Tavares de Rolim de Moura, foi o penúltimo vice-rei do Brasil, que transferiu a capital do Brasil de Salvador para o Rio de Janeiro.
+Quanto a D. Antônio Tavares de Rolim de Moura, foi governador de Mato Grosso (1751–1765) e vice-rei do Brasil (1767–1769). A transferência da capital de Salvador para o Rio de Janeiro ocorreu em 1763, por decisão do Conde da Cunha — antecessor de Rolim de Moura no vice-reinado.
 
 Fica o convite: sente aí na frente do computador, consulte o Dr. Google e conheça um pouco mais sobre o forte, construído com a melhor tecnologia da época e que nunca serviu para muita coisa. Atualmente é uma atração turística do Estado de Rondônia e fonte de conhecimento da história do Brasil.
