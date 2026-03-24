@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "gray-matter": "^4.0.3",
-    "md-to-pdf": "^5.2.5"
+    "md-to-pdf": "^5.2.5",
+    "pdfkit": "^0.18.0"
   }
 }
