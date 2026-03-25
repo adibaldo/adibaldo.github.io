@@ -1,6 +1,7 @@
 ---
 title: "Afinal, é Natal (ou o uso do cachimbo que entortou a boca)"
 description: "Do cachorrinho de porcelana de quatro centímetros à melancolia de Assis Valente: uma reflexão sobre a saudade e as convenções do Natal."
+og:image: "/og/afinal-e-natal.png"
 pubDate: 2026-02-12
 tags: ["memórias", "ensaios"]
 place: "mundo"

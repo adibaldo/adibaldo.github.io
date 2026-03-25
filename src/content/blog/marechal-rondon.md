@@ -1,6 +1,7 @@
 ---
 title: "Marechal Cândido da Silva Rondon: O Herói Pouco Conhecido"
 description: "Um resumo da vida do Marechal Rondon: suas expedições, a expedição com Theodore Roosevelt, o Marechal que ligou o Brasil de ponta a ponta."
+og:image: "/og/marechal-rondon.png"
 pubDate: "2026-03-13"
 heroImage: "./images/rondon-cover.png"
 heroImageAlt: "Linha telegráfica na floresta amazônica — a obra do Marechal Rondon."

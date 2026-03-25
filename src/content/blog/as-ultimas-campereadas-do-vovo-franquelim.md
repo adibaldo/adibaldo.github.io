@@ -1,6 +1,7 @@
 ---
 title: "As Últimas Campereadas do Vovô Franquelim"
 description: "Uma jornada de sessenta quilômetros, um recado a Garcia e a despedida de um velho gaudério que levava o Rio Grande na alma."
+og:image: "/og/as-ultimas-campereadas-do-vovo-franquelim.jpg"
 pubDate: 2026-02-17
 tags: ["memórias", "família", "paraná", "gaúcho", "histórias-de-vida"]
 place: "empossado"

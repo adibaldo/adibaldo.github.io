@@ -1,6 +1,7 @@
 ---
 title: "Festa de Casamento"
-description: "27 de janeiro de 1966. A melhor novilha, espetos de camboatá, vinho no barril e convidados que guardavam rancores entre si. O pai do noivo tinha a paciência de Jó — e ia precisar."
+description: "27 de janeiro de 1966. A melhor novilha, espetos de camboatá, vinho no barril e convidados que guardavam rancores entre si. O pai do noivo tinha a paciência…"
+og:image: "/og/festa-de-casamento.jpg"
 pubDate: 2026-03-16
 tags: ["memórias", "interior", "causos", "familia", "rio-grande-do-sul"]
 heroImage: ./images/casamento-chegada.jpg

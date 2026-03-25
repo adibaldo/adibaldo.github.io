@@ -1,6 +1,7 @@
 ---
 title: "O Embalsamento"
 description: "Como um advogado do interior de Rondônia virou ajudante de embalsamamento — com jornal do Figueiredo no lugar das vísceras e brilhantina no lugar da mirra."
+og:image: "/og/o-embalsamento.jpg"
 pubDate: 2026-03-16
 tags: ["memórias", "rondonia", "causos", "advocacia", "rolim-de-moura"]
 place: "rolim-de-moura"

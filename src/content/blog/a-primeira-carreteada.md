@@ -1,6 +1,7 @@
 ---
 title: "A Primeira Carreteada"
-description: "Era primavera, já quase de verão. Um piá na boleia, um vaqueano de guia, e uma barrica de boa canha. O perigo não tem endereço — ronda por aí, andejo e esquisito."
+description: "Era primavera, já quase de verão. Um piá na boleia, um vaqueano de guia, e uma barrica de boa canha. O perigo não tem endereço — ronda por aí, andejo e…"
+og:image: "/og/a-primeira-carreteada.jpg"
 pubDate: 2026-03-16
 tags: ["memórias", "versos", "interior", "causos", "rio-grande-do-sul"]
 heroImage: ./images/carreteada-gravura.jpg

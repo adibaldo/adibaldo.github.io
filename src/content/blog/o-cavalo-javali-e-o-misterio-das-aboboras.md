@@ -1,6 +1,7 @@
 ---
 title: "O Cavalo Javali e o Mistério das Abóboras"
 description: "A saga de um tordilho afamado, um revólver 38 niquelado e o mistério de uma abóbora monumental."
+og:image: "/og/o-cavalo-javali-e-o-misterio-das-aboboras.png"
 pubDate: 2026-02-12
 tags: ["memórias", "causos"]
 place: "parana"

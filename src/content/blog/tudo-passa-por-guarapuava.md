@@ -1,6 +1,7 @@
 ---
 title: "Tudo Passa por Guarapuava"
 description: "Um paraguaio, um ônibus para Curitiba e uma única certeza: passa por Guarapuava. O motorista chegou ao limite — e a confusão virou história."
+og:image: "/og/tudo-passa-por-guarapuava.jpg"
 pubDate: 2026-03-16
 tags: ["causos", "humor", "parana", "guarapuava", "viagem"]
 heroImage: ./images/guarapuava-onibus.jpg

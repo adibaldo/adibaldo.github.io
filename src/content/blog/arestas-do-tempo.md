@@ -1,6 +1,7 @@
 ---
 title: "Arestas do Tempo"
 description: "Nas dobras do vento e na memória distante, os sábios arcontes buscam o gene e a fonte. Antes nada havia. Do nada, a luz."
+og:image: "/og/arestas-do-tempo.png"
 pubDate: 2026-03-12
 tags: ["poesia", "filosofia", "reflexão"]
 heroImage: "./images/arestas-do-tempo-cover.png"

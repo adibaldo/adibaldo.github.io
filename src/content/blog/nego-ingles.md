@@ -1,6 +1,7 @@
 ---
 title: "Nego Inglês"
 description: "Um pistoleiro misterioso, um restaurante popular e uma tarde em que o advogado virou motorista — e saiu a pé no sol de torrar castanha."
+og:image: "/og/nego-ingles.jpg"
 pubDate: 2026-03-16
 tags: ["memórias", "rondonia", "causos", "advocacia", "rolim-de-moura"]
 place: "rolim-de-moura"

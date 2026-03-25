@@ -1,6 +1,7 @@
 ---
 title: "A Saga do Mala sem Alça: O Espanhol Núñez Cabeza de Vaca"
 description: "A épica e irônica jornada do conquistador espanhol que naufragou em Santa Catarina, descobriu as Cataratas e terminou penhorando a ceroula em Asunción."
+og:image: "/og/a-saga-do-mala-sem-alca.png"
 pubDate: "2026-02-16"
 heroImage: "./images/cabeza-de-vaca-1.png"
 heroImageAlt: "Pintura a óleo de Núñez Cabeza de Vaca, náufrago e esfarrapado, mas com pose arrogante na Baía de Babitonga."

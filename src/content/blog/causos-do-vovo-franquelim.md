@@ -1,6 +1,7 @@
 ---
 title: "Causos do Vovô Franquelim"
 description: "Cinco causos do gaudério Franquelim da Silva Portela — o homem do pala cinza, da mula baia e das histórias que não tinham fim."
+og:image: "/og/causos-do-vovo-franquelim.png"
 pubDate: "2026-03-13"
 tags: ["causos", "família", "rio-grande-do-sul", "memórias", "paraná"]
 place: "pato-branco"
