@@ -1,6 +1,7 @@
 ---
 title: "Forte Príncipe da Beira"
 description: "A história da maior fortificação militar portuguesa na Amazônia, construída para firmar a posse das terras e proteger a fronteira."
+og:image: "/og/forte-principe-da-beira.jpg"
 pubDate: "2026-03-13"
 heroImage: "./images/forte-principe.jpg"
 heroImageAlt: "Vista aérea do Forte Príncipe da Beira, às margens do Rio Guaporé."

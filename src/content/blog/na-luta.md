@@ -1,6 +1,7 @@
 ---
 title: "Na Luta"
 description: "Os primeiros meses em Cacoal: o escritório do Dr. Rufino, o contratinho que garantiu o almoço, o quartinho nos fundos e a mudança para Rolim de Moura."
+og:image: "/og/na-luta.png"
 pubDate: "2026-03-13"
 heroImage: "./images/na-luta-cover.png"
 heroImageAlt: "Escritório simples em Cacoal — o começo de tudo."

@@ -1,6 +1,7 @@
 ---
 title: "A Saga dos Cacaieiros"
 description: "Saco nas costas, espingarda a tiracolo e foice na mão: o retrato vivo do pioneiro de Rondônia."
+og:image: "/og/cacaieiros.jpg"
 pubDate: 2026-03-19
 tags: ["memórias", "rondônia", "pioneirismo"]
 heroImage: ./images/cacaieiros-lida.jpg

@@ -1,6 +1,7 @@
 ---
 title: "Pé de Jaca"
-description: "Um gaúcho recém-formado chega em Rondônia em 1978 e encontra na tia uma sábia lição: o político é igualzinho a um pé de jaca. Casca grossa, bagos melequentos — e debaixo dele não cresce nada."
+description: "Um gaúcho recém-formado chega em Rondônia em 1978 e encontra na tia uma sábia lição: o político é igualzinho a um pé de jaca. Casca grossa, bagos melequentos…"
+og:image: "/og/pe-de-jaca.jpg"
 pubDate: 2026-03-16
 tags: ["causos", "rondonia", "politica", "humor", "advocacia"]
 place: "rolim-de-moura"

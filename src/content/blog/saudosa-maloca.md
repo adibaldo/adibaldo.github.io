@@ -1,6 +1,7 @@
 ---
 title: "Saudosa Maloca: Retratos de uma República Esgualepada"
 description: "Do encontro da Família Baldo ao retrato afiado da República: memórias, política e a sabedoria de quem viu o Brasil mudar sem nunca perder a esperança."
+og:image: "/og/saudosa-maloca.png"
 pubDate: "2026-02-16"
 heroImage: "./images/2026-02-16-saudosa-maloca.png"
 heroImageAlt: "Pintura a óleo de uma casa antiga de madeira sendo demolida com a sombra de um edifício moderno ao fundo."

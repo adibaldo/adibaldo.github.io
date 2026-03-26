@@ -1,6 +1,7 @@
 ---
 title: "A Lenda dos Paititis"
 description: "Os sonhos de ouro, diamantes e o pássaro de fogo no coração da Amazônia brasileira."
+og:image: "/og/a-lenda-dos-paititis.png"
 pubDate: "2026-03-13"
 heroImage: "./images/a-lenda-dos-paititis-cover.png"
 heroImageAlt: "Ilustração mística: pássaro de fogo Urucumacuã sobre tesouro oculto na selva amazônica"

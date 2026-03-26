@@ -1,6 +1,7 @@
 ---
 title: "Eleição na OAB/RO: Uma Traição em Causa Própria"
 description: "A história da primeira eleição da OAB seccional de Rondônia — um voo de asa dura, um almoço de tambaqui e uma traição registrada em guardanapo de papel."
+og:image: "/og/eleicao-na-oab-ro.jpg"
 pubDate: 2026-03-16
 tags: ["memórias", "rondonia", "advocacia", "historia", "causos"]
 place: "rolim-de-moura"

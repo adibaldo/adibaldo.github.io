@@ -1,6 +1,7 @@
 ---
 title: "História do Povo Ucraniano"
 description: "Do meu jeito de contar: fronteiras, cossacos, vodka, CTU e a guerra que continua até hoje."
+og:image: "/og/historia-do-povo-ucraniano.jpg"
 pubDate: 2026-03-17
 tags: ["história", "crônicas"]
 heroImage: ./images/historia-do-povo-ucraniano-cover.jpg

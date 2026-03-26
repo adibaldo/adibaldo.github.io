@@ -1,6 +1,7 @@
 ---
 title: "Por ali fui e por aqui estou: A Chegada na Amazônia"
 description: "O relato emocionante da travessia de Curitiba até Rondônia em 1982: o voo da TABA, os atoleiros e o início da vida em Cacoal e Rolim de Moura."
+og:image: "/og/rondonia-por-ali-fui-e-por-aqui-estou.jpg"
 pubDate: "2026-02-16"
 heroImage: "./images/c46-taba-real.jpg"
 heroImageAlt: "Aeronave Curtiss C-46 Commando da TABA (Transportes Aéreos da Bacia Amazônica) em pátio de aeroporto."
