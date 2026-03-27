@@ -1,7 +1,6 @@
 ---
 title: "A Sabedoria da Chiquita Banana"
 description: "Uma lição de vida inspirada na Chiquita Banana: por que amadurecer fora da geladeira torna a existência mais doce e autêntica."
-og:image: "/og/a-sabedoria-da-chiquita-banana.png"
 pubDate: 2026-02-17
 tags: ["memórias", "reflexão", "filosofia", "cotidiano", "maturidade", "sabedoria", "vivencia", "envelhecer-bem"]
 place: "curitiba"

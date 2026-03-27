@@ -1,7 +1,6 @@
 ---
 title: "Rondônia de Verdade"
 description: "Dos rios Guaporé e Madeira ao Marechal Rondon, dos seringueiros aos pioneiros — um manifesto de quem viveu e amou essa terra."
-og:image: "/og/rondonia-de-verdade.jpg"
 pubDate: "2026-03-13"
 heroImage: "./images/rondonia-de-verdade-cover.jpg"
 heroImageAlt: "Rio Guaporé ao entardecer — a alma de Rondônia."

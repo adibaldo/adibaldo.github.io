@@ -1,7 +1,6 @@
 ---
 title: "Por ali fui e por aqui estou"
 description: "Com 31 anos e uma mala, parti de Curitiba rumo à Amazônia. O ônibus não chegava, o avião era da guerra e o cacique decidia se a gente passava ou não."
-og:image: "/og/foi-por-ali.png"
 pubDate: "2026-03-13"
 heroImage: "./images/foiporali-cover.png"
 heroImageAlt: "Estrada de terra na Amazônia — o caminho pra Cacoal."
