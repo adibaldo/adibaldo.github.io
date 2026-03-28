@@ -1,7 +1,6 @@
 ---
 title: "A Final é Natal"
 description: "Do cachorrinho de porcelana ao Papai Noel no drone — uma viagem da infância ao Natalis Invicti Solis, passando pelas Saturnálias, São Nicolau e Assis Valente…"
-og:image: "/og/a-final-e-natal.png"
 pubDate: 2026-03-12
 tags: ["memórias", "reflexão", "natal", "humor"]
 heroImage: "./images/a-final-e-natal-cover.png"

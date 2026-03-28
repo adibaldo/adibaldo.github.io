@@ -1,7 +1,6 @@
 ---
 title: "A Morte do Gerente"
 description: "A única agência bancária da cidade. Um gerente de cabelos grisalhos que morreu de madrugada. Um comerciante nordestino com corneta potente e pouco tato. E o…"
-og:image: "/og/a-morte-do-gerente.jpg"
 pubDate: 2026-03-16
 tags: ["causos", "rondonia", "humor", "banco", "rolim-de-moura"]
 place: "rolim-de-moura"

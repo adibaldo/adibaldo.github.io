@@ -1,7 +1,6 @@
 ---
 title: "Comedor de Bananas"
 description: "Uma banana com garfo e faca, talheres de prata e porcelana fina — o direito inalienável de comer o que bem lhe prover."
-og:image: "/og/comedor-de-bananas.jpg"
 pubDate: 2026-03-17
 tags: ["crônicas"]
 heroImage: ./images/comedor-de-bananas-cover.jpg

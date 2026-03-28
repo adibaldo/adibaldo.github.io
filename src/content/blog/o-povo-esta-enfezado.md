@@ -1,7 +1,6 @@
 ---
 title: "O Povo Está Enfezado"
 description: "Da nobreza colonial jogando fezes pela janela aos palácios sem janelas de hoje — o povo continua enfezado."
-og:image: "/og/o-povo-esta-enfezado.jpg"
 pubDate: 2026-03-17
 tags: ["crônicas", "direito"]
 heroImage: ./images/o-povo-esta-enfezado-cover.jpg

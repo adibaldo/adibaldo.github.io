@@ -1,7 +1,6 @@
 ---
 title: "Prefácio e Intróito: Eita Lasqueira"
 description: "Prolegômenos para os meus alfarrábios — onde explico por que resolvi rabiscar essas memórias."
-og:image: "/og/prefacio.jpg"
 pubDate: 2026-03-19
 tags: ["prefácio", "memórias", "eita-lasqueira"]
 placeLabel: "Estrada"

@@ -1,7 +1,6 @@
 ---
 title: "Miguel e a Feira do Largo da Ordem"
 description: "Um mergulho na Curitiba de antigamente: perfumes artesanais, causos de feirantes e a briga entre Horácio Pontual e Honorina."
-og:image: "/og/miguel-e-a-feira-do-largo-da-ordem.jpg"
 pubDate: 2026-02-18
 tags: ["memórias", "curitiba", "história", "causos"]
 place: "curitiba"

@@ -1,7 +1,6 @@
 ---
 title: "Descobrindo o Brasil"
 description: "De Lisboa ao Brasil de caravela foram 40 dias; de Curitiba a Rondônia de busão foram 12. Cabral se desviou das calmarias, eu dos atoleiros da BR 364."
-og:image: "/og/descobrindo-o-brasil.png"
 pubDate: 2026-03-12
 tags: ["história", "reflexão", "humor", "rondônia"]
 heroImage: "./images/descobrindo-o-brasil-cover.png"

@@ -1,7 +1,6 @@
 ---
 title: "Cabeza de Vaca"
 description: "A épica e irônica jornada do conquistador espanhol que nunca conquistou nada — do naufrágio na Baía de Babitonga até o pé na bunda em Asunción."
-og:image: "/og/cabeza-de-vaca.png"
 pubDate: "2026-03-13"
 heroImage: "./images/cabeza-de-vaca-cover.png"
 heroImageAlt: "Trabuco colonial abandonado na beira do rio — o sonho do Cacique Paraguá."

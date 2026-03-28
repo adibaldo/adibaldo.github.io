@@ -1,7 +1,6 @@
 ---
 title: "O Caminhãozinho de Mudança"
 description: "Das brincadeiras em italiano no vale gaúcho à fronteira de Rondônia, passando pelo fandango, pela bodega do papai e pelo coração que parou para ouvir o sabiá…"
-og:image: "/og/o-caminhao-de-mudanca.png"
 pubDate: 2026-03-12
 tags: ["memórias", "infância", "família", "Rondônia", "causos"]
 heroImage: "./images/o-caminhao-de-mudanca-cover.png"

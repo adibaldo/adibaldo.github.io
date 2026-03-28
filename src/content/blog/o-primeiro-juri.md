@@ -1,7 +1,6 @@
 ---
 title: "O Primeiro Júri"
 description: "Um barracão de pau-a-pique virou tribunal. O juiz era novo, o promotor era novo, o advogado era novo — e o réu também. Todos primários."
-og:image: "/og/o-primeiro-juri.jpg"
 pubDate: "2026-03-13"
 heroImage: "./images/primeiro-juri-cover.jpg"
 heroImageAlt: "O salão do primeiro Tribunal do Júri de Rolim de Moura."

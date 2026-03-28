@@ -1,7 +1,6 @@
 ---
 title: "Marco Zero"
 description: "Do Dilúvio à Inteligência Artificial, uma viagem irreverente pelos marcos que fizeram o mundo ser o que é — com chifre de bode, bode expiatório e pão com…"
-og:image: "/og/marco-zero.png"
 pubDate: 2026-03-12
 tags: ["ensaios", "história", "humor"]
 heroImage: ./images/marco-zero-capa.png

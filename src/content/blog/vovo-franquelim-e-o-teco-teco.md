@@ -1,7 +1,6 @@
 ---
 title: "O Brique da Vaca"
 description: "Um causo onde a modernidade atropela a lida campeira: a vaca Mimosa repontada por avião a mando do Getúlio Vargas? Só o Vovô Franquelim para contar essa com…"
-og:image: "/og/vovo-franquelim-e-o-teco-teco.png"
 pubDate: 2026-02-18
 tags: ["causos", "vovô-franquelim", "humor", "paraná", "lida-campeira"]
 place: "parana"
