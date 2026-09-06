@@ -31,12 +31,12 @@
 .book-prose h2, .book-prose h3, .book-prose h4 { line-height: 1.35; margin: 2.5rem 0 1rem; scroll-margin-top: 10rem; }
 .book-prose h2 { font-size: 1.6rem; }
 .book-prose h3 { font-size: 1.35rem; }
-.book-prose img { display: block; max-width: 100%; height: auto; margin: 1.75rem auto; }
-/* Dimensões importadas do Word; classes disponíveis para futuras decisões editoriais. */
-.book-prose img.illustration-small { width: 33%; }
-.book-prose img.illustration-medium { width: 50%; }
-.book-prose img.illustration-large { width: 67%; }
-.book-prose img.illustration-full { width: 100%; }
+.book-prose img { display: block; width: 70% !important; max-width: 100%; height: auto; margin: 1.75rem auto; }
+/* Escala editorial das gravuras; as classes permitem exceções decididas durante a revisão. */
+.book-prose img.illustration-small { width: 40% !important; }
+.book-prose img.illustration-medium { width: 55% !important; }
+.book-prose img.illustration-large { width: 70% !important; }
+.book-prose img.illustration-full { width: 100% !important; }
 .book-prose blockquote { margin: 1.5rem 1rem; padding-left: 1rem; border-left: 2px solid var(--border-card); }
 .book-prose .reviewer-note { border-left: 3px solid var(--accent-gold); padding: 1rem; margin: 2rem 0; font: 1rem/1.6 var(--font-ui); background: var(--bg-card); }
 :root[data-theme='dark'] .book-prose { font-size: 1.25rem; }
@@ -47,6 +47,11 @@
 	.book-toc li a { grid-template-columns: 1fr; gap: .25rem; }
 	.book-navigation { gap: .5rem; font-size: .95rem; }
 	.book-prose { font-size: 1.1rem; }
+	.book-prose img,
+	.book-prose img.illustration-small,
+	.book-prose img.illustration-medium,
+	.book-prose img.illustration-large,
+	.book-prose img.illustration-full { width: 100% !important; }
 	.book-prose blockquote { margin-inline: .5rem; }
 }
 @media print {
