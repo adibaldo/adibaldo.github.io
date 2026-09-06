@@ -16,8 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Montar a gravura aprovada
+      - name: Conferir blocos e montar a gravura aprovada
         run: |
+          echo "d7c7c61811eb7932b4fb847fab7f7ea724c89e2e8a8e1e6f60b6cf2bc68a952b  .github/tmp/paititis-01.b64" | sha256sum -c -
+          echo "9ccab4f08d62e60ec0e643443ba9ce864843d4774917e604937f908933ef75b5  .github/tmp/paititis-02.b64" | sha256sum -c -
+          echo "b5bf429fd729db9ddc6f26721b1d0868beab603c83b06c2ea7e3646f3f26ea9c  .github/tmp/paititis-03.b64" | sha256sum -c -
+          echo "346e740a8cec250e44c58a184cd58db4c09d6c671863304dcd04ec3249d254c5  .github/tmp/paititis-04.b64" | sha256sum -c -
           cat .github/tmp/paititis-01.b64 .github/tmp/paititis-02.b64 .github/tmp/paititis-03.b64 .github/tmp/paititis-04.b64 > /tmp/paititis.b64
           base64 --decode /tmp/paititis.b64 > public/eita-lasqueira/media/image41.jpeg
           test "$(wc -c < public/eita-lasqueira/media/image41.jpeg)" -eq 41239
