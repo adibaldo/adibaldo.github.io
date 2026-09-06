@@ -1,0 +1,67 @@
+name: Auditar ortografia Eita Lasqueira
+
+on:
+  push:
+    branches:
+      - revisao-abertura
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: revisao-abertura
+      - name: Instalar aspell pt-BR
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y aspell aspell-pt-br
+      - name: Listar palavras suspeitas
+        run: |
+          for f in src/content/eita-lasqueira/{01-primeira-parte,02-segunda-parte,03-terceira-parte,04-quarta-parte,05-quinta-parte,06-sexta-parte,07-setima-parte,08-oitava-parte,09-epilogo}.md; do
+            echo "===== $f ====="
+            sed -E '/^---$/,/^---$/d; s/<[^>]+>/ /g; s#https?://[^ ]+##g' "$f" \
+              | aspell --lang=pt_BR --mode=none list \
+              | sort | uniq -c | sort -nr | head -n 120
+          done
+      - name: Listar padrões suspeitos
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          files = sorted(Path('src/content/eita-lasqueira').glob('*.md'))[1:]
+          pats = [
+              (r'\bdede\b', 'dede'),
+              (r'\bincial\w*\b', 'incial'),
+              (r'\bquer\s+que\b', 'quer que'),
+              (r'\b[aA]s\s+\d{1,2}:\d{2}\b', 'hora sem crase'),
+              (r'\bmeio dia\b', 'meio-dia'),
+              (r'\bRio de janeiro\b', 'Rio de Janeiro'),
+              (r'\bwhatsapp\b', 'WhatsApp'),
+              (r'\bmarcapasso\b', 'marca-passo'),
+              (r'\bmarca passo\b', 'marca-passo'),
+              (r'\bfa[cç]ão\b', 'facão'),
+              (r'\bauxilio\b', 'auxílio'),
+              (r'\bporem\b', 'porém'),
+              (r'\batras\b', 'atrás'),
+              (r'\bHa\b', 'Há'),
+              (r'\bA despeito\b', 'A despeito'),
+              (r'\bà despeito\b', 'a despeito'),
+              (r'\bpretencios\w*\b', 'pretensioso'),
+              (r'\bcasso\b', 'caso'),
+              (r'\bAi já viu\b', 'Aí já viu'),
+              (r'\bGenesis\b', 'Gênesis'),
+              (r'\bMoises\b', 'Moisés'),
+              (r'\btaxo\b', 'tacho'),
+          ]
+          for f in files:
+              lines = f.read_text(encoding='utf-8').splitlines()
+              for i, line in enumerate(lines,1):
+                  for pat,label in pats:
+                      if re.search(pat,line):
+                          print(f'{f}:{i}: [{label}] {line[:240]}')
+          PY
