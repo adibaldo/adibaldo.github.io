@@ -4,11 +4,11 @@ partLabel: "SÉTIMA PARTE"
 order: 7
 ---
 
-Ca estou a escrever coisas do dia a dia. Crônicas e até poesia. Em que pese esse dia a dia me reportar a fatos supostamente acontecidos há milênios, ainda estão vivos no presente. Por exemplo: se Moisés não tivesse sido salvo das águas, o que seria do povo hebreu? A história seria outra. Quem registrou tais fatos? E em que circunstâncias? Esses registros definiram a história de um povo.
+Cá estou a escrever coisas do dia a dia. Crônicas e até poesia. Em que pese esse dia a dia me reportar a fatos supostamente acontecidos há milênios, ainda estão vivos no presente. Por exemplo: se Moisés não tivesse sido salvo das águas, o que seria do povo hebreu? A história seria outra. Quem registrou tais fatos? E em que circunstâncias? Esses registros definiram a história de um povo.
 
 A minha história poderá existir a partir de uma crônica escrita por mim mesmo. Outros não a escreverão. Aliás, não haveria razão para tanto. Crônicas singelas, corriqueiras, nada relevantes. Assim sendo, escrevo eu. E as razões serão apenas as minhas.
 
-Segundo consta, e há registo, nasci em oito de fevereiro de 1950. Houve questionamento no sentido de sido no dia sete. Se chovia ou fazia sol, não sabemos. O local? Uma colina conhecida por “Coxilha Seca”. Dela, ainda lembro, aliás voltei ao local quarenta anos após. Foi possível reconhecer alguma coisa. Restava de concreto uma cerca de pedras construída por papai. Foi o que restou do esforço e do sonho de construir uma morada.
+Segundo consta, e há registro, nasci em oito de fevereiro de 1950. Houve questionamento no sentido de ter sido no dia sete. Se chovia ou fazia sol, não sabemos. O local? Uma colina conhecida por “Coxilha Seca”. Dela, ainda lembro, aliás voltei ao local quarenta anos após. Foi possível reconhecer alguma coisa. Restava de concreto uma cerca de pedras construída por papai. Foi o que restou do esforço e do sonho de construir uma morada.
 
 <img src="/eita-lasqueira/media/image55.jpeg" alt="Ilustração de uma trilha estreita entre árvores e vegetação." width="1024" height="559" style="width: 380.54px; max-width: 100%;" loading="lazy" decoding="async" />
 
@@ -16,73 +16,73 @@ A água era escassa. Não demorou e o sonho de uma vida melhor levou papai para 
 
 Matas e pinheirais.
 
-Continuou a vida da roça aliada ao do comercio de secos e molhados. Uma bodega. Tudo parecia diferente e de fato era. Aos sete anos começa-se a entender os porquês da vida. – Um povo diferente. Remanescentes da guerra do contestado e da Coluna Prestes que se alongaram por aqueles sertões. Ermos sertões a ponto de Getúlio Vargas ter criticado o Território Federal do Iguaçu, dado o seu isolamento do contesto nacional. Território esse extinto em 1945. Para o povoamento foi estimulada a migração de “barrigas Verdes e gaúchos que se misturavam aos caboclos ervateiros alongados por aqueles sertões das araucárias.
+Continuou a vida da roça aliada ao comércio de secos e molhados. Uma bodega. Tudo parecia diferente e de fato era. Aos sete anos começa-se a entender os porquês da vida. – Um povo diferente. Remanescentes da Guerra do Contestado e da Coluna Prestes que se alongaram por aqueles sertões. Ermos sertões a ponto de Getúlio Vargas ter criticado o Território Federal do Iguaçu, dado o seu isolamento do contexto nacional. Território esse extinto em 1945. Para o povoamento foi estimulada a migração de “barrigas-verdes e gaúchos que se misturavam aos caboclos ervateiros alongados por aqueles sertões das araucárias.
 
-1957, as notícias de conflitos de terra na região eram alarmantes. Os jagunços abusavam dos colonos que ocupavam terras devolutas. Havia interesses escusos por parte do governo do Estado. A região era de pouca importância para o Governo Federal, empenhado que estava na construção da uma nova Capital. Interessava apenas o pinho, que só Deus sabe quantos milhões de metros cúbicos foram transportados para Brasília e para São Paulo que crescia vertiginosamente.
+1957, as notícias de conflitos de terra na região eram alarmantes. Os jagunços abusavam dos colonos que ocupavam terras devolutas. Havia interesses escusos por parte do governo do Estado. A região era de pouca importância para o Governo Federal, empenhado que estava na construção de uma nova capital. Interessava apenas o pinho, que só Deus sabe quantos milhões de metros cúbicos foram transportados para Brasília e para São Paulo que crescia vertiginosamente.
 
 <img src="/eita-lasqueira/media/image16.jpeg" alt="Ilustração de uma estrada de terra entre pinheiros." width="1024" height="559" style="width: 425.55px; max-width: 100%;" loading="lazy" decoding="async" />
 
 1959\. Chegaram notícias do povoado. A guerra ia começar novamente. Cuba virou comunista. A notícia não tinha relevância. – Mais relevante era ouvir o padre dizer que Jesus tinha nascido na Palestina. – Conhecimento necessário para a primeira comunhão.
 
-Muito estranho era se ajoelhar para confessar os pecados. Que pecados? Já estávamos à beira do inferno, mas a esperança é a última que morre. Muitas pessoas morriam. de tifo e outros males desconhecidos. Toda a semana tinha velório. Idosos e crianças. Eu ouvi a “velha” Josefa reclamando com mamãe: - Que velório desarrumado. Não tinha café com bolo de milho e nem carne de porco, frita no taxo.
+Muito estranho era se ajoelhar para confessar os pecados. Que pecados? Já estávamos à beira do inferno, mas a esperança é a última que morre. Muitas pessoas morriam de tifo e outros males desconhecidos. Toda a semana tinha velório. Idosos e crianças. Eu ouvi a “velha” Josefa reclamando com mamãe: - Que velório desarrumado. Não tinha café com bolo de milho e nem carne de porco, frita no tacho.
 
 Foi quando papai procurou recursos na cidade maior. Pato Branco onde também pouco havia. Alguém lhe recomendou que aplicasse penicilina. Comprou uma caixa com cem doses e uma seringa. – Saiu dando agulhadas em todo o mundo. De mamando a caducando. As mortes diminuíram.
 
-Vez que outra morria alguém. A “veia Bastiana”, já com mais de oitenta passou pela crise, mas depois não resistiu. Todos os filhos e genros “atuiados” no rancho e no meio o caixão com apenas uma velinha de parafina na cabeceira. Os irmãos Manezinho e Emiliano que guardavam mágoas por conta de um brique de um matungo, se estranharam. De uma banda do caixão manezinho puxou o facão da bainha e Emiliano do outro lado se arredou cambaleando de bêbado e tropeçou num banco de tabua lascada. Valeu-se da Cruz já adornada com uma coroa de flores.
+Vez que outra morria alguém. A “veia Bastiana”, já com mais de oitenta passou pela crise, mas depois não resistiu. Todos os filhos e genros “atuiados” no rancho e no meio o caixão com apenas uma velinha de parafina na cabeceira. Os irmãos Manezinho e Emiliano que guardavam mágoas por conta de um brique de um matungo, se estranharam. De uma banda do caixão manezinho puxou o facão da bainha e Emiliano do outro lado se arredou cambaleando de bêbado e tropeçou num banco de tábua lascada. Valeu-se da Cruz já adornada com uma coroa de flores.
 
-Foi quando interveio Sebastião: - Querem brigar vão lá pra fora, mas aqui dentro exijo respeito com a defunta senhora nossa mãe. A única janela de não mais de meio metro de vão ficou entupida quando Jovelino, dono de uma pança de mais de metro quiz passar por ela.
+Foi quando interveio Sebastião: - Querem brigar vão lá pra fora, mas aqui dentro exijo respeito com a defunta senhora nossa mãe. A única janela de não mais de meio metro de vão ficou entupida quando Jovelino, dono de uma pança de mais de metro quis passar por ela.
 
-De pois do enterro todos foram parar na inspetoria de polícia onde a justa penalidade foi aplicada aos irmãos arruaceiros: “Disse o Inspetor de Quarteirão em alto e bom tom, para que todos ouvissem.” Daqui pra frente, os dois estão proibidos de frequentar velório armados de facões”. Emiliano quiz contestar parque não fizera uso de facão e que apenas se defendera e que não fosse a cruz ele estaria na sepultura fazendo companhia a finada mãe, que Deus a tenha e fez o sinal da cruz. “Calado! Ou mando lhe dar umas chibatadas!
+Depois do enterro todos foram parar na inspetoria de polícia onde a justa penalidade foi aplicada aos irmãos arruaceiros: “Disse o Inspetor de Quarteirão em alto e bom tom, para que todos ouvissem.” Daqui pra frente, os dois estão proibidos de frequentar velório armados de facões”. Emiliano quis contestar porque não fizera uso de facão e que apenas se defendera e que não fosse a cruz ele estaria na sepultura fazendo companhia a finada mãe, que Deus a tenha e fez o sinal da cruz. “Calado! Ou mando lhe dar umas chibatadas!
 
-!960 houve eleição. Marechal Lott, e Jânio Quadros. Deu Jânio que renunciou depois de seis meses. Ney Braga assume o Governo no Estado do Paraná. As questões agrarias se normalizaram.
+1960 houve eleição. Marechal Lott, e Jânio Quadros. Deu Jânio que renunciou depois de seis meses. Ney Braga assume o Governo no Estado do Paraná. As questões agrárias se normalizaram.
 
-Em fevereiro de 1961 fui encaminhado para um seminário no estado de Santa Catariana. Certo que eu estava a duzentos e cinquenta quilômetros distantes de casa. Um dia de viagem de ônibus pelas estradas empoeiradas e esburacadas.
+Em fevereiro de 1961 fui encaminhado para um seminário no estado de Santa Catarina. Certo que eu estava a duzentos e cinquenta quilômetros de casa. Um dia de viagem de ônibus pelas estradas empoeiradas e esburacadas.
 
-Nada de muito diferente. Estudar meio dia e trabalhar na lavoura outro meio dia. Além das rezas reforçadas e horário par recreação. Jogar bola, coisa que não era do meu feitio. - Nunca ui atleta. Apesar de gostar de subir em árvores, como pinheiros no tempo do pinhão. Com uma taquara. cutucar as pinhas até caírem no chão. Colher pasto para as vacas, tratar os porcos e as galinhas. Capinar nas lavouras de milho e colher trigo. Enfrentar o inverno e a geada. Levar o lixo pra queimar. Muitos papeis.
+Nada de muito diferente. Estudar meio dia e trabalhar na lavoura outro meio dia. Além das rezas reforçadas e horário para recreação. Jogar bola, coisa que não era do meu feitio. - Nunca fui atleta. Apesar de gostar de subir em árvores, como pinheiros no tempo do pinhão. Com uma taquara, cutucar as pinhas até caírem no chão. Colher pasto para as vacas, tratar os porcos e as galinhas. Capinar nas lavouras de milho e colher trigo. Enfrentar o inverno e a geada. Levar o lixo pra queimar. Muitos papéis.
 
-Era interessante ficar olhando figuras e manchetes de revistas. Os padres recebiam jornais e outras publicações informativas – O comunismo era tema recorrente. A Rússia era o dragão que agredia o mundo. Os EUA promoviam ajuda humanitária com o programa Aliança para o Progresso. O presidente John Kennedy foi assassinado e o programa interrompido. Em 1962 teve início o Concilio Vaticano II – e houve mudanças na ritualística religiosa.
+Era interessante ficar olhando figuras e manchetes de revistas. Os padres recebiam jornais e outras publicações informativas – O comunismo era tema recorrente. A Rússia era o dragão que agredia o mundo. Os EUA promoviam ajuda humanitária com o programa Aliança para o Progresso. O presidente John Kennedy foi assassinado e o programa interrompido. Em 1962 teve início o Concílio Vaticano II – e houve mudanças na ritualística religiosa.
 
 O Brasil foi bicampeão. Pelé e Garrincha. - 1964 os militares assumem o poder. Castelo Branco é o novo presidente.
 
-1965 fui transferido para outro seminário para cursar um ano de Admissão para depois o ginasial. Cidade de Rio Negro, próxima a Curitiba. O Brasil foi eliminado na primeira fase na copa do mundo. Um fiasco, mesmo com Pelé e Garrincha.
+1965 fui transferido para outro seminário para cursar um ano de Admissão para depois o ginasial. Cidade de Rio Negro, próxima a Curitiba. O Brasil foi eliminado na primeira fase na Copa do Mundo. Um fiasco, mesmo com Pelé e Garrincha.
 
-!967 iniciado a primeira série ginasial. Nada muito diferente. Meio dia de aulas e meio dia de trabalhos diversos, inclusive lavoura e aprendizado de uma profissão. No caso alfaiataria. No início era fazer batinas para padres, depois as coisas se modernizaram e houve flexibilização dos trajes religiosos e todos queriam usar paletó e gravata. O aprendizado profissional foi estendido para todo o vestuário.
+1967, iniciei a primeira série ginasial. Nada muito diferente. Meio dia de aulas e meio dia de trabalhos diversos, inclusive lavoura e aprendizado de uma profissão. No caso alfaiataria. No início era fazer batinas para padres, depois as coisas se modernizaram e houve flexibilização dos trajes religiosos e todos queriam usar paletó e gravata. O aprendizado profissional foi estendido para todo o vestuário.
 
-1968 conclusão da segunda ginasial. Era hora de decidir por conta própria. Sair do seminário ver o mundo e como era na realidade. Já havia feito o alistamento militar com dispensa de incorporação por excesso de contingente. Papai e irmãos ainda trabalhavam na lavora. O mais velho cursava o segundo grau em Curitiba e o outro já havia casado e a mana mais velha casou em dezembro daquele ano, justamente quando decidi sair do seminário.
+1968 conclusão da segunda ginasial. Era hora de decidir por conta própria. Sair do seminário ver o mundo e como era na realidade. Já havia feito o alistamento militar com dispensa de incorporação por excesso de contingente. Papai e irmãos ainda trabalhavam na lavoura. O mais velho cursava o segundo grau em Curitiba e o outro já havia casado e a mana mais velha casou em dezembro daquele ano, justamente quando decidi sair do seminário.
 
 A cidade próxima da casa dos pais era Francisco Beltrão. Não sei porque decidi ir para lá. Sem conhecer ninguém. Lá morava um tio que era operário da construção civil. Fui ter com ele. Arranjou-me um quarto e comida. Mas tinha que pagar a pensão. No primeiro dia arrumei serviço de auxiliar de alfaiataria. Como é bom conhecer e saber fazer alguma coisa. Enquanto os primos batiam cabeça na cidade fazendo um bico ali e acolá eu arrumei serviço na primeira porta que bati. O pouco que ganhava dava para o sustento.
 
-!970 Brasil tri campeão. Terminei o Ginasial. Fazer o segundo grau em outra cidade. Escolhi Curitiba. La cheguei dia nove de janeiro de 1971. O mano mais velho trabalhava num banco. Novamente na primeira porta que bati, arranjei serviço. Eu já era quase profissional.
+1970, Brasil tricampeão. Terminei o Ginasial. Fazer o segundo grau em outra cidade. Escolhi Curitiba. Lá cheguei dia nove de janeiro de 1971. O mano mais velho trabalhava num banco. Novamente na primeira porta que bati, arranjei serviço. Eu já era quase profissional.
 
-1973 abri uma alfaiataria. Serviço tinha e muito. Estudar a noite e trabalhar de dia. Busquei os dois manos mais novos do interior. Com o tempo um se tornou professor e outro empregado de uma subsidiária da Petrobras, onde se aposentou.
+1973 abri uma alfaiataria. Serviço tinha e muito. Estudar à noite e trabalhar de dia. Busquei os dois manos mais novos do interior. Com o tempo um se tornou professor e outro empregado de uma subsidiária da Petrobras, onde se aposentou.
 
-!974, prestei vestibular na UFP em direito. A vida que já não era fácil ficou difícil. Estudar de dia trabalhar a noite. Nessas alturas a mana mais velha havia casado. A mana mais nova que estava em colégio de freiras, foi para a Itália. Roma, onde está até hoje. Outros manos foram crescendo e se colocando na vida. Papai se aposentou e foi morar na cidade de Francisco Beltrão. Ali completou seus dias com 89 anos. Mamãe partira, quatro anos antes. Seus sonhos estavam realizados. Doze filhos e todos encaminhados na vida.
+1974, prestei vestibular na UFPR em Direito. A vida que já não era fácil ficou difícil. Estudar de dia, trabalhar à noite. Nessas alturas a mana mais velha havia casado. A mana mais nova que estava em colégio de freiras, foi para a Itália. Roma, onde está até hoje. Outros manos foram crescendo e se colocando na vida. Papai se aposentou e foi morar na cidade de Francisco Beltrão. Ali completou seus dias com 89 anos. Mamãe partira, quatro anos antes. Seus sonhos estavam realizados. Doze filhos e todos encaminhados na vida.
 
 O Bom foi terminar a faculdade. Dois anos de atraso, por repetência em algumas disciplinas.
 
-1980, que caminho tomar? Mudar de um canto para outro não me era estranho. Decidi. O Brasil estava passando por Transformações. Aliás as transformações do Brasil começaram propriamente na década de cinquenta com o pós guerra. O Grande bum começou com Juscelino com a construção de Brasília. Foi a marcha para o Oeste ou a interiorização. O Brasil tinha que ser ocupado.
+1980, que caminho tomar? Mudar de um canto para outro não me era estranho. Decidi. O Brasil estava passando por Transformações. Aliás as transformações do Brasil começaram propriamente na década de cinquenta com o pós-guerra. O grande boom começou com Juscelino com a construção de Brasília. Foi a marcha para o Oeste ou a interiorização. O Brasil tinha que ser ocupado.
 
-1964 com o governo militar efetivou-se a interiorização. Integrar para não entregar. A trans amazônica estava rasgada. Mato grosso estava sendo tomado pela agricultura mecanizada e fazendas de gado.
+1964 com o governo militar efetivou-se a interiorização. Integrar para não entregar. A Transamazônica estava rasgada. Mato Grosso estava sendo tomado pela agricultura mecanizada e fazendas de gado.
 
 A nova fronteira era Rondônia. Decidi. Onde houver sol é pra lá que eu vou. Em 10 de março de 1981, parti de Curitiba rumo Cuiabá, com destino a Cacoal Rondônia.
 
 Acontece que não só tinha sol. Tinha muita chuva e lama. Cuiabá a Porto Velho a BR 364 interditada. Foi o auge da migração. Centenas, milhares de capixabas, paranaenses e de outros estados se deslocaram para Mato Grosso e Rondônia. A opção foi via aérea. O único voo semanal pela TABA, Transportes Aéreos da Bacia Amazônica. Um avião do tempo da guerra de 16 lugares. Malas e caixotes. E lá vamos nós. Um pouso estratégico abaixo de chuva em Vilhena. Mais uma hora de voo e o destino Pimenta Bueno.
 
-A tarde caia. Compartilhamos um táxi para o trecho restante. Cacoal, capital do Café. Lama e atoleiros. Em fim o destino. Hotel Decolores e Fim de viagem e fim do dinheiro e um sono profundo para sonhar com o amanhã.
+À tarde caía. Compartilhamos um táxi para o trecho restante. Cacoal, capital do Café. Lama e atoleiros. Enfim, o destino. Hotel Decolares e Fim de viagem e fim do dinheiro e um sono profundo para sonhar com o amanhã.
 
-Um amanhecer pisando na lama. Buscar o ponto de referência. Um amigo de um amigo. O sujeito me recebeu bem de mais, considerando as circunstâncias. A Solidariedade estava presente no dia a dia daquele povo que se propunha a construir suas vidas na floresta amazônica. O inimigo era a malária e outras doenças tropicais. O espírito de luta e de aventura estava na alma das pessoas. Superação era a palavra de ordem. Vencer era o lema.
+Um amanhecer pisando na lama. Buscar o ponto de referência. Um amigo de um amigo. O sujeito me recebeu bem demais, considerando as circunstâncias. A Solidariedade estava presente no dia a dia daquele povo que se propunha a construir suas vidas na floresta amazônica. O inimigo era a malária e outras doenças tropicais. O espírito de luta e de aventura estava na alma das pessoas. Superação era a palavra de ordem. Vencer era o lema.
 
 Apresentou-me a um advogado da cidade. De pronto fui acolhido como se fosse de casa. Estava eu instalado em um escritório de advocacia. A questão era como ganhar o primeiro dinheiro para viver, ou comprar um almoço. Consegui. Nunca me faltou o mínimo para sobreviver.
 
 1982 uma cidade que surgia no meio da floresta. Rolim de Moura. Homenagem a um português que tendo saído de Portugal em 1750, navegou pelo Rio da Prata e Paraguai, a partir de Cáceres, subiu pelo Rio Jauru, e por terra alcançou o Rio Guaporé e já na selva amazônica fundou a cidade de Vila Bela da Santíssima Trindade.
 
-Este mesmo nobre Português, Don Antônio Tavares de Rolim de Moura, Conde Azambuja, foi vice rei do Brasil e determinou que a Capital do Brasil não mais fosse Salvador, mas Rio de Janeiro.
+Este mesmo nobre Português, Don Antônio Tavares de Rolim de Moura, Conde Azambuja, foi vice-rei do Brasil e determinou que a Capital do Brasil não mais fosse Salvador, mas Rio de Janeiro.
 
-Esse foi realmente o primeiro que promoveu a integração do Brasil ou estabeleceu limites do lado Oeste com os Espanhóis, que pouco a pouco ocupavam os territórios dos futuros países como Paraguai, Bolívia e Peru
+Esse foi realmente o primeiro que promoveu a integração do Brasil ou estabeleceu limites do lado oeste com os espanhóis, que pouco a pouco ocupavam os territórios dos futuros países como Paraguai, Bolívia e Peru
 
-Anteriormente mais ao Norte Pedro Teixeira estabelecera os pontos avançados que desenham o atual território Brasileiro. Território este confirmado pela Diplomacia do Barão de Rio Branco e palmilhado pelo Marechal Candido Rondon. Rondon foi homenageado em vida, com a mudança do nome do Território Federal do Guaporé para Território Federal de Rondônia, e mais tarde em 1982, Estado de Rondônia.
+Anteriormente mais ao Norte Pedro Teixeira estabelecera os pontos avançados que desenham o atual território brasileiro. Território este confirmado pela Diplomacia do Barão de Rio Branco e palmilhado pelo Marechal Cândido Rondon. Rondon foi homenageado em vida, com a mudança do nome do Território Federal do Guaporé para Território Federal de Rondônia, e mais tarde em 1982, Estado de Rondônia.
 
-Mas enfim, uma cidade surgindo dentro de um Estado que nascia. Rolim de Moura galgou o status de município em 1983. Tendo Sido empossado o primeiro prefeito eleito em primeiro de janeiro de 1985.
+Mas enfim, uma cidade surgindo dentro de um Estado que nascia. Rolim de Moura galgou o status de município em 1983. Tendo sido empossado o primeiro prefeito eleito em primeiro de janeiro de 1985.
 
 Tudo isso acontecendo e eu na praça dando milho aos pombos. Ou seja, tentando sobreviver e me organizar.
 
@@ -174,7 +174,7 @@ A PRIMEIRA CARRETEADA.
 >
 > Anima a alma e espanta o tédio.
 >
-> Andar de vagar, no passo a passo.
+> Andar devagar, no passo a passo.
 >
 > Pra que pressa, tem que fazer rodeio.
 >
@@ -188,7 +188,7 @@ A PRIMEIRA CARRETEADA.
 >
 > Certo é que o perigo não tem endereço.
 >
-> Ronda por aí...é andejo e mais que isso.
+> Ronda por aí... é andejo e mais que isso.
 >
 > Provoca entreveros, confusões e enguiços.
 >
@@ -254,7 +254,7 @@ Destaco a obra de Geraldo Schach. Com seu livro Rondônia, a Terra Prometida, na
 
 Sem dúvida, mais uma obra que deve integrar o acervo da biblioteca da História do Estado de Rondônia.
 
-Recentemente, o professor Rosalvo Estachw lançou a magnífica obra Senhora das Águas, onde faz um passeio pelas águas barrentas do Rio Madeira, resgatando as lendas dos beradeiros e povos da floresta.
+Recentemente, o professor Rosalvo Estachw lançou a magnífica obra Senhora das Águas, onde faz um passeio pelas águas barrentas do Rio Madeira, resgatando as lendas dos beiradeiros e povos da floresta.
 
 De outro Norte, centenas de páginas e reportagens esparsas discorrem sobre o desenvolvimento do Estado com ênfase nas cidades.
 
@@ -268,7 +268,7 @@ E ASSIM FIZEMOS
 
 Um Empreendimento Coletivo e de Cooperação
 
-Em 1982 a portamos num vilarejo que surgia em meio a floresta. O objetivo era ter um lugar para exercer nossas habilidades e viver.
+Em 1982 aportamos num vilarejo que surgia em meio à floresta. O objetivo era ter um lugar para exercer nossas habilidades e viver.
 
 Lavradores, comerciantes, industriais, profissionais liberais e muita gente sem rumo que procurava sobreviver de acordo com as oportunidades.
 
@@ -284,7 +284,7 @@ Tudo era compartilhado. Capixabas, paranaenses, nordestinos e gaúchos, todos pl
 
 A alimentação escassa. Era carne de paca, mateiro e tatu. Peixe frito ou ensopado com macaxeira.
 
-O que assolava era a malária e Leishmaniose e outras doenças tropicais.
+O que assolava era a malária, leishmaniose e outras doenças tropicais.
 
 Barracos para morar, escolas pau-a-pique, transportes de pau-de-arara. Era necessário acreditar.
 
@@ -292,11 +292,11 @@ Integrar para não entregar.
 
 Rondônia é o resultado da luta de um povo, chamado que foi pelo Brasil para ocupar e transformar a selva em ambiente de produção e cultura.
 
-Sua história é vasta: vai do Forte Príncipe da Beira (1770), passa pela Ferrovia Madeira-Mamoré (1900), pela Linha Telegrafo do Marechal Rondon (1910) e pelos Soldados da Borracha.
+Sua história é vasta: vai do Forte Príncipe da Beira (1770), passa pela Ferrovia Madeira-Mamoré (1900), pela Linha Telegráfica do Marechal Rondon (1910) e pelos Soldados da Borracha.
 
 Getúlio Vargas criou o Território Federal do Guaporé em 1943, e Juscelino abriu a estrada Cuiabá-Porto Velho em 1959.
 
-Tudo foi feito com suor e lágrimas. A mata inóspita, transformou-se em terra produtiva.
+Tudo foi feito com suor e lágrimas. A mata inóspita transformou-se em terra produtiva.
 
 O migrante não foi chamado para fazer agricultura sintrópica; foi necessário o uso do fogo para a retirada da mata. Entre erros e acertos, foi construído um ambiente de paz e prosperidade.
 
@@ -312,27 +312,27 @@ No ano de 2000, sob a euforia do novo milênio e fazendo a retrospectiva, nós o
 
 Liderados pelo médico Volmir Rodegueri, e outros, buscou-se o apoio do SEBRAI, o qual ofereceu treinamentos através dos programas SEBRAI I e II
 
-Ao todo mais de 60 pessoas participaram desse banho de técnicas de empreendedorismo, para serem aplicados em seus próprios comércios e atividades.
+Ao todo mais de 60 pessoas participaram desse banho de técnicas de empreendedorismo, para serem aplicadas em seus próprios comércios e atividades.
 
-Diante do estímulo, foi-nos apresentado o programa E MPRETEC, que tinha por objetivo aprofundar as técnicas já apresentadas pelo SEBRAI.
+Diante do estímulo, foi-nos apresentado o programa EMPRETEC, que tinha por objetivo aprofundar as técnicas já apresentadas pelo SEBRAI.
 
-O Animo era tanto que vários cursos foram ministrados, uma vez que o número de participantes era limitado.
+O ânimo era tanto que vários cursos foram ministrados, uma vez que o número de participantes era limitado.
 
 Era necessário provar que estávamos capacitados para a realização de algum negócio de vulto e que envolvesse a comunidade.
 
 A Cooperativa.
 
-Há alguns anos o Banco central do Brasil havia decretado a extinção do Banco do Estado de Rondônia, e alguns ex-funcionários decidiram fundar cooperativas de crédito. De tantas só uma havia prosperado, a CREDIP de Pimenta Bueno, filiada ao SICOB e a Ji Credi, da cidade de Ji Paraná, solteira como se dizia, no entanto, estava praticamente inerte.
+Há alguns anos o Banco Central do Brasil havia decretado a extinção do Banco do Estado de Rondônia, e alguns ex-funcionários decidiram fundar cooperativas de crédito. De tantas só uma havia prosperado, a CREDIP de Pimenta Bueno, filiada ao SICOOB e a Ji Credi, da cidade de Ji Paraná, solteira como se dizia, no entanto, estava praticamente inerte.
 
-O Cooperativismo de Credito no Basil, pode-se dizer, teve seu início no Rio Grande do Sul com a criação da cooperativa SICREDI com uma história de pioneirismo e instituição de sucesso.
+O Cooperativismo de Crédito no Brasil, pode-se dizer, teve seu início no Rio Grande do Sul com a criação da cooperativa SICREDI com uma história de pioneirismo e instituição de sucesso.
 
-Neste momento alguns empreendedores da cidade de Ji Paraná, decidiram reavivar a cooperativa adormecida A aderência foi tanto que empreendedores da Cidade de Cacoal, e Ariquemes também decidiram fundar uma.
+Neste momento alguns empreendedores da cidade de Ji Paraná, decidiram reavivar a cooperativa adormecida A aderência foi tanta que empreendedores da Cidade de Cacoal, e Ariquemes também decidiram fundar uma.
 
 Essa ideia despertou o interesse dos empreendedores da cidade de Rolim de Moura. Uma equipe se deslocou até Porto Alegre para conhecer o sistema SICREDI.
 
 Animados convocou-se uma reunião da comunidade comerciantes empresários e profissionais liberais, com a participação de cerca de sessenta pessoas.
 
-Decidida pela constituição, somente 28 pessoas aderiram ao plano, sendo 26 homens duas mulheres, tal qual a primeira cooperativa de consumo na Inglaterra, a primeira cooperativa moderna de sucesso, conhecida como “Sociedade dos probos Pioneiros de Rochdale, fundada em 1844 na Inglaterra. Formada por 28 operários (tecelões). Foi criado um armazém de consumo para compras alimentos a preços justos, estabelecendo os princípios fundamentais de gestão democrática e equidade que baseia o cooperativismo mundial até hoje.
+Decidida pela constituição, somente 28 pessoas aderiram ao plano, sendo 26 homens e duas mulheres, tal qual a primeira cooperativa de consumo na Inglaterra, a primeira cooperativa moderna de sucesso, conhecida como “Sociedade dos probos Pioneiros de Rochdale, fundada em 1844 na Inglaterra. Formada por 28 operários (tecelões). Foi criado um armazém de consumo para comprar alimentos a preços justos, estabelecendo os princípios fundamentais de gestão democrática e equidade que baseia o cooperativismo mundial até hoje.
 
 Uma vez decidido, buscou-se uma assessoria de pessoa de bom conhecimento no ramo, sendo contratado o Sr. Roque Schimidt. que nos deu todo o apoio inicial. Desde a constituição até seu efetivo funcionamento.
 
@@ -340,13 +340,13 @@ O nome escolhido foi COOPERATIVA DE CRÉDITO RURAL DE ROLIM DE MOURA LTDA. Seu i
 
 Fotografia com os fundadores
 
-Já se foram 25 anos de resiliências e muitas histórias e o sucesso da Cooperativa já ganha visibilidade, graças a Cooperativa Central, Criada para dar suporte as cooperativas fundadas no Estado e que guardavam laços de afinidade em razão dos mesmos ideais e princípios.
+Já se foram 25 anos de resiliência e muitas histórias e o sucesso da Cooperativa já ganha visibilidade, graças à Cooperativa Central, criada para dar suporte às cooperativas fundadas no Estado e que guardavam laços de afinidade em razão dos mesmos ideais e princípios.
 
 Esse novo empreendimento se deu em agosto de 2000 sob a denominação de CREDISIS. (Central Cooperativa de Crédito), com sede na cidade de Ji Paraná.
 
-No momento a Central abriga cooperativas dos estados de Rondônia, Acre, Pará, Mato grosso, Santa Catarina e Roio Grande do Sul.
+No momento a Central abriga cooperativas dos estados de Rondônia, Acre, Pará, Mato Grosso, Santa Catarina e Rio Grande do Sul.
 
-Diga-se que Apartir dos anos 2000 o cooperativismo de crédito no Brasil, tomou corpo a ponto de o Banco Central criar um departamento próprio para as cooperativas de crédito. Essa iniciativa proporcionou maior segurança para o sistema financeiro cooperativo.
+Diga-se que A partir dos anos 2000 o cooperativismo de crédito no Brasil, tomou corpo a ponto de o Banco Central criar um departamento próprio para as cooperativas de crédito. Essa iniciativa proporcionou maior segurança para o sistema financeiro cooperativo.
 
 Posteriormente por orientação do Banco Central, foi necessário mudar a razão social e a Rolim Credi Ltda, recebeu nova denominação, COOPERATIVA DE CRÉDITO SUDOESTE e com a estampa comercial CREDISIS SUDOESTE.
 
@@ -354,15 +354,15 @@ O Legado
 
 São vinte cinco anos de existência e oferecimento de serviços financeiros a população.
 
-Dos fundadores baluartes, destacamos, além de Volmir Dionisio Rodegueri, que exerceu a presidência por 15 anos e Pedro José Bertelli, que exerceu a vice presidência no mesmo período e depois a presidência, porem vítima da COVIDE nos deixou no ando de 2021.
+Dos fundadores baluartes, destacamos, além de Volmir Dionisio Rodegueri, que exerceu a presidência por 15 anos e Pedro José Bertelli, que exerceu a vice-presidência no mesmo período e depois a presidência, porém vítima da COVID nos deixou no ano de 2021.
 
 Paulo Henrique Gonçalves Lima, jovem empreendedor, então vice-presidente, assumiu a presidência, tendo sido reconduzido, exerce atualmente a presidência da entidade.
 
-Outros tantos baluartes fundadores, já partiram para o Oriente Eterno ou simplesmente por razão da própria vida tiveram que mudar para outras localidades e outros continuam no quando associativo, porem cuidado de suas atividades particulares.
+Outros tantos baluartes fundadores, já partiram para o Oriente Eterno ou simplesmente por razão da própria vida tiveram que mudar para outras localidades e outros continuam no quadro associativo, porém cuidando de suas atividades particulares.
 
 Fotografia com a Fachada do Prédio sede da Cooperativa
 
-Atualmente, a cooperativa conta com 7.500 cooperados e capital Social RS 26 000 000,00 e filias, em Alta Floresta do Oeste, Pimenta Bueno, Parecis e São Felipe Do Oeste.
+Atualmente, a cooperativa conta com 7.500 cooperados e capital social de R$ 26.000.000,00 e filiais, em Alta Floresta do Oeste, Pimenta Bueno, Parecis e São Felipe do Oeste.
 
 É um sonho que se tornou realidade, meta atingida, de ser o melhor estabelecimento de crédito da Cidade de Rolim de Moura, e região com o perfil dos seus associados, porque ASSIM A FIZEMOS.
 
@@ -386,7 +386,7 @@ Por vales e campinas,
 >
 > Tudo muda de repente.
 >
-> O tempo cobra do vivente.,
+> O tempo cobra do vivente.
 >
 > Mesmo forte, enérgico e bravo.
 >
@@ -410,7 +410,7 @@ Tempos de Antanho e de Agora.
 
 > Gosto do meu tempo. Oito de fevereiro de 1950, segundo o calendário gregoriano, apenas um acontecimento de relevância. Nasci.
 >
-> De resto a Wikipédia registra para esta data magistral, o mesmo dia e mês, em 1828 o nascimento Júlio Verne e em 1931 nascimento ator de cinema James Dean. "O ator se imortalizou como um ícone cultural, representando o ceticismo e desilusão dos jovens do pós-guerra", ao passo que Júlio Verne escreveu A Volta ao Mundo em 80 Dias. E assim criou o gênero literário Ficção Científica.
+> De resto a Wikipédia registra para esta data magistral, o mesmo dia e mês, em 1828 o nascimento de Júlio Verne e em 1931 o nascimento do ator de cinema James Dean. "O ator se imortalizou como um ícone cultural, representando o ceticismo e desilusão dos jovens do pós-guerra", ao passo que Júlio Verne escreveu A Volta ao Mundo em 80 Dias. E assim criou o gênero literário ficção científica.
 >
 > Gostaria de comemorar um aniversário na companhia desses dois ícones vez que de alguma forma instigaram-me na juventude com Volta ao Mundo em 80 Dias e o filme Juventude Transviada. Com o passar dos dias, os romances deram lugar à realidade da vida.
 >
@@ -428,7 +428,7 @@ Tempos de Antanho e de Agora.
 >
 > Acreditamos em um ser superior que tudo criou; porquanto, devemos respeitar toda a criação.
 >
-> Enfim, vale o tempo de agora. De antanho havia um mundo que era igual ao de agora. Diferente era o modo de vê-lo. Talvez fosse grande. Agora é o de agora. Nem grande nem pequeno, o suficiente para viver, sentir as estações e fazer as coisas à duas ou quatro mãos. Conforme a canção, interpretada pelo cantor do século, Frank Sinatra:
+> Enfim, vale o tempo de agora. De antanho havia um mundo que era igual ao de agora. Diferente era o modo de vê-lo. Talvez fosse grande. Agora é o de agora. Nem grande nem pequeno, o suficiente para viver, sentir as estações e fazer as coisas a duas ou quatro mãos. Conforme a canção, interpretada pelo cantor do século, Frank Sinatra:
 >
 > **MY WAY**
 >

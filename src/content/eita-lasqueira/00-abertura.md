@@ -10,15 +10,15 @@ A com estes alfarrábios me proponho colocar à disposição dos incautos leitor
 
 Reuniões de confraria para alguma reflexão, já que não há mais estratégias ou planos para o futuro. Está tudo consumado. Não pretendo realizar mais nada.
 
-Diz o velho ditado que o homem deve na vida plantar uma árvore, ter filhos e escrever um livro. Rabugices a parte, família sempre foi o mote de viver. Desde o ano de 1950, quando, comecei a tomar ciência da realidade de vida. Folguedos, Disciplina, trabalho e amigos. Aos 75 anos vejo que dessas três coisas, ainda resta alguns amigos. Amizades são decorrentes do trabalho. Quem nada faz não merece ter amigos. Assim, com eles convivo. na certeza de ter feito o que deveria ser feito. E valeu o esforço. Saindo do fundo da grota, aos trancos e barrancos fui daqui e ali e aportei em Rondônia. Aqui constitui família e fiz amigos. Aqui participei da construção de um Estado e cidades. A densa floresta transformou-se em terra de riquezas e bom ambiente para viver.
+Diz o velho ditado que o homem deve na vida plantar uma árvore, ter filhos e escrever um livro. Rabugices à parte, família sempre foi o mote de viver. Desde o ano de 1950, quando comecei a tomar ciência da realidade de vida. Folguedos, disciplina, trabalho e amigos. Aos 75 anos vejo que dessas três coisas, ainda restam alguns amigos. Amizades são decorrentes do trabalho. Quem nada faz não merece ter amigos. Assim, com eles convivo, na certeza de ter feito o que deveria ser feito. E valeu o esforço. Saindo do fundo da grota, aos trancos e barrancos fui daqui e ali e aportei em Rondônia. Aqui constituí família e fiz amigos. Aqui participei da construção de um Estado e cidades. A densa floresta transformou-se em terra de riquezas e bom ambiente para viver.
 
-Sobe tudo isso digo alguma coisa. Não se trata de uma biografia, mas de temas espaços que acabam por revelar momentos do passado.
+Sobre tudo isso digo alguma coisa. Não se trata de uma biografia, mas de temas esparsos que acabam por revelar momentos do passado.
 
 De início denominei esta obra de Passa Tempo, mas depois percebendo que se trata de uma mistureba, denominei EITA LASQUEIRA. Usa-se essa expressão quando acontece alguma coisa inesperada, que causa espanto e é hilária.
 
 Assim está prefaciado ou queriam que eu falasse de coisas que possa comprometer meu passado?
 
-## PUBLICO OU NÃO PUBLIC0
+## PUBLICO OU NÃO PUBLICO
 
 Vivo a escrevinhar coisas. Um montão, que até dá para publicar um livro. A
 
@@ -26,13 +26,13 @@ questão é publicar pra que? - Seria uma temeridade fazer uma publicação na e
 
 Bancar os custos e fazer distribuição gratuita seria uma boa opção. Presentear os amigos e vê-los recebendo-o com ares de paisagem. – Você que escreveu? - Sim eu mesmo. – Interessante. E, vai o livro para a estante.
 
-Ha uma pesquisa que diz que o brasileiro lê cerca de quatro livros por ano, enquanto o canadense lê cerca de 12. Acredito que esses dados não são do IBGE. Até memo porque no último senso ninguém me perguntou sobre isso.
+Há uma pesquisa que diz que o brasileiro lê cerca de quatro livros por ano, enquanto o canadense lê cerca de 12. Acredito que esses dados não são do IBGE. Até mesmo porque no último censo ninguém me perguntou sobre isso.
 
 Mas eu tenho um sonho. “I Have a Dream”.
 
 A dúvida “Shakespeareana” permanece insolúvel. Desta feita, tudo é uma questão de coragem. “Alea jacta est”. O bom de tudo isso é que existem editoras que se propõe a publicar, assumindo os encargos de organização como: Folha de Rosto, competindo ao autor evidentemente o prefácio a dedicatória, agradecimentos, e os elementos textuais, restando combinar a Capa e o preço.
 
-É questão de coragem ou de atrevimento. Para decidir sobre a tiragem consultei Osvaldo Montenegro e, fiz a lista de amigos de dez anos atras. Lamento, mas a editora não fará uma grande tiragem.
+É questão de coragem ou de atrevimento. Para decidir sobre a tiragem consultei Osvaldo Montenegro e, fiz a lista de amigos de dez anos atrás. Lamento, mas a editora não fará uma grande tiragem.
 
 Caso o amigo e bom camarada leitor, tenha lido esta parte, recomendo ler tudo o que mais consta dos autos e assim poder fazer um arrazoado e tecer comentários e dar aquele LAIKE que nos enche de satisfação.
 
@@ -40,13 +40,13 @@ Agora se uns míseros cruzeiros lhe fazem falta a ponto de regatear o preço ou 
 
 ##  DEDICATÓRIA.
 
-Dedico a quem escreveu, portanto mim mesmo. Outra pessoa não merece tamanha desfaçatez. Não que a presente seja um impropério, porem ninguém mais que eu dispensaria horas e horas rabiscando, apagando e rescrevendo até que ficasse do meu gosto. Outros poderão gostar, coisa que duvido.
+Dedico a quem escreveu, portanto mim mesmo. Outra pessoa não merece tamanha desfaçatez. Não que a presente seja um impropério, porém ninguém mais que eu dispensaria horas e horas rabiscando, apagando e reescrevendo até que ficasse do meu gosto. Outros poderão gostar, coisa que duvido.
 
 Prefiro não correr o risco de dedicar o presente cartapácio a alguém e depois saber que sequer leu. Já não se faz mais leitores como antigamente. Leitor voraz daqueles que começavam logo após o jantar e só largavam na madrugada. Também pudera, as mensagens de whatsapp ou de outras mídias são muito mais interessantes. “oi amigo, não visualizei porque estava lendo um livro...kkk”. É ruim!?
 
 Só por isso não me atrevo fazer uma dedicação.
 
-Caso leiam, dediquem seu tempo a este que, além do tempo, perdeu dinheiro. “Taime is Money” - Não perdi meu tempo, talvez algum dinheiro. Quem faz de graça? Revisão diagramação e impressão? Talvez a IA.
+Caso leiam, dediquem seu tempo a este que, além do tempo, perdeu dinheiro. “Time is Money” - Não perdi meu tempo, talvez algum dinheiro. Quem faz de graça? Revisão diagramação e impressão? Talvez a IA.
 
 Quando eu partir, não lhes deixarei dinheiro, apenas estes rabiscos. Então dirão: Tão gente fina que era. Que Deus o tenha. Haja paciência. Cá comigo, eu mereço. Antes que eu esqueça. Vão se lascar!
 

@@ -16,15 +16,15 @@ Rondônia
 >
 > Em março de 1981, parti de Curitiba com uma mala e alguns pacotes. De um só lance, a Viação Andorinha, partindo de Maringá, atravessou o cerrado mato-grossense. Uma viagem um tanto monótona. Por vezes a paisagem era quebrada pela presença de seriemas, casebres, barracas de lona e tratores que já começavam a rasgar o cerrado.
 >
-> Foram 24 horas de viagem até Cuiabá. Descendo do ônibus e procurando me localizar, vislumbrei um anúncio: PASSAGENS PARA CACOAL. Que bom! Está fácil. — Moço, uma passagem para Cacoal. — Terás que aguardar até que o ônibus que vem de lá . — E quanto tempo devo aguardar? — Bem, faz quinze dias que ele não chega. — Então não tem ônibus!? — Tem sim, é só não ter pressa.
+> Foram 24 horas de viagem até Cuiabá. Descendo do ônibus e procurando me localizar, vislumbrei um anúncio: PASSAGENS PARA CACOAL. Que bom! Está fácil. — Moço, uma passagem para Cacoal. — Terás que aguardar até que o ônibus que vem de lá chegue. — E quanto tempo devo aguardar? — Bem, faz quinze dias que ele não chega. — Então não tem ônibus!? — Tem sim, é só não ter pressa.
 >
 > Foi uma ducha de água fria despejada em meu corpo suado, cansado e empoeirado. Ali era uma outra realidade. Tinha ônibus, mas, ao mesmo tempo, não tinha.
 >
 > O VOO DA TABA
 
-Era o dia 22 dede março de 1981 e esse dia ficou gravado na minha memória. Dois motores roncando feito bicho brabo. Eu estava ali, ajeitado com os ossos tremendos visto que não tinha mais volta.
+Era o dia 22 de março de 1981 e esse dia ficou gravado na minha memória. Dois motores roncando feito bicho brabo. Eu estava ali, ajeitado com os ossos tremendo, visto que não tinha mais volta.
 
-> Quando aquela máquina valente descolou as rodas do chão e o nariz apontou para as nuvens, espiei pela janelinha e vi Cuiabá ficando pequenininha lá embaixo
+> Quando aquela máquina valente descolou as rodas do chão e o nariz apontou para as nuvens, espiei pela janelinha e vi Cuiabá ficando pequenininha lá embaixo.
 >
 > Era o fim de um capítulo de vários anos na capital paranaense e o começo de uma empreitada que ia definir o resto da minha vida.
 >
@@ -32,21 +32,21 @@ Era o dia 22 dede março de 1981 e esse dia ficou gravado na minha memória. Doi
 >
 > Eu tinha botado na cabeça que a advocacia e a vida seriam em Cacoal, a "Capital do Café" que atraía paranaenses e gaúchos. Ali seria o meu destino.
 >
-> Mas, chegar lá não era pra qualquer um. A BR-364, que o pessoal chamava de estrada era na verdade, um corredor de lama.
+> Mas chegar lá não era pra qualquer um. A BR-364, que o pessoal chamava de estrada era, na verdade, um corredor de lama.
 >
-> Era mês março! Época do "inverno amazônico", tempo das águas. A rodovia de Cuiabá a Porto Velho ainda não tinha visto um pingo de asfalto, o que transformava o caminho num atoleiro medonho. Quem se aventurava por terra corria o risco de ficar semanas encalhado, comendo poeira quando secava e amassando barro quando chovia.
+> Era mês de março! Época do "inverno amazônico", tempo das águas. A rodovia de Cuiabá a Porto Velho ainda não tinha visto um pingo de asfalto, o que transformava o caminho num atoleiro medonho. Quem se aventurava por terra corria o risco de ficar semanas encalhado, comendo poeira quando secava e amassando barro quando chovia.
 >
 > A solução era cruzar os ares. A TABA — Transportes Aéreos da Bacia Amazônica. Era a solução para quem queria chegar em Rondônia.
 >
 > <img src="/eita-lasqueira/media/image26.jpeg" alt="Imagem de um avião antigo com a inscrição TABA." width="1280" height="853" style="width: 504.36px; max-width: 100%;" loading="lazy" decoding="async" />
 >
-> Todos os passageiros acomodados em assentos espremidos entre malas, caixotes e bugigangas. Até gaiola com um filhote de cão de caça e outros bichos. O avião partiu as 14:30 horas. O tempo estava bom.
+> Todos os passageiros acomodados em assentos espremidos entre malas, caixotes e bugigangas. Até gaiola com um filhote de cão de caça e outros bichos. O avião partiu às 14h30. O tempo estava bom.
 >
 > Da janelinha dava para contemplar o infinito da floresta e por vezes sumíamos entre as nuvens encasteladas. Por volta das cinco da tarde a nave aterrissou na cidade de Pimenta Bueno. A pista era um lamaçal ladeado pela floresta.
 >
 > Era o transporte ideal pra uma terra bruta que ainda estava sendo domada no machado, na unha e no facão.
 >
-> O barulho ensurdecedor dos motores não deixava muita margem pra prosa, então a cabeça viajava mais rápido que o avião. Olhava as nuvens e o que eu deixava pra trás e imaginava o que me esperava no meio daquela imensidão verde. Era uma mistura de medo com uma esperança teimosa, uma vontade de fazer a vida valer a pena, na forma que só o imigrante conhece.
+> O barulho ensurdecedor dos motores não deixava muita margem pra prosa, então a cabeça viajava mais rápido que o avião. Olhava as nuvens e o que eu deixava pra trás e imaginava o que me esperava no meio daquela imensidão verde. Era uma mistura de medo com uma esperança teimosa, uma vontade de fazer a vida valer a pena, da forma que só o imigrante conhece.
 >
 > Por volta das cinco da tarde a nave aterrissou na cidade de Pimenta Bueno. A pista era um lamaçal ladeado pela floresta.
 >
@@ -84,11 +84,11 @@ Era o dia 22 dede março de 1981 e esse dia ficou gravado na minha memória. Doi
 >
 > Foi um ano de conhecimento e resiliência. Era necessário acreditar. Integrar para não entregar.
 >
-> Rondônia é o resultado da luta de um povo, chamado que foi pelo Brasil para ocupar e transformar a selva em ambiente de produção e cultura. Sua história é vasta. vai do Forte Príncipe da Beira (1770), passa pela Ferrovia Madeira-Mamoré (1900), pela Linha Telegráfica do Marechal Rondon (1910) e pelos Soldados da Borracha.
+> Rondônia é o resultado da luta de um povo, chamado que foi pelo Brasil para ocupar e transformar a selva em ambiente de produção e cultura. Sua história é vasta. Vai do Forte Príncipe da Beira (1770), passa pela Ferrovia Madeira-Mamoré (1900), pela Linha Telegráfica do Marechal Rondon (1910) e pelos Soldados da Borracha.
 >
 > Getúlio Vargas criou o Território Federal do Guaporé em 1943, e Juscelino abriu a estrada Cuiabá-Porto Velho em 1959. Tudo foi feito com suor e lágrimas.
 >
-> A mata inóspita, transformou-se em terra produtiva. O migrante não foi chamado para fazer agricultura sintrópica. Foi necessário o uso do fogo para a retirada da mata. Entre erros e acertos, foi construído um ambiente de paz e prosperidade. Um esforço hercúleo, por vezes minimizado por visões externas, mas que resultou na conquista de um espaço para plantar, colher e bem viver.
+> A mata inóspita transformou-se em terra produtiva. O migrante não foi chamado para fazer agricultura sintrópica. Foi necessário o uso do fogo para a retirada da mata. Entre erros e acertos, foi construído um ambiente de paz e prosperidade. Um esforço hercúleo, por vezes minimizado por visões externas, mas que resultou na conquista de um espaço para plantar, colher e bem viver.
 >
 > Em trinta anos, uma população de cerca de trezentos mil subiu para mais de dois milhões. Aqui o Brasil se alargou e se irmanou. Floresceu um Estado com a segunda melhor distribuição de renda e o melhor índice de transparência do Brasil.
 >
@@ -104,15 +104,15 @@ Saco nas costas, espingarda a tiracolo e foice na mão. Essa é a expressão que
 
 <img src="/eita-lasqueira/media/image28.jpeg" alt="Ilustração de uma família diante de casas de madeira." width="512" height="279" style="width: 483.53px; max-width: 100%;" loading="lazy" decoding="async" />
 
-Milhares de pessoas abriam clareiras na mata, alojando suas famílias em barracos e davam início às lavouras de arroz, feijão, café e pastagens. Esses heróis anônimos se embrenhavam na floresta em grupos de até dez ou mais pessoas carregando ferramentas, utensílios de primeira necessidade, Foice, fação, espingarda e cartuchos carregados. Na mochila: sal, açúcar, café e farinha para os dias na mata. Ganharam o apelido de cacaieiros, porque na verdade o que carregavam eram cacos, como panela velha, rede para dormir, sal, açúcar, café e farinha, e até cachaça da boa.
+Milhares de pessoas abriam clareiras na mata, alojavam suas famílias em barracos e davam início às lavouras de arroz, feijão, café e pastagens. Esses heróis anônimos se embrenhavam na floresta em grupos de até dez ou mais pessoas carregando ferramentas, utensílios de primeira necessidade: foice, facão, espingarda e cartuchos carregados. Na mochila: sal, açúcar, café e farinha para os dias na mata. Ganharam o apelido de cacaieiros, porque na verdade o que carregavam eram cacos, como panela velha, rede para dormir, sal, açúcar, café e farinha, e até cachaça da boa.
 
 Metendo a cara.
 
-O Advogado a quem fui apresentado, Dr. Francisco Rufino, mostrou-se muito camarada e solidário. De pronto convidou-me para ir até seu escritório. Lá expôs sua vida: — Tenho o escritório, todavia me ocupo com outros negócios como corretor de imóveis, compra e venda de veículos. Até mesmo porque esta cidade não tem fórum, não tem Juiz, apenas um delegado de polícia que vira e mexe dá voz de prisão sem mesmo haver flagrante delito. E os pobres cidadãos não têm dinheiro sequer para comer, que dirá para pagar advogado. A comarca fica distante cem quilômetros, mas também não tem juiz. É bom lembrar que aqui é território e as coisas são bem complicadas. - Fique aqui e tome conta do escritório, faça de conta que é seu. Tão rápido quanto chegou, saiu para as suas lides.
+O advogado a quem fui apresentado, Dr. Francisco Rufino, mostrou-se muito camarada e solidário. De pronto convidou-me para ir até seu escritório. Lá expôs sua vida: — Tenho o escritório, todavia me ocupo com outros negócios como corretor de imóveis, compra e venda de veículos. Até mesmo porque esta cidade não tem fórum, não tem juiz, apenas um delegado de polícia que vira e mexe dá voz de prisão sem mesmo haver flagrante delito. E os pobres cidadãos não têm dinheiro sequer para comer, que dirá para pagar advogado. A comarca fica distante cem quilômetros, mas também não tem juiz. É bom lembrar que aqui é território e as coisas são bem complicadas. - Fique aqui e tome conta do escritório, faça de conta que é seu. Tão rápido quanto chegou, saiu para as suas lides.
 
 Que bom. Mal cheguei e já tinha um lugar pra trabalhar. O problema estava em ganhar um dinheiro para almoçar, porque os últimos trocados foram gastos para pagar o pernoite no hotel.
 
-Faltava pouco para as oito horas. Não demorou e chegou a secretária, que estranhou a minha presença. Era uma mocinha franzina, quase esquálida, que deixava transparecer sua origem humilde e carente. Passado algum tempo chegou alguém para que fosse lavrado um contrato. Ela de pronto pôs-se a datilografar e ao final cobrou algum valor que guardou para si. Logo mais outro. Percebi então que ali estava minha salvação. Fiquei na porta e quando chegou alguém procurando pelo advogado. Apresentei-me e convidei-o para entrar no gabinete: — Pois não, meu senhor, em que posso ajudá-lo? — É pouca coisa, doutor, apenas um contrato de venda e compra de um terreno. Desta sorte ficou garantido o almoço e a janta.
+Faltava pouco para as oito horas. Não demorou e chegou a secretária, que estranhou a minha presença. Era uma mocinha franzina, quase esquálida, que deixava transparecer sua origem humilde e carente. Passado algum tempo chegou alguém para que fosse lavrado um contrato. Ela de pronto pôs-se a datilografar e ao final cobrou algum valor que guardou para si. Logo mais outro. Percebi então que ali estava minha salvação. Fiquei na porta e quando chegou alguém procurando pelo advogado, apresentei-me e convidei-o para entrar no gabinete: — Pois não, meu senhor, em que posso ajudá-lo? — É pouca coisa, doutor, apenas um contrato de venda e compra de um terreno. Desta sorte ficou garantido o almoço e a janta.
 
 No mesmo dia arrumei lugar para dormir. Um pequeno quarto nos fundos do escritório. Por cinco meses permaneci naquele escritório, onde tive a oportunidade de conhecer a sede da comarca e atender alguns casos na delegacia. Foi quando fui convidado para trabalhar com outro advogado.
 
@@ -148,7 +148,7 @@ Não havia televisão, ou com quem trocar ideias a não ser as questiúnculas da
 
 Advocacia Pioneira.
 
-A memória é igual caminhos de chão batido. As vezes a poeira baixa, a brisa sopra mansa e a gente enxerga longe. O olhar atravessa os anos e alcança o passado, justo naquela época em que as coisas ainda estavam se formando no suor, e na força bruta.
+A memória é igual caminhos de chão batido. Às vezes a poeira baixa, a brisa sopra mansa e a gente enxerga longe. O olhar atravessa os anos e alcança o passado, justo naquela época em que as coisas ainda estavam se formando no suor, e na força bruta.
 
 Quero puxar aqui um causo, desatar esse nó da garganta e contar de quando Rondônia ainda era literalmente mata virgem. Falamos hoje do Estado de Rondônia com toda a pompa e circunstância. Mas quem é daquela época; gente que amassou o barro, sabe muito bem como era o tranco.
 
@@ -162,7 +162,7 @@ Pelos idos de 1974, pra ser exato no dia 18 de fevereiro, fincaram os pilares da
 
 Gente do quilate do Dr. Fouad Darwich Zacharias e do colega Francisco Arquelau de Paula — o dono da carteira número 01, veja só! botou o peito na frente, empunhou a bandeira e foi organizar a classe lá em Porto Velho.
 
-Com todo respeito aos companheiros, nos anos oitenta, a prosa já tinha uns contornos mais arrumados, um cheiro de tribunal e e gabinetes bem instalados.
+Com todo respeito aos companheiros, nos anos oitenta, a prosa já tinha uns contornos mais arrumados, um cheiro de tribunal e gabinetes bem instalados.
 
 Mas, para quem era do interior, ou da zona da mata, o causo era bem outro. A justiça chegava no lombo do jegue.
 
@@ -170,13 +170,13 @@ Eu, na condição de primeiro advogado de Rolim de Moura, cheguei justo quando a
 
 A emancipação da cidade, só veio em agosto de 1983.
 
-No meio daquela muvuca de gente chegando, abrindo picadas construindo na floresta ranchos de pau a pique e gente disputando cada palmo de terra com unhas e dentes.
+No meio daquela muvuca de gente chegando, abrindo picadas, construindo na floresta ranchos de pau a pique e gente disputando cada palmo de terra com unhas e dentes.
 
 No meio do tiroteio, muitas vezes de verdade, estava eu, o primeiro advogado da vila.
 
-No tempo da seca, a poeira que não tinha fim, ofuscava os pensamentos e deixava a garganta seca. Mas quando chegavam as águas, a poeira virava lama e atoleiros que engolia jipe e até burro destreinado.
+No tempo da seca, a poeira que não tinha fim, ofuscava os pensamentos e deixava a garganta seca. Mas quando chegavam as águas, a poeira virava lama e atoleiros que engoliam jipe e até burro destreinado.
 
-A sede da comarca era longe, não tinha luz elétrica, não tinha telefone, muito menos asfalto. Advogar nessas condições não era ficar despachando em gabinete com ar-condicionado e secretária servindo café. Era mediação de conflito elementares, era o migrante de mãos calejadas brigando pela e terra pra garantir o sustento da família.
+A sede da comarca era longe, não tinha luz elétrica, não tinha telefone, muito menos asfalto. Advogar nessas condições não era ficar despachando em gabinete com ar-condicionado e secretária servindo café. Era mediação de conflitos elementares, era o migrante de mãos calejadas brigando pela terra pra garantir o sustento da família.
 
 A lei, a gente levava na garupa. Era o código embaixo do braço e a coragem no peito.
 
@@ -186,25 +186,25 @@ Mas no fim, a satisfação de ver uma cidade inteira nascer do chão, pujante e 
 
 Foram tempos brutos, de uma resiliência quase heroica que a gente nem sabia que tinha.
 
-A saudade bate, vez por outra, lembrando daqueles dias de poeira e barro. Mas o orgulho de ter sido parte desse começo, nos conforta. Tudo isso Fica guardado na memória, pra gente contar pros netos e pra quem mais quiser prosear.
+A saudade bate, vez por outra, lembrando daqueles dias de poeira e barro. Mas o orgulho de ter sido parte desse começo, nos conforta. Tudo isso fica guardado na memória, pra gente contar pros netos e pra quem mais quiser prosear.
 
-O PRIMEIRO JURI
+O PRIMEIRO JÚRI
 
 Município criado, instalado, prefeito eleito e empossado. Por decisão do Tribunal foi criada a Comarca. Fez-se a instalação, por um ilustre e desconhecido desembargador, porém não foi designado juiz. Dada a competência territorial, centenas de processos vieram para a nova comarca. Por certo, houve um desafogo no escaninho do escrivão da comarca de origem.
 
 Não há mal que sempre dure nem bem que sempre ature. Depois de meses de expectativa chegou o juiz. Juntamente com ele o Promotor de Justiça e auxiliares. Os poucos causídicos logo abarrotaram os escaninhos com novas demandas ao tempo em que o Delegado de Polícia diariamente encaminhava novos inquéritos por fatos e ocorrências policialescas.
 
-\- Não demorou e é Juiz emitiu sentença de pronuncia. Sorteou o corpo de jurados e designou data para o julgamento. Foi o primeiro júri, da comarca. Também o primeiro do Juiz, do promotor, dos auxiliares e do advogado de defesa. Todos primários, inclusive o Réu. O salão do júri, um barracão pau-a-pique onde rotineiramente a sociedade se reunia ao som de uma sanfona, um pandeiro e um violão para bailes e arrasta-pés. Quem diria que aquele salão serviria de palco para u ato tão solene. - Debates acalorados entre a acusação e defesa. Ao final o védico. Houve o reconhecimento de legítima defesa com excesso culposo. (excesso culposo: é o exagero decorrente da falta de dever de cuidado objetivo ao repelir a agressão). Se presente o excesso, o agente responde pelo resultado a título de culpa.
+\- Não demorou e o juiz emitiu sentença de pronúncia. Sorteou o corpo de jurados e designou data para o julgamento. Foi o primeiro júri da comarca. Também o primeiro do Juiz, do promotor, dos auxiliares e do advogado de defesa. Todos primários, inclusive o Réu. O salão do júri, um barracão pau-a-pique onde rotineiramente a sociedade se reunia ao som de uma sanfona, um pandeiro e um violão para bailes e arrasta-pés. Quem diria que aquele salão serviria de palco para um ato tão solene. - Debates acalorados entre a acusação e defesa. Ao final, o veredicto. Houve o reconhecimento de legítima defesa com excesso culposo. (excesso culposo: é o exagero decorrente da falta de dever de cuidado objetivo ao repelir a agressão). Se presente o excesso, o agente responde pelo resultado a título de culpa.
 
-O Réu saiu em Liberdade. Primário de bons antecedentes. Um alívio geral. Não havia presidio para segregar o réu, coso a pena fosse privativa de liberdade. - O fato: A vítima foi atingida por um tiro de espingarda de caça, após supostamente ter ameaçado o réu com uma faca. A vítima tinha fama de matador, embora dos autos apenas contava fotocopia de sua cédula de identidade, sabendo-se por ouvir dizer que era procedente do Mato Grosso.
+O Réu saiu em Liberdade. Primário de bons antecedentes. Um alívio geral. Não havia presídio para segregar o réu, caso a pena fosse privativa de liberdade. - O fato: A vítima foi atingida por um tiro de espingarda de caça, após supostamente ter ameaçado o réu com uma faca. A vítima tinha fama de matador, embora dos autos apenas contava fotocópia de sua cédula de identidade, sabendo-se por ouvir dizer que era procedente do Mato Grosso.
 
-O Réu temendo pela sua própria vida, utilizando-se do único instrumento que possuía, puxou o gatilho e sem a intenção de matar, atingiu a vítima pelas costas, momento em que esta tropeçou em um cipó e caiu e decúbito ventral permaneceu. Tudo conforme laudo circunstanciado lavrado pelo policial que resgatou o corpo à beira de um rio em mata fechada, diga-se de passagem, floresta amazônica. O réu andou vários quilômetros por trilhas sinuosas a fim de comunicar o fato a autoridade policial.
+O Réu temendo pela sua própria vida, utilizando-se do único instrumento que possuía, puxou o gatilho e sem a intenção de matar, atingiu a vítima pelas costas, momento em que esta tropeçou em um cipó e caiu e permaneceu em decúbito ventral. Tudo conforme laudo circunstanciado lavrado pelo policial que resgatou o corpo à beira de um rio em mata fechada, diga-se de passagem, floresta amazônica. O réu andou vários quilômetros por trilhas sinuosas a fim de comunicar o fato à autoridade policial.
 
 Onde estaria o elemento culposo que justificasse a condenação? Talvez excesso de pólvora. Culpa da vítima, que não se ateve ao risco de ter sua trajetória interrompida por um cipó que adrede se encontrava na picada. Ou teria o réu agido motivado pelo medo? - Pior que um erro a ser corrigido por eventual recurso, seria o trabalho inútil de um novo júri.
 
-Conclusão: o corpo de jurado não condenou, nem absolveu. <img src="/eita-lasqueira/media/image31.jpeg" alt="Ilustração de uma reunião em uma sala com mesa central." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+Conclusão: o corpo de jurados não condenou, nem absolveu. <img src="/eita-lasqueira/media/image31.jpeg" alt="Ilustração de uma reunião em uma sala com mesa central." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
 
-Primeiro júri da Comarca da cidade de Rolim de Moura. A centro Juiz Sergio Nogueira de Lima e esposa. A Esquerda o promotor Jaime Ferreira e esposa ao centro em pé, o advogado de defesa Adi Baldo e esposa. Outros: serventuários da justiça. Rubens, Sergio, Manoel, Ieda e Zezinho além do escrivão Sergio Luz Bravo.
+Primeiro júri da Comarca da cidade de Rolim de Moura. Ao centro, o juiz Sérgio Nogueira de Lima e esposa. À esquerda, o promotor Jaime Ferreira e esposa ao centro em pé, o advogado de defesa Adi Baldo e esposa. Outros: serventuários da justiça. Rubens, Sergio, Manoel, Ieda e Zezinho além do escrivão Sergio Luz Bravo.
 
 Rondônia de Verdade
 
@@ -212,7 +212,7 @@ Quando se diz de uma terra que se banha nas águas dos Rios Guaporé e Madeira, 
 
 Quando se diz de um nobre denominado Don Antônio Tavares de Rolim de Moura, Conde Azambuja, que navegou pelo Estuário do Prata, Rio Paraguai, transpondo o divisor de águas em plena selva, e navegou pelo Rio Guaporé demarcando limites com os espanhóis e que, por ordem real, erigiu a cidade de Vila Bela da Santíssima Trindade e os flancos do Forte Príncipe da Beira, a maior fortificação portuguesa.
 
-Quando se diz de um marechal que, ombreado com seus bravos, construiu a Linha Telegráfica Cuiabá a Porto Velho, rasgando a floresta, em harmonia com os índios Parecis, Nambiquaras, Suiruís e Cinta Larga, e outras etnias, estabelecendo a comunicação entre os extremos do Brasil;
+Quando se diz de um marechal que, ombreado com seus bravos, construiu a Linha Telegráfica Cuiabá a Porto Velho, rasgando a floresta, em harmonia com os índios Parecis, Nambiquaras, Suruís e Cinta Larga, e outras etnias, estabelecendo a comunicação entre os extremos do Brasil;
 
 Quando se diz de uma Ferrovia que transplantou as cachoeiras e correntezas do Rio Madeira para consolidar a paz com a Bolívia;
 
@@ -236,17 +236,17 @@ Nós, os bandeirantes de Rondônia \> Nos orgulhamos de tanta beleza \> \>
 
 Suor e lágrimas.
 
-O Território Federal de Rondônia foi elevado a Estado em janeiro de 1982. Sua história vai da do Forte Príncipe da Beira, (1770), Ferrovia Madeira Mamoré,1900, Linha Telegráfica, do Marechal Candido Rondon, 1910. Seringueiros e Soldados da Borracha. Getúlio Vargas com a criação do Território Federal do Guaporé, 1943, Abertura da Estrada Cuiabá Porto Velho por Juscelino. 1959. Assentamento agrário a partir de 1972 pelo INCRA e muito mais. De mata inóspita, transformou-se em terra produtiva. Tudo feito, com suor e lágrimas.
+O Território Federal de Rondônia foi elevado a Estado em janeiro de 1982. Sua história vai do Forte Príncipe da Beira, (1770), Ferrovia Madeira Mamoré,1900, Linha Telegráfica, do Marechal Cândido Rondon, 1910. Seringueiros e Soldados da Borracha. Getúlio Vargas com a criação do Território Federal do Guaporé, 1943, Abertura da Estrada Cuiabá Porto Velho por Juscelino. 1959. Assentamento agrário a partir de 1972 pelo INCRA e muito mais. De mata inóspita, transformou-se em terra produtiva. Tudo feito, com suor e lágrimas.
 
-Exploração de madeira e minérios. Milhões de metros cúbicos de madeiras foram exportados para a para o mundo, principalmente o mogno. Nosso legado é a conquista de um espaço para plantar, colher e bem viver. Um espaço para nossos filhos e quem mais vier.
+Exploração de madeira e minérios. Milhões de metros cúbicos de madeiras foram exportados para o mundo, principalmente o mogno. Nosso legado é a conquista de um espaço para plantar, colher e bem viver. Um espaço para nossos filhos e quem mais vier.
 
-Talvez no contesto geral amazônico, Rondônia seja a parte mais privilegiada. Terras férteis, água em abundância, relevo favorável. O migrante não foi chamado para fazer agricultura sintrópica. Foi necessário o uso do fogo para a retirada da mata. Entre erros e acertos, foi construído um ambiente de paz e prosperidade. Foi um esforço hercúleo, e, por vezes minimizado por ecologistas radicais ao pretexto de preservação do meio ambiente.
+Talvez no contexto geral amazônico, Rondônia seja a parte mais privilegiada. Terras férteis, água em abundância, relevo favorável. O migrante não foi chamado para fazer agricultura sintrópica. Foi necessário o uso do fogo para a retirada da mata. Entre erros e acertos, foi construído um ambiente de paz e prosperidade. Foi um esforço hercúleo, e, por vezes minimizado por ecologistas radicais ao pretexto de preservação do meio ambiente.
 
-Em trinta anos uma população de cerca trezentos mil, subiu para mais dois milhões. Havia um povo já sufocado no sul, sudeste e nordeste. Aqui o Brasil se alargou, se irmanou formando uma sociedade ímpar que se orgulha de ser partícipe de uma epopeia.
+Em trinta anos uma população de cerca de trezentos mil, subiu para mais de dois milhões. Havia um povo já sufocado no sul, sudeste e nordeste. Aqui o Brasil se alargou, se irmanou formando uma sociedade ímpar que se orgulha de ser partícipe de uma epopeia.
 
-Cidades surgiram. Áreas indígenas, quilombolas e reservas florestais foram demarcadas sem grandes conflitos. Floresceu um Estado com menor incidência de pobreza entre os Estados das regiões Norte e Nordeste, com segunda melhor distribuição de renda e o melhor índice de transparência de todos os Estados do Brasil. Destaca-se a produção pecuária com mais de 12 milhões de cabeças. Desenvolvimento da psicultura com espécies nativas e o aprimoramento da cafeicultura orgânica já com várias premiações. E agora, tem início a agricultura extensiva e com alta tecnologia.
+Cidades surgiram. Áreas indígenas, quilombolas e reservas florestais foram demarcadas sem grandes conflitos. Floresceu um Estado com menor incidência de pobreza entre os Estados das regiões Norte e Nordeste, com segunda melhor distribuição de renda e o melhor índice de transparência de todos os Estados do Brasil. Destaca-se a produção pecuária com mais de 12 milhões de cabeças. Desenvolvimento da piscicultura com espécies nativas e o aprimoramento da cafeicultura orgânica já com várias premiações. E agora, tem início a agricultura extensiva e com alta tecnologia.
 
-Rondônia é o resultado da luta de um povo, chamado que foi pelo Brasil para ocupar e transformar a selva em ambiente de produção e cultura. Em fim Integrar para não entregar. E assim fizemos.
+Rondônia é o resultado da luta de um povo, chamado que foi pelo Brasil para ocupar e transformar a selva em ambiente de produção e cultura. Enfim, integrar para não entregar. E assim fizemos.
 
 E “Nós, os bandeirantes de Rondônia nos orgulhamos de tanta beleza. - Somos brasileiros desta fronteira de nossa Pátria. - Rondônia trabalha febrilmente - Nas oficinas e nas escolas. - A orquestração empolga toda gente”.
 
@@ -350,9 +350,9 @@ Alguns Presidentes.
 >
 > \- Grandes novidades, diria alguém com desdém. Isso já aconteceu antes e desde o começo. A panela sempre esteve fervendo. O problema é que quem está de fora só percebe quando alguém levanta a tampa ou o caldo entorna.
 >
-> Presidentes com perfil fora da curva houveram vários. Desde que me conheço por gente, o Brasil é assim. Cheio de altos e baixos.
+> Presidentes com perfil fora da curva houve vários. Desde que me conheço por gente, o Brasil é assim. Cheio de altos e baixos.
 >
-> Getulio Vargas governou por 15 anos e depois deu um impulso, teve que largar a rapadura, mas depois voltou e se suicidou para não se estraçalhado.
+> Getúlio Vargas governou por 15 anos e depois deu um impulso, teve que largar a rapadura, mas depois voltou e se suicidou para não ser estraçalhado.
 >
 > Juscelino fez o Brasil explodir em crescimento. Construiu Brasília e iniciou a interiorização do Brasil com a abertura de estradas como Belém-Brasília e Cuiabá-Porto Velho. Asfaltou a BR 116, incentivou a industrialização, porém a dívida que já era grande se transformou em um valor meramente contábil.
 >
@@ -372,11 +372,11 @@ Os Anos de Chumbo
 
 > Em 1964 vieram os militares. Digamos que fizeram um planejamento estratégico, porém, para manutenção da ordem foi decretado a suspensão dos direitos políticos. Caça a guerrilheiros e opositores do governo. Foi um esparramo. Mortes e exílio. O direcionamento da imprensa e a Copa do Mundo abafaram muita coisa.
 >
-> Lembrar que no subsolo da política havia um cérebro pensante: Golbery do Couto e Silva. Seu nome e sua história ainda hão que ser contada. Por hora não passa dum vilão, chefe do SNI, ou "Ministério do Silêncio", como denominado pelo próprio Golbery.
+> Lembrar que no subsolo da política havia um cérebro pensante: Golbery do Couto e Silva. Seu nome e sua história ainda há de ser contada. Por ora não passa dum vilão, chefe do SNI, ou "Ministério do Silêncio", como denominado pelo próprio Golbery.
 >
 > Finalmente, em 1984 o militarismo chegou ao fim. Foi eleito indiretamente pelo Congresso Nacional Tancredo Neves, que morreu antes de tomar posse, vítima de uma diverticulite. Estava bem velhinho, apenas 75 anos.
 >
-> Assumiu o vice, José Sarney. A inflação ficou acima de 80%, além de outras coisas mais, relativas ao seu patrimônio e sua veia poética, notadamente com livro Marimbondos de Fogo. Dizem que o título deveria ser “Marimbondos do Roubo." Foi até admitido na Academia Brasileira de Letras.
+> Assumiu o vice, José Sarney. A inflação ficou acima de 80%, além de outras coisas mais, relativas ao seu patrimônio e sua veia poética, notadamente com o livro Marimbondos de Fogo. Dizem que o título deveria ser “Marimbondos do Roubo." Foi até admitido na Academia Brasileira de Letras.
 >
 > Em 1988, nova Constituição. A Constituição Cidadã, que graças às permissões de emendas, logo, logo apareceram as centenas. Todos com os mesmos direitos, onde ser pobre ou rico é uma mera questão de escolha. Misteriosamente poucas pessoas optaram pela riqueza.
 
@@ -410,6 +410,6 @@ Os Anos de Chumbo
 >
 > Final de 2025. O panorama político é dos piores. Presidente dos EUA sancionando membros do Supremo Tribunal de Justiça por desrespeito aos direitos humanos. De quebra CPI do INSS, COP 30 que foi um fiasco internacional.
 >
-> Conclusão do processo contra os atentados ao Estado Democrático de Direito muitos condenados sem o devido processo legal. Só no Brasil.
+> Com a conclusão do processo contra os atentados ao Estado Democrático de Direito, muitos foram condenados sem o devido processo legal. Só no Brasil.
 >
 > Resta que 2026, se o mundo não acabar, vai ser bem pior. Quem viver verá.

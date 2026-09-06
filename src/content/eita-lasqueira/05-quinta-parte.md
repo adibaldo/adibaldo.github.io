@@ -4,11 +4,11 @@ partLabel: "QUINTA PARTE"
 order: 5
 ---
 
-Causos do gaudério Franquelim da Silva Portela —o homem do pala cinza com orla preta, da mula baia e das histórias que a coxilha guardou por décadas. Um gaudério fora de seu tempo
+Causos do gaudério Franquelim da Silva Portela — o homem do pala cinza com orla preta, da mula baia e das histórias que a coxilha guardou por décadas. Um gaudério fora de seu tempo.
 
 Eu o conheci quando menino, em 1956. Gaúcho, nascido e criado nos campos de Soledade. Já passado dos sessenta, migrou para o Paraná. Como veio não sei — acredito que como tantos outros, pelas trilhas abertas pelos ervateiros e outros migrantes. Comboios de carroças, acampando nas beiras de sangas, sesteando nas sombras das árvores e repontando alguma tropita.
 
-Estalou-se no interior do município de Pato Branco. Um lugar onde quase nada havia, apenas uma serraria e começo de roças. Lembro do dia. Era dia santo, por volta das três da tarde. Mamãe levava um guri no colo e outro na barriga, meio me empurrando, disse: — Peça benção do teu vô. Estendi as mãos juntas e ouvi a resposta: — Deus te abençoe. E foi só. Guri educado não se mete em conversa de gente grande.
+Instalou-se no interior do município de Pato Branco. Um lugar onde quase nada havia, apenas uma serraria e começo de roças. Lembro do dia. Era dia santo, por volta das três da tarde. Mamãe levava um guri no colo e outro na barriga, meio me empurrando, disse: — Peça benção do teu vô. Estendi as mãos juntas e ouvi a resposta: — Deus te abençoe. E foi só. Guri educado não se mete em conversa de gente grande.
 
 Tenho na memória o seu tipo. Alto, cabelo liso e grisalho, bota, chapéu de aba larga. Nem sempre usava bombacha e sim calça de brim bem folgada e uma guaiaca de couro de anta com fivelas de prata. Faca na cintura, sempre no jeito para picar o fumo de corda e aparar a palha. Em casa, um "faisqueiro" dos antigos para acender o pito — combuca de porongo, tocha de algodão que acendia pelo atrito de um pedaço de ferro e uma pedra de quartzo.
 
@@ -20,7 +20,7 @@ Quando o vi pela última vez, eu já tinha dezesseis anos. Foi quando um certo d
 
 Parti pela manhã no cavalo alazão. Atravessei rio e riachos planícies e serras. Era longe, mais de trinta quilômetros. Quando me viu, já chasqueou: — Esse piá tem a cara do pai dele!
 
-A visita era pra saber da sua saúde. Estava doente acamado. Uma cirurgia de próstata mal sucedida. Por vezes conversava, por vezes gemia.
+A visita era pra saber da sua saúde. Estava doente acamado. Uma cirurgia de próstata malsucedida. Por vezes conversava, por vezes gemia.
 
 <img src="/eita-lasqueira/media/image33.png" alt="Ilustração de um ancião deitado em uma cama conversando com um homem sentado." width="1024" height="1280" style="width: 389.65px; max-width: 100%;" loading="lazy" decoding="async" />
 
@@ -30,7 +30,7 @@ Saí com os olhos lacrimando e compreendendo a realidade da vida. Não demorou m
 
 Passados quarenta anos, visitei o túmulo. Um cemitério abandonado com algumas cruzes de madeira corroídas pelo tempo, sendo impossível qualquer identificação. Deixou uma geração e muitos causos.
 
-Já descrevi o tipo do Vovô Franquelim. Do pouco que com ele convivi (1956–1967), na fase de guri, guardei muitas lembranças. Impossível relatar com precisão, assim, valho-me da verve para compor crônicas e causos, o que sem dúvida retratam realidades vividas.
+Já descrevi o tipo do Vovô Franquelim. Do pouco que com ele convivi (1956–1967), na fase de guri, guardei muitas lembranças. Impossível relatar com precisão, assim, valho-me da verve para compor crônicas e causos, os quais, sem dúvida, retratam realidades vividas.
 
 Dos doze irmãos, tive a oportunidade de ver Vovô Franquelim em seus últimos dias. Era um sábado, último dia do ano. Tinha eu dezesseis anos, já na trave dos dezessete. Estava de férias.
 
@@ -40,7 +40,7 @@ Por que eu? Porque naquele momento só poderia ser eu. Encilhei o cavalo alazão
 
 Subi a serra passando pela Vila Belé e depois pelo picadão até a estrada do Verê. Até aí eu conhecia. Havia percorrido essa estrada muitas vezes para ir nos moinhos, montado no burro Macaco, levando milho ou trigo — isso quando eu tinha dez anos. Em Alto Verê, na encruzilhada, segui rumo Maracajá. O cavalo era bom, mas o sol estava de rachar. Por volta do meio-dia cheguei na Boa Esperança.
 
-Sesteei na sombra de um cinamomo ao lado da igrejinha. Desencilhei o cavalo que já estava lavado de suor. O Alazão se espojou na grama e começou a pastar. Sentei sobre os pelegos para comer a merenda que mamãe havia colocado no pessuelo. Pão, queijo e salame. Ao lado da igreija tinha um poço, um balde e uma corda, creio que mais de cinco metros. O balde subiu pingando água fresquinha. Bebi uns goles e o resto dei pro cavalo. Bebeu todinha.
+Sesteei na sombra de um cinamomo ao lado da igrejinha. Desencilhei o cavalo que já estava lavado de suor. O Alazão se espojou na grama e começou a pastar. Sentei sobre os pelegos para comer a merenda que mamãe havia colocado no pessuelo. Pão, queijo e salame. Ao lado da igreja tinha um poço, um balde e uma corda, creio que mais de cinco metros. O balde subiu pingando água fresquinha. Bebi uns goles e o resto dei pro cavalo. Bebeu todinha.
 
 Prossegui a viagem. Faltava ainda um bom trecho. Muita pedra brotando do chão. A marcha era lenta. Os morros estavam ponteados de roças de feijão e milho. Perto das casas, potreiros e encerra de porcos. Galinhas soltas no terreiro. Por vezes alguns guapeias latiam, o que forçava o trote.
 
@@ -52,7 +52,7 @@ Para quem já tinha troteado mais de vinte quilômetros, já estava chegando. Fo
 
 Estendi a capa que estava na garupa e a água escorria pela aba do chapéu. Segui sentindo o zunido do vento e ouvindo o ploc, ploc das patas do cavalo pisando no barro. Foi só um aguaceiro. Logo a chuva parou e o sol voltou a brilhar.
 
-Já beirava as três horas quando cheguei no Destino. Ali, Tio Alaíde tinha uma bodega. Mal chegando, me reconheceu: — É um piá do compadre Vitório, falou pra Tia Maria que estava na cozinha.
+Já beirava as três horas quando cheguei no destino. Ali, Tio Alaíde tinha uma bodega. Mal chegando, me reconheceu: — É um piá do compadre Vitório, falou pra Tia Maria que estava na cozinha.
 
 Informando das coisas, mostrou não estar contente. É que há pouco ele e tio Vitório Farezim tinham chegado de Três Barras, onde tinham ido buscar o vovô.
 
@@ -66,13 +66,13 @@ Após um silêncio, olhando-me com semblante tristonho, falou: — Estou aqui de
 
 'Buenas', todo o causo tem que ter um fim. Encerro dizendo que ali conversei com Vovô e ouvi lembranças e saudades dos filhos espalhados. Pareceu-me que o que ele mais gostaria era vê-los todos reunidos, mesmo que fosse só para tomar umas cuias de chimarrão e comer uma galinha ao revirado.
 
-Saí com os olhos lacrimando e compreendendo a realidade da vid.
+Saí com os olhos lacrimando e compreendendo a realidade da vida.
 
-Era dia primeiro do ano e um domingo. Encilhei o Alazão e me bandei. Apertei o passo. Tinha que levar o "RECADO A GARCIA". Dizer pra mamãe que o Vovô não estava bem. Na subida da Boa Esperança, percebi que o cavalo estava muito suado. Apeei na sombra de um pé de "açoita Cavalo", espalhei os arreios e deitei no pelego. Não deu tempo para nada. O cavalo bufou e espichou o cabo do cabresto, espantado. Olhei ao redor e vi a colônia de formigas correição. Acudi o cavalo, para depois buscar os arreios e os pelegos já impregnados das terríveis formigas. Foi uma luta, mas me virei.
+Era dia primeiro do ano e um domingo. Encilhei o Alazão e me bandei. Apertei o passo. Tinha que levar o "RECADO A GARCIA". Dizer pra mamãe que o Vovô não estava bem. Na subida da Boa Esperança, percebi que o cavalo estava muito suado. Apeei na sombra de um pé de "açoita-cavalo", espalhei os arreios e deitei no pelego. Não deu tempo para nada. O cavalo bufou e espichou o cabo do cabresto, espantado. Olhei ao redor e vi a colônia de formigas-de-correição. Acudi o cavalo, para depois buscar os arreios e os pelegos já impregnados das terríveis formigas. Foi uma luta, mas me virei.
 
 Cheguei na Barra do Marrecas, na casa do mano Ari, exausto, com sede e esfomeado. O mano Darci; aquele que foi gerado no Rio Grande e parido no Paraná em 1956, agora com oito anos — montou o Alazão levando-o para beber na sanga. Comi o requento do meio-dia e saí logo em seguida. Faltavam só dois quilômetros.
 
-Cheguei. Só estava mamãe, os demais tinham ido pra reza. Quando me viu entrando na Porteira, quis saber das notícias. Contei. Entre lágrimas, balbuciou: — Eu sabia.
+Cheguei. Só estava mamãe, os demais tinham ido pra reza. Quando me viu entrando na porteira, quis saber das notícias. Contei. Entre lágrimas, balbuciou: — Eu sabia.
 
 Deitei amuado. Trotar mais de sessenta quilômetros não é serviço pra piá.
 
@@ -96,7 +96,7 @@ Seu Franquelim viu de cara que dava pra aprontar uma das suas. — Que guerra qu
 
 — Mas então desembucha, homem, que o povo tá querendo saber desse troço de avião que passou encordoado!
 
-— Encordoado nada, foi só dois. Um atrás do outro. *“Entonces”* como eu ia contando: tá escrito lá no jornal. O que sucede é o seguinte O Dr. Getúlio vendeu uma vaca de cria para um estancieiro lá do Rio de Janeiro ou das Minas Gerais. E o combinado foi que o estancieiro das Minas vinha buscar a vaca. Foi por causa disso que vieram os aviões, rumo a São Borja.
+— Encordoado nada, foi só dois. Um atrás do outro. *“Entonces”* como eu ia contando: tá escrito lá no jornal. O que sucede é o seguinte: o Dr. Getúlio vendeu uma vaca de cria para um estancieiro lá do Rio de Janeiro ou das Minas Gerais. E o combinado foi que o estancieiro das Minas vinha buscar a vaca. Foi por causa disso que vieram os aviões, rumo a São Borja.
 
 — Parado aí! Isso é patacoada e das grandes! gritou o velho Gaudêncio.
 
@@ -120,7 +120,7 @@ A Caçada de Onça.
 
 A pampa se estendia pelas coxilhas interrompidas apenas pelos capões de mato, como se fossem sentinelas a observar a "gadaria" que crescia ao relento e ao sopro do minuano.
 
-No entre meio, os alarmistas quero-queros e discretas perdizes a ciscar no capinzal à cata de besouros e gafanhotos. Toscos ranchos sustentados por esteios de guajuvira, cercados de taquara e cobertos com folhas de macega. Ao centro do rancho, o fogo de chão. Pendurada por uma corrente, a tradicional panela de ferro onde fervia dia e noite a misturança de carne de queixada e feijão. Era a boia que sustentava o dia a dia dos viventes da lida campeira.
+No entremeio, os alarmistas quero-queros e discretas perdizes a ciscar no capinzal à cata de besouros e gafanhotos. Toscos ranchos sustentados por esteios de guajuvira, cercados de taquara e cobertos com folhas de macega. Ao centro do rancho, o fogo de chão. Pendurada por uma corrente, a tradicional panela de ferro onde fervia dia e noite a misturança de carne de queixada e feijão. Era a boia que sustentava o dia a dia dos viventes da lida campeira.
 
 Sempre há um dia pra ser diferente daqueles que fazem a monotonia das coxilhas. Bibiano viu de longe e não gostou do que viu. O campo amassado e o rastro de sangue que já chamava o moscaredo. O animal fora arrastado e urubus já repousavam na copada das caneleiras. Num estalo, se bandeou para a estância e foi explicando do acontecido.
 
@@ -128,9 +128,9 @@ Gaudêncio, o dono da estância, deu ordem pro capataz reunir a peonada. Mal cla
 
 <img src="/eita-lasqueira/media/image36.jpeg" alt="Ilustração de homens montados em cavalos." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
 
-Naquele alvoroço, se achegou seu Franquelim montando na mula baia, num passo troteado. Sua velha cartucheira na garupa e uma dúzia d cartuchos na guaiaca.
+Naquele alvoroço, se achegou seu Franquelim montando na mula baia, num passo troteado. Sua velha cartucheira na garupa e uma dúzia de cartuchos na guaiaca.
 
-O velho estancieiro gritou: — Por aqui, onça, mão pelada, leão baio e jaguatirica não se cria. Quero essa fera espichada no terreiro. Deus as ordens. Se espalhem pelos capões de mato e me tragam a fera.
+O velho estancieiro gritou: — Por aqui, onça, mão pelada, leão baio e jaguatirica não se cria. Quero essa fera espichada no terreiro. Deu as ordens. Se espalhem pelos capões de mato e me tragam a fera.
 
 Seu Franquelim ficara solito no trote da mula baia, vendo a peonada sumir nos descampados. Chegou na beira de um pequeno capão rejeitado pelos peões. O sol estava a pino e o suor espumava na peitera da velha
 
@@ -138,7 +138,7 @@ mula.
 
 A mula, de rédea solta, rumou pra beira da sanga para matar a sede. — Se a mula bebe, porque não eu? Apeou, desamarrou do arreio a velha caneca de prata, abanou a água e a caneca subiu pingando. Bebeu a se fartar. Em seguida, colocou a cartucheira no chão e sentou-se na raiz da gameleira. Acendeu o pito e levantou a cabeça para a primeira baforada, quase levou um susto. Ali estava ela, deitada, bem na sua frente, não mais de dez braças."
 
-Como se fosse coisa do dia a dia, empunhou a cartucheira, firmou no peito, mirou bem na fuça. Bumm... Dentro do "zoio" e entremeio as orelhas. O bicho esperneou ali mesmo.
+Como se fosse coisa do dia a dia, empunhou a cartucheira, firmou no peito, mirou bem na fuça. Bumm... Dentro do "zoio" e entremeio às orelhas. O bicho esperneou ali mesmo.
 
 Já lhe veio na mente uma das suas. Isso não pode ficar barato. Puxou o facão e simulou a peleia. Sapateou até o mato ficar bem amassado. Até a touceira de urtiga ficou tosquiada. De quebra, deu uma meia dúzia de talhos na cara e no costado da fera. Esfregou um ramo de capim na "sangria" e, como se fosse o capelão na procissão do padroeiro, aspergiu o sangue pela roupa. Então disparou outro tiro e gritou: — Auia!... Depois de dez minutos, chegaram quatro ou cinco peões no galope.
 
@@ -166,7 +166,7 @@ Nego Terêncio estendeu a cuia: — Mas entonces, quer dizer que o fandango foi 
 
 — Na verdade, não lembro bem, porque virei a noite churrasqueando e
 
-mateando pelos fundos do rancho. Só lembro que no clarear do dia montei na mula baia que ficou noite toda amarrada no toco. Acho que o neguinho da estância tava se pelando de medo da onça e não atendeu a ordem para desencilhar a mula.
+mateando pelos fundos do rancho. Só lembro que no clarear do dia montei na mula baia que ficou noite toda amarrada no toco. Acho que o neguinho da estância tava se pelando de medo da onça e não atendeu à ordem para desencilhar a mula.
 
 A Farofa de Viagem.
 
@@ -196,7 +196,7 @@ Andou mais, olhou pra todos os lados e, chegando no pé da figueira, viu seu Fra
 
 — Deixa eu explicar. Quando saí de casa, lembrei que seu Amarante tinha dito que nesta semana iria para São Borja cuidar de uns negócios. Seria perder tempo ir até lá.
 
-— Mas então, porque não retornou para casa?
+— Mas então, por que não retornou para casa?
 
 — Sabe como que é... eu não podia perder a galinha na farofa. Então resolvi sestear por aqui mesmo.
 
@@ -206,6 +206,6 @@ Já tinha erguido o braço para meter o guarda-chuva nas ventas do folgado. — 
 
 Na maior calma, olhou pra mula e acrescentou: — Sorte a mula, que se livrou da longa jornada.
 
-— E um velho folgado! disse Amantina, já rumando pro lado da estrada.
+— É um velho folgado! disse Amantina, já rumando pro lado da estrada.
 
 — Folgado nada, evitei de dar uma pernada à toa. Montou e, no passo manso, voltou para o rancho.
