@@ -2,8 +2,8 @@
 title: "Pinceladas de História"
 description: "Um livro chegou pelo correio — Território Dourado, de Montezuma Cruz — e abriu espaço para refletir sobre os que escreveram e os que ainda precisam ser…"
 pubDate: 2026-02-19
-heroImage: ./images/pinceladas-de-historia-cover.png
-heroImageAlt: "Homem idoso lendo livro antigo, mapas e fotografias de garimpo espalhados pela mesa"
+heroImage: ./images/pinceladas-de-historia-restaurada.webp
+heroImageAlt: "Veículo atolado em estrada de lama, cercado por homens, em meio à floresta"
 tags: ["memórias", "história", "rondônia", "livros", "literatura", "garimpo", "pioneiros", "amazônia"]
 place: "rondonia"
 placeLabel: "Rondônia"
