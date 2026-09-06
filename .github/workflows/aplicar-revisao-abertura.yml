@@ -1,0 +1,59 @@
+name: Aplicar revisão da Abertura
+
+on:
+  push:
+    branches:
+      - revisao-abertura
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: revisao-abertura
+      - name: Corrigir o Markdown da Abertura
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('src/content/eita-lasqueira/00-abertura.md')
+          text = path.read_text(encoding='utf-8')
+          replacements = [
+              ('Rabugices a parte', 'Rabugices à parte'),
+              ('Desde o ano de 1950, quando, comecei', 'Desde o ano de 1950, quando comecei'),
+              ('Folguedos, Disciplina, trabalho e amigos.', 'Folguedos, disciplina, trabalho e amigos.'),
+              ('Aos 75 anos vejo que dessas três coisas, ainda resta alguns amigos.', 'Aos 75 anos vejo que dessas três coisas, ainda restam alguns amigos.'),
+              ('Assim, com eles convivo. na certeza', 'Assim, com eles convivo, na certeza'),
+              ('Aqui constitui família', 'Aqui constituí família'),
+              ('Sobe tudo isso', 'Sobre tudo isso'),
+              ('temas espaços', 'temas esparsos'),
+              ('PUBLICO OU NÃO PUBLIC0', 'PUBLICO OU NÃO PUBLICO'),
+              ('Ha uma pesquisa', 'Há uma pesquisa'),
+              ('Até memo', 'Até mesmo'),
+              ('último senso', 'último censo'),
+              ('dez anos atras', 'dez anos atrás'),
+              ('porem ninguém', 'porém ninguém'),
+              ('rescrevendo', 'reescrevendo'),
+              ('Taime is Money', 'Time is Money'),
+          ]
+
+          for old, new in replacements:
+              text = text.replace(old, new)
+
+          path.write_text(text, encoding='utf-8')
+          PY
+      - name: Gravar revisão no Markdown
+        run: |
+          if git diff --quiet -- src/content/eita-lasqueira/00-abertura.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/eita-lasqueira/00-abertura.md
+          git commit -m "Corrige texto da Abertura no Markdown"
+          git push origin HEAD:revisao-abertura
