@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import EitaLasqueira from '../../layouts/EitaLasqueira.astro';
+const parts = (await getCollection('eitaLasqueira')).sort((a, b) => a.data.order - b.data.order);
+---
+<EitaLasqueira title="EITA LASQUEIRA">
+	<header class="book-cover">
+		<img src="/eita-lasqueira/media/image1.png" alt="Capa de Eita Lasqueira, com um cavalo dando um coice e espalhando lascas de madeira." width="1136" height="1385" fetchpriority="high" />
+		<div>
+			<p class="book-status">VERSÃO EM REVISÃO</p>
+			<h1>EITA LASQUEIRA</h1>
+			<p class="book-author">Adi Baldo</p>
+			<p class="book-intro">Crônicas e causos para ler por partes.</p>
+			<a class="book-start" href={`/eita-lasqueira/${parts[0].id}/`}>Começar pela abertura</a>
+		</div>
+	</header>
+	<section id="sumario" class="book-toc" aria-labelledby="sumario-titulo">
+		<h2 id="sumario-titulo">Sumário</h2>
+		<ol>
+			{parts.map(part => <li><a href={`/eita-lasqueira/${part.id}/`}>
+				{part.data.partLabel.toLocaleLowerCase('pt-BR') !== part.data.title.toLocaleLowerCase('pt-BR') && <span class="book-toc-label">{part.data.partLabel}</span>}
+				<span class:list={['book-toc-title', { 'book-toc-standalone': part.data.partLabel.toLocaleLowerCase('pt-BR') === part.data.title.toLocaleLowerCase('pt-BR') }]}>{part.data.title}</span>
+			</a></li>)}
+		</ol>
+	</section>
+	<aside class="book-review-policy" aria-labelledby="revisao-titulo">
+		<h2 id="revisao-titulo">Sobre esta versão</h2>
+		<p>O livro está em revisão por partes. A voz do autor, os regionalismos, o humor e a ironia serão preservados. Sugestões de redação serão assinaladas como “Sugestão do revisor”.</p>
+	</aside>
+</EitaLasqueira>

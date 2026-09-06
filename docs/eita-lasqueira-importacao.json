@@ -1,0 +1,109 @@
+{
+  "source_sha256": "f651a2bfdc618f95d9cefac7b67c6aba58e74c9d2bf7149018f0519597a03d7d",
+  "parts": [
+    {
+      "file": "00-abertura.md",
+      "source_block_start": 47,
+      "source_block_end_exclusive": 171,
+      "words": 3072,
+      "image_occurrences": 3,
+      "text_preserved": true
+    },
+    {
+      "file": "01-primeira-parte.md",
+      "source_block_start": 171,
+      "source_block_end_exclusive": 313,
+      "words": 5798,
+      "image_occurrences": 9,
+      "text_preserved": true
+    },
+    {
+      "file": "02-segunda-parte.md",
+      "source_block_start": 313,
+      "source_block_end_exclusive": 333,
+      "words": 3063,
+      "image_occurrences": 12,
+      "text_preserved": true
+    },
+    {
+      "file": "03-terceira-parte.md",
+      "source_block_start": 333,
+      "source_block_end_exclusive": 469,
+      "words": 6595,
+      "image_occurrences": 7,
+      "text_preserved": true
+    },
+    {
+      "file": "04-quarta-parte.md",
+      "source_block_start": 735,
+      "source_block_end_exclusive": 820,
+      "words": 3983,
+      "image_occurrences": 2,
+      "text_preserved": true
+    },
+    {
+      "file": "05-quinta-parte.md",
+      "source_block_start": 469,
+      "source_block_end_exclusive": 575,
+      "words": 3579,
+      "image_occurrences": 6,
+      "text_preserved": true
+    },
+    {
+      "file": "06-sexta-parte.md",
+      "source_block_start": 575,
+      "source_block_end_exclusive": 735,
+      "words": 7304,
+      "image_occurrences": 10,
+      "text_preserved": true
+    },
+    {
+      "file": "07-setima-parte.md",
+      "source_block_start": 895,
+      "source_block_end_exclusive": 1032,
+      "words": 5375,
+      "image_occurrences": 6,
+      "text_preserved": true
+    },
+    {
+      "file": "08-oitava-parte.md",
+      "source_block_start": 820,
+      "source_block_end_exclusive": 895,
+      "words": 3020,
+      "image_occurrences": 5,
+      "text_preserved": true
+    },
+    {
+      "file": "09-epilogo.md",
+      "source_block_start": 1032,
+      "source_block_end_exclusive": 1046,
+      "words": 199,
+      "image_occurrences": 0,
+      "text_preserved": true
+    }
+  ],
+  "replaced_part_markers": [
+    "PRIMEIRA PARTE.",
+    "MARCO ZERO",
+    "SEGUNDA PARTE",
+    "O CAMINHÃOZINHO DE MUDANÇA",
+    "TERCEIRA PARTE",
+    "ENFENTANDO A ANAZONIA",
+    "QUARTA PARTE",
+    "DESCOBRINDO O BRASIL",
+    "QUINTA PARTE",
+    "Vovó Franquelim",
+    "Um Gauderio Fora do Tempo",
+    "SEXTA PARTE",
+    "OUTROS CAUSOS.",
+    "SETIMA PARTE",
+    "FALANDO DE MIM.",
+    "NONA PARTE.",
+    "COVIDE E MUITO MAIS.",
+    "EPILOGO"
+  ],
+  "body_coverage": "Todos os blocos após o sumário do Word, exatamente uma vez.",
+  "cover": "public/eita-lasqueira/media/image1.png",
+  "unique_body_images": 58,
+  "body_image_occurrences": 60
+}
