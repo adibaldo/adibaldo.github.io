@@ -57,3 +57,5 @@ jobs:
           git add src/content/eita-lasqueira/00-abertura.md
           git commit -m "Corrige texto da Abertura no Markdown"
           git push origin HEAD:revisao-abertura
+
+# Este workflow é temporário e será removido após gravar a revisão no Markdown.
