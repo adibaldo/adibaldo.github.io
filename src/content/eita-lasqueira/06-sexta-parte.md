@@ -60,7 +60,7 @@ O Sol já estava alto e eu por ali, sapateando, indeciso e ao mesmo tempo curios
 
 \- É de gente assim que estamos precisando. - “Vamo” ali na sombra da jaqueira para conversar melhor.
 
-<img src="/eita-lasqueira/media/image39.jpeg" alt="Ilustração de homens sentados sob uma jaqueira carregada de frutos." width="1024" height="559" style="width: 378.27px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-medium" src="/eita-lasqueira/media/image39.jpeg" alt="Ilustração de homens sentados sob uma jaqueira carregada de frutos." width="1024" height="559" loading="lazy" decoding="async" />
 
 A Morte do gerente
 
@@ -80,7 +80,7 @@ Consternados, os clientes do banco que já faziam fila na porta, aos poucos fora
 
 Naquilo entra, o contumaz cachaceiro. E morreu mesmo?...
 
-Psiu...! Cala a boca. <img src="/eita-lasqueira/media/image40.jpeg" alt="Ilustração de pessoas aguardando em um consultório." width="1024" height="559" style="width: 416.96px; max-width: 100%;" loading="lazy" decoding="async" />
+Psiu...! Cala a boca. <img class="illustration-large" src="/eita-lasqueira/media/image40.jpeg" alt="Ilustração de pessoas aguardando em um consultório." width="1024" height="559" loading="lazy" decoding="async" />
 
 \- Cala a boca já morreu. Eu... não devo nada pro banco, só quero saber quem morreu!
 
@@ -138,7 +138,7 @@ Fato é que logo após sua morte em 1956 a região passou a ser visitada e explo
 
 O tesouro dos Paititis, talvez seja a lenda das minas de Urucuamã Uma grande mina de ouro e diamante capaz de enriquecer o mundo. Para alcança-la tem-se que passar por muitos obstáculos até avistar uma mulher nua sem adornos, mas mui linda, que conduzirá o sortudo ao imenso tesouro. Só que em seguida vem um pássaro de fogo, o Urucumacuã, e põe todo mundo pra correr. Lógico e evidente. Tamanho tesouro, não seria levado por um forasteiro qualquer.
 
-<img src="/eita-lasqueira/media/image41.jpeg" alt="Ilustração do interior de uma caverna com objetos e adornos." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image41.jpeg" alt="Ilustração do interior de uma caverna com objetos e adornos." width="1024" height="559" loading="lazy" decoding="async" />
 
 Era tão forte essa estória que quando o oficial do exército brasileiro Candido Rondon, veio implantar a famosa linha telegráfica, acabou por originar várias cidades, com Vilhena e Pimenta Bueno, realizou uma missão exclusive com geólogos e outros profissionais com a determinação de localizar as famosas minhas de Urucuamã
 
@@ -186,7 +186,7 @@ O EMBALSAMAMENTO
 >
 > Um espaço que se destinava a guardar ferramentas e outras coisas sem uso.
 >
-> <img src="/eita-lasqueira/media/image42.jpeg" alt="Ilustração de um homem sentado junto a uma mesa em uma casa rústica." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image42.jpeg" alt="Ilustração de um homem sentado junto a uma mesa em uma casa rústica." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Logo chegou o médico com bisturi e outros aparelhos. Examinou superficialmente e traçou o corte. As vísceras vão cair e você acondicione nesse saco plástico e põe no caixote. Até que não foi difícil. — Agora vamos
 >
@@ -232,7 +232,7 @@ O EMBALSAMAMENTO
 >
 > Com o intuito de contribuir com a comunidade e ao mesmo tempo demonstrar força, um outro comerciante, que era nordestino da "Gota Serena", acionou as cornetas com potência total e passou a anunciar pelas ruas da cidade: — Espetacular notícia! Acaba de falecer o Gerente do Banco! O velório será na própria agência, mas o banco vai estar fechado.
 >
-> <img src="/eita-lasqueira/media/image40.jpeg" alt="Ilustração de pessoas aguardando em um consultório." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image40.jpeg" alt="Ilustração de pessoas aguardando em um consultório." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Consternados, os clientes que já faziam fila na porta foram aos poucos se dispersando. Não demorou e chegou o féretro. As portas do banco se abriram. Em frente aos caixas foram realinhados os bancos de espera.
 >
@@ -252,7 +252,7 @@ No caso, o padre é o grande vilão, que leva o que a pessoa tem de primário pa
 
 Trazendo a brincadeira para a atualidade, o padre é substituído pelo político. Não que sejam inúteis, mas sempre nos trazem a mensagem do progresso e do bem-estar; enquanto o "toucinho" some. Cadê o dinheiro daqui? O político levou. Foi procurado e encontrado, porém a brincadeira não valeu porque o sujeito que se procurava não era o procurado.
 
-<img src="/eita-lasqueira/media/image43.jpeg" alt="Ilustração de um gato comendo sobre uma mesa posta." width="1024" height="559" style="width: 416.82px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-medium" src="/eita-lasqueira/media/image43.jpeg" alt="Ilustração de um gato comendo sobre uma mesa posta." width="1024" height="559" loading="lazy" decoding="async" />
 
 A brincadeira entrou em desuso, mas de uma coisa tenho certeza: sei que foi por ali, por aqui e por aqui passou.
 
@@ -322,7 +322,7 @@ Aconteceu que um dia, quando eu voltava da roça, já tardinha com a carroça pu
 
 Nessa, o mano mais velho não se aguentou: — E o pai acha que o “Javali” comeu aquele tanto de abóbora?
 
-<img src="/eita-lasqueira/media/image44.jpeg" alt="Ilustração de um cavalo junto a uma carroça carregada." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image44.jpeg" alt="Ilustração de um cavalo junto a uma carroça carregada." width="1024" height="559" loading="lazy" decoding="async" />
 
 Bem, disse ele, novamente pigarreando. — Aqueles trinta e seis quilos e quatrocentas gramas que nós pesamos, não tenho certeza. Mas os duzentos quilos que estavam na carroça, eu garanto!
 
@@ -356,7 +356,7 @@ O continente americano já tinha um povo de elevada organização sócio-políti
 
 Embora ensinem que Álvar Núñez Cabeza de Vaca foi o primeiro europeu a cruzar a região em 1541, a história registra a expedição do português Aleixo Garcia em 1524. Garcia percorreu o Caminho do Peabiru de Santa Catarina até os Andes, dezessete anos antes do espanhol. Já o nome "Paraguai" tem origem guarani (Para = mar/grande água, Gua = originário de Y = água/rio, ou "rio dos Paiaguás"), e não uma homenagem a um cacique.
 
-<img src="/eita-lasqueira/media/image45.jpeg" alt="Ilustração de embarcações antigas no mar." width="1024" height="559" style="width: 408.22px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image45.jpeg" alt="Ilustração de embarcações antigas no mar." width="1024" height="559" loading="lazy" decoding="async" />
 
 O causo do momento é sobre um sujeito batizado por Álvar Núñez Cabeza de Vaca, ou simplesmente, Cabeça de Vaca. Os registros dão conta de um aventureiro conquistador que nunca conquistou nada. Explico: Sua saga de conquistador teve início na América Central, porém por lá se deu muito mal. Mesmo assim o infeliz não se deu por derrotado. Pudera, era "pau mandado" da decadente nobreza e crescente burguesia espanhola abençoadas pela cúria romana e assim fez nova expedição, dessa vez para a América do Sul. Sua missão era buscar o tesouro dos Incas, também já dominados, massacrados e espoliados pelo sanguinário Francisco Pizarro.
 
@@ -368,7 +368,7 @@ Mas, voltando à vaca fria, ou como queiram, ao Cabeça de Vaca; estava ele se b
 
 O combinado não é caro. Paraguá reuniu tudo o que era índio que tinha por ali e, devidamente armados de tacapes e zagaias, partiram de mala e cuia. Na verdade, levavam a cuia posto que a mala era o Cabeza de Vaca, um verdadeiro mala sem alça.
 
-<img src="/eita-lasqueira/media/image46.jpeg" alt="Ilustração de um homem junto a uma cachoeira." width="1024" height="559" style="width: 469.20px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image46.jpeg" alt="Ilustração de um homem junto a uma cachoeira." width="1024" height="559" loading="lazy" decoding="async" />
 
 O problema era encarar a mata. Cabeça de Vaca já tinha levado uma esfrega no deserto do México, portanto estava meio "velhaco". Topou porque o cacique disse que conhecia muito bem o caminho. Acontece que mal conhecia a trilha de Itupava "Curitiba", a qual tinha percorrido uma vez para catar pinhão. Subiram a serra e nas nascentes do Rio Iguaçu construíram alguns caícos com troncos de garuva e se atracaram rio abaixo. O cacique tinha ouvido dizer de um caminho conhecido por Peabiru. Mas não tinha a mínima ideia de onde começava, e muito menos onde terminava.
 
@@ -400,7 +400,7 @@ Moral da história: O tal Cabeza de Vaca quase deu uma volta no mundo para parar
 
 Quanto ao Cacique Paraguá, depois dessa experiência mal sucedida decidiu dar uma parada. Tendo retornado com Cabeza de Vaca sem direito algum, deu um jeitinho e surrupiou o trabuco que tanto sonhara. Após isso resolveu se isolar do povo de sua tribo, subiu a serra e ao chegar nas nascentes do rio Iguaçu decidiu ficar por ali. Ali havia muitos pinheiros e um rio piscoso que o denominou de Piraquara. Por ali pescava, colhia pinhões, estaqueava couro de veado e quando seus conterrâneos, os Carijós, subiam a serra pela trilha de Itupava, trocava por sal, chumbo, pólvora e agasalho para se proteger do frio.
 
-<img src="/eita-lasqueira/media/image47.jpeg" alt="Ilustração de uma canoa em um rio cercado por mata." width="1024" height="559" style="width: 404.76px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image47.jpeg" alt="Ilustração de uma canoa em um rio cercado por mata." width="1024" height="559" loading="lazy" decoding="async" />
 
 Paraguá morreu de velho e por óbvio, sem atestado de óbito, posto que não havia cartório de registro.
 

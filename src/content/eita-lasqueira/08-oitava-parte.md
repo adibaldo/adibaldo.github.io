@@ -28,7 +28,7 @@ Empresas quebrando, economia agonizando e o povo na janela esperando a banda pas
 
 Finalizo. Não vou embora muito menos quero aprender. Não vou até mesmo porque não tenho pra onde ir e se alguém estiver me sugerindo algo, que reserve pra si. **Não vou a lugar nenhum.**
 
-<img src="/eita-lasqueira/media/image50.jpeg" alt="Imagem de uma manifestação política em uma avenida." width="1024" height="559" style="width: 370.60px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image50.jpeg" alt="Imagem de uma manifestação política em uma avenida." width="1024" height="559" loading="lazy" decoding="async" />
 
 HOMENS E RATOS.
 
@@ -60,7 +60,7 @@ Não sei não, acho que não vai dar certo, mas a título de experiência é bom
 
 Isolamento não dá certo. Tem que ser lockdown aí fica um olhando para a cara do outro querendo saber qual o cardápio do dia. - Geladeira cheia, TV a cabo, WHATSAPP e outras mídias. Um livro. O que?
 
-<img src="/eita-lasqueira/media/image51.jpeg" alt="Ilustração de um homem de máscara diante da porta de um comércio fechado." width="1024" height="559" style="width: 402.60px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image51.jpeg" alt="Ilustração de um homem de máscara diante da porta de um comércio fechado." width="1024" height="559" loading="lazy" decoding="async" />
 
 Aí é tortura, ler é coisa do passado. Quando se está em isolamento vá lá, mas com lockdown é pedir demais. Vai bem um funk. É a terapia apropriada. O uso da máscara continua o obrigatório, em compensação pode rebolar à vontade, até mesmo porque é a única opção. E sem agarrar. A questão é como enfrentar o vírus.
 
@@ -86,7 +86,7 @@ Ir à igreja e ver o presépio era maravilhoso. Um dia descobri que não havia P
 
 Jesus. O presépio fazia todo o sentido. Descobri depois que o presépio foi uma invenção de São Francisco de Assis e que a Bíblia não fala de boi e jumento e que eles foram colocados em cena com o propósito de atazanar os judeus.
 
-<img src="/eita-lasqueira/media/image52.jpeg" alt="Ilustração de homens descansando junto a uma casa rural." width="1024" height="559" style="width: 420.18px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image52.jpeg" alt="Ilustração de homens descansando junto a uma casa rural." width="1024" height="559" loading="lazy" decoding="async" />
 
 Bem, Natal é Natal. De repente descobri: Jesus com certeza não nasceu em 25 de dezembro e, pior, ninguém sabe quando foi. Certo é que no ano 354 d.C. o papa Libério ordenou que os cristãos celebrassem o nascimento de Yeshua no dia 25 de dezembro. Provavelmente ele escolheu esta data porque em Roma comemorava-se Saturno, festa chamada Saturnália.
 
@@ -110,7 +110,7 @@ Nessas alturas nem precisa explicar que o comércio e a indústria se apropriara
 
 Que saudade do meu cachorrinho de porcelana.
 
-<img src="/eita-lasqueira/media/image53.jpeg" alt="Ilustração de um homem com uma placa pedindo trabalho." width="1024" height="559" style="width: 485.00px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image53.jpeg" alt="Ilustração de um homem com uma placa pedindo trabalho." width="1024" height="559" loading="lazy" decoding="async" />
 
 UM CERTO JULIANO
 
@@ -136,7 +136,7 @@ Mas não teve jeito. Mesmo tentando se esquivar chegou a hora de assumir o trono
 
 Dos embates filosóficos mudou para as estratégias militares. Isso por volta do ano 560. A saga do Império Romano fundamentava-se na guerra. Conquistas e pilhagens.
 
-<img src="/eita-lasqueira/media/image54.jpeg" alt="Ilustração de um homem com trajes antigos e edifícios ao fundo." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image54.jpeg" alt="Ilustração de um homem com trajes antigos e edifícios ao fundo." width="1024" height="559" loading="lazy" decoding="async" />
 
 Foi no decorrer desse grande império que surgiu um personagem que modificou totalmente o império bem como a história da humanidade. Assim temos a era AC e DC. Estamos a falar da era cristã. Juliano enquanto filósofo era devoto aos deuses gregos romanos, porém seu tio-avô Constantino havia aceitado ou imposto o cristianismo como religião oficial do império, isso mais ou menos no ano 325.
 

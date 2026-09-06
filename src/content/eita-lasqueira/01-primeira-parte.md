@@ -20,7 +20,7 @@ Essa data deveria ser considerada feriado mundial. Sétimo mês deve ser setembr
 
 Ninguém ainda encontrou a dita arca ou dela teve notícias. Se bem que tem uns arqueólogos afirmando que a encontraram. Tem até vestígios de cocô de grilo.
 
-<img src="/eita-lasqueira/media/image5.jpeg" alt="Ilustração de uma arca de madeira, pessoas e animais." width="1024" height="559" style="width: 510.07px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image5.jpeg" alt="Ilustração de uma arca de madeira, pessoas e animais." width="1024" height="559" loading="lazy" decoding="async" />
 
 Como se sabe, os bichos se salvaram, bem como a tripulação. Abertas as comportas, todos saíram na mais perfeita ordem, desceram o morro e pouco a pouco repovoaram a terra.
 
@@ -54,7 +54,7 @@ Mas aquele negócio de transportar no lombo do camelo ou do jumento não era mui
 
 Foi mais ou menos na mesma época que descobriram que das pedras podia ser tirado materiais úteis, como ferro e sei lá o que mais.
 
-<img src="/eita-lasqueira/media/image6.jpeg" alt="Fotografia de uma roda de pedra ao lado de um tronco." width="1024" height="559" style="width: 498.82px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image6.jpeg" alt="Fotografia de uma roda de pedra ao lado de um tronco." width="1024" height="559" loading="lazy" decoding="async" />
 
 Mesmo assim a roda permaneceu como tecnologia de ponta. Tão importante que servia de base de troca. Uma roda valia um boi ou alguns balaios de cereais.
 
@@ -200,7 +200,7 @@ Mas, aí surgiu um novo líder peitudo de verdade e resolveu a parada. Chamava-s
 
 Lembram da utilidade dos chifres de bode? Josué mandou tocar as trombetas com potência máxima. Foi um buzinaço de muitos decibéis. O chão tremeu e os muros que protegiam a cidade caíram. Com isso abriu caminho.
 
-<img src="/eita-lasqueira/media/image7.jpeg" alt="Ilustração de uma multidão diante de uma cidade antiga." width="1024" height="559" style="width: 434.80px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image7.jpeg" alt="Ilustração de uma multidão diante de uma cidade antiga." width="1024" height="559" loading="lazy" decoding="async" />
 
 Naquelas alturas, Moisés já estava morrendo de velho, mas ainda pôde ver de longe a terra prometida.
 
@@ -208,7 +208,7 @@ A verdadeira vitória só aconteceu tempos mais tarde, quando um moleque bom de 
 
 Com isto o inimigo se apavorou e a vitória total. Aquele moleque virou rei, fez guerra pra todo o lado reconquistou a terra prometida. Foi quando derrotou os Jebuseus. Os Jebuseus consistiam em várias tribos que formaram uma ONG sem fins lucrativos com a finalidade específica de se manter na posse.
 
-<img src="/eita-lasqueira/media/image8.jpeg" alt="Ilustração de um jovem com uma funda diante de um guerreiro de armadura." width="1024" height="559" style="width: 434.66px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image8.jpeg" alt="Ilustração de um jovem com uma funda diante de um guerreiro de armadura." width="1024" height="559" loading="lazy" decoding="async" />
 
 Resistiram ao máximo, porém os judeus tinham melhor armamento e a vitória foi total. O jovem rei Davi foi vitorioso e governou por 40 anos. Estabeleceu a capital no acampamento do inimigo, o mesmo morrinho em que Abraão quase sacrificou seu filho e o local passou a se chamar Jerusalém, que significa cidade da paz e também denominada cidade de Davi.
 
@@ -224,7 +224,7 @@ O cara tinha estrela, por sinal de seis pontas. Ninguém sabe quem desenhou, mas
 >
 > O detalhe é que não deixou nada escrito ou desenhado. Aliás não há provas de sua existência. Dizem que houve três sujeitos que quiseram receber os segredos na marra e tendo o Mestre se negado, assassinaram-no no canteiro de obras.
 >
-> <img src="/eita-lasqueira/media/image9.jpeg" alt="Ilustração de um homem com vestes antigas diante de uma mesa com livros." width="1024" height="559" style="width: 488.82px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image9.jpeg" alt="Ilustração de um homem com vestes antigas diante de uma mesa com livros." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Salomão ficou uma fera. Mandou sua tropa de elite atrás dos meliantes. Depois de muitas missões de buscas encontraram os assassinos os quais foram exemplarmente castigados. Um se chamava Jubela, outro Jubelo e o terceiro Jubelum.
 >
@@ -252,7 +252,7 @@ O cara tinha estrela, por sinal de seis pontas. Ninguém sabe quem desenhou, mas
 >
 > Agora estamos na era da IA. Antes de Platão teve um outro chamado Pitágoras. Também sábio uma barbaridade. Propôs um teorema que diz: "o quadrado da hipotenusa é igual à soma dos quadrados dos catetos." Tudo muito lógico, o difícil é entender. Se bem que dizem que os Egípcios conheciam isso muito bem, só não escreveram. Vai que qualquer dia desses os desenterradores de múmias desenterrem também essa fórmula matemática.
 >
-> <img src="/eita-lasqueira/media/image10.jpeg" alt="Ilustração de dois homens conversando diante de inscrições e figuras geométricas." width="1024" height="559" style="width: 465.29px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image10.jpeg" alt="Ilustração de dois homens conversando diante de inscrições e figuras geométricas." width="1024" height="559" loading="lazy" decoding="async" />
 
 ## Alexandre o Grande ou Xandão.
 
@@ -270,7 +270,7 @@ O cara tinha estrela, por sinal de seis pontas. Ninguém sabe quem desenhou, mas
 
 > Quanto às Sabinas que foram raptadas pouco sei. Só digo que esse rapto nunca ficou esclarecido, mas dizem que só sequestram as raparigas e sapatões.
 >
-> <img src="/eita-lasqueira/media/image11.jpeg" alt="Ilustração de soldados e moradores em uma vila." width="1024" height="559" style="width: 482.23px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image11.jpeg" alt="Ilustração de soldados e moradores em uma vila." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > A partir dali surgiu o Império Romano. E como sabemos os caras eram fodões.
 >
@@ -296,7 +296,7 @@ O cara tinha estrela, por sinal de seis pontas. Ninguém sabe quem desenhou, mas
 >
 > Não se sabe muito da sua vida, apenas que transformou água em vinho, ressuscitou mortos, fez discursos e protestos. Criticava aqueles que só viviam na mordomia. Um dia foi preso, condenado sem provas, morto e sepultado, tudo em um final de semana, na madrugada de quinta para sexta-feira, sem o devido processo legal foi condenado, morto e sepultado.
 >
-> <img src="/eita-lasqueira/media/image12.jpeg" alt="Ilustração de soldados junto a um homem deitado sobre uma cruz." width="1024" height="559" style="width: 475.51px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image12.jpeg" alt="Ilustração de soldados junto a um homem deitado sobre uma cruz." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > O sábado era reservado para glorificar Javé, o Deus de Abraão. No primeiro dia da semana, bem cedo constataram que seu corpo não estava no sepulcro. Foi um corre-corre. Depois disso ele teria aparecido e conversado com algumas pessoas do seu convívio. Passado uma lua e meia, desapareceu de vez. Segundo relato de seus apoiadores, subiu aos céus na presença deles. Falam em 40 dias, mas tudo bem, uma lua e meia está de bom tamanho.
 >
@@ -360,4 +360,4 @@ Para não ser prolixo, cito o polêmico comunicador brasileiro da terceira quadr
 
 Estamos na era da Inteligência artificial, onde tudo é facilitado, podendo-se adotar a lei do Menor Esforço e por consequência voltarmos ao marco zero da pedra lascada.
 
-<img src="/eita-lasqueira/media/image13.jpeg" alt="Ilustração de um homem escrevendo à luz de uma vela, em uma caverna." width="1024" height="559" style="width: 436.87px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image13.jpeg" alt="Ilustração de um homem escrevendo à luz de uma vela, em uma caverna." width="1024" height="559" loading="lazy" decoding="async" />

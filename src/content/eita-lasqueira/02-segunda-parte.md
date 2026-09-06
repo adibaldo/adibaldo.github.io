@@ -10,7 +10,7 @@ order: 2
 >
 > Do topo da campina, via-se ao longe, além do vale, uma vila. Imaginávamos como seria. Uma igreja grande, muitas carroças, uma bodega com caramelos e brinquedos. O sonho era atravessar o vale e, com alguns passos, chegar lá. -- De uma feita, calçamos as botas de papai, imaginando que com elas nossos passos seriam longos e lá chegaríamos num instante.
 >
-> <img src="/eita-lasqueira/media/image14.jpeg" alt="Ilustração de crianças brincando ao redor de uma árvore." width="1024" height="559" style="width: 404.53px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image14.jpeg" alt="Ilustração de crianças brincando ao redor de uma árvore." width="1024" height="559" loading="lazy" decoding="async" />
 
 Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de sete-léguas. Quem nos poderia contar? Tudo o que ouvíamos era a história do Neguinho do Pastoreio. Pobre Negrinho do Pastoreio. Nossa sina era melhor que a dele. Não tínhamos que procurar cavalos na escuridão. Porém, tínhamos o desejo de transpor o vale num passo de mágica.
 
@@ -26,7 +26,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 
 > Um dia, no começo do inverno, papai nos disse: -- Vamos mudar, vamos embora. O que seria isso... Ir embora, mudar?... Lembro apenas que certa manhã apareceu um caminhão e tudo foi carregado. Camas, panelas, galinhas, porcos, uma vaca, o burro e até os dois cachorros. Ficou o gato que foi pro mato, que o fogo queimou, que a água apagou, que o boi bebeu, que foi puxar milho, que o padre levou e foi por ali foi e por ali sumiu.
 
-<img src="/eita-lasqueira/media/image15.jpeg" alt="Ilustração de um caminhão antigo carregado com a mudança de uma família." width="1024" height="559" style="width: 490.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image15.jpeg" alt="Ilustração de um caminhão antigo carregado com a mudança de uma família." width="1024" height="559" loading="lazy" decoding="async" />
 
 > Partimos por volta do meio-dia. Todos os seis, mais papai e tio Ângelo acomodados sobre a carga. Na cabine, além do chofer, foi mamãe com o maninho menor de apenas dois anos e mais um na barriga.
 >
@@ -46,7 +46,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Precisamente dia 29 de junho e o ano era 1957. Não demorou e tudo ficou para trás. E entramos na mata sombreada pelos pinheiros. Um cenário nunca visto.
 
-<img src="/eita-lasqueira/media/image16.jpeg" alt="Ilustração de uma estrada de terra entre pinheiros." width="1024" height="559" style="width: 394.03px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image16.jpeg" alt="Ilustração de uma estrada de terra entre pinheiros." width="1024" height="559" loading="lazy" decoding="async" />
 
 > Por volta do meio da tarde chegamos ao destino. Em meio ao quase nada, um rancho de tábuas lascadas, que sequer coube a pouca mobília.
 >
@@ -56,7 +56,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Na outra semana, à noitinha, apareceram os violeiros mais uma gaita e um pandeiro. Peões alinhados, botas lustradas, cabelos na brilhantina, moças e mulheres de lábios pintados, ruge nas bochechas, e sandálias moreninha. Só lembro do começo da cantoria. As crianças tinham que dormir enquanto o fandango corria pela madrugada.
 >
-> <img src="/eita-lasqueira/media/image17.jpeg" alt="Ilustração de pessoas dançando em um salão." width="1024" height="559" style="width: 398.33px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image17.jpeg" alt="Ilustração de pessoas dançando em um salão." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Chegou a primavera e com ela mais um guri – agora éramos nove. Chegou a colheita do trigo. A parelha de burros assustou e disparou com a carroça. Foi caco pra todo o lado. Papai saltou e não se machucou.
 >
@@ -68,7 +68,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Tudo fluía na base de troca: cereais, galinhas, até serviços. Era uma freguesia bem eclética. Os caboclos, a italianada e alguns polacos. De quando em vez uma confusão -- sempre apartada por papai, que era o conciliador. Não podia espantar a freguesia. Eu, guri, observava os tipos como o Theodoro, viciado no baralho, e o Pedrinho Facão, sempre alegre contando lorotas. Mas ninguém causou tanto bafafá quanto o João Madalena.
 
-<img src="/eita-lasqueira/media/image18.jpeg" alt="Ilustração de homens conversando em uma bodega." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image18.jpeg" alt="Ilustração de homens conversando em uma bodega." width="1024" height="559" loading="lazy" decoding="async" />
 
 > Ninguém sabia de sua origem e por que ali estava. Não tinha roça, só andava de lá pra cá num cavalo bem encilhado. Tinha uma mulher e dois filhos e acomodou-se num rancho já abandonado pelo Velho Moisés. Velho Moisés regateava seu dinheirinho com empreitadas de lascar tabuinhas de pinheiro para a construção de casas.
 >
@@ -80,7 +80,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Mamãe viu quando papai empunhou o revólver e foi pro lado da porta. E disse: Eu abro, mas derrubo uns três, quatro! Papai era bom no tiro. Num golpe de sorte e de coragem, mamãe tomou a arma da mão dele enquanto com a outra mão abria a porta. A porta foi se abrindo e ela calçou todos no revólver e gritou: Atirem, seus covardes!
 >
-> <img src="/eita-lasqueira/media/image19.jpeg" alt="Ilustração de um homem armado em uma bodega, diante de outras pessoas." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-full" src="/eita-lasqueira/media/image19.jpeg" alt="Ilustração de um homem armado em uma bodega, diante de outras pessoas." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Houve entre eles alguém de bom senso que pediu aos demais que não investissem. É uma mulher! Mesmo assim fizeram
 >
@@ -108,7 +108,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Certo é que, no velório da Velha Sebastiana, a paz durou pouco. Seus filhos, Manezinho e Emiliano, já não se bicavam. Emiliano, embriagado, provocou tanto o Manezinho a ponto desse perder o juízo. Pôs-se de pé e puxou do facão em pleno velório. Para não ser retalhado, Emiliano valeu-se do símbolo sagrado que guarnecia o caixão, a cruz, usando-a como escudo para se proteger dos golpes do facão que reluzia lusco-fusco. Foi aquele corre-corre. Uns saindo pela porta e outros pela janela. Mas já vieram os mais corajosos e do "deixa disso", evitando assim o pior, e o velório prosseguiu pela madrugada sob o olhar atravessado dos irmãos que ladeavam o caixão.
 >
-> <img src="/eita-lasqueira/media/image20.jpeg" alt="Ilustração de uma confusão entre pessoas em um velório." width="1024" height="559" style="width: 471.07px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image20.jpeg" alt="Ilustração de uma confusão entre pessoas em um velório." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Feitas as exéquias, papai chamou os dois, deu-lhes sermão e disse que os levaria para a autoridade. E lá foram eles. Os dois a pé e ele montado em seu velho burro.
 >
@@ -128,7 +128,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > A menos de dois quilômetros, uma escola que também servia de capela. Lá íamos para a reza aos domingos e, durante a semana, para aprender o ABC. Ler, escrever, fazer continhas, as cores da bandeira e o catecismo.
 >
-> <img src="/eita-lasqueira/media/image21.jpeg" alt="Ilustração de um professor e alunos em uma sala de aula." width="1024" height="559" style="width: 427.70px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image21.jpeg" alt="Ilustração de um professor e alunos em uma sala de aula." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Pedro Álvares Cabral que descobriu o Brasil e Jesus nasceu em Belém, numa manjedoura. O que seria uma manjedoura? Uma palavra esquisita. Tão esquisita quanto Reis Magos e Herodes. José e Maria, tudo bem, mas Herodes?... Não dava nem pra imaginar alguém com esse nome.
 >
@@ -140,7 +140,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Ali tudo era diferente. Sem saber por quê, chorei copiosamente. Foi quando alguém me disse que era por causa da saudade. Saudade; mais uma palavra esquisita.
 >
-> <img src="/eita-lasqueira/media/image22.jpeg" alt="Ilustração de um menino com expressão triste." width="1024" height="559" style="width: 399.76px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image22.jpeg" alt="Ilustração de um menino com expressão triste." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > De vez em quando ouvia as pessoas falarem da nova capital. Quando já dava para entender alguma coisa do Brasil e do mundo, lembro que os padres diziam que a Rússia era comunista. Os nomes mais falados eram Jango, Brizola e revolução. Finalmente a notícia de que o exército havia tomado o poder. O nome agora era Castelo Branco.
 >
@@ -150,7 +150,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Já havia aprendido uma profissão com a qual me sustentava. Abri uma alfaiataria bem no centro da cidade.
 >
-> <img src="/eita-lasqueira/media/image23.jpeg" alt="Ilustração de um alfaiate trabalhando em uma máquina de costura." width="1024" height="559" style="width: 415.52px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image23.jpeg" alt="Ilustração de um alfaiate trabalhando em uma máquina de costura." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Busquei um mano no interior, o Darci, que aprendeu serviços básicos. A moda era calça boca de sino.
 >
@@ -162,7 +162,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > Jornais, revistas, balas e quinquilharias. Vendia também cigarros e até por unidade onde os principais fregueses eram as comerciárias que compravam uma ou duas unidades para em algum tempinho dar umas tragadas. Com um maço fazia dois.
 >
-> <img src="/eita-lasqueira/media/image24.jpeg" alt="Ilustração de um vendedor de jornais junto a uma banca na cidade." width="1024" height="559" style="width: 449.87px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image24.jpeg" alt="Ilustração de um vendedor de jornais junto a uma banca na cidade." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > A prefeitura me lascou: resolveu fazer uma obra urbana bem ao lado da banca e me deslocou para onde o público passava distante. Isso acabou com minha clientela.
 >
@@ -178,7 +178,7 @@ Sequer conhecíamos a história do Pequeno Polegar e do Gigante com botas de set
 >
 > O Brasil Com diploma devidamente registrado na OAB, tinha que tomar um rumo.
 >
-> <img src="/eita-lasqueira/media/image25.jpeg" alt="Ilustração de uma manifestação em uma rua movimentada." width="1024" height="559" style="width: 393.92px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image25.jpeg" alt="Ilustração de uma manifestação em uma rua movimentada." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > O Brasil se estendia pelas trilhas rasgadas pelos bandeirantes e boiadeiros do Centro-Oeste. O governo Federal havia lançado o programa Polo Noroeste, com a finalidade de povoar o Território de Rondônia.
 >

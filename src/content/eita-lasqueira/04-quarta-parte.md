@@ -150,7 +150,7 @@ Em 1994, logo após a recuperação da BR 429 (Costa Marques/Presidente Médici)
 
 É um lugar antigo, porém somente a partir dos anos 80 ocorreu acesso por terra. Dantes, apenas navegando a jusante pelo Rio Guaporé, a partir da cidade de Vila Bela da Santíssima Trindade (MT), ou a montante, a partir de Guajará-Mirim.
 
-<img src="/eita-lasqueira/media/image48.jpeg" alt="Ilustração de uma cidade à margem de um rio." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image48.jpeg" alt="Ilustração de uma cidade à margem de um rio." width="1024" height="559" loading="lazy" decoding="async" />
 
 Forte Príncipe da Beira.
 
@@ -218,4 +218,4 @@ Além de militar, foi um humanista. Teve indicação para o Prêmio Nobel da Paz
 
 Lembremos que em 1925, Einstein, estava na flor da idade, e o Rio de Janeiro, com certeza já oferecia alguns atrativos turísticos. Dizem até que deu pitaco sobre a construção da Estátua do Cristo Redentor.
 
-<img src="/eita-lasqueira/media/image49.jpeg" alt="Ilustração de dois homens conversando na mata." width="1024" height="559" style="width: 387.40px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-medium" src="/eita-lasqueira/media/image49.jpeg" alt="Ilustração de dois homens conversando na mata." width="1024" height="559" loading="lazy" decoding="async" />

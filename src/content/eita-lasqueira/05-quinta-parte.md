@@ -22,7 +22,7 @@ Parti pela manhã no cavalo alazão. Atravessei rio e riachos planícies e serra
 
 A visita era pra saber da sua saúde. Estava doente acamado. Uma cirurgia de próstata malsucedida. Por vezes conversava, por vezes gemia.
 
-<img src="/eita-lasqueira/media/image33.png" alt="Ilustração de um ancião deitado em uma cama conversando com um homem sentado." width="1024" height="1280" style="width: 389.65px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-medium" src="/eita-lasqueira/media/image33.png" alt="Ilustração de um ancião deitado em uma cama conversando com um homem sentado." width="1024" height="1280" loading="lazy" decoding="async" />
 
 Após um silêncio, olhou-me com semblante tristonho e falou: — Estou aqui deitado sem poder fazer mais nada. Às vezes parece que estou cavalgando pelos campos com o pala soprado pelo vento e vendo o revoar dos quero-queros, mas quando me dou conta estou aqui. Veja aí meu chapéu e a guaiaca sem serventia. Quando faz um friozinho me cubro com o pala, que já não passa de um trapo mijado. Acho que a finada Amantina, tua vó, deve estar me esperando com a cuia na mão. Logo bato o pé na soleira e me apresento.
 
@@ -48,7 +48,7 @@ Em certo trecho da estrada, fiquei na dúvida numa encruzilhada em forquilha. Me
 
 Para quem já tinha troteado mais de vinte quilômetros, já estava chegando. Foi quando uma nuvem de verão se formou e caiu água.
 
-<img src="/eita-lasqueira/media/image34.jpeg" alt="Ilustração de um cavaleiro de chapéu e pala em uma paisagem rural." width="1024" height="559" style="width: 481.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image34.jpeg" alt="Ilustração de um cavaleiro de chapéu e pala em uma paisagem rural." width="1024" height="559" loading="lazy" decoding="async" />
 
 Estendi a capa que estava na garupa e a água escorria pela aba do chapéu. Segui sentindo o zunido do vento e ouvindo o ploc, ploc das patas do cavalo pisando no barro. Foi só um aguaceiro. Logo a chuva parou e o sol voltou a brilhar.
 
@@ -86,7 +86,7 @@ De uma feita, mais pela tardinha, seu Franquelim apeou por ali, saudou os presen
 
 Parecendo ter acordado de um cochilo, um dos viventes se aprumou: E “vois mece”, não viu os teco-tecos de manhãzinha? Acho que é a guerra que tá chegando por cá.
 
-<img src="/eita-lasqueira/media/image35.jpeg" alt="Ilustração de dois aviões antigos voando sobre uma paisagem rural." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image35.jpeg" alt="Ilustração de dois aviões antigos voando sobre uma paisagem rural." width="1024" height="559" loading="lazy" decoding="async" />
 
 Seu Franquelim viu de cara que dava pra aprontar uma das suas. — Que guerra que nada, amigo Gaudêncio. Estou sabendo há três “ontonte”. Desde o dia em que o padre esteve aí pra fazer os batizados. Inclusive do Veridiano que já tá querendo “casá” e ainda não tava batizado.
 
@@ -126,7 +126,7 @@ Sempre há um dia pra ser diferente daqueles que fazem a monotonia das coxilhas.
 
 Gaudêncio, o dono da estância, deu ordem pro capataz reunir a peonada. Mal clareou o dia e mais de trinta peões arrojados se achegaram com suas garruchas e cartucheiras, além da cachorrada barulhenta que chegava a espantar urutau em palanque de cerca.
 
-<img src="/eita-lasqueira/media/image36.jpeg" alt="Ilustração de homens montados em cavalos." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image36.jpeg" alt="Ilustração de homens montados em cavalos." width="1024" height="559" loading="lazy" decoding="async" />
 
 Naquele alvoroço, se achegou seu Franquelim montando na mula baia, num passo troteado. Sua velha cartucheira na garupa e uma dúzia de cartuchos na guaiaca.
 
@@ -174,7 +174,7 @@ Se tinha uma coisa que seu Franquelim apreciava, era montar em sua mula baia e a
 
 Sempre que empreendia uma andança, vó Amantina fazia uma galinha na farofa e colocava numa matula enfiada no pessuelo.
 
-<img src="/eita-lasqueira/media/image37.jpeg" alt="Ilustração de uma bolsa de couro com fivelas." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-medium" src="/eita-lasqueira/media/image37.jpeg" alt="Ilustração de uma bolsa de couro com fivelas." width="1024" height="559" loading="lazy" decoding="async" />
 
 Já fazia mais de mês que seu Franquelim não saía de casa, e isso lhe apoquentava as ideias. Um dia falou pra Amantina que no dia seguinte iria sair cedo para ir na estância do Amarante, que fica cerca de trinta quilômetros. — Me contaram que Amarante está se desfazendo de umas éguas parideiras e vou ver se faço algum brique.
 
@@ -192,7 +192,7 @@ Andou mais, olhou pra todos os lados e, chegando no pé da figueira, viu seu Fra
 
 — Mas que sesta, se estás perto de casa?
 
-<img src="/eita-lasqueira/media/image38.jpeg" alt="Ilustração de homens descansando à sombra de uma árvore, com uma mula e um pássaro." width="1024" height="559" style="width: 440.00px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image38.jpeg" alt="Ilustração de homens descansando à sombra de uma árvore, com uma mula e um pássaro." width="1024" height="559" loading="lazy" decoding="async" />
 
 — Deixa eu explicar. Quando saí de casa, lembrei que seu Amarante tinha dito que nesta semana iria para São Borja cuidar de uns negócios. Seria perder tempo ir até lá.
 
