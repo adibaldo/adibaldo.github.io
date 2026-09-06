@@ -138,7 +138,7 @@ Fato é que logo após sua morte em 1956 a região passou a ser visitada e explo
 
 O tesouro dos Paititis, talvez seja a lenda das minas de Urucuamã Uma grande mina de ouro e diamante capaz de enriquecer o mundo. Para alcança-la tem-se que passar por muitos obstáculos até avistar uma mulher nua sem adornos, mas mui linda, que conduzirá o sortudo ao imenso tesouro. Só que em seguida vem um pássaro de fogo, o Urucumacuã, e põe todo mundo pra correr. Lógico e evidente. Tamanho tesouro, não seria levado por um forasteiro qualquer.
 
-<img class="illustration-full" src="/eita-lasqueira/media/image41.jpeg" alt="Ilustração do interior de uma caverna com objetos e adornos." width="1024" height="559" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image41.webp" alt="Ilustração do interior de uma caverna com objetos e adornos." width="1536" height="1024" loading="lazy" decoding="async" />
 
 Era tão forte essa estória que quando o oficial do exército brasileiro Candido Rondon, veio implantar a famosa linha telegráfica, acabou por originar várias cidades, com Vilhena e Pimenta Bueno, realizou uma missão exclusive com geólogos e outros profissionais com a determinação de localizar as famosas minhas de Urucuamã
 
