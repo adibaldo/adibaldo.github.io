@@ -8,7 +8,7 @@ Pé de Jaca.
 
 Pelas lides forenses, por Rondônia encontrei um advogado que viera do Rio Grande do Sul. Estendendo conversa, disse-me ele: - Cheguei em Rondônia em 1978.
 
-Recém formado na faculdade de Passo Fundo, bolhei a perna, e sentei os garrões no Território. Viagem cansativa. Já era escuro quando bati o pé na soleira da casa de uma tia que viera tempos antes. Para não dizer que tudo era na base da Luz de vela, a casa era guarnecida por um motor estacionário o qual gerava energia até a hora de dormir. Umas prosas e todo o mundo pra cama.
+Recém-formado na faculdade de Passo Fundo, bolhei a perna, e sentei os garrões no Território. Viagem cansativa. Já era escuro quando bati o pé na soleira da casa de uma tia que viera tempos antes. Para não dizer que tudo era na base da Luz de vela, a casa era guarnecida por um motor estacionário o qual gerava energia até a hora de dormir. Umas prosas e todo o mundo pra cama.
 
 Acordei com o barulho de panelas. Titia já estava preparando o chimarrão. Olhei para a porta dos fundos, e fiquei impressionado com uma árvore que havia no quintal. De pronto quis saber que espécie era aquela. Seria uma árvore típica? A resposta foi quase que lacônica. Isso aí é um político. Intrigado busquei esclarecimentos, afinal eu já era advogado, e meias respostas não me eram suficientes.
 
@@ -16,7 +16,7 @@ Acordei com o barulho de panelas. Titia já estava preparando o chimarrão. Olhe
 
 \- Como assim, não estou entendendo.
 
-\- Mera comparação, mas explico! Veja bem é uma árvore vistosa, produz uma boa sombra, tem um belo fruto e outras características... como casca grossa etc.
+\- Mera comparação, mas explico! Veja bem, é uma árvore vistosa, produz uma boa sombra, tem um belo fruto e outras características... como casca grossa etc.
 
 -Sim, e daí? Como se diz no Rio Grande, o que que tem a ver um causo com outro?
 
@@ -28,27 +28,27 @@ Acordei com o barulho de panelas. Titia já estava preparando o chimarrão. Olhe
 
 O que tem de parecido por lá?
 
-O Pinheiro. Alto, bonito, casca grossa, uma fruta lá pela ponta dos galhos, que se cutucada com uma taquara se debulha e se esparrama pelo chão é dá um trabalho danado para juntar os pinhões no meio das grimpas, e a gente sai tudo arranhado.
+O Pinheiro. Alto, bonito, casca grossa, uma fruta lá pela ponta dos galhos, que se cutucada com uma taquara se debulha e se esparrama pelo chão e dá um trabalho danado para juntar os pinhões no meio das grimpas, e a gente sai tudo arranhado.
 
 \- Até aí tudo bem, mas não vejo que seja igual essa dita jaqueira.
 
-\- Não é igual, mas é tudo meio parecido. Estás vendo a fruta. Até se parece com uma pinha. Tudo cheio de não me toque, e bem grudada no pau. Agora, experimente pegar. Se tá verde, não desgruda, e larga um leite pegajoso. Se está maduro, vira uma meleca de cheiro duvidoso. Mas é fruta e você tenta aprovar. Tem que rasgar a casca, e você fica todo lambuzado. Mesmo assim agente experimenta. Depois de umas duas bagas, dá enjou, e tem que tirar do quintal porque atrai muita mosca e se jogar para os porcos eles recusam. – Tudo bem parecido com um político.
+\- Não é igual, mas é tudo meio parecido. Estás vendo a fruta. Até se parece com uma pinha. Tudo cheio de não me toque, e bem grudada no pau. Agora, experimente pegar. Se tá verde, não desgruda, e larga um leite pegajoso. Se está maduro, vira uma meleca de cheiro duvidoso. Mas é fruta e você tenta aprovar. Tem que rasgar a casca, e você fica todo lambuzado. Mesmo assim a gente experimenta. Depois de umas duas bagas, dá enjoo, e tem que tirar do quintal porque atrai muita mosca e se jogar para os porcos eles recusam. – Tudo bem parecido com um político.
 
-\- Mas báh tchê! E eu que vim para esse Território, pensando em resolver minha vida, ser útil para a sociedade, me candidatar à vereador, prefeito, deputado e quem sabe até mais que isso. Assim, tia você me desanima logo na chegada.
+\- Mas báh tchê! E eu que vim para esse Território, pensando em resolver minha vida, ser útil para a sociedade, me candidatar a vereador, prefeito, deputado e quem sabe até mais que isso. Assim, tia você me desanima logo na chegada.
 
-\- Não meu sobrinho, vai com calma. É cedo, vamos tomar um chimarrão e prosear. Pra tudo se dá um jeito. - É de Vagar se tropeia.
+\- Não meu sobrinho, vai com calma. É cedo, vamos tomar um chimarrão e prosear. Pra tudo se dá um jeito. - É devagar que se tropeia.
 
 \- Ainda bem, porque já estava pensando em voltar para o Rio Grande.
 
 \- Por aqui tem muitas vantagens. As coisas acontecem rápido. Por exemplo se você plantar um pé de jaca, com três anos já vai estar produzindo.
 
-\- Mas onde vou plantar um pé de jáca?
+\- Mas onde vou plantar um pé de jaca?
 
 \- Em qualquer lugar, pode até ser na beira da estrada. Mas, muito cuidado.
 
-Cuidado com que?
+Cuidado com o quê?
 
--E que debaixo de um pé de jaca não cresce nada. Nem capim.
+-É que debaixo de um pé de jaca não cresce nada. Nem capim.
 
 \- Sei. Estou entendendo.
 
@@ -56,7 +56,7 @@ O Sol já estava alto e eu por ali, sapateando, indeciso e ao mesmo tempo curios
 
 \- Por aqui ninguém fica sem um pé de jaca. Então, vai lá...fala com o prefeito, ele é gente boa.
 
-\- Me bandei. Mal mostrei minhas credenciais e ele me disse :
+\- Me bandei. Mal mostrei minhas credenciais e ele me disse:
 
 \- É de gente assim que estamos precisando. - “Vamo” ali na sombra da jaqueira para conversar melhor.
 
@@ -64,57 +64,57 @@ O Sol já estava alto e eu por ali, sapateando, indeciso e ao mesmo tempo curios
 
 A Morte do gerente
 
-Era a única agência bancária da cidade. Gente chegando e abrindo negócios de todo o tipo. Por vezes aparecia depósitos em sacos de estopa. Pobres dos funcionários trabalhavam até a meia noite datilografando preenchendo fichas de conta corrente. O Gerente de cabelos grisalhos a tudo supervisionava, além de à note ter que comparecer nas rodas sociais, normalmente regadas de “wiskes paraguaio”. O stress e o cansaço eram visíveis.
+Era a única agência bancária da cidade. Gente chegando e abrindo negócios de todo o tipo. Por vezes aparecia depósitos em sacos de estopa. Pobres dos funcionários trabalhavam até a meia-noite datilografando preenchendo fichas de conta corrente. O Gerente de cabelos grisalhos a tudo supervisionava, além de à noite ter que comparecer nas rodas sociais, normalmente regadas de “uísque paraguaio”. O stress e o cansaço eram visíveis.
 
 A cidade tinha um comércio efervescente, a concorrência entre os secos e molhados era grande. Com destaque para o setor de vestuário e armarinhos.
 
 Duas lojas disputavam a hegemonia. Anúncios com carros de som e desfiles pela cidade empoeirada, chamavam a atenção da freguesia, gente de todo o jeito e sem dinheiro.
 
-Um dia quando o comercio se preparava para abrir as portas, alguém avisou que o gerente do banco sofreara um ataque cardíaco fulminante e acabara de falecer.
+Um dia quando o comércio se preparava para abrir as portas, alguém avisou que o gerente do banco sofrera um ataque cardíaco fulminante e acabara de falecer.
 
-A notícia era trágica e relevante. Deveria ser propagada. O meio tradicional era pelos alto falantes móveis fixados no teto de um caro. De pronto um comerciante passou a anunciar respeitosamente o triste acontecimento. O povo que já esperava na porta do banco, ficou atônito. O que fazer? Como seria. Não havia nem mesmo quem pudesse decretar feriado. O fato tinha que ser divulgado.
+A notícia era trágica e relevante. Deveria ser propagada. O meio tradicional era por alto-falantes móveis fixados no teto de um carro. De pronto um comerciante passou a anunciar respeitosamente o triste acontecimento. O povo que já esperava na porta do banco, ficou atônito. O que fazer? Como seria. Não havia nem mesmo quem pudesse decretar feriado. O fato tinha que ser divulgado.
 
-Com o intuito, de contribuir com a comunidade através dos meios de comunicação e ao mesmo tempo demostrar força o outro comerciante que era nordestino da “Gota serena”, acionou as cornetas com potência total e passou a anunciar pelas ruas da cidade: - “Espetacular notícia! Acaba de falecer o Gerente do Banco!” O velório será na própria agência, e o banco vai estar fechado.
+Com o intuito, de contribuir com a comunidade através dos meios de comunicação e ao mesmo tempo demonstrar força o outro comerciante que era nordestino da “Gota serena”, acionou as cornetas com potência total e passou a anunciar pelas ruas da cidade: - “Espetacular notícia! Acaba de falecer o Gerente do Banco!” O velório será na própria agência, e o banco vai estar fechado.
 
-Consternados, os clientes do banco que já faziam fila na porta, aos poucos foram se dispersando. Não demorou e chegou o féretro. As portas do banco se abriram. Em frente aos caixas e foram realinhados os bancos de espera. A boca miúda, cochichos. Logo hoje que eu iria receber uma ordem de pagamento, e eu que ia falar com ele para segurar meu cheque pré-datado... como são as coisas. Ele era gente boa. Que Deus o Tenha.
+Consternados, os clientes do banco que já faziam fila na porta, aos poucos foram se dispersando. Não demorou e chegou o féretro. As portas do banco se abriram. Em frente aos caixas e foram realinhados os bancos de espera. A boca miúda, cochichos. Logo hoje que eu iria receber uma ordem de pagamento, e eu que ia falar com ele para segurar meu cheque pré-datado... como são as coisas. Ele era gente boa. Que Deus o tenha.
 
 Naquilo entra, o contumaz cachaceiro. E morreu mesmo?...
 
 Psiu...! Cala a boca. <img src="/eita-lasqueira/media/image40.jpeg" alt="Ilustração de pessoas aguardando em um consultório." width="1024" height="559" style="width: 416.96px; max-width: 100%;" loading="lazy" decoding="async" />
 
-\- Cala a boca já morreu. Euu... não devo nada pro banco, só quero saber quem morreu!
+\- Cala a boca já morreu. Eu... não devo nada pro banco, só quero saber quem morreu!
 
 \- Foi nesse dia que a cidade parou porque o gerente não estava lá.
 
 NEGO INGLÊS.
 
-Já estava me acostumando na nova cidade. Conhecendo uma pessoa aqui, um comerciante ali. Muito vinha aos escritórios com pendengas diárias, questão doméstica. Nas ruas muita poeira e ruídos de alto falantes na ponta postes, conhecido como pau do fuxico ou sobre veículos anunciado produtos e notícias do momento. Lojas e barres de sinuca. Havia entre outros um restaurante popular, chamado “Roda Viva”. Ali fazia minhas refeições. O proprietário Genésio, não estava muito satisfeito com o negócio. Dizia ele: muito trabalho para pouco resultado.
+Já estava me acostumando na nova cidade. Conhecendo uma pessoa aqui, um comerciante ali. Muitos vinham aos escritórios com pendengas diárias, questão doméstica. Nas ruas muita poeira e ruídos de alto-falantes na ponta de postes, conhecido como pau do fuxico ou sobre veículos anunciando produtos e notícias do momento. Lojas e bares de sinuca. Havia entre outros um restaurante popular, chamado “Roda Viva”. Ali fazia minhas refeições. O proprietário Genésio, não estava muito satisfeito com o negócio. Dizia ele: muito trabalho para pouco resultado.
 
-Um dia Chegou na cidade um sujeito tipo “lombrosiano”, conhecido por Nego Inglês e que não deixava claro qual sua verdadeira ocupação. Um rolista. Correu notícia que era pistoleiro, porem nada havia que pudesse incriminá-lo. Entre o povo corria um ditado que diz que “onde tem fumaça tem fogo”.
+Um dia chegou na cidade um sujeito tipo “lombrosiano”, conhecido por Nego Inglês e que não deixava claro qual sua verdadeira ocupação. Um rolista. Correu notícia que era pistoleiro, porém nada havia que pudesse incriminá-lo. Entre o povo corria um ditado que diz que “onde tem fumaça tem fogo”.
 
 De uma outra feita apareceu na praça um sujeito forte, loiro, que dizia ter vindo do Sul e não demorou para receber o apelido de “polaco”. Pretendia se estabelecer no ramo de bar, restaurante. Genésio, viu a oportunidade e propôs a venda do “Roda Viva”. Ficou claro que o dinheiro do polaco não era muito. O negócio se concretizou quando interveio Nego Inglês, propondo uma sociedade.
 
-Conversas e acordos e a transação aconteceu. Tomaram posse do estabelecimento e tudo bem. Porém nem tanto. Logo no segundo dia percebeu-se que a qualidade do serviço havia caído, muito embarra já não era grande coisa. Certo é o ditado: Nada é tão ruim que não possa piorar.
+Conversas e acordos e a transação aconteceu. Tomaram posse do estabelecimento e tudo bem. Porém nem tanto. Logo no segundo dia percebeu-se que a qualidade do serviço havia caído, muito embora já não era grande coisa. Certo é o ditado: Nada é tão ruim que não possa piorar.
 
 No terceiro dia, chegando para o almoço senti algo estranho no ar, sem saber o que poderia ser. Observei os comensais, e ali estava o Ceilão, um senhor forte e muito respeitado por suas atitudes firmes. Mais alguém além de Genésio que ainda aguardava pelo pagamento do que fora acordado. Busquei uma mesa e estava no aguardo, momento em que adentrou um conhecido.
 
-Intuitivamente perguntei-lhe se estava com fome. Muita disse ele. - Então coma e saia logo. – Quis saber porque. - Nada não, respondi-lhe, até mesmo porque não fazia sentido a minha alerta. Foi quando escutei o grito: “Polaco, não abra a boca porque te entupo de bala”! Era Nego Inglês com arma em punho apontando pro sócio.
+Intuitivamente perguntei-lhe se estava com fome. Muita disse ele. - Então coma e saia logo. – Quis saber porque. - Nada não, respondi-lhe, até mesmo porque não fazia sentido o meu alerta. Foi quando escutei o grito: “Polaco, não abra a boca porque te entupo de bala”! Era Nego Inglês com arma em punho apontando pro sócio.
 
-> Havia uma porta dos fundos que dava simplesmente para um brejo tomado pela quiçaça e por ela vi meu amigo se jogando. Coisa de cinema. Fiquei como se estivesse vagando no espaço. Naquele sufoco vi o Celião tentando amenizar a situação. O Polaco estava mais amarelo ipê na florada. Indeciso cheguei no costado de Celião e balbuciei: - Nego inglês..., se você fizer alguma coisa, não vai ficar bom pra você, a polícia está aí pertinho e vai lhe prender. Para aumentar meu espanto, Nego Inglês baixou a arma e disse: - Tá certo “seu doto”, jogando na minha mão a chave do seu Jeep velho sem capota e me intimou leva-lo pra fora da cidade. Não tive com recusar tão importante o convite. Era meio dia e meio mais ou menos. O sol de torrar castanha. Acelerei na rua empoeirada. Já fora da cidade, Nego Inglês mui cordialmente falou: - Aqui tá bom “seu dotô, muito agradecido. Assumiu a direção e sumiu na vicinal. Sobram-me dois quilômetros no sol escaldante, sapecando a cabeça já com pouca cobertura.
+> Havia uma porta dos fundos que dava simplesmente para um brejo tomado pela quiçaça e por ela vi meu amigo se jogando. Coisa de cinema. Fiquei como se estivesse vagando no espaço. Naquele sufoco vi o Celião tentando amenizar a situação. O Polaco estava mais amarelo como ipê na florada. Indeciso cheguei no costado de Celião e balbuciei: - Nego inglês..., se você fizer alguma coisa, não vai ficar bom pra você, a polícia está aí pertinho e vai lhe prender. Para aumentar meu espanto, Nego Inglês baixou a arma e disse: - Tá certo “seu doto”, jogando na minha mão a chave do seu Jeep velho sem capota e me intimou levá-lo pra fora da cidade. Não tive como recusar tão importante convite. Era meio-dia e meia, mais ou menos. O sol de torrar castanha. Acelerei na rua empoeirada. Já fora da cidade, Nego Inglês mui cordialmente falou: - Aqui tá bom “seu dotô, muito agradecido. Assumiu a direção e sumiu na vicinal. Sobram-me dois quilômetros no sol escaldante, sapecando a cabeça já com pouca cobertura.
 >
-> Após meia hora de exaustaste caminhada cheguei no restaurante ainda pensando encontrar um prato de comida. Ali estava Genésio. Percebendo a minha presença perguntou: Cadê o Nego Inglês? - Deve ter ido pros quintos dos infernos resmunguei.
+> Após meia hora de exaustante caminhada cheguei no restaurante ainda pensando encontrar um prato de comida. Ali estava Genésio. Percebendo a minha presença perguntou: Cadê o Nego Inglês? - Deve ter ido pros quintos dos infernos resmunguei.
 >
-> Genésio estava inconformado porque ter que que reassumir o negócio, visto que ninguém lhe dera um tostão.
+> Genésio estava inconformado por ter que reassumir o negócio, visto que ninguém lhe dera um tostão.
 >
 > E o Polaco, perguntei? - O Polaco?...., acabou de subir no ônibus dizendo que estava retornando para Santa Catarina para nunca mais pôr os pés neste inferno.
 >
-> Nunca mais vi o Nego Inglês e muito mens o Polaco. Não demorou o “Roda Viva” fechou as portas. Ceilão, tempos depois sofreu um infarto e que Deus o tenha em sua infinita bondade. Genésio ainda permaneceu por lá um bom bocado. De um tempo não mais o avistei, afinal das contas é assim mesmo, as pessoas vão andando por esse brasilzão e somem como as notícias. Tudo fica no ouvi dizer que... Quanto ao amigo que chegara para almoçar naquela hora tão imprópria, por vezes o vejo. Continua firme forte.
+> Nunca mais vi o Nego Inglês e muito menos o Polaco. Não demorou o “Roda Viva” fechou as portas. Ceilão, tempos depois sofreu um infarto e que Deus o tenha em sua infinita bondade. Genésio ainda permaneceu por lá um bom bocado. De um tempo não mais o avistei, afinal das contas é assim mesmo, as pessoas vão andando por esse brasilzão e somem como as notícias. Tudo fica no ouvi dizer que... Quanto ao amigo que chegara para almoçar naquela hora tão imprópria, por vezes o vejo. Continua firme forte.
 >
-> De resto, conforme dizia uma certa pessoa cuja identidade desconheço: - Não é da sua conta. Porém, em sendo relevante, posso até prestar esclarecimentos, todavia por se tratar de fato público e notório, ficam dispensadas a provas.
+> De resto, conforme dizia uma certa pessoa cuja identidade desconheço: - Não é da sua conta. Porém, em sendo relevante, posso até prestar esclarecimentos, todavia por se tratar de fato público e notório, ficam dispensadas as provas.
 
 ## <u>LENDA DOS PAITITIS</u>
 
-Diz a lenda que quando Pizarro, apossou-se do tesouro dos Incas mas uma porção deles fugiu, levando consigo grande quantidade de ouro e o ocultaram em algum ponto da selva amazônica. Onde? Há quem diga que foi em um ponto qualquer na margem direita do Rio Guaporé entre Vila Bela da Santíssima Trindade e Guajará Mirim. São mais de mil quilômetros com dezenas de afluentes, a maioria com nascedouros no Estado de Rondônia. Dizem que Marechal Rondon encontrou uma tribo que usava flechas com pontas de ouro e ornadas com diamantes. Sonham com o mesmo tesouro os bolivianos, peruanos e colombianos que canalizam para si o local do esconderijo, sendo esse local o “Eldorado ou Paititi”.
+Diz a lenda que quando Pizarro apossou-se do tesouro dos Incas mas uma porção deles fugiu, levando consigo grande quantidade de ouro e o ocultaram em algum ponto da selva amazônica. Onde? Há quem diga que foi em um ponto qualquer na margem direita do Rio Guaporé entre Vila Bela da Santíssima Trindade e Guajará Mirim. São mais de mil quilômetros com dezenas de afluentes, a maioria com nascedouros no Estado de Rondônia. Dizem que Marechal Rondon encontrou uma tribo que usava flechas com pontas de ouro e ornadas com diamantes. Sonham com o mesmo tesouro os bolivianos, peruanos e colombianos que canalizam para si o local do esconderijo, sendo esse local o “Eldorado ou Paititi”.
 
 Sabemos que tesouros perdidos, somente são encontrados por acaso ou pela pesquisa empírica de aventureiros, antropólogos e arqueólogos.
 
@@ -124,7 +124,7 @@ Esta carta relata uma viagem com uma duração de muitos dias pela selva a parti
 
 https://portalamazonia.com/amazonia/paititi-a-cidade-de-ouro-dos-incas-no-meio-da-amazonia-peruana)
 
-Certo é que como veremos, “Cabeza de Vaca” jamais ouviu falar desse tesouro e que a lenda possivelmente tenha motivado o Marechal Rondon fazer um ângulo de noventa graus no traçado da linha telegráfica quando chegou na região de Vilhena.
+Certo é que como veremos, “Cabeza de Vaca” jamais ouviu falar desse tesouro e que a lenda possivelmente tenha motivado o Marechal Rondon a fazer um ângulo de noventa graus no traçado da linha telegráfica quando chegou na região de Vilhena.
 
 Mais tarde juntamente com Theodoro Roosevelt empreenderam uma expedição pelo rio da Dúvida, hoje Rio Roosevelt. Nada encontraram além do próprio rio. Diria, nada encontraram porque não procuram direito. Isso porque no fim do século XX, oitenta anos após a lendária expedição, foi descoberta uma grande mina de diamante, uma das maiores do mundo justamente na reserva Roosevelt.
 
@@ -152,9 +152,9 @@ O EMBALSAMAMENTO
 
 > Já fazia dois anos que eu estava na cidade, bem adaptado com aquele ambiente rústico e insalubre.
 >
-> Várias amizades e entrosamento com pessoas da indústria e do comércio. Quase que diariamente surgiam informações desencontradas de mortes por acidente de trabalho e vítimas da malária outras doenças tropicais além de assassinatos.
+> Várias amizades e entrosamento com pessoas da indústria e do comércio. Quase que diariamente surgiam informações desencontradas de mortes por acidente de trabalho e vítimas da malária, outras doenças tropicais além de assassinatos.
 >
-> Aconteceu que um senhor de muitas posses de Curitiba resolveu fazer um empreendimento na Amazônia, na exploração de madeiras. Adquiriu bons equipamentos — Serras, caminhões, tratores — e se instalou em na cidade de Vilhena.
+> Aconteceu que um senhor de muitas posses de Curitiba resolveu fazer um empreendimento na Amazônia, na exploração de madeiras. Adquiriu bons equipamentos — Serras, caminhões, tratores — e se instalou na cidade de Vilhena.
 >
 > Para tocar o empreendimento, contratou um parente distante que residia em Jaraguá do Sul, onde era professor.
 >
@@ -168,7 +168,7 @@ O EMBALSAMAMENTO
 >
 > Em que pese ter estrutura, era uma atividade de sobrevivência.
 >
-> Nessa jornada, um determinado dia foi trágico ao descarregar o caminhão, soltos os cabos de aço e a carga caiu de uma vez e uma tora ricocheteou e
+> Nessa jornada, um determinado dia foi trágico ao descarregar o caminhão, soltos os cabos de aço, a carga caiu de uma vez e uma tora ricocheteou e
 >
 > atingiu o sujeito que ali mesmo ficou inerte.
 >
@@ -176,7 +176,7 @@ O EMBALSAMAMENTO
 >
 > De pronto saí para a missão. O corpo já estava na funerária, sem um
 >
-> cristão para acender uma vela. Apresentei-me, dizendo que o corpo seria transladado para Curitiba. — Pois sim, senhor disse o agente funerário. — Temos caixão apropriado, mas não temos profissional para o embalsamamento.
+> cristão para acender uma vela. Apresentei-me, dizendo que o corpo seria transladado para Curitiba. — Pois sim, senhor — disse o agente funerário. — Temos caixão apropriado, mas não temos profissional para o embalsamamento.
 >
 > Eis o nó górdio. Um médico seria a solução. Procurando o profissional, este me disse — Faço o serviço, porém, preciso de um ajudante e não tenho.
 >
@@ -184,7 +184,7 @@ O EMBALSAMAMENTO
 >
 > Transportado o corpo para o hospital, o médico disse: ─ Depositem-no sobre a mesa que está lá no barracão.
 >
-> Um espaço que se destinava a guardar ferramentas e outras coisas sem uso
+> Um espaço que se destinava a guardar ferramentas e outras coisas sem uso.
 >
 > <img src="/eita-lasqueira/media/image42.jpeg" alt="Ilustração de um homem sentado junto a uma mesa em uma casa rústica." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
 >
@@ -200,7 +200,7 @@ O EMBALSAMAMENTO
 >
 > Encerrada a atividade, o corpo foi costurado e, seguindo o manual, deveria ser untado com óleos especiais com propriedades antimicrobianas, antifúngicas, antioxidantes e desodorizantes — substâncias que ajudam a retardar a decomposição, sendo a mirra um dos mais tradicionais.
 >
-> Só que não tínhamos. Então lembrei o meu professor de medicina legal, o
+> Só que não tínhamos. Então lembrei do meu professor de medicina legal, o
 >
 > Dr. Romanó: "Use a criatividade. O sujeito já está morto." Foi o que sugeri: — E se untarmos com brilhantina? — Boa ideia! — disse o médico. E partiu
 >
@@ -220,7 +220,7 @@ O EMBALSAMAMENTO
 >
 > Uma certa manhã, quando o comércio se preparava para abrir as portas, alguém avisou que o gerente do banco sofrera um ataque cardíaco fulminante e acabara de falecer.
 >
-> A notícia era trágica e relevante — deveria ser anunciada. O meio de comunicação era pelos alto-falantes móveis, fixados no teto de veículos.
+> A notícia era trágica e relevante — deveria ser anunciada. O meio de comunicação era por alto-falantes móveis, fixados no teto de veículos.
 >
 > De pronto um comerciante passou a anunciar respeitosamente o triste acontecimento.
 >
@@ -230,13 +230,13 @@ O EMBALSAMAMENTO
 >
 > feriado.
 >
-> Com o intuito de contribuir com a comunidade e ao mesmo tempo demonstrar força um outro comerciante, que era nordestino da "Gota Serena", acionou as cornetas com potência total e passou a anunciar pelas ruas da cidade: — Espetacular notícia! Acaba de falecer o Gerente do Banco! O velório será na própria agência, mas o banco vai estar fechado.
+> Com o intuito de contribuir com a comunidade e ao mesmo tempo demonstrar força, um outro comerciante, que era nordestino da "Gota Serena", acionou as cornetas com potência total e passou a anunciar pelas ruas da cidade: — Espetacular notícia! Acaba de falecer o Gerente do Banco! O velório será na própria agência, mas o banco vai estar fechado.
 >
 > <img src="/eita-lasqueira/media/image40.jpeg" alt="Ilustração de pessoas aguardando em um consultório." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
 >
 > Consternados, os clientes que já faziam fila na porta foram aos poucos se dispersando. Não demorou e chegou o féretro. As portas do banco se abriram. Em frente aos caixas foram realinhados os bancos de espera.
 >
-> \`A boca miúda os cochichos: — Logo hoje que eu iria receber uma ordem de pagamento. - E eu que ia falar com ele para segurar meu cheque pré-datado. Veja como são as coisas. Ele era gente boa. Que Deus o tenha.
+> \À boca miúda, os cochichos: — Logo hoje que eu iria receber uma ordem de pagamento. - E eu que ia falar com ele para segurar meu cheque pré-datado. Veja como são as coisas. Ele era gente boa. Que Deus o tenha.
 >
 > Foi quando entrou o contumaz cachaceiro: — Morreu mesmo? — Psiu! Cala a boca! — Cala a boca já morreu. Eu... não devo nada pro banco nenhum. - Só quero saber quem morreu!
 >
@@ -248,7 +248,7 @@ Lembro de uma antiga brincadeira de roda: “Cadê o toucinho daqui? — O gato 
 
 Então vou procurar... — Foi por aqui, foi por ali e por ali passou.” Todos correm à busca de um esconderijo e o líder escolhido vai procurar.
 
-No caso, o padre é o grande vilão, que leva o que a pessoa tem de primário para a sobrevivência. O cidadão a assa-se a vida procurando o vilão, mas o mesmo nunca é encontrado. Sabendo-se apenas que está cumprindo seu mister em um lugar qualquer.
+No caso, o padre é o grande vilão, que leva o que a pessoa tem de primário para a sobrevivência. O cidadão passa a vida procurando o vilão, mas o mesmo nunca é encontrado. Sabendo-se apenas que está cumprindo seu mister em um lugar qualquer.
 
 Trazendo a brincadeira para a atualidade, o padre é substituído pelo político. Não que sejam inúteis, mas sempre nos trazem a mensagem do progresso e do bem-estar; enquanto o "toucinho" some. Cadê o dinheiro daqui? O político levou. Foi procurado e encontrado, porém a brincadeira não valeu porque o sujeito que se procurava não era o procurado.
 
@@ -256,7 +256,7 @@ Trazendo a brincadeira para a atualidade, o padre é substituído pelo político
 
 A brincadeira entrou em desuso, mas de uma coisa tenho certeza: sei que foi por ali, por aqui e por aqui passou.
 
-Lembro de um presidente que renunciou seis meses após a posse (Jânio); de um plebiscito do sim e do não. De um presidente deposto pelos militares, que governaram por mais de vinte anos. Tenho presente quem prometeu acabar com a corrupção e foi cassado por ser corrupto (Collor); de um outro que prometeu acabar com a inflação e que facilitou os grandes esquemas conhecidos como mensalão e petrolão. Lembro de uma presidenta cassada, de um vice que assumiu e não renunciou. De um presidente que se elegeu no vácuo das oligarquias e não quis compartilhar as benesses. E de um presidente que foi preso, “descondenado” e eleito sabe-se lá como. Lembro de um Brasil que foi por ali, por aqui e o boi lambeu
+Lembro de um presidente que renunciou seis meses após a posse (Jânio); de um plebiscito do sim e do não. De um presidente deposto pelos militares, que governaram por mais de vinte anos. Tenho presente quem prometeu acabar com a corrupção e foi cassado por ser corrupto (Collor); de um outro que prometeu acabar com a inflação e que facilitou os grandes esquemas conhecidos como mensalão e petrolão. Lembro de uma presidenta cassada, de um vice que assumiu e não renunciou. De um presidente que se elegeu no vácuo das oligarquias e não quis compartilhar as benesses. E de um presidente que foi preso, “descondenado” e eleito sabe-se lá como. Lembro de um Brasil que foi por ali, por aqui e o boi lambeu.
 
 O Cavalo Javali.
 
@@ -266,15 +266,15 @@ Verdade é que essa epopeia nada tem a ver com o cavalo “Javali”, embora emb
 
 O novo cotidiano era quase o mesmo do Rio Grande do Sul. Logo após o anoitecer e do jantar, estávamos aquecendo em torno do fogão, enquanto batatas eram cozidas para o café da manhã. Isso durava mais ou menos quarenta minutos, por vezes uma hora, em conformidade com o tamanho das batatas. Havia batatas enormes, ou pra lá de grandes. A lavareda alimentada com nó-de-pinho avermelhava a chapa.
 
-Ficávamos todos ali na vigília tagarelando sobre os frequentadores da bodega, vais das vezes só para um trago. Outros vinham para comprar o básico: farinha, açúcar, erva, ferramentas; por vezes senhoras e moças em busca de panos brins, chitas, pelúcia e adereços. Não raro apareciam uns piás apressados e estrafegados em busca de cibalenas, xaropes, elixires etc.
+Ficávamos todos ali na vigília tagarelando sobre os frequentadores da bodega, mais das vezes só para um trago. Outros vinham para comprar o básico: farinha, açúcar, erva, ferramentas; por vezes senhoras e moças em busca de panos brins, chitas, pelúcia e adereços. Não raro apareciam uns piás apressados e estrafegados em busca de cibalenas, xaropes, elixires etc.
 
-Lembro de alguns frequentadores costumazes: Emiliano, Gumercindo, Veio Bento, Theodorão, Pedrinho Fação. A lista seria enorme, porém no momento não interessa porque o causo é outro.
+Lembro de alguns frequentadores costumazes: Emiliano, Gumercindo, Veio Bento, Theodorão, Pedrinho Facão. A lista seria enorme, porém no momento não interessa porque o causo é outro.
 
-Conforme disse e reitero *“hic et nunc”*: estávamos ali ao redor do fogão, e justamente naquele dia assávamos pinhões na chapa enquanto as batatas ferviam expremidinhas na panela, quando alguém comentou do “Cavalo Javali”. Um cavalo que papai possuía no Rio Grande do Sul Na verdade um matungo. O cavalo talvez seja a lembrança mais marcante dos meus tempos de guri.
+Conforme disse e reitero *“hic et nunc”*: estávamos ali ao redor do fogão, e justamente naquele dia assávamos pinhões na chapa enquanto as batatas ferviam espremidinhas na panela, quando alguém comentou do “Cavalo Javali”. Um cavalo que papai possuía no Rio Grande do Sul. Na verdade um matungo. O cavalo talvez seja a lembrança mais marcante dos meus tempos de guri.
 
 Queria saber por que papai havia vendido o cavalo. Papai que assuntava as prosas enquanto enrolava “o pito”, pigarreou e passou a dar as devidas explicações:
 
-Certo, eu vendi o cavalo. Era um cavalo bom, mas tive que vendê-lo quando resolvi mudar para o Paraná. Meu plano era ter uma pareia de burros, apareceu uma oportunidade e “briqiei”. Esse burro que está aí. O Mico. O outro, o Macaco, eu comprei aqui no Paraná e daí formei a pareia. São dois burros muito bons. Com essa pareia vou pra todo o lado, busco sortimentos para a bodega, de vez em quando carrego noivos, padrinhos para batizados e até defunto para o cemitério. Se for preciso vou à Pato Branco ou no Marrecas. Essa pareia de burros é de grande serventia, é um capital. O “Javali” era um cavalo bom, manso, mas já meio velho. Fiz um bom negócio, aliás, como já tinha feito as outras vezes.
+Certo, eu vendi o cavalo. Era um cavalo bom, mas tive que vendê-lo quando resolvi mudar para o Paraná. Meu plano era ter uma pareia de burros, apareceu uma oportunidade e “briquei”. Esse burro que está aí. O Mico. O outro, o Macaco, eu comprei aqui no Paraná e daí formei a pareia. São dois burros muito bons. Com essa pareia vou pra todo o lado, busco sortimentos para a bodega, de vez em quando carrego noivos, padrinhos para batizados e até defunto para o cemitério. Se for preciso vou a Pato Branco ou no Marrecas. Essa pareia de burros é de grande serventia, é um capital. O “Javali” era um cavalo bom, manso, mas já meio velho. Fiz um bom negócio, aliás, como já tinha feito as outras vezes.
 
 — Que outras vezes? — Perguntou um dos piás, mais interessado no assunto.
 
@@ -328,7 +328,7 @@ Bem, disse ele, novamente pigarreando. — Aqueles trinta e seis quilos e quatro
 
 Ainda há pouco ele havia dito que não se deve faltar com a verdade. Não nos restou outra alternativa senão aceitar.
 
-O tempo passou e eu vez que outra lembrava do “Javali”. De uma feita, cerca de quarenta anos depois, em Rondônia, numa roda de amigos numa festa junina, sentados à beira da fogueira, todos jogando conversa fora, contei a história do “Cavalo Javali”.
+O tempo passou e eu, vez que outra lembrava do “Javali”. De uma feita, cerca de quarenta anos depois, em Rondônia, numa roda de amigos numa festa junina, sentados à beira da fogueira, todos jogando conversa fora, contei a história do “Cavalo Javali”.
 
 Face ao princípio de que tudo é verdadeiro até prova em contrário, o causo foi levado na mais alta consideração — exceto por alguns “miserentos” que fizeram comentários graciosos, somente admissíveis em festividades juninas.
 
@@ -342,15 +342,15 @@ Diante dessa barbaridade, termino o causo, lamentando que aquele respeitável e 
 
 Cabeza de Vaca.
 
-O Mala sem Alca.
+O Mala sem Alça.
 
 .
 
-No primário, além de lendas dos bandeirantes, como de Borba Gato, disseram-me que o primeiro que se atreveu atravessar território Paranaense de leste a Oeste foi o espanhol Núñez Cabeza de Vaca.
+No primário, além de lendas dos bandeirantes, como de Borba Gato, disseram-me que o primeiro que se atreveu atravessar território paranaense de leste a Oeste foi o espanhol Núñez Cabeza de Vaca.
 
-O que se sabe é que em 1544 o capitão espanhol Domingo Martínez de Irala foi proclamado governador do Paraguai, após prender Núñez Cabeza de Vaca, sujeito que havia se apoderado do posto de mandatário da então espelunca que surgia à margem do Rio Paraguai a qual veio a se tornar a belíssima cidade de Asunción. Até então não existia a província do Paraguai, tão pouco o Paraná. Tudo era terra de ninguém ou dos índios nativos e que aos poucos foram dizimados pelos conquistadores.
+O que se sabe é que em 1544 o capitão espanhol Domingo Martínez de Irala foi proclamado governador do Paraguai, após prender Núñez Cabeza de Vaca, sujeito que havia se apoderado do posto de mandatário da então espelunca que surgia à margem do Rio Paraguai a qual veio a se tornar a belíssima cidade de Asunción. Até então não existia a província do Paraguai, tampouco o Paraná. Tudo era terra de ninguém ou dos índios nativos e que aos poucos foram dizimados pelos conquistadores.
 
-Segundo Darcy Ribeiro, mais de um milhão deles existiam pelo Brasil, espalhados e agrupados e com suas culturas diversas. Em que pese o tratado de Tordesilhas ter partilhado o Novo Mundo entre portugueses e espanhóis, sem plebiscito ou audiência pública, tudo assim na mão grande, na cara dura e com as bençãos da Santa Madre Igreja Católica Apostólica Romana.
+Segundo Darcy Ribeiro, mais de um milhão deles existiam pelo Brasil, espalhados e agrupados e com suas culturas diversas. Em que pese o tratado de Tordesilhas ter partilhado o Novo Mundo entre portugueses e espanhóis, sem plebiscito ou audiência pública, tudo assim na mão grande, na cara dura e com as bênçãos da Santa Madre Igreja Católica Apostólica Romana.
 
 O continente americano já tinha um povo de elevada organização sócio-política, tanto é e ingenuamente, interagiram com os conquistadores. Daí, já viu. Saíram pelados com as mãos no bolso.
 
@@ -358,29 +358,29 @@ Embora ensinem que Álvar Núñez Cabeza de Vaca foi o primeiro europeu a cruzar
 
 <img src="/eita-lasqueira/media/image45.jpeg" alt="Ilustração de embarcações antigas no mar." width="1024" height="559" style="width: 408.22px; max-width: 100%;" loading="lazy" decoding="async" />
 
-O causo do momento é sobre um sujeito batizado por Alvares Nunes Cabeza de Vaca, ou simplesmente, Cabeça de Vaca. Os registros dão conta de um aventureiro conquistador que nunca conquistou nada. Explico: Sua saga de conquistador teve início na América Central, porem por lá se deu muito mal. Mesmo assim o infeliz não se deu por derrotado. Pudera, era "pau mandado" da decadente nobreza e crescente burguesia espanhola abençoadas pela cúria romana e assim fez nova expedição, dessa vez para a América do Sul. Sua missão era buscar o tesou dos Incas, também já dominados massacrados e espoliados pelo sanguinário Francisco Pizarro.
+O causo do momento é sobre um sujeito batizado por Álvar Núñez Cabeza de Vaca, ou simplesmente, Cabeça de Vaca. Os registros dão conta de um aventureiro conquistador que nunca conquistou nada. Explico: Sua saga de conquistador teve início na América Central, porém por lá se deu muito mal. Mesmo assim o infeliz não se deu por derrotado. Pudera, era "pau mandado" da decadente nobreza e crescente burguesia espanhola abençoadas pela cúria romana e assim fez nova expedição, dessa vez para a América do Sul. Sua missão era buscar o tesouro dos Incas, também já dominados, massacrados e espoliados pelo sanguinário Francisco Pizarro.
 
-A ideia era passar a mão na "bufunfa" usando outra estratégia. Costeando as terras pertencentes aos portugueses chegou na parte sul, Cananeia, mas ali já tinha um Certo Bacharel, bem ambientado. Foi apalpando, foi apalpando até chegar na Baía de Babitonga, Ilha de São Francisco. Porem diz a lenda que por ali naufragou tendo perdido duas ou três naus, homens e cavalos, mas consegui se salvar nas calmas águas da baía.
+A ideia era passar a mão na "bufunfa" usando outra estratégia. Costeando as terras pertencentes aos portugueses, chegou à parte sul, Cananeia, mas ali já tinha um certo bacharel, bem ambientado. Foi apalpando, foi apalpando até chegar na Baía de Babitonga, Ilha de São Francisco. Porém diz a lenda que por ali naufragou tendo perdido duas ou três naus, homens e cavalos, mas conseguiu se salvar nas calmas águas da baía.
 
-Enquanto pensava na vida, ficou por ali conversando com os índios Carijós senhores da região, até que um dia chegou ali na praia um índio com panca de cacique. Sujeito de boa lábia, tipo Silvio Santos, que "ablava espanhol, pero no mucho" e cochichou na orelha do mui ilustre Cabeça de Vaca apontando para a floresta: "mucha plata". De pronto Cabeza de Vaca, arregalou os olhos, consultou o mapa de Pir ireis que estava guardado no fundo do baú e após minucioso exame concluiu que poderia se apoderar da "Tierra de los Mojos", sem ter que passar por Buenos Aires, até mesmo porque não apreciava tangos e milongas. Quanto ao baú, dizem que foi herdado por Silvio Santos evidentemente sem uma pataca no seu bojo.
+Enquanto pensava na vida, ficou por ali conversando com os índios Carijós senhores da região, até que um dia chegou ali na praia um índio com panca de cacique. Sujeito de boa lábia, tipo Silvio Santos, que "ablava espanhol, pero no mucho" e cochichou na orelha do mui ilustre Cabeça de Vaca apontando para a floresta: "mucha plata". De pronto Cabeza de Vaca, arregalou os olhos, consultou o mapa de Piri Reis que estava guardado no fundo do baú e após minucioso exame concluiu que poderia se apoderar da "Tierra de los Mojos", sem ter que passar por Buenos Aires, até mesmo porque não apreciava tangos e milongas. Quanto ao baú, dizem que foi herdado por Silvio Santos evidentemente sem uma pataca no seu bojo.
 
 Mas, voltando à vaca fria, ou como queiram, ao Cabeça de Vaca; estava ele se bronzeando na prainha, lamentando o naufrágio, porém com a conversa do índio se animou. O Índio, que por sinal era um cacique mui famoso e conhecido por Paraguá, o conduziria até as minas de prata e ao final seria bem recompensado. O cacique tava de olho no trabuco do infeliz Cabeça de Vaca e topou no ato. Cabeça de Vaca vestiu-se, cobriu a careca com sua boina amassada, encarou a mata, e de joelhos gritou: Glória! - Daí que surgiu a Vila da Glória na Baía de Babitonga.
 
-O combinado não é caro. Paraguá reuniu tudo o que era índio que tinha por ali e, devidamente armados de tacapes e zagaias, partiram de mala e cuia. Na verdade, levavam a cuia posto que a mala era o Cabeza de Vaca, uma verdadeiro mala sem alça.
+O combinado não é caro. Paraguá reuniu tudo o que era índio que tinha por ali e, devidamente armados de tacapes e zagaias, partiram de mala e cuia. Na verdade, levavam a cuia posto que a mala era o Cabeza de Vaca, um verdadeiro mala sem alça.
 
 <img src="/eita-lasqueira/media/image46.jpeg" alt="Ilustração de um homem junto a uma cachoeira." width="1024" height="559" style="width: 469.20px; max-width: 100%;" loading="lazy" decoding="async" />
 
-O problema era encarar a mata. Cabeça de vaca já tinha levado uma esfrega no deserto do México, portanto estava meio "velhaco". Topou porque o cacique disse que conhecia muito bem o caminho. Acontece que mal conhecia a trilha de Itupava "Curitiba", a qual tinha percorrido uma vez para catar pinhão. Subiram a serra e nas nascentes do Rio Iguaçu construíram alguns caícos com troncos de garuva e se atracaram rio abaixo. O cacique tinha ouvido dizer de um caminho conhecido por Peabiru. Mas não tinha a mínima ideia de onde começava, e muito menos onde terminava.
+O problema era encarar a mata. Cabeça de Vaca já tinha levado uma esfrega no deserto do México, portanto estava meio "velhaco". Topou porque o cacique disse que conhecia muito bem o caminho. Acontece que mal conhecia a trilha de Itupava "Curitiba", a qual tinha percorrido uma vez para catar pinhão. Subiram a serra e nas nascentes do Rio Iguaçu construíram alguns caícos com troncos de garuva e se atracaram rio abaixo. O cacique tinha ouvido dizer de um caminho conhecido por Peabiru. Mas não tinha a mínima ideia de onde começava, e muito menos onde terminava.
 
 Foi quando Cabeza de Vaca se viu no mato sem cachorro, mesmo porque sequer "cusco" tinham. Havia muito cachorro do mato que Paraguá chamava de graxaim.
 
-Quando já pensavam estarem no fim da viagem, embocaram na correnteza e despencaram nas cataratas. Foi um "Dios nos acuda". Cabeça de Vaca, vendo novamente a viola em cacos, exclamou: - Salve-me Jesu Cristo, que lhe darei dez por cento de toda la plata que conquistarei! Conseguiu se agarrar num galho de sarandi e ali ficou pendurado berrando feito bugio, balançando dois pra cá e dois pra lá; bem no estilo gauchesco.
+Quando já pensavam estarem no fim da viagem, embocaram na correnteza e despencaram nas cataratas. Foi um "Dios nos acuda". Cabeça de Vaca, vendo novamente a viola em cacos, exclamou: - Salve-me Jesus Cristo, que lhe darei dez por cento de toda la plata que conquistarei! Conseguiu se agarrar num galho de sarandi e ali ficou pendurado berrando feito bugio, balançando dois pra cá e dois pra lá; bem no estilo gauchesco.
 
 Ao seu lado estava seu fiel escudeiro "Paraguá" que, antevendo a desgraceira, pulou do barco e por sorte se agarrou numa taquara, subiu a barranca para acudir o "mala sem alça". Passado o susto, Cabeça de Vaca sentou-se numa pedra e ali permaneceu teso, abichornado, escutando o barulho da água. Sentiu-se tão azarado que se autodefiniu como "esgualepado", ou seja, mal pago. Foi naquele momento de baixo astral que seu ajudante de ordens, Paraguá, catou folhas de uma planta, socou na cuia de pau, que acabara de resgatar entre as pedras, misturou com água e deu para o chefe beber e murmurou em perfeito tupi-guarani: - Te-Rê-Rê. Ou seja: fica frio.
 
 Nessas alturas Cabeça de Vaca que já estava engrunhido de frio e vem o desgraçado do índio dizer para ficar frio. O sangue ferveu na veia de Cabeça de Vaca, com vontade de esguelhar seu fiel escudeiro.
 
-Paraguá se esgueirou por entre os arbustos e sumiu na macega. Cabeça de vaca começou a chama-lo e de repente o cacique apareceu entres os arbustos, mas meio ressabiado. Quando Cabeça de Vaca o avistou, disse: E não se puede fazer uma brincaderita?
+Paraguá se esgueirou por entre os arbustos e sumiu na macega. Cabeça de Vaca começou a chamá-lo e de repente o cacique apareceu entre os arbustos, mas meio ressabiado. Quando Cabeça de Vaca o avistou, disse: E não se puede fazer uma brincaderita?
 
 Pé na Bunda e o Pinhão.
 
@@ -392,16 +392,16 @@ Mendoza apontou para o norte e disse: "No se puede, es mui peligroso"; ao que Ca
 
 Numa bela tarde, deu de cara com uma chalana onde um sujeito com cara de poucos amigos lhe esfregou no nariz um "catatau" assinado por El Rei da Espanha e meteu um pé na bunda de Cabeça de Vaca, mandando-o à lá cria.
 
-Para não dizer que foi um completo azarado, retornou à Espanha feito prisioneiro sob a acusação de improbidade administrativa. Ficou quinhentos e quarenta dias preso, mas depois foi descondensado e teve seu processo anulado sob a alegação que O foro competente era em Portugal, visto que os fatos se deram em terras portuguesas.
+Para não dizer que foi um completo azarado, retornou à Espanha feito prisioneiro sob a acusação de improbidade administrativa. Ficou quinhentos e quarenta dias preso, mas depois foi descondenado e teve seu processo anulado sob a alegação de que o foro competente era em Portugal, visto que os fatos se deram em terras portuguesas.
 
 Virou monge onde escreveu suas memórias, convicto de sua honestidade.
 
 Moral da história: O tal Cabeza de Vaca quase deu uma volta no mundo para parar em Asunción onde levou um pé na bunda. Um verdadeiro CABEÇA DE VACA.
 
-Quanto ao Cacique Paraguá, depois dessa experiência mal sucedida decidiu dar uma parada. Tendo retornado com Cabeza de Vaca sem o direito algum, deu um jeitinho e surrupiou o trabuco que tanto sonhara. Após isso resolveu se isolar do povo de sua tribo, subiu a serra e ao chegar nas nascentes do rio Iguaçu decidiu ficar por ali. Ali havia muitos pinheiros e um rio piscoso que o denominou de Piraquara. Por ali pescava, colhia pinhões, estaqueava couro de veado e quando seus conterrâneos, os Carijós, subiam a serra pela trilha de Itupava, trocava por sal, chumbo, pólvora e agasalho para se proteger do frio.
+Quanto ao Cacique Paraguá, depois dessa experiência mal sucedida decidiu dar uma parada. Tendo retornado com Cabeza de Vaca sem direito algum, deu um jeitinho e surrupiou o trabuco que tanto sonhara. Após isso resolveu se isolar do povo de sua tribo, subiu a serra e ao chegar nas nascentes do rio Iguaçu decidiu ficar por ali. Ali havia muitos pinheiros e um rio piscoso que o denominou de Piraquara. Por ali pescava, colhia pinhões, estaqueava couro de veado e quando seus conterrâneos, os Carijós, subiam a serra pela trilha de Itupava, trocava por sal, chumbo, pólvora e agasalho para se proteger do frio.
 
 <img src="/eita-lasqueira/media/image47.jpeg" alt="Ilustração de uma canoa em um rio cercado por mata." width="1024" height="559" style="width: 404.76px; max-width: 100%;" loading="lazy" decoding="async" />
 
-Paraguá Morreu de Velho e por óbvio, sem atestado de óbito, posto que não havia cartório de registro.
+Paraguá morreu de velho e por óbvio, sem atestado de óbito, posto que não havia cartório de registro.
 
 Recentemente, Rafael Greca, ex-prefeito de Curitiba e historiador regional, disse que a câmara de vereadores de Piraquara aprovou uma lei em homenagem ao índio Paraguá, que sem sombra de dúvidas foi o primeiro habitante da região.
