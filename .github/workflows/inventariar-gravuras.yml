@@ -1,0 +1,57 @@
+name: Inventariar gravuras Eita Lasqueira
+
+on:
+  push:
+    branches:
+      - revisao-gravuras-eita-lasqueira
+    paths:
+      - .github/workflows/inventariar-gravuras.yml
+
+permissions:
+  contents: write
+
+jobs:
+  inventario:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gerar inventário
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          out = []
+          total = 0
+          for path in sorted(Path('src/content/eita-lasqueira').glob('*.md')):
+              text = path.read_text(encoding='utf-8')
+              imgs = re.findall(r'<img\b[^>]*>', text, flags=re.I)
+              if not imgs:
+                  continue
+              out.append(f'## {path.name}')
+              for i, tag in enumerate(imgs, 1):
+                  total += 1
+                  def attr(name):
+                      m = re.search(rf'{name}="([^"]*)"', tag, flags=re.I)
+                      return m.group(1) if m else ''
+                  src = attr('src')
+                  alt = attr('alt')
+                  width = attr('width')
+                  height = attr('height')
+                  style = attr('style')
+                  sw = ''
+                  m = re.search(r'width:\s*([0-9.]+)px', style)
+                  if m:
+                      sw = m.group(1)
+                  out.append(f'{i:02d}\t{src}\talt={alt}\tattr={width}x{height}\tstyle_width={sw}')
+              out.append('')
+          out.insert(0, f'TOTAL={total}\n')
+          Path('gravuras-review.txt').write_text('\n'.join(out), encoding='utf-8')
+          PY
+      - name: Gravar inventário
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gravuras-review.txt
+          git commit -m "Inventaria gravuras para revisão" || exit 0
+          git push
