@@ -37,7 +37,7 @@ function walk(node) {
 export default function eitaLasqueiraRevisao() {
 	return (tree, file) => {
 		const path = String(file?.path ?? '').replaceAll('\\', '/');
-		if (!path.endsWith('/src/content/eita-lasqueira/00-abertura.md')) return;
+		if (!path.endsWith('src/content/eita-lasqueira/00-abertura.md')) return;
 		walk(tree);
 	};
 }
