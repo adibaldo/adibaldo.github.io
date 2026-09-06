@@ -43,6 +43,7 @@
 				</a>
 				<div class="nav-links">
 					<a href="/blog" class:active={isActive('/blog')}>Textos</a>
+					<a href="/eita-lasqueira/" class:active={isActive('/eita-lasqueira')}>Eita Lasqueira</a>
 					<a href="/locais" class:active={isActive('/locais')}>Locais</a>
 					<a href="/sobre" class:active={isActive('/sobre')}>Sobre</a>
 				</div>
@@ -219,6 +220,10 @@
 	}
 
 	@media (max-width: 620px) {
+		.nav { flex-wrap: wrap; gap: var(--space-sm); }
+		.nav-left { flex: 1 1 100%; flex-wrap: wrap; gap: var(--space-sm); }
+		.nav-links { flex-wrap: wrap; }
+		.nav-right { margin-left: auto; }
 		.brand-text {
 			display: none;
 		}

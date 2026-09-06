@@ -1,0 +1,20 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.svelte';
+import Footer from '../components/Footer.astro';
+import '../styles/eita-lasqueira.css';
+
+interface Props { title: string; description?: string; }
+const { title, description = 'EITA LASQUEIRA, de Adi Baldo. Livro por partes, em versão de revisão.' } = Astro.props;
+---
+<html lang="pt-BR">
+	<head><BaseHead title={`${title} — Adi Baldo`} description={description} /></head>
+	<body>
+		<a href="#conteudo-livro" class="skip-link">Ir ao conteúdo do livro</a>
+		<Header client:load currentPath={Astro.url.pathname} />
+		<main id="conteudo-livro" class="book-shell">
+			<slot />
+		</main>
+		<Footer />
+	</body>
+</html>

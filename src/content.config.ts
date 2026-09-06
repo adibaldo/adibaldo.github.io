@@ -30,4 +30,14 @@ const places = defineCollection({
 		}),
 });
 
-export const collections = { blog, places };
+// Livro independente: não entra no feed nem na coletânea /livro.
+const eitaLasqueira = defineCollection({
+	loader: glob({ base: './src/content/eita-lasqueira', pattern: '*.md' }),
+	schema: z.object({
+		title: z.string(),
+		order: z.number().int().min(0).max(9),
+		partLabel: z.string(),
+	}),
+});
+
+export const collections = { blog, places, eitaLasqueira };

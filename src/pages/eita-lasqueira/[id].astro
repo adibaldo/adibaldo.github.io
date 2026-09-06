@@ -1,0 +1,32 @@
+---
+import { getCollection, render } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import EitaLasqueira from '../../layouts/EitaLasqueira.astro';
+import EitaNavigation from '../../components/EitaNavigation.astro';
+export async function getStaticPaths() {
+	const parts = (await getCollection('eitaLasqueira')).sort((a, b) => a.data.order - b.data.order);
+	return parts.map((part, index) => ({ params: { id: part.id }, props: { part, previous: parts[index - 1], next: parts[index + 1] } }));
+}
+interface Props {
+	part: CollectionEntry<'eitaLasqueira'>;
+	previous?: CollectionEntry<'eitaLasqueira'>;
+	next?: CollectionEntry<'eitaLasqueira'>;
+}
+const { part, previous, next } = Astro.props;
+const { Content } = await render(part);
+---
+<EitaLasqueira title={`${part.data.title} — EITA LASQUEIRA`}>
+	<div class="book-reading">
+		<header class="book-part-header">
+			<a class="book-name" href="/eita-lasqueira/">EITA LASQUEIRA · Adi Baldo</a>
+			<p class="book-status">VERSÃO EM REVISÃO</p>
+			{part.data.partLabel.toLocaleLowerCase('pt-BR') !== part.data.title.toLocaleLowerCase('pt-BR') && <p class="book-part-label">{part.data.partLabel}</p>}
+			<h1>{part.data.title}</h1>
+		</header>
+		<EitaNavigation previous={previous} next={next} />
+		<article class="book-prose" data-pagefind-body>
+			<Content />
+		</article>
+		<EitaNavigation previous={previous} next={next} />
+	</div>
+</EitaLasqueira>

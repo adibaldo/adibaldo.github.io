@@ -1,0 +1,17 @@
+---
+import type { CollectionEntry } from 'astro:content';
+interface Props {
+	previous?: CollectionEntry<'eitaLasqueira'>;
+	next?: CollectionEntry<'eitaLasqueira'>;
+}
+const { previous, next } = Astro.props;
+---
+<nav class="book-navigation" aria-label="Navegação entre partes">
+	{previous ? <a rel="prev" href={`/eita-lasqueira/${previous.id}/`}>
+		<span>Parte anterior</span><strong>{previous.data.partLabel}</strong>
+	</a> : <span />}
+	<a class="book-summary-link" href="/eita-lasqueira/#sumario">Sumário</a>
+	{next ? <a rel="next" href={`/eita-lasqueira/${next.id}/`}>
+		<span>Próxima parte</span><strong>{next.data.partLabel}</strong>
+	</a> : <span />}
+</nav>
