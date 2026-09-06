@@ -6,7 +6,6 @@ import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
-import eitaLasqueiraRevisao from './src/lib/eitaLasqueiraRevisao.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,7 +15,6 @@ export default defineConfig({
 		prefetchAll: true,
 	},
 	markdown: {
-		remarkPlugins: [eitaLasqueiraRevisao],
 		rehypePlugins: [
 			rehypeSlug,
 			[rehypeAutolinkHeadings, {
