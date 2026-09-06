@@ -38,7 +38,7 @@ Era o dia 22 de março de 1981 e esse dia ficou gravado na minha memória. Dois 
 >
 > A solução era cruzar os ares. A TABA — Transportes Aéreos da Bacia Amazônica. Era a solução para quem queria chegar em Rondônia.
 >
-> <img src="/eita-lasqueira/media/image26.jpeg" alt="Imagem de um avião antigo com a inscrição TABA." width="1280" height="853" style="width: 504.36px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image26.jpeg" alt="Imagem de um avião antigo com a inscrição TABA." width="1280" height="853" loading="lazy" decoding="async" />
 >
 > Todos os passageiros acomodados em assentos espremidos entre malas, caixotes e bugigangas. Até gaiola com um filhote de cão de caça e outros bichos. O avião partiu às 14h30. O tempo estava bom.
 >
@@ -62,7 +62,7 @@ Era o dia 22 de março de 1981 e esse dia ficou gravado na minha memória. Dois 
 >
 > Finalmente, Cacoal. Nem parecia ser uma cidade. Chovia e tudo estava escuro, exceto a varanda de um hotel: “Hotel Decolares”. Janta, pernoite e café da manhã.
 >
-> <img src="/eita-lasqueira/media/image27.jpeg" alt="Ilustração de uma rua de terra com casas e comércios." width="1024" height="559" style="width: 440.82px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image27.jpeg" alt="Ilustração de uma rua de terra com casas e comércios." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Dia 22 de março de 1981. O bom da história é que o dinheiro acabou. Não furei o teto orçamentário, contudo, foi necessário cortar algumas despesas.
 >
@@ -102,7 +102,7 @@ Heróis Anônimos
 
 Saco nas costas, espingarda a tiracolo e foice na mão. Essa é a expressão que define o cacaieiro, o verdadeiro desbravador das matas de Rondônia. Não era só a forma de trabalhar, era o uniforme de quem ia pra mata enfrentar o desconhecido. A mata não era pra amadores. O cacaueiro entrava com o essencial para a sobrevivência e para a lida, enfrentando a mata fechada, a incerteza e a força bruta da natureza. Cada passo era uma conquista, cada roça aberta, uma vitória contra o tempo e o isolamento.
 
-<img src="/eita-lasqueira/media/image28.jpeg" alt="Ilustração de uma família diante de casas de madeira." width="512" height="279" style="width: 483.53px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image28.jpeg" alt="Ilustração de uma família diante de casas de madeira." width="512" height="279" loading="lazy" decoding="async" />
 
 Milhares de pessoas abriam clareiras na mata, alojavam suas famílias em barracos e davam início às lavouras de arroz, feijão, café e pastagens. Esses heróis anônimos se embrenhavam na floresta em grupos de até dez ou mais pessoas carregando ferramentas, utensílios de primeira necessidade: foice, facão, espingarda e cartuchos carregados. Na mochila: sal, açúcar, café e farinha para os dias na mata. Ganharam o apelido de cacaieiros, porque na verdade o que carregavam eram cacos, como panela velha, rede para dormir, sal, açúcar, café e farinha, e até cachaça da boa.
 
@@ -120,7 +120,7 @@ As coisas melhoraram, porém apenas para ganhar algum dinheiro e, no final do an
 
 > Retornei em fevereiro. Já estava decidido: não ficaria mais em Cacoal. Uma nova cidade que despontava e prometia ser uma futura metrópole. Sua base econômica era madeira. Mogno, cerejeira e outras espécies que abasteciam os grandes centros do Brasil e do exterior. Uma centena de serrarias trabalhavam noite e dia. Milhares de pessoas abriam clareiras na mata, alojando suas famílias em barracos e dando início às lavouras de arroz, feijão, café e pastagens.
 
-<img src="/eita-lasqueira/media/image29.jpeg" alt="Ilustração de uma casa rústica cercada pela vegetação." width="1024" height="559" style="width: 431.19px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image29.jpeg" alt="Ilustração de uma casa rústica cercada pela vegetação." width="1024" height="559" loading="lazy" decoding="async" />
 
 A carência era visível. Falta de infraestrutura de estradas, escolas, hospitais. Centenas morriam vitimadas pela malária e outras doenças tropicais. Um pequeno hospital que mais se parecia com um acampamento de guerra.
 
@@ -158,7 +158,7 @@ Pelos idos de 1974, pra ser exato no dia 18 de fevereiro, fincaram os pilares da
 
 .
 
-<img src="/eita-lasqueira/media/image30.jpeg" alt="Ilustração de homens trabalhando em um escritório com livros e papéis." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image30.jpeg" alt="Ilustração de homens trabalhando em um escritório com livros e papéis." width="1024" height="559" loading="lazy" decoding="async" />
 
 Gente do quilate do Dr. Fouad Darwich Zacharias e do colega Francisco Arquelau de Paula — o dono da carteira número 01, veja só! botou o peito na frente, empunhou a bandeira e foi organizar a classe lá em Porto Velho.
 
@@ -202,7 +202,7 @@ O Réu temendo pela sua própria vida, utilizando-se do único instrumento que p
 
 Onde estaria o elemento culposo que justificasse a condenação? Talvez excesso de pólvora. Culpa da vítima, que não se ateve ao risco de ter sua trajetória interrompida por um cipó que adrede se encontrava na picada. Ou teria o réu agido motivado pelo medo? - Pior que um erro a ser corrigido por eventual recurso, seria o trabalho inútil de um novo júri.
 
-Conclusão: o corpo de jurados não condenou, nem absolveu. <img src="/eita-lasqueira/media/image31.jpeg" alt="Ilustração de uma reunião em uma sala com mesa central." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+Conclusão: o corpo de jurados não condenou, nem absolveu. <img class="illustration-full" src="/eita-lasqueira/media/image31.jpeg" alt="Ilustração de uma reunião em uma sala com mesa central." width="1024" height="559" loading="lazy" decoding="async" />
 
 Primeiro júri da Comarca da cidade de Rolim de Moura. Ao centro, o juiz Sérgio Nogueira de Lima e esposa. À esquerda, o promotor Jaime Ferreira e esposa ao centro em pé, o advogado de defesa Adi Baldo e esposa. Outros: serventuários da justiça. Rubens, Sergio, Manoel, Ieda e Zezinho além do escrivão Sergio Luz Bravo.
 
@@ -274,7 +274,7 @@ Na sede do município Cacoal, já labutavam creio que outros oito causídicos: R
 
 Odacir, todo poderoso, para garantir a vitória do seu candidato usou das benesses do cargo de senador ainda não empossado e prometeu um avião ida e volta até Cacoal, para transportar o eleitorado da longínqua comuna. Os causídicos da "Zona da Mata", assim definida a região pelos portovelheses, pretensos cosmopolitas.
 
-<img src="/eita-lasqueira/media/image32.jpeg" alt="Ilustração de um avião em uma pista de terra, junto à mata." width="1024" height="559" style="width: 566.93px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-full" src="/eita-lasqueira/media/image32.jpeg" alt="Ilustração de um avião em uma pista de terra, junto à mata." width="1024" height="559" loading="lazy" decoding="async" />
 
 De acordo como combinado, todos votariam em Moreira Mendes, até mesmo porque não se tinha notícia de outro candidato.
 

@@ -10,7 +10,7 @@ A minha história poderá existir a partir de uma crônica escrita por mim mesmo
 
 Segundo consta, e há registro, nasci em oito de fevereiro de 1950. Houve questionamento no sentido de ter sido no dia sete. Se chovia ou fazia sol, não sabemos. O local? Uma colina conhecida por “Coxilha Seca”. Dela, ainda lembro, aliás voltei ao local quarenta anos após. Foi possível reconhecer alguma coisa. Restava de concreto uma cerca de pedras construída por papai. Foi o que restou do esforço e do sonho de construir uma morada.
 
-<img src="/eita-lasqueira/media/image55.jpeg" alt="Ilustração de uma trilha estreita entre árvores e vegetação." width="1024" height="559" style="width: 380.54px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image55.jpeg" alt="Ilustração de uma trilha estreita entre árvores e vegetação." width="1024" height="559" loading="lazy" decoding="async" />
 
 A água era escassa. Não demorou e o sonho de uma vida melhor levou papai para terras distantes e com ele nós. O Paraná era a esperança.
 
@@ -20,7 +20,7 @@ Continuou a vida da roça aliada ao comércio de secos e molhados. Uma bodega. T
 
 1957, as notícias de conflitos de terra na região eram alarmantes. Os jagunços abusavam dos colonos que ocupavam terras devolutas. Havia interesses escusos por parte do governo do Estado. A região era de pouca importância para o Governo Federal, empenhado que estava na construção de uma nova capital. Interessava apenas o pinho, que só Deus sabe quantos milhões de metros cúbicos foram transportados para Brasília e para São Paulo que crescia vertiginosamente.
 
-<img src="/eita-lasqueira/media/image16.jpeg" alt="Ilustração de uma estrada de terra entre pinheiros." width="1024" height="559" style="width: 425.55px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image16.jpeg" alt="Ilustração de uma estrada de terra entre pinheiros." width="1024" height="559" loading="lazy" decoding="async" />
 
 1959\. Chegaram notícias do povoado. A guerra ia começar novamente. Cuba virou comunista. A notícia não tinha relevância. – Mais relevante era ouvir o padre dizer que Jesus tinha nascido na Palestina. – Conhecimento necessário para a primeira comunhão.
 
@@ -166,7 +166,7 @@ A PRIMEIRA CARRETEADA.
 >
 > Firma o pulso, espanta o medo.
 >
-> <img src="/eita-lasqueira/media/image56.jpeg" alt="Ilustração de uma família viajando em uma carroça carregada." width="1024" height="559" style="width: 364.26px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-large" src="/eita-lasqueira/media/image56.jpeg" alt="Ilustração de uma família viajando em uma carroça carregada." width="1024" height="559" loading="lazy" decoding="async" />
 >
 > Por causa dela já me desviei do causo.
 >
@@ -222,7 +222,7 @@ A PRIMEIRA CARRETEADA.
 >
 > Não sei, talvez outra em janeiro
 >
-> <img src="/eita-lasqueira/media/image57.jpeg" alt="Ilustração de uma carroça carregada em um caminho acidentado." width="1024" height="559" style="width: 493.00px; max-width: 100%;" loading="lazy" decoding="async" />
+> <img class="illustration-full" src="/eita-lasqueira/media/image57.jpeg" alt="Ilustração de uma carroça carregada em um caminho acidentado." width="1024" height="559" loading="lazy" decoding="async" />
 
 PINCELADAS DE HISTÓRIA
 
@@ -260,7 +260,7 @@ De outro Norte, centenas de páginas e reportagens esparsas discorrem sobre o de
 
 Milhares de pessoas que palmilharam esse chão em busca de um futuro melhor ainda vivem e nunca tiveram registrados seus feitos.
 
-<img src="/eita-lasqueira/media/image58.jpeg" alt="Fotografia de um caminhão antigo em uma estrada de terra." width="260" height="194" style="width: 260.00px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-small" src="/eita-lasqueira/media/image58.jpeg" alt="Fotografia de um caminhão antigo em uma estrada de terra." width="260" height="194" loading="lazy" decoding="async" />
 
 Está aí um campo aberto para as novas gerações de acadêmicos esmiuçarem esse período da história, para que não fique como folhas secas ao vento.
 
@@ -404,7 +404,7 @@ Por vales e campinas,
 >
 > Apenas mede, pesa e põe preço.
 
-<img src="/eita-lasqueira/media/image59.jpeg" alt="Ilustração de uma cobra sobre um galho na mata." width="1024" height="559" style="width: 450.82px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-large" src="/eita-lasqueira/media/image59.jpeg" alt="Ilustração de uma cobra sobre um galho na mata." width="1024" height="559" loading="lazy" decoding="async" />
 
 Tempos de Antanho e de Agora.
 

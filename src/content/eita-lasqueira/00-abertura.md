@@ -184,7 +184,7 @@ Todos, do último ao primeiro.
 
 Aqui digo: Sou deveras grato!
 
-<img src="/eita-lasqueira/media/image2.jpeg" alt="Ilustração de um homem ajoelhado em oração." width="1024" height="559" style="width: 282.42px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-medium" src="/eita-lasqueira/media/image2.jpeg" alt="Ilustração de um homem ajoelhado em oração." width="1024" height="559" loading="lazy" decoding="async" />
 
 “Agradeço a meu Deus toda vez que me lembro de vocês” Filipenses. (1.3)
 
@@ -208,7 +208,7 @@ Desta feita, agradeço aos profissionais da saúde, aos familiares, aos velhos a
 
 Sou muito grato ao cirurgião Dr. José Augusto Moutinho, de Curitiba pelo seu profissionalismo, competência e simplicidade o qual me encaminhou ao Hospital Angelina Caron onde realizou a cirurgia. Creio que não considerará ofensivo incluí-lo no meu seleto grupo de amigos.
 
-<img src="/eita-lasqueira/media/image3.jpeg" alt="Fotografia de um médico sentado, usando jaleco e estetoscópio." width="204" height="192" style="width: 204.00px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-small" src="/eita-lasqueira/media/image3.jpeg" alt="Fotografia de um médico sentado, usando jaleco e estetoscópio." width="204" height="192" loading="lazy" decoding="async" />
 
 Passado algum tempo dissera-me que ainda não estava tudo cem por cento. A válvula funcionava, porem com disfunção grave. A recomendação foi a instalação de um Marcapasso, CDI tricúspide. Afora os atropelos, a ponto de internação na UTI, tudo pareceu ser fácil visto que estava em hospital público, em Porto Velho onde o problema seria resolvido. De fato, foi, porém permanecendo em uma fila de espera, até que o Estado providenciasse a aquisição do aparelho,
 
@@ -216,7 +216,7 @@ Médico foi o Dr. Marcos Rosa e ao que me consta é profissional altamente quali
 
 Estar internado por tanto tempo é desgastante em que pese o profissionalismo e atenção da equipe técnica, médicos, enfermeiras auxiliar de enfermagem e zeladoras. Tudo foi menos traumático, graças o acompanhamento constante, da minha esposa Valdete.
 
-<img src="/eita-lasqueira/media/image4.jpeg" alt="Retrato de uma mulher com traje de formatura." width="96" height="96" style="width: 96.00px; max-width: 100%;" loading="lazy" decoding="async" />
+<img class="illustration-small" src="/eita-lasqueira/media/image4.jpeg" alt="Retrato de uma mulher com traje de formatura." width="96" height="96" loading="lazy" decoding="async" />
 
 O hospital exige acompanhamento, porém não oferece qualquer conforto ao acompanhante. Foi necessário improvisar. Um colchão estendido no chão e camuflado durante o dia. Era mais ou menos assim, não pode, mas faz de conta que eu não vi. Essa parte pode-se dizer que é desumano. Ali fiz amizade com muitos. Uns partiram para o Oriente Eterno e outros que retornaram felizes para seus lares.
 
