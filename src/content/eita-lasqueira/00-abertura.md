@@ -6,17 +6,17 @@ order: 0
 
 ## INTROITO OU PROLEGÔMENOS
 
-A com estes alfarrábios me proponho colocar à disposição dos incautos leitores algumas “coisas” que fui digitando ao longo da vida. Melhor dizendo, a partir do momento em que me senti inútil para a sociedade. Além de lavar pratos e eventualmente, pilotar um fogão, pouca coisa sobrou para este vivente.
+Com estes alfarrábios me proponho a colocar à disposição dos incautos leitores algumas “coisas” que fui digitando ao longo da vida. Melhor dizendo, a partir do momento em que me senti inútil para a sociedade. Além de lavar pratos e, eventualmente, pilotar um fogão, pouca coisa sobrou para este vivente, a não ser reuniões de confraria para alguma reflexão, já que não há mais estratégias nem planos para o futuro. Está tudo consumado. Não pretendo realizar mais nada.
 
-Reuniões de confraria para alguma reflexão, já que não há mais estratégias ou planos para o futuro. Está tudo consumado. Não pretendo realizar mais nada.
+Diz o velho ditado que o homem deve, na vida, plantar uma árvore, ter filhos e escrever um livro. Rabugices à parte, a família sempre foi o mote de viver, desde o ano de 1950, quando comecei a tomar ciência da realidade da vida. Folguedos, disciplina, trabalho e amigos. Aos 75 anos, vejo que, de tudo isso, ainda restam alguns amigos. Amizades são decorrentes do trabalho. Quem nada faz não merece ter amigos. Assim, com eles convivo, na certeza de ter feito o que deveria ser feito. E valeu o esforço.
 
-Diz o velho ditado que o homem deve na vida plantar uma árvore, ter filhos e escrever um livro. Rabugices à parte, família sempre foi o mote de viver. Desde o ano de 1950, quando comecei a tomar ciência da realidade de vida. Folguedos, disciplina, trabalho e amigos. Aos 75 anos vejo que dessas três coisas, ainda restam alguns amigos. Amizades são decorrentes do trabalho. Quem nada faz não merece ter amigos. Assim, com eles convivo, na certeza de ter feito o que deveria ser feito. E valeu o esforço. Saindo do fundo da grota, aos trancos e barrancos fui daqui e ali e aportei em Rondônia. Aqui constituí família e fiz amigos. Aqui participei da construção de um Estado e cidades. A densa floresta transformou-se em terra de riquezas e bom ambiente para viver.
+Saindo do fundo da grota, aos trancos e barrancos fui daqui e ali e aportei em Rondônia. Aqui constituí família e fiz amigos. Aqui participei da construção de um Estado e de cidades. A densa floresta transformou-se em terra de riquezas e bom ambiente para viver.
 
 Sobre tudo isso digo alguma coisa. Não se trata de uma biografia, mas de temas esparsos que acabam por revelar momentos do passado.
 
-De início denominei esta obra de Passa Tempo, mas depois percebendo que se trata de uma mistureba, denominei EITA LASQUEIRA. Usa-se essa expressão quando acontece alguma coisa inesperada, que causa espanto e é hilária.
+De início denominei esta obra de Passa Tempo, mas depois, percebendo que se trata de uma mistureba, denominei-a EITA LASQUEIRA. Usa-se essa expressão quando acontece alguma coisa inesperada, que causa espanto e é hilária.
 
-Assim está prefaciado ou queriam que eu falasse de coisas que possa comprometer meu passado?
+Assim está prefaciado — ou queriam que eu falasse de coisas que possam comprometer meu passado?
 
 ## PUBLICO OU NÃO PUBLICO
 
