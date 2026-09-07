@@ -18,37 +18,53 @@ De início denominei esta obra de Passa Tempo, mas depois, percebendo que se tra
 
 Assim está prefaciado — ou queriam que eu falasse de coisas que possam comprometer meu passado?
 
-## PUBLICO OU NÃO PUBLICO
+## PUBLICO OU NÃO PUBLICO?
 
-Vivo a escrevinhar coisas. Um montão, que até dá para publicar um livro. A
+Vivo a escrevinhar coisas. Um montão, que até dá para publicar um livro. A questão é: publicar pra quê? Seria uma temeridade fazer uma publicação na esperança de que alguém venha ler ou comprar.
 
-questão é publicar pra que? - Seria uma temeridade fazer uma publicação na esperança de que alguém venha ler ou comprar.
+Bancar os custos e fazer distribuição gratuita seria uma boa opção. Presentear os amigos e vê-los recebendo-o com ares de paisagem:
 
-Bancar os custos e fazer distribuição gratuita seria uma boa opção. Presentear os amigos e vê-los recebendo-o com ares de paisagem. – Você que escreveu? - Sim eu mesmo. – Interessante. E, vai o livro para a estante.
+— Você que escreveu?  
+— Sim, eu mesmo.  
+— Interessante.
 
-Há uma pesquisa que diz que o brasileiro lê cerca de quatro livros por ano, enquanto o canadense lê cerca de 12. Acredito que esses dados não são do IBGE. Até mesmo porque no último censo ninguém me perguntou sobre isso.
+E vai o livro para a estante.
 
-Mas eu tenho um sonho. “I Have a Dream”.
+Li certa vez uma pesquisa segundo a qual o brasileiro lê cerca de quatro livros por ano, enquanto o canadense lê cerca de doze. Acredito que esses dados não sejam do IBGE. Até porque, no último censo, ninguém me perguntou sobre isso.
 
-A dúvida “Shakespeareana” permanece insolúvel. Desta feita, tudo é uma questão de coragem. “Alea jacta est”. O bom de tudo isso é que existem editoras que se propõe a publicar, assumindo os encargos de organização como: Folha de Rosto, competindo ao autor evidentemente o prefácio a dedicatória, agradecimentos, e os elementos textuais, restando combinar a Capa e o preço.
+Mas eu tenho um sonho. *I Have a Dream.*
 
-É questão de coragem ou de atrevimento. Para decidir sobre a tiragem consultei Osvaldo Montenegro e, fiz a lista de amigos de dez anos atrás. Lamento, mas a editora não fará uma grande tiragem.
+A dúvida shakespeariana permanece insolúvel. Desta feita, tudo é uma questão de coragem. *Alea iacta est.* O bom de tudo isso é que existem editoras que se propõem a publicar, assumindo os encargos de organização, como folha de rosto e outros detalhes editoriais, competindo ao autor, evidentemente, o prefácio, a dedicatória, os agradecimentos e os elementos textuais. Resta combinar a capa e o preço.
 
-Caso o amigo e bom camarada leitor, tenha lido esta parte, recomendo ler tudo o que mais consta dos autos e assim poder fazer um arrazoado e tecer comentários e dar aquele LAIKE que nos enche de satisfação.
+É questão de coragem ou de atrevimento. Para decidir sobre a tiragem, consultei Oswaldo Montenegro e fiz a lista dos amigos de dez anos atrás. Lamento, mas a editora não fará uma grande tiragem.
 
-Agora se uns míseros cruzeiros lhe fazem falta a ponto de regatear o preço ou simplesmente achar que é caro, lamento, mas o leitor terá que mudar de emprego, abrir um quiosque na praça e vender cachorro quente.
+Caso o amigo e bom camarada leitor tenha chegado até aqui, recomendo ler tudo o mais que consta dos autos e, assim, poder fazer um arrazoado, tecer comentários e dar aquele LAIKE, o que nos enche de satisfação.
 
-##  DEDICATÓRIA.
+Agora, se uns míseros cruzeiros lhe fazem falta a ponto de regatear o preço ou simplesmente achar que é caro, lamento, mas o leitor terá que mudar de emprego, abrir um quiosque na praça e vender cachorro-quente.
 
-Dedico a quem escreveu, portanto mim mesmo. Outra pessoa não merece tamanha desfaçatez. Não que a presente seja um impropério, porém ninguém mais que eu dispensaria horas e horas rabiscando, apagando e reescrevendo até que ficasse do meu gosto. Outros poderão gostar, coisa que duvido.
+## DEDICATÓRIA
 
-Prefiro não correr o risco de dedicar o presente cartapácio a alguém e depois saber que sequer leu. Já não se faz mais leitores como antigamente. Leitor voraz daqueles que começavam logo após o jantar e só largavam na madrugada. Também pudera, as mensagens de whatsapp ou de outras mídias são muito mais interessantes. “oi amigo, não visualizei porque estava lendo um livro...kkk”. É ruim!?
+Dedico a quem escreveu, portanto, a mim mesmo. Outra pessoa não merece tamanha desfaçatez. Não que a presente seja um impropério, porém ninguém mais do que eu dispensaria horas e horas rabiscando, apagando e reescrevendo até que ficasse do meu gosto. Outros poderão gostar, coisa que duvido.
 
-Só por isso não me atrevo fazer uma dedicação.
+Prefiro não correr o risco de dedicar o presente cartapácio a alguém e depois saber que sequer o leu. Já não se fazem leitores como antigamente. Leitores vorazes, daqueles que começavam logo após o jantar e só largavam o livro na madrugada.
 
-Caso leiam, dediquem seu tempo a este que, além do tempo, perdeu dinheiro. “Time is Money” - Não perdi meu tempo, talvez algum dinheiro. Quem faz de graça? Revisão diagramação e impressão? Talvez a IA.
+Também pudera. As mensagens de WhatsApp e de outras mídias são muito mais interessantes:
 
-Quando eu partir, não lhes deixarei dinheiro, apenas estes rabiscos. Então dirão: Tão gente fina que era. Que Deus o tenha. Haja paciência. Cá comigo, eu mereço. Antes que eu esqueça. Vão se lascar!
+— Oi, amigo. Não visualizei porque estava lendo um livro... kkk.
+
+É ruim!?
+
+Só por isso não me atrevo a fazer uma dedicação.
+
+Caso leiam, dediquem seu tempo a este que, além do tempo, perdeu dinheiro. *Time is money.* Não perdi meu tempo; talvez algum dinheiro. Quem faz de graça revisão, diagramação e impressão? Talvez a IA.
+
+Quando eu partir, não lhes deixarei dinheiro, apenas estes rabiscos. Então dirão:
+
+— Tão gente fina que era. Que Deus o tenha.
+
+Haja paciência. Cá comigo, eu mereço.
+
+Antes que eu esqueça: vão se lascar!
 
 ## APRESENTAÇÃO
 
