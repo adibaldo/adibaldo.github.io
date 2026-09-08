@@ -4,29 +4,33 @@ partLabel: "PRIMEIRA PARTE"
 order: 1
 ---
 
-Aprendemos que a história é registrada a partir da descoberta da escrita e que os hieróglifos egípcios foram interpretados por Champollion em 1822.
+## Noé e o Dilúvio
 
-Segundo a arqueologia, tais escritos remontam a cinco mil anos. Coisa que duvido. A história ocidental é contada a partir dos livros bíblicos, com muitas narrativas e lendas. É o caso do Dilúvio.
+Aprendemos que a História passou a ser registrada a partir da descoberta da escrita e que os hieróglifos egípcios foram decifrados por Champollion em 1822.
 
-A ciência comprova que em um dado momento houve uma grande inundação. Já os relatos sobre Noé e Gilgamesh podem ser classificados como lendas, até mesmo porque é inimaginável que alguém tenha construído um barco de madeira de dimensões de um Titanic, capaz de abrigar todas as espécies de animais.
+Segundo a arqueologia, tais escritos remontam a cerca de cinco mil anos. Coisa que duvido. A história ocidental é contada a partir de antigos registros, entre eles os livros bíblicos, recheados de narrativas e lendas. É o caso do Dilúvio.
 
-Mesmo assim, necessário seria um grande conhecimento de engenharia. Lembrando que, para a comemoração dos quinhentos anos do descobrimento do Brasil, a engenharia náutica brasileira não foi capaz de reproduzir uma simples caravela utilizada pelos portugueses nos idos de mil e quinhentos. Nosso marco zero.
+Há evidências de que, em tempos remotos, grandes inundações atingiram diferentes regiões. Já os relatos sobre Noé e Gilgamesh podem ser classificados como lendas, até porque é inimaginável que alguém tenha construído um barco de madeira de dimensões comparáveis às de um Titanic, capaz de abrigar todas as espécies de animais.
 
-Tudo bem. Noé, após adquirir milhares de metros cúbicos de madeiras de boa qualidade e não ter pago a ninguém, construiu a fabulosa arca e quando chegaram as águas, flutuou e ficou à deriva até encalhar no Monte Ararat.
+Mesmo assim, seria necessário um extraordinário conhecimento de engenharia. Basta lembrar que, para a comemoração dos quinhentos anos do descobrimento do Brasil, a engenharia náutica brasileira não foi capaz de reproduzir satisfatoriamente uma simples caravela semelhante às utilizadas pelos portugueses nos idos de mil e quinhentos; nosso marco zero.
 
-Só para lembrar, o referido monte tem mais de cinco mil metros. Se bem que pode ter sido na base. "E a arca repousou, no sétimo mês, no dia dezessete do mês, sobre os montes de Ararate." (Gn. 6.22).
+Tudo bem. Noé, depois de adquirir milhares de metros cúbicos de madeira de boa qualidade e não pagar a ninguém, construiu a fabulosa arca. Quando vieram as águas, a embarcação flutuou e ficou à deriva até encalhar nos montes de Ararate.
 
-Essa data deveria ser considerada feriado mundial. Sétimo mês deve ser setembro, no entanto no nosso calendário é o nono. Incrível nisso tudo é o dia. Só faltou a hora. Faltavam só três dias para o início da primavera. Pouco importa, porque no topo do monte é geleira o ano todo. Noé entrou numa fria. Desceu o morro batendo queixo.
+Só para lembrar: o monte Ararat tem mais de cinco mil metros de altitude. Se bem que a arca pode ter parado mais embaixo. A Bíblia registra: “E a arca repousou, no sétimo mês, no dia dezessete do mês, sobre os montes de Ararate.” (Gn 8,4).
 
-Ninguém ainda encontrou a dita arca ou dela teve notícias. Se bem que tem uns arqueólogos afirmando que a encontraram. Tem até vestígios de cocô de grilo.
+Essa data deveria ser considerada feriado mundial. Impressionante é a precisão: sétimo mês, dia dezessete. Só faltou a hora. Quanto à estação do ano, melhor nem discutir, porque aquele calendário não era o nosso. De qualquer maneira, lá nas alturas fazia um frio dos diabos; Noé entrou numa fria e desceu o morro batendo queixo.
+
+Ninguém ainda encontrou a dita arca de maneira que encerrasse a discussão. Se bem que, de vez em quando, aparecem arqueólogos afirmando que localizaram algum vestígio. Daqui a pouco encontram até cocô de grilo.
 
 <img class="illustration-full" src="/eita-lasqueira/media/image5.jpeg" alt="Ilustração de uma arca de madeira, pessoas e animais." width="1024" height="559" loading="lazy" decoding="async" />
 
-Como se sabe, os bichos se salvaram, bem como a tripulação. Abertas as comportas, todos saíram na mais perfeita ordem, desceram o morro e pouco a pouco repovoaram a terra.
+Como se sabe, os bichos se salvaram, bem como a tripulação. Abertas as comportas, todos saíram na mais perfeita ordem, desceram o morro e, pouco a pouco, repovoaram a Terra.
 
-No Brasil, D. João VI e a cambada que o acompanhava, quando veio de Portugal se borrando de medo de Napoleão Bonaparte, se acampou na beira da praia e o povo teve que subir o morro. Foi o marco zero das favelas.
+Muito tempo depois, no Brasil, D. João VI e a cambada que o acompanhava, fugindo de Portugal com medo de Napoleão Bonaparte, instalaram-se no Rio de Janeiro. Com tanta gente chegando e ocupando os melhores espaços, o povo foi sendo empurrado morro acima.
 
-Rio de Janeiro em 1808. Chegada de D. João VI.
+Foi o marco zero das favelas.
+
+Rio de Janeiro, 1808. Chegada de D. João VI.
 
 ## Adão e o Paraíso.
 
