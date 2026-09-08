@@ -46,13 +46,15 @@ Passada a quarentena do Dilúvio, os descendentes de Noé se espalharam pela reg
 
 Consta que também colhiam uvas e delas fizeram um bom vinho. Noé tomou o maior pileque, a ponto de perder os panos de bunda; foi o marco zero da gandaia.
 
-##  Camelos e os transportes
+## Camelos, transportes e pesca esportiva
 
-Começaram a domesticar animais, só que sobrou mesmo pro coitado do camelo. Indivíduo desajeitado e resistente. Alguém teve a ideia de colocar algumas coisas na sua cacunda. Foi o marco zero dos transportes.
+Com o tempo, os descendentes de Noé começaram a domesticar animais, e sobrou mesmo pro coitado do camelo. Um sujeito desajeitado, mas resistente. Alguém teve a ideia de colocar algumas coisas na sua cacunda e percebeu que o bicho aguentava o tranco; foi o marco zero dos transportes.
 
-Tinham vadios sem vergonha que não queriam nada com nada e ficaram acampados na beira dos rios, ou na praia matando peixe a pau.
+Enquanto uns se ocupavam carregando mercadorias pra lá e pra cá, tinha também uns vadios sem-vergonha que não queriam nada com nada e ficavam acampados na beira dos rios ou na praia, matando peixe a pau.
 
-Aconteceu que os peixes ficaram mais ariscos, aí os caras tiveram que se virar. Um dia o mais vadio de todos fez uma fina trança com os fios do rabo do jumento, amarrou num gancho qualquer e jogou na água. Não há de ver que pegou um peixe. Foi o marco zero da pesca esportiva. Pensa numa diversão interessante. O tadinho do peixe que está lá no fundo, se esquivando de seus predadores naturais, de repente abocanha um troço que parecia inofensivo e babau. Na verdade, uma verdadeira sacanagem. Coisa de gente desocupada.
+Aconteceu que os peixes ficaram mais ariscos e aí os caras tiveram que se virar. Um dia, o mais vadio de todos fez uma fina trança com os fios do rabo de um jumento, amarrou num gancho qualquer e jogou na água. Não há de ver que pegou um peixe; foi o marco zero da pesca esportiva.
+
+Pensa numa diversão interessante. O tadinho do peixe está lá no fundo, se esquivando dos seus predadores naturais, quando, de repente, abocanha um troço que parecia inofensivo e babau. Na verdade, uma verdadeira sacanagem; coisa de gente desocupada.
 
 ## A roda.
 
