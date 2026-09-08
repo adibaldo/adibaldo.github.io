@@ -50,6 +50,8 @@ Consta que também colhiam uvas e delas fizeram um bom vinho. Noé tomou o maior
 
 Com o tempo, os descendentes de Noé começaram a domesticar animais, e sobrou mesmo pro coitado do camelo. Um sujeito desajeitado, mas resistente. Alguém teve a ideia de colocar algumas coisas na sua cacunda e percebeu que o bicho aguentava o tranco; foi o marco zero dos transportes.
 
+Os transportes foram evoluindo, do lombo do camelo à carroça, da carroça ao automóvel, até que Santos-Dumont resolveu levar a coisa mais alto e colocou o homem para voar. Aí o transporte saiu do chão. O leitor pode meditar sobre essa evolução: da cacunda do camelo ao avião.
+
 Enquanto uns se ocupavam carregando mercadorias pra lá e pra cá, tinha também uns vadios sem-vergonha que não queriam nada com nada e ficavam acampados na beira dos rios ou na praia, matando peixe a pau.
 
 Aconteceu que os peixes ficaram mais ariscos e aí os caras tiveram que se virar. Um dia, o mais vadio de todos fez uma fina trança com os fios do rabo de um jumento, amarrou num gancho qualquer e jogou na água. Não há de ver que pegou um peixe; foi o marco zero da pesca esportiva.
