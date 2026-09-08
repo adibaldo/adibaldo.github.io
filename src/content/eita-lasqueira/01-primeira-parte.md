@@ -32,17 +32,19 @@ Foi o marco zero das favelas.
 
 Rio de Janeiro, 1808. Chegada de D. João VI.
 
-## Adão e o Paraíso.
+## Adão e o Paraíso
 
 Antes disso, porém, e bem antes, Adão teve que sair às pressas do paraíso, tudo por causa de uma serpente encrenqueira. Foi o fim da moleza e o marco zero da luta pela sobrevivência.
 
-Dizem que o paraíso se localizava entre dois rios. Particularmente acredito que o paraíso era à beira-mar, uma praia paradisíaca, onde havia muitas lagostas e logo na encosta um pomar maravilhoso. Somente quando foram expulsos daquele paraíso é que se deram conta que estavam com a bunda ao relento. Ficaram sem eira e nem beira. Literalmente tiveram que ir pra roça.
+Dizem que o paraíso ficava por aquelas bandas, entre rios. Particularmente, acredito que era à beira-mar, numa praia paradisíaca, onde havia muitas lagostas e, logo na encosta, um pomar maravilhoso. Somente quando foram expulsos daquele paraíso é que se deram conta de que estavam com a bunda ao relento. Ficaram sem eira nem beira e, literalmente, tiveram que ir pra roça.
 
-Sabe-se que seus filhos eram agropecuaristas. Um dia as vaquinhas de um invadiram a lavoura do outro e o pau comeu.
+Sabe-se que seus filhos eram agropecuaristas: um cuidava da lavoura e o outro do gado. Um dia as vaquinhas de um devem ter invadido a lavoura do outro e o pau comeu.
 
-Em razão do assassinato, Caim teve que se mandar e se bandeou para a banda oriental e ficou campeirando de estância a estância, feito "cusco" sem dono. Teve muitos filhos, e, segundo dizem, Noé era seu descendente. Somos todos da mesma patota, inclusive os iranianos que vivem perturbando as ideias dos israelitas.
+Em razão do assassinato, Caim teve que se mandar. Bandeou-se para a banda oriental e ficou campeirando de estância em estância, feito “cusco” sem dono. Teve muitos descendentes. Noé, porém, segundo a narrativa bíblica, veio da linhagem de Sete, outro filho de Adão. De um jeito ou de outro, somos todos da mesma patota, inclusive a parentada do Oriente Médio, que vive se estranhando desde aqueles tempos.
 
-Passada a quarentena do dilúvio, os descendentes de Noé se espalharam pela região, começaram a fazer rabiscos nas pedras e, como já estava no sangue, se atracaram a plantar e criar animais, principalmente bodes, bovinos, jumentos e dromedários. Consta que colhiam uvas e delas fizeram um bom vinho e Noé tomou o maior pileque a ponto de perder os panos de bunda. Foi o marco zero da gandaia.
+Passada a quarentena do Dilúvio, os descendentes de Noé se espalharam pela região, começaram a fazer rabiscos nas pedras e, como já estava no sangue, se atracaram a plantar e criar animais, principalmente bodes, bovinos, jumentos e dromedários.
+
+Consta que também colhiam uvas e delas fizeram um bom vinho. Noé tomou o maior pileque, a ponto de perder os panos de bunda; foi o marco zero da gandaia.
 
 ##  Camelos e os transportes
 
