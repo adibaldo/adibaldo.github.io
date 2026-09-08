@@ -72,17 +72,21 @@ O nome original era "MÓ". Muito tempo depois, os economistas, ou seja, aqueles 
 
 Para evitar confusão, a verdadeira MÓ passou a se chamar roda, ou aquilo que além de redondo gira. Com o tempo todo o mundo começou a fabricar rodas. Tinha roda de todo o tipo. De pau, de pedra de ferro. O que valia mesmo era a de ouro.
 
-## Torre de Babel.
+## Torre de Babel
 
-Nesse meio apareceu um bando de ignorantes que resolveu construir uma torre cujo topo fosse além das nuvens e alcançasse o céu. Foi o início do globalismo.
+Nesse meio apareceu um bando de ignorantes que resolveu construir uma torre cujo topo fosse além das nuvens e alcançasse o céu. Foi o início do globalismo — pelo menos nesta nossa rigorosíssima pesquisa.
 
-Quando a torre estava lá nas alturas houve um desentendimento geral. Alguns foram para a direita, outros na esquerda e outros ficaram no centro. Os do centro gritavam: "Daqui não saio e daqui ninguém me tira". E os demais se espalharam pelo mundo afora e aqui e acolá aprontavam confusões na busca de direitos e igualdade social.
+Quando a torre já estava lá nas alturas, houve um desentendimento geral. Alguns foram para a direita, outros à esquerda e outros ficaram no centro. Os do centro gritavam: “Daqui não saio e daqui ninguém me tira.” Os demais se espalharam mundo afora e, aqui e acolá, aprontavam confusões na busca de direitos e igualdade social.
 
-Nesse ínterim alguém quis saber qual a verdadeira finalidade da torre. O chefe não soube explicar direito e teria dito que era para se comunicar com os que estavam acima das nuvens. O povo que não era besta não aceitou a explicação, até mesmo porque não havia comprovação científica. Virou num angu de caroço. Ninguém mais sabia quem era quem, e as obras foram paralisadas. Foi o marco zero das obras inacabadas.
+Nesse ínterim, alguém quis saber qual era a verdadeira finalidade da torre. O chefe não soube explicar direito e teria dito que era para se comunicar com os que estavam acima das nuvens. O povo, que não era besta, não aceitou a explicação, até mesmo porque não havia comprovação científica. Virou um angu de caroço. Ninguém mais sabia quem era quem, e as obras foram paralisadas; foi o marco zero das obras inacabadas.
 
-Somente no século XXI apareceu um doido que resolveu concluir algumas obras abandonadas, como por exemplo a canalização do Rio São Francisco. Mesmo assim teve quem reclamasse dizendo que tinha que esperar pela volta de quem começou, abandonou e estava preso. E não é de ver que voltou, mas daí é outra história.
+**[Ilustração: Torre de Babel em construção, trabalhadores discutindo e abandonando a obra]**
 
-Voltando à vaca fria ou melhor dizendo, à torre inacabada. Evidentemente que com o tempo e péssima qualidade dos materiais tudo se deteriorou e ruiu.
+Séculos e séculos depois, já no Brasil, obras que pareciam não terminar nunca continuavam atravessando governos. A transposição do Rio São Francisco foi uma delas. Cada um fazia um pedaço, aparecia para a fotografia e deixava o restante para o próximo. Obra pública tem dessas coisas: começa num governo, passa por outro e, quando termina, aparece uma multidão querendo cortar a fita.
+
+Voltando à vaca fria — ou melhor, à torre inacabada —, com o passar do tempo e a péssima qualidade dos materiais, tudo se deteriorou e ruiu.
+
+Se bem que, tratando-se da Torre de Babel, até hoje tem gente falando sem ninguém entender direito.
 
 ## O chifre de Bode
 
